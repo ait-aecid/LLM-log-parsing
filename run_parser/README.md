@@ -1,0 +1,1 @@
+The scripts in this folder contain the functions to run each parser. Part of the code was either extracted and adapted from the parsers' original code, or we call the parsers in the command line with os.system() as described in their README files.

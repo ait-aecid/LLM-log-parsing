@@ -1,0 +1,16 @@
+{"query": "ambient=31", "answer": "ambient={variables}"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "ambient=27", "answer": "ambient={variables}"}
+{"query": "running", "answer": "running"}
+{"query": "running", "answer": "running"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "inconsistent nodesets node-31 0x1fffffffe <ok> node-0 0xfffffffe <ok> node-1 0xfffffffe <ok> node-2 0xfffffffe <ok> node-30 0xfffffffe <ok>", "answer": "inconsistent nodesets {variables} {variables} <ok> {variables} {variables} <ok> {variables} {variables} <ok> {variables} {variables} {variables}"}
+{"query": "ambient=29", "answer": "ambient={variables}"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "blocked", "answer": "blocked"}
+{"query": "ClusterFileSystem: There is no server for ServerFileSystem domain storage131", "answer": "ClusterFileSystem: There is no server for ServerFileSystem domain {variables}"}
+{"query": "warning", "answer": "warning"}
+{"query": "normal", "answer": "normal"}
+{"query": "normal", "answer": "normal"}

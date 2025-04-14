@@ -1,0 +1,8 @@
+{"query": "3 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 0", "answer": "{variables} ddr errors(s) detected and corrected on rank {variables}, symbol {variables}, bit {variables}"}
+{"query": "disable store gathering..................0", "answer": "disable store gathering..................{variables}"}
+{"query": "1 ddr errors(s) detected and corrected on rank 0, symbol 35, bit 1", "answer": "{variables} ddr errors(s) detected and corrected on rank {variables}, symbol {variables}, bit {variables}"}
+{"query": "debug wait enable.................0", "answer": "debug wait enable.................{variables}"}
+{"query": "1 ddr errors(s) detected and corrected on rank 0, symbol 17, bit 7", "answer": "{variables} ddr errors(s) detected and corrected on rank {variables}, symbol {variables}, bit {variables}"}
+{"query": "1 ddr errors(s) detected and corrected on rank 0, symbol 11, bit 6", "answer": "{variables} ddr errors(s) detected and corrected on rank {variables}, symbol {variables}, bit {variables}"}
+{"query": "special purpose registers:", "answer": "special purpose registers:"}
+{"query": "critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire", "answer": "critical input interrupt (unit={variables} bit={variables}): warning for torus y+ wire"}

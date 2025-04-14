@@ -1,0 +1,16 @@
+{"query": "10.11.21.133,10.11.10.1 \"GET /openstack/2013-10-17/vendor_data.json HTTP/1.1\" status: 200 len: 124 time: 0.2253911", "answer": "{variables} \"{variables} {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking", "answer": "image {variables} at ({variables}): checking"}
+{"query": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2566571", "answer": "{variables} \"{variables} {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "10.11.21.142,10.11.10.1 \"GET /openstack/2013-10-17/meta_data.json HTTP/1.1\" status: 200 len: 967 time: 0.2429230", "answer": "{variables} \"{variables} {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "[instance: d96a117b-0193-4549-bdcc-63b917273d1d] VM Paused (Lifecycle Event)", "answer": "[instance: {variables}] VM Paused (Lifecycle Event)"}
+{"query": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2607520", "answer": "{variables} \"{variables} {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Terminating instance", "answer": "[instance: {variables}] Terminating instance"}
+{"query": "[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Paused (Lifecycle Event)", "answer": "[instance: {variables}] VM Paused (Lifecycle Event)"}
+{"query": "10.11.21.131,10.11.10.1 \"GET /openstack/2013-10-17/meta_data.json HTTP/1.1\" status: 200 len: 967 time: 0.2374320", "answer": "{variables} \"{variables} {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Unknown base file: {variables}"}
+{"query": "image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage", "answer": "image {variables} at ({variables}): in use: on this node {variables} local, {variables} on other nodes sharing this instance storage"}
+{"query": "10.11.10.1 \"GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1\" status: 200 len: 1893 time: 0.2486479", "answer": "{variables} \"{variables} {variables} {variables}\" status: {variables} len: {variables} time: {variables}"}
+{"query": "Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Removable base files: {variables}"}
+{"query": "Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Active base files: {variables}"}
+{"query": "[instance: bf8c824d-f099-4433-a41e-e3da7578262e] VM Resumed (Lifecycle Event)", "answer": "[instance: {variables}] VM Resumed (Lifecycle Event)"}
+{"query": "Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742", "answer": "Removable base files: {variables}"}

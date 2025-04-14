@@ -1,0 +1,16 @@
+{"query": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root", "answer": "authentication failure; logname= uid={variables} euid={variables} tty=NODEVssh ruser= rhost={variables} user={variables}"}
+{"query": "connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005", "answer": "connection from {variables} ({variables}) at {variables}"}
+{"query": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4", "answer": "authentication failure; logname= uid={variables} euid={variables} tty=NODEVssh ruser= rhost={variables}"}
+{"query": "VFS: Disk quotas dquot_6.5.1", "answer": "VFS: Disk quotas {variables}"}
+{"query": "session closed for user cyrus", "answer": "session closed for user {variables}"}
+{"query": "connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005", "answer": "connection from {variables} ({variables}) at {variables}"}
+{"query": "connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005", "answer": "connection from {variables} ({variables}) at {variables}"}
+{"query": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=60.30.224.116  user=root", "answer": "authentication failure; logname= uid={variables} euid={variables} tty=NODEVssh ruser= rhost={variables} user={variables}"}
+{"query": "connection from 206.196.21.129 (host129.206.196.21.maximumasp.com) at Sat Jul  9 22:53:22 2005", "answer": "connection from {variables} ({variables}) at {variables}"}
+{"query": "connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005", "answer": "connection from {variables} () at {variables}"}
+{"query": "connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005", "answer": "connection from {variables} () at {variables}"}
+{"query": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14", "answer": "authentication failure; logname= uid={variables} euid={variables} tty=NODEVssh ruser= rhost={variables}"}
+{"query": "connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005", "answer": "connection from {variables} () at {variables}"}
+{"query": "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=150.183.249.110  user=root", "answer": "authentication failure; logname= uid={variables} euid={variables} tty=NODEVssh ruser= rhost={variables} user={variables}"}
+{"query": "session closed for user news", "answer": "session closed for user {variables}"}
+{"query": "connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005", "answer": "connection from {variables} () at {variables}"}

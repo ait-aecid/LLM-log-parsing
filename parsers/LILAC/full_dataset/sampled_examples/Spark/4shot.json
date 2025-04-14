@@ -1,0 +1,4 @@
+{"query": "attempt_201706092018_0025_m_000000_1166: Committed", "answer": "{variables}: Committed"}
+{"query": "Running task 3.0 in stage 24.0 (TID 1012)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Slf4jLogger started", "answer": "Slf4jLogger started"}
+{"query": "Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.", "answer": "Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port {variables}."}

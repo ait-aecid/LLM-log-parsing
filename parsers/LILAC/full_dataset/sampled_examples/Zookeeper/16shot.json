@@ -1,0 +1,16 @@
+{"query": "Cannot open channel to 2 at election address /10.10.34.12:3888", "answer": "Cannot open channel to {variables} at election address {variables}"}
+{"query": "Received connection request /10.10.34.11:60213", "answer": "Received connection request {variables}"}
+{"query": "Send worker leaving thread", "answer": "Send worker leaving thread"}
+{"query": "Closed socket connection for client /10.10.34.11:53520 which had sessionid 0x24ed9311942005f", "answer": "Closed socket connection for client {variables} which had sessionid {variables}"}
+{"query": "Interrupted while waiting for message on queue", "answer": "Interrupted while waiting for message on queue"}
+{"query": "Interrupting SendWorker", "answer": "Interrupting SendWorker"}
+{"query": "Received connection request /10.10.34.13:44866", "answer": "Received connection request {variables}"}
+{"query": "Connection broken for id 188978561024, my id = 2, error =", "answer": "Connection broken for id {variables}, my id = {variables}, error ="}
+{"query": "Cannot open channel to 2 at election address /10.10.34.12:3888", "answer": "Cannot open channel to {variables} at election address {variables}"}
+{"query": "Expiring session 0x34ed9ac1c1e007f, timeout of 10000ms exceeded", "answer": "Expiring session {variables}, timeout of {variables} exceeded"}
+{"query": "Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961", "answer": "Established session {variables} with negotiated timeout {variables} for client {variables}"}
+{"query": "Connection broken for id 188978561024, my id = 3, error =", "answer": "Connection broken for id {variables}, my id = {variables}, error ="}
+{"query": "Interrupting SendWorker", "answer": "Interrupting SendWorker"}
+{"query": "******* GOODBYE /10.10.34.11:52844 ********", "answer": "******* GOODBYE {variables} ********"}
+{"query": "Connection broken for id 188978561024, my id = 3, error =", "answer": "Connection broken for id {variables}, my id = {variables}, error ="}
+{"query": "Received connection request /10.10.34.11:59688", "answer": "Received connection request {variables}"}

@@ -1,0 +1,1 @@
+Note: The folder [gpt-3.5-turbo_LogHub](./gpt-3.5-turbo_LogHub/) was renamed manually since the supervised parsers of this file sample templates from the LogHub datasets and not from the corrected LogHub datasets.

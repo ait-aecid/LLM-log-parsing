@@ -1,0 +1,4 @@
+{"query": "reverse mapping checking getaddrinfo for customer-187-141-143-180-sta.uninet-ide.com.mx [187.141.143.180] failed - POSSIBLE BREAK-IN ATTEMPT!", "answer": "reverse mapping checking getaddrinfo for {variables} [{variables}] failed - POSSIBLE BREAK-IN ATTEMPT!"}
+{"query": "Failed none for invalid user 0 from 181.214.87.4 port 51889 ssh2", "answer": "Failed none for invalid user {variables} from {variables} port {variables} ssh2"}
+{"query": "error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]", "answer": "error: Received disconnect from {variables}: {variables}: {variables}: Auth fail [preauth]"}
+{"query": "pam_unix(sshd:auth): check pass; user unknown", "answer": "pam_unix(sshd:auth): check pass; user unknown"}

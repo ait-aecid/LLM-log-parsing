@@ -1,0 +1,8 @@
+{"query": "data_thread() got not answer from any [Thunderbird_D7] datasource", "answer": "data_thread() got not answer from any [{variables}] datasource"}
+{"query": "synchronized to 10.100.18.250, stratum 3", "answer": "synchronized to {variables}, stratum {variables}"}
+{"query": "[ib_sm_sweep.c:1455]: No topology change", "answer": "[ib_sm_sweep.c:{variables}]: No topology change"}
+{"query": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************", "answer": "[ib_sm_sweep.c:{variables}]: ********************** NEW SWEEP ********************"}
+{"query": "data_thread() got not answer from any [Thunderbird_D7] datasource", "answer": "data_thread() got not answer from any [{variables}] datasource"}
+{"query": "Using HPET based timekeeping.", "answer": "Using HPET based timekeeping."}
+{"query": "Received SNMP packet(s) from #34#", "answer": "Received SNMP packet(s) from {variables}"}
+{"query": "[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************", "answer": "[ib_sm_sweep.c:{variables}]: ********************** NEW SWEEP ********************"}

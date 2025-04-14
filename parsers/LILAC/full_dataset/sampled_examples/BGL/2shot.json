@@ -1,0 +1,2 @@
+{"query": "ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33370", "answer": "ciod: failed to read message prefix on control stream (CioStream socket to {variables}:{variables}"}
+{"query": "ciod: generated 128 core files for program /home/germann2/BGL-demo/SPaSM_mpi", "answer": "ciod: generated {variables} core files for program {variables}"}

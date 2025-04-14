@@ -1,0 +1,8 @@
+{"query": "workerEnv.init() ok /etc/httpd/conf/workers2.properties", "answer": "workerEnv.init() ok {variables}"}
+{"query": "workerEnv.init() ok /etc/httpd/conf/workers2.properties", "answer": "workerEnv.init() ok {variables}"}
+{"query": "jk2_init() Found child 1799 in scoreboard slot 7", "answer": "jk2_init() Found child {variables} in scoreboard slot {variables}"}
+{"query": "jk2_init() Found child 5419 in scoreboard slot 7", "answer": "jk2_init() Found child {variables} in scoreboard slot {variables}"}
+{"query": "workerEnv.init() ok /etc/httpd/conf/workers2.properties", "answer": "workerEnv.init() ok {variables}"}
+{"query": "jk2_init() Found child 1396 in scoreboard slot 6", "answer": "jk2_init() Found child {variables} in scoreboard slot {variables}"}
+{"query": "jk2_init() Can't find child 5622 in scoreboard", "answer": "jk2_init() Can't find child {variables} in scoreboard"}
+{"query": "jk2_init() Found child 5384 in scoreboard slot 7", "answer": "jk2_init() Found child {variables} in scoreboard slot {variables}"}

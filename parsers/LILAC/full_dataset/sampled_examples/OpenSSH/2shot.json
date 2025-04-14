@@ -1,0 +1,2 @@
+{"query": "error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth]", "answer": "error: Received disconnect from {variables}: {variables}: No more user authentication methods available. [preauth]"}
+{"query": "error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]", "answer": "error: Received disconnect from {variables}: {variables}: {variables}: Auth fail [preauth]"}

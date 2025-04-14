@@ -1,0 +1,201 @@
+Content,EventTemplate
+onExtend:1514038530000 14 0 4,onExtend:<*> <*> <*> <*>
+onReceive action: android.intent.action.SCREEN_ON,onReceive action: android.intent.action.SCREEN_ON
+processHandleBroadcastAction action:android.intent.action.SCREEN_ON,processHandleBroadcastAction action:android.intent.action.SCREEN_ON
+flush sensor data,flush sensor data
+ getTodayTotalDetailSteps = 1514038440000##6993##548365##8661##12266##27164404,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+calculateAltitudeWithCache totalAltitude=240,calculateAltitudeWithCache totalAltitude=<*>
+REPORT : 7007 5002 150089 240,REPORT : <*> <*> <*> <*>
+setTodayTotalDetailSteps=1514038440000##7009##548365##8661##12551##27174951,setTodayTotalDetailSteps=<*>
+REPORT : 7009 5004 150132 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3583,onStandStepChanged <*>
+REPORT : 7011 5005 150175 240,REPORT : <*> <*> <*> <*>
+REPORT : 7012 5006 150197 240,REPORT : <*> <*> <*> <*>
+REPORT : 7013 5007 150218 240,REPORT : <*> <*> <*> <*>
+REPORT : 7015 5008 150261 240,REPORT : <*> <*> <*> <*>
+onReceive action: android.intent.action.SCREEN_OFF,onReceive action: android.intent.action.SCREEN_OFF
+isScreenOn true,isScreenOn true
+"screen status unknown,think screen on","screen status unknown,think screen on"
+REPORT : 7017 5010 150304 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3590,onStandStepChanged <*>
+REPORT : 7018 5010 150325 240,REPORT : <*> <*> <*> <*>
+REPORT : 7020 5012 150368 240,REPORT : <*> <*> <*> <*>
+REPORT : 7021 5012 150389 240,REPORT : <*> <*> <*> <*>
+REPORT : 7022 5013 150411 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=127118,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7025 5015 150475 240,REPORT : <*> <*> <*> <*>
+REPORT : 7026 5016 150496 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3599,onStandStepChanged <*>
+calculateCaloriesWithCache totalCalories=127204,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7027 5017 150518 240,REPORT : <*> <*> <*> <*>
+ getTodayTotalDetailSteps = 1514038440000##7028##548365##8661##14261##27185977,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+onStandStepChanged 3602,onStandStepChanged <*>
+REPORT : 7031 5020 150604 240,REPORT : <*> <*> <*> <*>
+REPORT : 7032 5020 150625 240,REPORT : <*> <*> <*> <*>
+REPORT : 7034 5022 150668 240,REPORT : <*> <*> <*> <*>
+REPORT : 7040 5026 150796 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=127504,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7042 5027 150839 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3616,onStandStepChanged <*>
+REPORT : 7044 5029 150882 240,REPORT : <*> <*> <*> <*>
+REPORT : 7045 5030 150903 240,REPORT : <*> <*> <*> <*>
+REPORT : 7048 5032 150968 240,REPORT : <*> <*> <*> <*>
+REPORT : 7050 5033 151011 240,REPORT : <*> <*> <*> <*>
+REPORT : 7052 5035 151053 240,REPORT : <*> <*> <*> <*>
+REPORT : 7058 5039 151182 240,REPORT : <*> <*> <*> <*>
+REPORT : 7060 5040 151225 240,REPORT : <*> <*> <*> <*>
+REPORT : 7064 5043 151310 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=128081,calculateCaloriesWithCache totalCalories=<*>
+onStandStepChanged 3642,onStandStepChanged <*>
+REPORT : 7074 5050 151525 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3653,onStandStepChanged <*>
+REPORT : 7083 5057 151717 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=128424,calculateCaloriesWithCache totalCalories=<*>
+onExtend:1514038668000 2 0 4,onExtend:<*> <*> <*> <*>
+setTodayTotalDetailSteps=1514038560000##7086##548570##8661##16256##27312467,setTodayTotalDetailSteps=<*>
+REPORT : 7090 5062 151867 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3666,onStandStepChanged <*>
+REPORT : 7095 5065 151974 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3669,onStandStepChanged <*>
+calculateCaloriesWithCache totalCalories=128703,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7097 5067 152017 240,REPORT : <*> <*> <*> <*>
+REPORT : 7099 5068 152060 240,REPORT : <*> <*> <*> <*>
+REPORT : 7101 5070 152103 240,REPORT : <*> <*> <*> <*>
+REPORT : 7104 5072 152167 240,REPORT : <*> <*> <*> <*>
+REPORT : 7105 5072 152189 240,REPORT : <*> <*> <*> <*>
+onExtend:1514038678000 1 0 4,onExtend:<*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=128917,calculateCaloriesWithCache totalCalories=<*>
+onStandStepChanged 3681,onStandStepChanged <*>
+REPORT : 7109 5075 152274 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3684,onStandStepChanged <*>
+ getTodayTotalDetailSteps = 1514038620000##7112##548695##8661##16256##27325968,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+calculateCaloriesWithCache totalCalories=129131,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7126 5087 152638 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3700,onStandStepChanged <*>
+REPORT : 7130 5090 152724 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3707,onStandStepChanged <*>
+calculateCaloriesWithCache totalCalories=129516,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7154 5107 153238 240,REPORT : <*> <*> <*> <*>
+onExtend:1514038756000 6 0 4,onExtend:<*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=130052,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7160 5112 153367 240,REPORT : <*> <*> <*> <*>
+flushTempCacheToDB by stand,flushTempCacheToDB by stand
+Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112,Alarm uploadStaticsToDB totalSteps=<*>:<*>:<*>:<*>
+writeDataToDB size 327,writeDataToDB size <*>
+"upLoadOneMinuteDataToEngine time=25233975,0,93,0,20002","upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+getBinderPackageName packageName = com.huawei.health,getBinderPackageName packageName = com.huawei.health
+"getAppContext() isAppValid health or wear, packageName = com.huawei.health","getAppContext() isAppValid health or wear, packageName = <*>"
+onExtend:1514038799000 3 0 4,onExtend:<*> <*> <*> <*>
+insertHiHealthData() checkAppType  0 appID = 1,insertHiHealthData() checkAppType  <*> appID = <*>
+"saveStatData() type =40003,time = 1513958400000,statClient = 2,who is 1","saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+"new date =20171223, type=40003,153367.0,old=210654.54000000004","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005","saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>"
+"new date =20171223, type=40004,5112.0,old=4985.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"bulkSaveDetailHiHealthData() size = 4,totalTime = 30","bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>"
+startListenerChange subscribeList = [1],startListenerChange subscribeList = [<*>]
+"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT","insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*>,errorMessage = ERR_DATA_INSERT"
+insertHiHealthData() end totalTime = 45,insertHiHealthData() end totalTime = <*>
+uploadStaticsToDB() onResult  type = 4 obj=true,uploadStaticsToDB() onResult  type = <*> obj=true
+uploadStaticsToDB failed message=true,uploadStaticsToDB failed message=true
+checkInsertStatus stepSum or calorieSum is enough,checkInsertStatus stepSum or calorieSum is enough
+checkInsertStatus stepStatSum or calorieStatSum is enough,checkInsertStatus stepStatSum or calorieStatSum is enough
+"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0","stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>"
+"startInsertSportSync start auto sync,app is 1","startInsertSportSync start auto sync,app is <*>"
+"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0","checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>"
+"startInsertSportSync first 500 steps sync,do all sync","startInsertSportSync first <*> steps sync,do all sync"
+"startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1","startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>"
+"insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0","insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>"
+needAutoSync autoSyncSwitch is open,needAutoSync autoSyncSwitch is open
+"saveHealthDetailData() deviceID = 2,clientID=1,id=1","saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>"
+initDataPrivacy the dataPrivacy is true,initDataPrivacy the dataPrivacy is true
+"initUserPrivacy the userPrivacy switch is open, start push user data!","initUserPrivacy the userPrivacy switch is open, start push user data!"
+initUserPrivacy the userPrivacy is true,initUserPrivacy the userPrivacy is true
+ifCanSync not! no cloud version,ifCanSync not! no cloud version
+sendSyncFailedBroadcast,sendSyncFailedBroadcast
+"bulkSaveDetailHiHealthData() size = 20,totalTime = 34","bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>"
+"new date =20171223, type=40002,6724.0,old=7163.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40004,4800.935999999999,old=5112.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40003,214445.88000000006,old=210654.54000000004","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40005,330.0,old=330.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40011,6314.0,old=6137.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40031,4508.196000000001,old=4381.818","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40021,135245.88,old=131454.53999999995","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40013,410.0,old=410.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40034,292.73999999999995,old=292.73999999999995","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40024,79200.0,old=79200.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"new date =20171223, type=40044,420.0,old=420.0","new date =<*>, type=<*>,<*>.<*>,old=<*>.<*>"
+"saveRealTimeHealthDatasStat() size = 1,totalTime = 48","saveRealTimeHealthDatasStat() size = <*>,totalTime = <*>"
+insertHiHealthData() end totalTime = 94,insertHiHealthData() end totalTime = <*>
+InsertCallBack() onSuccess  type = 0 data=true,InsertCallBack() onSuccess  type = <*> data=true
+InsertEvent success begin:25233975 end:25233979,InsertEvent success begin:<*> end:<*>
+setWriteDBLastDataMinute=25233979,setWriteDBLastDataMinute=<*>
+setWriteDBLastDataMinute success,setWriteDBLastDataMinute success
+flush2DB result success,flush2DB result success
+"initDataPrivacy the dataPrivacy switch is open, start push health data!","initDataPrivacy the dataPrivacy switch is open, start push health data!"
+calculateCaloriesWithCache totalCalories=130159,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7165 5115 153474 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=130201,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7167 5117 153517 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=130266,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7173 5121 153645 240,REPORT : <*> <*> <*> <*>
+ getTodayTotalDetailSteps = 1514038740000##7174##549098##8661##16256##27445485,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+REPORT : 7176 5123 153709 240,REPORT : <*> <*> <*> <*>
+REPORT : 7183 5128 153859 240,REPORT : <*> <*> <*> <*>
+REPORT : 7185 5130 153902 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3758,onStandStepChanged <*>
+REPORT : 7188 5132 153966 240,REPORT : <*> <*> <*> <*>
+startTimer start autoSync,startTimer start autoSync
+stepSyncOrNot appSynTimes is 0,stepSyncOrNot appSynTimes is <*>
+setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28270935,setTodayTotalDetailSteps=<*>
+onExtend:1514040697000 0 0 0,onExtend:<*> <*> <*> <*>
+"timeStamp back,extendReportTimeStamp=1514040836000","timeStamp back,extendReportTimeStamp=<*>"
+onExtend:1514041026000 0 0 5,onExtend:<*> <*> <*> <*>
+getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,getTodaySportData mStepsRecordManager=<*>
+onExtend:1514042082000 2 0 0,onExtend:<*> <*> <*> <*>
+REPORT : 7191 5134 154031 240,REPORT : <*> <*> <*> <*>
+REPORT : 7192 5135 154052 240,REPORT : <*> <*> <*> <*>
+REPORT : 7196 5137 154138 240,REPORT : <*> <*> <*> <*>
+REPORT : 7198 5139 154181 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3772,onStandStepChanged <*>
+ getTodayTotalDetailSteps = 1514041980000##7198##549659##8661##16256##30729233,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+calculateCaloriesWithCache totalCalories=130908,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7200 5140 154223 240,REPORT : <*> <*> <*> <*>
+REPORT : 7202 5142 154266 240,REPORT : <*> <*> <*> <*>
+onStandStepChanged 3777,onStandStepChanged <*>
+REPORT : 7205 5144 154331 240,REPORT : <*> <*> <*> <*>
+calculateCaloriesWithCache totalCalories=131079,calculateCaloriesWithCache totalCalories=<*>
+REPORT : 7208 5146 154395 240,REPORT : <*> <*> <*> <*>
+REPORT : 7211 5148 154459 240,REPORT : <*> <*> <*> <*>
+REPORT : 7212 5149 154481 240,REPORT : <*> <*> <*> <*>
+REPORT : 7214 5150 154523 240,REPORT : <*> <*> <*> <*>
+"timeStamp back,extendReportTimeStamp=1514042265000","timeStamp back,extendReportTimeStamp=<*>"
+processHandleBroadcastAction action:android.intent.action.TIME_TICK,processHandleBroadcastAction action:android.intent.action.TIME_TICK
+setTodayTotalDetailSteps=1514042520000##7214##549659##8661##16256##31239760,setTodayTotalDetailSteps=<*>
+onExtend:1514043434000 0 0 5,onExtend:<*> <*> <*> <*>
+onExtend:1514044420000 0 0 5,onExtend:<*> <*> <*> <*>
+theDayChanged 1514044800216,theDayChanged <*>
+initEnviroument,initEnviroument
+getStepCounterStatus,getStepCounterStatus
+ getStepCounterStatus= true,getStepCounterStatus= true
+reStartStepCounter,reStartStepCounter
+registersensorsuccess: true,registersensorsuccess: true
+clear(),clear()
+ getTodayBasicStandardSteps= 1514018661124##0##3428,getTodayBasicStandardSteps= <*>##<*>##<*>
+tryToRecordAsBasicStepData bWrite true,tryToRecordAsBasicStepData bWrite true
+ getDiffTotalSteps= 1513958400215##0,getDiffTotalSteps= <*>##<*>
+setBasicStandardSteps basicStandardStep=3786 restartSteps=0,setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>
+setDiffTotalSteps=0,setDiffTotalSteps=<*>
+ getTodayBasicStandardSteps= 1514044800223##3786##0,getTodayBasicStandardSteps= <*>##<*>##<*>
+ getDiffTotalSteps= 1514044800231##0,getDiffTotalSteps= <*>##<*>
+tryToReloadTodayBasicSteps1514044800223|3786|0|0,tryToReloadTodayBasicSteps<*>|<*>|<*>|<*>
+reload : 3786 restar 0,reload : <*> restar <*>
+calculateCaloriesWithCache totalCalories=0,calculateCaloriesWithCache totalCalories=<*>
+calculateAltitudeWithCache totalAltitude=0,calculateAltitudeWithCache totalAltitude=<*>
+REPORT : 0 0 0 0,REPORT : <*> <*> <*> <*>
+next day:steps0mLastReport7214,next day:<*>
+setGoalNotifiShownRecord 1514044800237 false,setGoalNotifiShownRecord <*> false
+closeNotification...,closeNotification...
+deleteHealthNotification(),deleteHealthNotification()
+onExtend:1514045224000 0 0 0,onExtend:<*> <*> <*> <*>
+ getTodayTotalDetailSteps = 1514046240000##0##549659##8661##16256##34960758,getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>
+"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is 20171224 oldDay is 20171223","checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is <*> oldDay is <*>"

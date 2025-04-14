@@ -1,0 +1,2 @@
+{"query": "2017-07-06 09:24:14.733 GoogleSoftwareUpdateAgent[36726/0x7000002a0000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.", "answer": "{variables}-{variables}-{variables} {variables}:{variables}:{variables} GoogleSoftwareUpdateAgent[{variables}/{variables}] [lvl={variables}] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply."}
+{"query": "CCFile::captureLogRun() Exiting CCFile::captureLogRun", "answer": "CCFile::captureLogRun() Exiting CCFile::captureLogRun"}

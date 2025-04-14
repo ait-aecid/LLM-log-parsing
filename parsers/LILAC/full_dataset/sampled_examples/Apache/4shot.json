@@ -1,0 +1,4 @@
+{"query": "LDAP: SSL support unavailable", "answer": "LDAP: SSL support unavailable"}
+{"query": "Digest: generating secret for digest authentication ...", "answer": "Digest: generating secret for digest authentication ..."}
+{"query": "[client 202.143.128.18] client sent HTTP/1.1 request without hostname (see RFC2616 section 14.23): /", "answer": "[client {variables}] client sent {variables} request without hostname (see RFC2616 section {variables}): /"}
+{"query": "mod_python: Creating 32 session mutexes based on 150 max processes and 0 max threads.", "answer": "mod_python: Creating {variables} session mutexes based on {variables} max processes and {variables} max threads."}

@@ -1,0 +1,201 @@
+Content,EventTemplate
+63543 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+162 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569,ciod: failed to read message prefix on control stream (CioStream socket to <*>:<*>
+generating core.775,generating core.<*>
+force load/store alignment...............0,force load/store alignment...............<*>
+generating core.4155,generating core.<*>
+generating core.449,generating core.<*>
+generating core.6990,generating core.<*>
+"CE sym 20, at 0x01228120, mask 0x10","CE sym <*>, at <*>, mask <*>"
+ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
+generating core.1990,generating core.<*>
+generating core.1973,generating core.<*>
+ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+generating core.3401,generating core.<*>
+generating core.25350,generating core.<*>
+data TLB error interrupt,data TLB error interrupt
+ciod: Message code 0 is not 51 or 4294967295,ciod: Message code <*> is not <*> or <*>
+data storage interrupt,data storage interrupt
+data address: 0x00000002,data address: <*>
+machine check: i-fetch......................0,machine check: i-fetch......................<*>
+data store interrupt caused by dcbf.........0,data store interrupt caused by dcbf.........<*>
+program interrupt: privileged instruction...0,program interrupt: privileged instruction...<*>
+program interrupt: trap instruction.........0,program interrupt: trap instruction.........<*>
+program interrupt: imprecise exception......0,program interrupt: imprecise exception......<*>
+store operation.............................1,store operation.............................<*>
+data store interrupt caused by icbi.........0,data store interrupt caused by icbi.........<*>
+"problem state (0=sup,1=usr).......0","problem state (<*>=sup,<*>=usr).......<*>"
+floating point instr. enabled.....1,floating point instr. enabled.....<*>
+auxiliary processor.........................0,auxiliary processor.........................<*>
+machine check enable..............0,machine check enable..............<*>
+floating pt ex mode 0 enable......0,floating pt ex mode <*> enable......<*>
+program interrupt: unimplemented operation..0,program interrupt: unimplemented operation..<*>
+byte ordering exception.....................0,byte ordering exception.....................<*>
+core configuration register: 0x00002000,core configuration register: <*>
+program interrupt: fp cr update.............0,program interrupt: fp cr update.............<*>
+guaranteed instruction cache block touch.0,guaranteed instruction cache block touch.<*>
+program interrupt: fp cr field .............0,program interrupt: fp cr field .............<*>
+guaranteed data cache block touch........1,guaranteed data cache block touch........<*>
+icache prefetch depth....................0,icache prefetch depth....................<*>
+icache prefetch threshold................0,icache prefetch threshold................<*>
+wait state enable.................0,wait state enable.................<*>
+critical input interrupt enable...0,critical input interrupt enable...<*>
+special purpose registers:,special purpose registers:
+lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,lr:<*> cr:<*> xer:<*> ctr:<*>
+rts internal error,rts internal error
+debug wait enable.................0,debug wait enable.................<*>
+instruction address space.........0,instruction address space.........<*>
+disable store gathering..................0,disable store gathering..................<*>
+generating core.2040,generating core.<*>
+generating core.6037,generating core.<*>
+"ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes,ciod: Error creating node map from file <*>: No child processes
+generating core.4660,generating core.<*>
+"ciod: Error loading ./runtime_malloc: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+199680 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+3091200 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+generating core.9369,generating core.<*>
+generating core.58616,generating core.<*>
+generating core.10752,generating core.<*>
+program interrupt,program interrupt
+program interrupt: illegal instruction......1,program interrupt: illegal instruction......<*>
+instruction address: 0x0062fe04,instruction address: <*>
+exception syndrome register: 0x08000000,exception syndrome register: <*>
+ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor,ciod: Error creating node map from file <*>: Bad file descriptor
+generating core.536,generating core.<*>
+generating core.3389,generating core.<*>
+Can not get assembly information for node card,Can not get assembly information for node card
+generating core.20088,generating core.<*>
+generating core.7187,generating core.<*>
+generating core.7915,generating core.<*>
+ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile,ciod: Missing or invalid fields on line <*> of node map file /<*>
+generating core.319,generating core.<*>
+ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file /<*>
+ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required,ciod: Error creating node map from file <*>: Block device required
+generating core.38077,generating core.<*>
+generating core.245,generating core.<*>
+generating core.30230,generating core.<*>
+generating core.40344,generating core.<*>
+generating core.9784,generating core.<*>
+1365301360 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+generating core.18514,generating core.<*>
+generating core.8803,generating core.<*>
+generating core.1957,generating core.<*>
+generating core.3792,generating core.<*>
+"ciod: Error loading /home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+rts panic! - stopping execution,rts panic! - stopping execution
+generating core.14070,generating core.<*>
+114091808 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+112625368 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+generating core.17999,generating core.<*>
+generating core.2600,generating core.<*>
+generating core.3181,generating core.<*>
+generating core.5009,generating core.<*>
+ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied,ciod: Error creating node map from file <*>: Permission denied
+ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file /<*>
+generating core.84,generating core.<*>
+generating core.20595,generating core.<*>
+generating core.27867,generating core.<*>
+generating core.21016,generating core.<*>
+"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015","rts: kernel terminated for reason <*>: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>"
+generating core.176,generating core.<*>
+15 floating point alignment exceptions,<*> floating point alignment exceptions
+generating core.9315,generating core.<*>
+generating core.2241,generating core.<*>
+generating core.118,generating core.<*>
+generating core.9997,generating core.<*>
+generating core.2105,generating core.<*>
+generating core.306,generating core.<*>
+NodeCard is not fully functional,NodeCard is not fully functional
+New ido chip inserted into the database: FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D ip=10.2.1.37 v=13 t=4,New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>
+"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)","idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=<*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*>.<*> volt rail is OK. The <*>.<*> volt rail is OK.
+Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005,Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=M <*>
+"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310","PrepareForService shutting down NodeCard(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>"
+rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,rts tree/torus link training failed: wanted: <*> got: <*>
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error","ciod: Error loading /<*>: invalid or missing program image, Exec format error"
+"ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+rts: kernel terminated for reason 1003,rts: kernel terminated for reason <*>
+ciod: LOGIN chdir(/p/bg1/da) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+ciod: generated 1 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm,ciod: generated <*> core files for program <*>
+ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+ciod: LOGIN chdir(/home/germann2/BGL-demo) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+47332148 double-hummer alignment exceptions,<*> double-hummer alignment exceptions
+iar 0014a150 dear 00998588,iar <*> dear <*>
+"NFS Mount failed on bglio716, slept 15 seconds, retrying (1)","NFS Mount failed on bglio<*>, slept <*> seconds, retrying (<*>)"
+"3 ddr errors(s) detected and corrected on rank 0, symbol 18, bit 0","<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>"
+ciod: generated 64 core files for program IMB-MPI1.2MB_perf,ciod: generated <*> core files for program <*>
+Lustre mount FAILED : bglio559 : point /p/gb1,Lustre mount FAILED : bglio<*> : point <*>
+ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+ciod: LOGIN chdir(/LAPACK_440d/BLAS) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+ciod: pollControlDescriptors: Detected the debugger died.,ciod: pollControlDescriptors: Detected the debugger died.
+"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)","ciod: In packet from node <*>.<*> (<*>), message code <*> is not <*> or <*> (softheader=<*> <*> <*> <*>)"
+1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected,<*> torus receiver y+ input pipe error(s) (dcr <*>) detected and corrected
+"ciod: Error loading /bgl/apps/swl-prep/rky-swl/MPI-PERF/IMB/perf_tests/IMB-MPI1.5124KB: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+suppressing further interrupts of same type,suppressing further interrupts of same type
+ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+ciod: LOGIN chdir(/home/yates/SWL_tests/BGL64k_SWL_tests_develop/MPI-VAL/MPITs_v050902/rundir) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+"Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA, found 04D081A3892FFFFF0D0B1C505AF3","Node card VPD check: U<*> node in processor card slot J<*> do not match. VPD ecid <*>, found <*>"
+"ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+"ciod: Error loading /home/yates//torus-latency.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+"ciod: Error loading /home/yates//broadcast.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,rts: bad message header: expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>
+ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV,ciod: generated <*> core files for program <*>
+ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/TomAndJeff/bin/tested_copro/tested_copro.rts,ciod: generated <*> core files for program <*>
+critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire,critical input interrupt (unit=<*> bit=<*>): warning for torus y+ wire
+"ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/VNM64/vnm.rts: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+ciod: generated 108 core files for program /home/spelce1/HPCC_IBM/Urgent/VNM/32K/vnm.rts,ciod: generated <*> core files for program <*>
+total of 12 ddr error(s) detected and corrected,total of <*> ddr error(s) detected and corrected
+"ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+"ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:47696: Link has been severed,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>:<*>: Link has been severed
+data cache search parity error detected. attempting to correct,data cache search parity error detected. attempting to correct
+shutdown complete,shutdown complete
+"ciod: Error loading /bgl/apps/followup/RAPTOR/new.raptor.trace: invalid or missing program image, Exec format error","ciod: Error loading /<*>: invalid or missing program image, Exec format error"
+ciod: generated 64 core files for program /home/rfisher/sodscaling/flash2,ciod: generated <*> core files for program <*>
+"ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected
+"ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+"ciod: Error loading /g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+iar 00106568 dear 02494bec,iar <*> dear <*>
+iar 001061cc dear 02f6667c,iar <*> dear <*>
+ciod: generated 128 core files for program /g/g20/valone1/SPaSM-shock/SPaSM_mpi,ciod: generated <*> core files for program <*>
+"ciod: Error loading /bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+iar 00106200 dear 0247019c,iar <*> dear <*>
+19220208 floating point alignment exceptions,<*> floating point alignment exceptions
+"Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007","Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>"
+ciod: generated 128 core files for program /bgl/apps/followup/SPaSM_static/SPaSM_mpi.new_comp,ciod: generated <*> core files for program <*>
+"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type","critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type"
+ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111,ciod: generated <*> core files for program <*>
+18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds,<*> torus sender z- retransmission error(s) (dcr <*>) detected and corrected over <*> seconds
+Lustre mount FAILED : bglio78 : block_id : location,Lustre mount FAILED : bglio<*> : block_id : location
+MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),MACHINE CHECK DCR read timeout (mc=<*> iar <*> lr <*>)
+"ciod: Received signal 15, code=0, errno=0, address=0x0000044d","ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>"
+dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,dbcr0=<*> dbsr=<*> ccr0=<*>
+r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,r24=<*> r25=<*> r26=<*> r27=<*>
+ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory,ciod: LOGIN chdir(<*>) failed: No such file or directory
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+"1966 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.","<*> total interrupts. 0 critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 244 seconds,<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected over <*> seconds
+"159 ddr error(s) detected and corrected on rank 0, symbol 29 over 2486 seconds","<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds"
+minus normalized number..................0,minus normalized number..................<*>
+fraction rounded.........................0,fraction rounded.........................<*>
+"critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type","critical input interrupt (unit=<*> bit=<*>): warning for tree C1 wire, suppressing further interrupts of same type"
+size of scratchpad portion of L3.........0 (0M),size of scratchpad portion of L3.........<*> (<*>)
+"Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80","Kernel detected <*> integer alignment exceptions (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*> (<*>) iar <*>, dear <*>"
+"ciod: Error loading /g/g90/glosli/src/ddcMD/ddcMD1.1.17/bin/ddcMDbglV: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+"ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+"ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+"ciod: Error loading /bgl/apps/SWL/stability/NEWS05/news05_DD: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+"ciod: Error loading /p/gb1/stella/UMT2K/1325/umt2k_DD: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+"ciod: Error loading /bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD: invalid or missing program image, No such file or directory","ciod: Error loading <*>: invalid or missing program image, No such file or directory"
+ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,ciod: LOGIN chdir(<*>) failed: Input/output error
+"ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied","ciod: Error loading /<*>: invalid or missing program image, Permission denied"
+2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds
+"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160","ciod: Error loading /<*>: program image too big, <*> > <*>"
+fpr29=0xffffffff ffffffff ffffffff ffffffff,fpr29=<*>
+Machine State Register: 0x0002f900,Machine State Register: <*>
+instruction cache parity error corrected,instruction cache parity error corrected
+ciod: generated 128 core files for program /g/g24/germann2/SPaSM_mini/MEAM/r13,ciod: generated <*> core files for program <*>

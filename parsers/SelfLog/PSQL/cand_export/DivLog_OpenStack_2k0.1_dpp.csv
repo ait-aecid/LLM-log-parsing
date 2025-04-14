@@ -1,0 +1,201 @@
+Content,EventTemplate
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] During sync_power_state the instance has a pending task (spawning). Skip.,[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.
+"image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage","image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,Active base files: <*>
+Creating event network-vif-plugged:e3871ffd-5cd5-4287-bddd-3529f7b59515 for instance b9000564-fe1a-409b-b8cc-1e88b294cd1d,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.05 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Took 19.84 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us,Auditing locally available compute resources for node <*>
+"Total usable vcpus: 16, total allocated vcpus: 1","Total usable vcpus: <*>, total allocated vcpus: <*>"
+Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[],Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[]
+Compute_service record updated for cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us,Compute_service record updated for <*>
+"10.11.21.122,10.11.10.1 ""GET /openstack/2013-10-17 HTTP/1.1"" status: 200 len: 157 time: 0.0008290","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/b9000564-fe1a-409b-b8cc-1e88b294cd1d HTTP/1.1"" status: 204 len: 203 time: 0.2534380","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Instance destroyed successfully.,[instance: <*>] Instance destroyed successfully.
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] Deletion of /var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del complete,[instance: <*>] Deletion of <*> complete
+Unknown base file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,Unknown base file: <*>
+Removable base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,Removable base files: <*>
+Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,Removing base or swap file: <*>
+HTTP exception thrown: No instances found for any event,HTTP exception thrown: No instances found for any event
+[instance: b9000564-fe1a-409b-b8cc-1e88b294cd1d] VM Stopped (Lifecycle Event),[instance: <*>] VM Stopped (Lifecycle Event)
+Creating event network-vif-plugged:a208479c-c0e3-4730-a5a0-d75e8afd0252 for instance 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+Successfully synced instances from host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.,Successfully synced instances from host '<*>'.
+"10.11.21.123,10.11.10.1 ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" status: 200 len: 124 time: 0.2335150","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.123,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/root HTTP/1.1"" status: 200 len: 124 time: 0.0018420","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4 HTTP/1.1"" status: 204 len: 203 time: 0.2604880","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Terminating instance,[instance: <*>] Terminating instance
+"10.11.21.123,10.11.10.1 ""GET /latest/meta-data/placement/ HTTP/1.1"" status: 200 len: 134 time: 0.3841610","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.,Running instance usage audit for host <*> from <*>-<*>-<*> <*>:<*>:<*> to <*>-<*>-<*> <*>:<*>:<*>. <*> instances.
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Deletion of /var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del complete,[instance: <*>] Deletion of <*> complete
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 1.11 seconds to destroy the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.
+[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 0.52 seconds to deallocate network for instance.,[instance: <*>] Took <*>.<*> seconds to deallocate network for instance.
+"[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] disk limit not specified, defaulting to unlimited","[instance: <*>] disk limit not specified, defaulting to unlimited"
+Creating event network-vif-plugged:d1ce4c5a-2811-41c3-8a5a-39f9e6defcb8 for instance b562ef10-ba2d-48ae-bf4a-18666cba4a51,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 20.14 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.124,10.11.10.1 ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: 200 len: 264 time: 0.2212229","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deletion of /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del complete,[instance: <*>] Deletion of <*> complete
+Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742,Base or swap file too young to remove: <*>
+"[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Total vcpu: 16 VCPU, used: 0.00 VCPU","[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU"
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1893 time: 0.3706589","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:b26c4935-6377-4e96-9ba1-ec6985d42d5d for instance 78dc1847-8848-49cc-933e-9239b12c9dcf,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 20.47 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 21.25 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.125,10.11.10.1 ""GET /openstack/2013-10-17 HTTP/1.1"" status: 200 len: 157 time: 0.2119691","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Deletion of /var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del complete,[instance: <*>] Deletion of <*> complete
+"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] memory limit: 96258.00 MB, free: 95746.00 MB","[instance: <*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+"[instance: 95960536-049b-41f6-9049-05fc479b6a7c] vcpu limit not specified, defaulting to unlimited","[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Creating image,[instance: <*>] Creating image
+Creating event network-vif-plugged:1cf11429-1563-4f6c-823c-91ba6e0f6675 for instance 95960536-049b-41f6-9049-05fc479b6a7c,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 20.72 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.126,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.0008578","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.126,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/ HTTP/1.1"" status: 200 len: 124 time: 0.4023941","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/95960536-049b-41f6-9049-05fc479b6a7c HTTP/1.1"" status: 204 len: 203 time: 0.2639730","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Terminating instance,[instance: <*>] Terminating instance
+[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Took 0.46 seconds to deallocate network for instance.,[instance: <*>] Took <*>.<*> seconds to deallocate network for instance.
+"10.11.10.1 ""POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1"" status: 202 len: 733 time: 0.7116742","<*> ""POST <*>"" status: <*> len: <*> time: <*>.<*>"
+"[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] memory limit: 96258.00 MB, free: 95746.00 MB","[instance: <*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5 HTTP/1.1"" status: 200 len: 1572 time: 0.1838732","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:85754923-baff-45ad-9e35-a3055c898234 for instance 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Took 19.92 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.127,10.11.10.1 ""GET /openstack/2013-10-17 HTTP/1.1"" status: 200 len: 157 time: 0.2243600","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Instance destroyed successfully.,[instance: <*>] Instance destroyed successfully.
+[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Deletion of /var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del complete,[instance: <*>] Deletion of <*> complete
+"[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Total vcpu: 16 VCPU, used: 0.00 VCPU","[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU"
+Creating event network-vif-plugged:7bdba89d-dd80-489c-ab06-11d494c5c478 for instance af5f7392-f7d4-4298-b647-c98924c64aa1,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 20.35 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/af5f7392-f7d4-4298-b647-c98924c64aa1 HTTP/1.1"" status: 204 len: 203 time: 0.2809131","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.128,10.11.10.1 ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: 0.2495749","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Deleting instance files /var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del,[instance: <*>] Deleting instance files <*>
+"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Total memory: 64172 MB, used: 512.00 MB","[instance: <*>] Total memory: <*> MB, used: <*>.<*> MB"
+"[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] vcpu limit not specified, defaulting to unlimited","[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Claim successful,[instance: <*>] Claim successful
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f HTTP/1.1"" status: 200 len: 1708 time: 0.1892228","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] During sync_power_state the instance has a pending task (spawning). Skip.,[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.
+"10.11.10.1 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A54%3A58.530160%2B00%3A00 HTTP/1.1"" status: 200 len: 23370 time: 0.3273299","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+The instance sync for host 'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us' did not match. Re-created its InstanceList.,The instance sync for host '<*>' did not match. Re-created its InstanceList.
+Creating event network-vif-plugged:98dbd0a6-013e-4cd9-9986-fa32e5d6dd32 for instance ae3a1b5d-eec1-45bb-b76a-c59d83b1471f,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 20.09 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 20.89 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.129,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.3263230","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Deletion of /var/lib/nova/instances/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f_del complete,[instance: <*>] Deletion of <*> complete
+[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] Took 0.45 seconds to deallocate network for instance.,[instance: <*>] Took <*>.<*> seconds to deallocate network for instance.
+"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A55%3A11.521167%2B00%3A00&host=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us HTTP/1.1"" status: 200 len: 23222 time: 0.2740111","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/flavors/2 HTTP/1.1"" status: 200 len: 604 time: 0.0573232","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.2 ""GET /v2/e9746973ac574c6b8a9e8857f56a7608/images/0673dd71-34c5-4fbb-86c4-40623fbe45b4 HTTP/1.1"" status: 200 len: 868 time: 0.1525230","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU","[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+"[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Total vcpu: 16 VCPU, used: 0.00 VCPU","[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU"
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Claim successful,[instance: <*>] Claim successful
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/43204226-2f87-4da7-b7ee-4d20cc66e846 HTTP/1.1"" status: 200 len: 1708 time: 0.2040591","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] During sync_power_state the instance has a pending task (spawning). Skip.,[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.
+image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking,image <*> at (<*>): checking
+Creating event network-vif-plugged:60df1c66-a513-4973-aeed-095809a52794 for instance 43204226-2f87-4da7-b7ee-4d20cc66e846,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Took 19.37 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+"10.11.21.130,10.11.10.1 ""GET /openstack/2013-10-17/meta_data.json HTTP/1.1"" status: 200 len: 967 time: 0.2323599","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Deleting instance files /var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del,[instance: <*>] Deleting instance files <*>
+"[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Attempting claim: memory 2048 MB, disk 20 GB, vcpus 1 CPU","[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/fecdd5a9-3ca0-4c82-9336-63b7774f738e HTTP/1.1"" status: 200 len: 1708 time: 0.1929550","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:8b683414-2896-4251-aa05-980752c9b9b3 for instance fecdd5a9-3ca0-4c82-9336-63b7774f738e,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 200 len: 380 time: 0.0999198","<*> ""POST <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 21.11 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.131,10.11.10.1 ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: 200 len: 264 time: 0.2973430","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/fecdd5a9-3ca0-4c82-9336-63b7774f738e HTTP/1.1"" status: 204 len: 203 time: 0.2630820","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Terminating instance,[instance: <*>] Terminating instance
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1916 time: 0.2779312","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Deletion of /var/lib/nova/instances/fecdd5a9-3ca0-4c82-9336-63b7774f738e_del complete,[instance: <*>] Deletion of <*> complete
+[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 1.04 seconds to destroy the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.
+"[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Total memory: 64172 MB, used: 512.00 MB","[instance: <*>] Total memory: <*> MB, used: <*>.<*> MB"
+Creating event network-vif-plugged:e1bf6353-ae58-4e46-b2d1-65a69b992bed for instance 63a0d960-70b6-44c6-b606-491478a5cadf,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Took 20.80 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/local-ipv4 HTTP/1.1"" status: 200 len: 129 time: 0.0006690","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/reservation-id HTTP/1.1"" status: 200 len: 127 time: 0.0007050","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/local-hostname HTTP/1.1"" status: 200 len: 130 time: 0.0007689","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/ami-launch-index HTTP/1.1"" status: 200 len: 117 time: 0.0007291","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/public-hostname HTTP/1.1"" status: 200 len: 130 time: 0.2245400","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/hostname HTTP/1.1"" status: 200 len: 130 time: 0.0011861","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.132,10.11.10.1 ""GET /latest/meta-data/ami-id HTTP/1.1"" status: 200 len: 129 time: 0.2386379","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Deletion of /var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del complete,[instance: <*>] Deletion of <*> complete
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 1583 time: 0.2017291","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:f53e6f35-05f7-4896-9abf-6df58d3e69b8 for instance d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Took 20.23 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.133,10.11.10.1 ""GET /openstack/2013-10-17 HTTP/1.1"" status: 200 len: 157 time: 0.2319870","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Terminating instance,[instance: <*>] Terminating instance
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Claim successful,[instance: <*>] Claim successful
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/17288ea8-cbf4-4f0e-94fe-853fd2735f29 HTTP/1.1"" status: 200 len: 1708 time: 0.1789858","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:899a49ed-0154-4308-949e-f59ac7acc66d for instance 17288ea8-cbf4-4f0e-94fe-853fd2735f29,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 18.98 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+"10.11.21.134,10.11.10.1 ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" status: 200 len: 124 time: 0.0007591","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deletion of /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del complete,[instance: <*>] Deletion of <*> complete
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 1.00 seconds to destroy the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.
+[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 0.57 seconds to deallocate network for instance.,[instance: <*>] Took <*>.<*> seconds to deallocate network for instance.
+"[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] disk limit not specified, defaulting to unlimited","[instance: <*>] disk limit not specified, defaulting to unlimited"
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Creating image,[instance: <*>] Creating image
+Creating event network-vif-plugged:1bb8c7a3-effa-4568-8cf7-2b9a55011df9 for instance 70c1714b-c11b-4c88-b300-239afe1f5ff8,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 20.83 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.135,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.0007021","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.135,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/ami HTTP/1.1"" status: 200 len: 119 time: 0.0006430","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/70c1714b-c11b-4c88-b300-239afe1f5ff8 HTTP/1.1"" status: 204 len: 203 time: 0.2632701","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.135,10.11.10.1 ""GET /latest/meta-data/reservation-id HTTP/1.1"" status: 200 len: 127 time: 0.2272091","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Deleting instance files /var/lib/nova/instances/70c1714b-c11b-4c88-b300-239afe1f5ff8_del,[instance: <*>] Deleting instance files <*>
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Took 0.99 seconds to destroy the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.
+"10.11.10.1 ""POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1"" status: 404 len: 296 time: 0.0890410","<*> ""POST <*>"" status: <*> len: <*> time: <*>.<*>"
+"[instance: bf8c824d-f099-4433-a41e-e3da7578262e] disk limit not specified, defaulting to unlimited","[instance: <*>] disk limit not specified, defaulting to unlimited"
+[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] VM Stopped (Lifecycle Event),[instance: <*>] VM Stopped (Lifecycle Event)
+"While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.","While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor."
+Creating event network-vif-plugged:5c0b217a-68a9-46d1-8936-23c5688aa673 for instance bf8c824d-f099-4433-a41e-e3da7578262e,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] VM Resumed (Lifecycle Event),[instance: <*>] VM Resumed (Lifecycle Event)
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 20.31 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.136,10.11.10.1 ""GET /openstack/2013-10-17/meta_data.json HTTP/1.1"" status: 200 len: 967 time: 0.0009689","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.136,10.11.10.1 ""GET /latest/meta-data/placement/ HTTP/1.1"" status: 200 len: 134 time: 0.0015550","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/bf8c824d-f099-4433-a41e-e3da7578262e HTTP/1.1"" status: 204 len: 203 time: 0.2631681","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 0.53 seconds to deallocate network for instance.,[instance: <*>] Took <*>.<*> seconds to deallocate network for instance.
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/be793e89-2cc3-4f99-9884-9c6a624a84bc HTTP/1.1"" status: 200 len: 1708 time: 0.1866481","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:418c107f-95d6-4655-ae6b-90bca57d9a71 for instance be793e89-2cc3-4f99-9884-9c6a624a84bc,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] VM Resumed (Lifecycle Event),[instance: <*>] VM Resumed (Lifecycle Event)
+[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 19.97 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.137,10.11.10.1 ""GET /openstack/2013-10-17/user_data HTTP/1.1"" status: 404 len: 176 time: 0.2108901","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.137,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.2276061","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Deleting instance files /var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del,[instance: <*>] Deleting instance files <*>
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Claim successful,[instance: <*>] Claim successful
+Creating event network-vif-plugged:72791ba0-33ef-44f2-9d88-d7c8f313cb46 for instance a015cf14-84bb-4156-a48d-7c4824ac7a9d,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 20.25 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 21.08 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.138,10.11.10.1 ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: 200 len: 264 time: 0.2088590","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.10.1 ""DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/a015cf14-84bb-4156-a48d-7c4824ac7a9d HTTP/1.1"" status: 204 len: 203 time: 0.3042688","<*> ""DELETE <*>"" status: <*> len: <*> time: <*>.<*>"
+"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] memory limit: 96258.00 MB, free: 95746.00 MB","[instance: <*>] memory limit: <*>.<*> MB, free: <*>.<*> MB"
+"[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Total vcpu: 16 VCPU, used: 0.00 VCPU","[instance: <*>] Total vcpu: <*> VCPU, used: <*>.<*> VCPU"
+Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-0193-4549-bdcc-63b917273d1d,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Took 20.55 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.139,10.11.10.1 ""GET /latest/meta-data/placement/availability-zone HTTP/1.1"" status: 200 len: 120 time: 0.0008299","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.139,10.11.10.1 ""GET /latest/meta-data/local-ipv4 HTTP/1.1"" status: 200 len: 129 time: 0.0008519","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.139,10.11.10.1 ""GET /latest/meta-data/security-groups HTTP/1.1"" status: 200 len: 123 time: 0.0008359","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Total disk: 15 GB, used: 0.00 GB","[instance: <*>] Total disk: <*> GB, used: <*>.<*> GB"
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Claim successful,[instance: <*>] Claim successful
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] VM Started (Lifecycle Event),[instance: <*>] VM Started (Lifecycle Event)
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] VM Paused (Lifecycle Event),[instance: <*>] VM Paused (Lifecycle Event)
+Creating event network-vif-plugged:0b72aca0-102e-4421-8ff3-2902d8353ff0 for instance d6b7bd36-2943-4363-9235-fffdd89ea40e,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 19.19 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 20.05 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.140,10.11.10.1 ""GET /openstack/2013-10-17/vendor_data.json HTTP/1.1"" status: 200 len: 124 time: 0.2250240","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Terminating instance,[instance: <*>] Terminating instance
+[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Deletion of /var/lib/nova/instances/d6b7bd36-2943-4363-9235-fffdd89ea40e_del complete,[instance: <*>] Deletion of <*> complete
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1"" status: 200 len: 211 time: 0.1033430","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] VM Started (Lifecycle Event),[instance: <*>] VM Started (Lifecycle Event)
+Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Instance spawned successfully.,[instance: <*>] Instance spawned successfully.
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Took 20.29 seconds to spawn the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to spawn the instance on the hypervisor.
+"10.11.21.141,10.11.10.1 ""GET /latest/meta-data/ HTTP/1.1"" status: 200 len: 328 time: 0.2267661","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Deletion of /var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del complete,[instance: <*>] Deletion of <*> complete
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/c62f4f25-982c-4ea2-b5e4-93000edfcfbf HTTP/1.1"" status: 200 len: 1708 time: 0.1990912","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+Creating event network-vif-plugged:b73a8d80-ce9e-49ff-bb0d-a1b8571f5e26 for instance c62f4f25-982c-4ea2-b5e4-93000edfcfbf,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Instance spawned successfully.,[instance: <*>] Instance spawned successfully.
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 20.79 seconds to build instance.,[instance: <*>] Took <*>.<*> seconds to build instance.
+"10.11.21.142,10.11.10.1 ""GET /openstack/2013-10-17/meta_data.json HTTP/1.1"" status: 200 len: 967 time: 0.2257652","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Deleting instance files /var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del,[instance: <*>] Deleting instance files <*>
+[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 1.02 seconds to destroy the instance on the hypervisor.,[instance: <*>] Took <*>.<*> seconds to destroy the instance on the hypervisor.
+"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Total disk: 15 GB, used: 0.00 GB","[instance: <*>] Total disk: <*> GB, used: <*>.<*> GB"
+"[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] vcpu limit not specified, defaulting to unlimited","[instance: <*>] vcpu limit not specified, defaulting to unlimited"
+"10.11.10.1 ""GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1"" status: 200 len: 1708 time: 0.1894400","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] Creating image,[instance: <*>] Creating image
+Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f,Creating event network-vif-plugged:<*>-<*>-<*>-<*>-<*> for instance <*>
+"10.11.21.143,10.11.10.1 ""GET /openstack/2012-08-10/meta_data.json HTTP/1.1"" status: 200 len: 264 time: 0.2402911","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"
+"10.11.21.143,10.11.10.1 ""GET /latest/meta-data/block-device-mapping/ HTTP/1.1"" status: 200 len: 124 time: 0.0010331","<*> ""GET <*>"" status: <*> len: <*> time: <*>.<*>"

@@ -1,0 +1,8 @@
+{"query": "Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)", "answer": "Memory: {variables} available ({variables} kernel code, {variables} reserved, {variables} data, {variables} init, {variables} highmem)"}
+{"query": "session closed for user cyrus", "answer": "session closed for user {variables}"}
+{"query": "connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:10 2005", "answer": "connection from {variables} ({variables}) at {variables}"}
+{"query": "check pass; user unknown", "answer": "check pass; user unknown"}
+{"query": "connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005", "answer": "connection from {variables} ({variables}) at {variables}"}
+{"query": "connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005", "answer": "connection from {variables} () at {variables}"}
+{"query": "Initializing Cryptographic API", "answer": "Initializing Cryptographic API"}
+{"query": "connection from 211.107.232.1 () at Fri Jul 15 23:42:43 2005", "answer": "connection from {variables} () at {variables}"}

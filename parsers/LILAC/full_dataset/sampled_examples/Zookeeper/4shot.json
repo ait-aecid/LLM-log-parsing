@@ -1,0 +1,4 @@
+{"query": "autopurge.snapRetainCount set to 3", "answer": "autopurge.snapRetainCount set to {variables}"}
+{"query": "Unexpected Exception:", "answer": "Unexpected Exception:"}
+{"query": "Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT", "answer": "Server environment:{variables}"}
+{"query": "My election bind port: 0.0.0.0/0.0.0.0:3888", "answer": "My election bind port: {variables}/{variables}"}

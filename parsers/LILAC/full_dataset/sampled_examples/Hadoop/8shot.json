@@ -1,0 +1,8 @@
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.36317363", "answer": "Progress of TaskAttempt {variables} is : {variables}"}
+{"query": "Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 304 seconds.  Will retry shortly ...", "answer": "Failed to renew lease for [{variables}] for {variables} seconds. Will retry shortly ..."}
+{"query": "Recalculating schedule, headroom=<memory:0, vCores:-27>", "answer": "Recalculating schedule, headroom=<memory:{variables}, vCores:{variables}"}
+{"query": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)", "answer": "Retrying connect to server: {variables}. Already tried {variables} time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries={variables}, sleepTime={variables} MILLISECONDS)"}
+{"query": "Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.106493875", "answer": "Progress of TaskAttempt {variables} is : {variables}"}
+{"query": "ERROR IN CONTACTING RM.", "answer": "ERROR IN CONTACTING RM."}
+{"query": "Progress of TaskAttempt attempt_1445144423722_0020_m_000007_0 is : 0.19255035", "answer": "Progress of TaskAttempt {variables} is : {variables}"}

@@ -1,0 +1,8 @@
+{"query": "security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime 00:01", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}
+{"query": "showxml.qq.com:80 close, 600 bytes sent, 1716 bytes (1.67 KB) received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "ogs.google.com:443 close, 2476 bytes (2.41 KB) sent, 2643 bytes (2.58 KB) received, lifetime 04:28", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "oimagea5.ydstatic.com:80 error : A connection request was canceled before the completion.", "answer": "{variables} error : A connection request was canceled before the completion."}
+{"query": "clients6.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 483 bytes sent, 342 bytes received, lifetime <1 sec", "answer": "{variables} close, {variables} bytes sent, {variables} bytes received, lifetime {variables}"}

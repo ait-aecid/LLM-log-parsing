@@ -1,0 +1,4 @@
+{"query": "Animating brightness: target=38, rate=200", "answer": "Animating brightness: target={variables}, rate={variables}"}
+{"query": "playSoundEffect   effectType: 0", "answer": "playSoundEffect effectType: {variables}"}
+{"query": "java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token", "answer": "{variables}: {variables} cannot be cast to {variables}$Token"}
+{"query": "ApStaDisabledState what=155652", "answer": "ApStaDisabledState what={variables}"}

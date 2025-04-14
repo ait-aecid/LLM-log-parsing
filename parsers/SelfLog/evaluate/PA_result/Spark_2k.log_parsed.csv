@@ -1,0 +1,2001 @@
+Unnamed: 0,EventId,template
+0.0,E1,Registered signal handlers for [*]
+1.0,E2,"Changing view acls to: <*,*>"
+2.0,E3,"Changing modify acls to: <*,*>"
+3.0,E4,SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(<*>); users with modify permissions: Set(<*>)
+4.0,E2,"Changing view acls to: <*,*>"
+5.0,E3,"Changing modify acls to: <*,*>"
+6.0,E4,SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(<*>); users with modify permissions: Set(<*>)
+7.0,E5,S<*>4jLogger s<*>rted
+8.0,E6,S <*> rting rem <*> ting
+9.0,E7,Remoting started; listening on addresses :[akka.tcp://<*>@<*>:<*>]
+10.0,E8,Successfully started service 'sparkExecutorActorSystem' on port <*>.
+11.0,E9,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_<*>/blockmgr-<*>
+12.0,E10,MemoryStore started with capacity <*> GB
+13.0,E11,Connecting to driver: spark://<*>@<*>:<*>
+14.0,E12,Successfully registered with <*>
+15.0,E13,Starting executor ID <*> on host mesos-slave-*
+16.0,E14,Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.
+17.0,E15,Server created on <*>
+18.0,E16,T*y*ng to register BlockM*nager
+19.0,E17,R<*>gistered BlockM<*>nager
+20.0,E18,Got assigned task <*>
+21.0,E18,Got assigned task <*>
+22.0,E18,Got assigned task <*>
+23.0,E18,Got assigned task <*>
+24.0,E19,Running task <*> in stage <*> (TID <*>)
+25.0,E19,Running task <*> in stage <*> (TID <*>)
+26.0,E19,Running task <*> in stage <*> (TID <*>)
+27.0,E19,Running task <*> in stage <*> (TID <*>)
+28.0,E18,Got assigned task <*>
+29.0,E19,Running task <*> in stage <*> (TID <*>)
+30.0,E20,Started reading broadcast variable <*>
+31.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+32.0,E22,Reading broadcast variable <*> took <*> ms
+33.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+34.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+35.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+36.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+37.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+38.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+39.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+40.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+41.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+42.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+43.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+44.0,E20,Started reading broadcast variable <*>
+45.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+46.0,E22,Reading broadcast variable <*> took <*> ms
+47.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+48.0,E26,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+49.0,E26,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+50.0,E26,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+51.0,E26,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+52.0,E26,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+53.0,E20,Started reading broadcast variable <*>
+54.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+55.0,E22,Reading broadcast variable <*> took <*> ms
+56.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+57.0,E20,Started reading broadcast variable <*>
+58.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+59.0,E22,Reading broadcast variable <*> took <*> ms
+60.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+61.0,E20,Started reading broadcast variable <*>
+62.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+63.0,E22,Reading broadcast variable <*> took <*> ms
+64.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+65.0,E20,Started reading broadcast variable <*>
+66.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+67.0,E22,Reading broadcast variable <*> took <*> ms
+68.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+69.0,E20,Started reading broadcast variable <*>
+70.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+71.0,E22,Reading broadcast variable <*> took <*> ms
+72.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+73.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+74.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+75.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+76.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+77.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+78.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+79.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+80.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+81.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+82.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+83.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+84.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+85.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+86.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+87.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+88.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+89.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+90.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+91.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+92.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+93.0,E18,Got assigned task <*>
+94.0,E19,Running task <*> in stage <*> (TID <*>)
+95.0,E18,Got assigned task <*>
+96.0,E19,Running task <*> in stage <*> (TID <*>)
+97.0,E18,Got assigned task <*>
+98.0,E20,Started reading broadcast variable <*>
+99.0,E19,Running task <*> in stage <*> (TID <*>)
+100.0,E18,Got assigned task <*>
+101.0,E19,Running task <*> in stage <*> (TID <*>)
+102.0,E18,Got assigned task <*>
+103.0,E19,Running task <*> in stage <*> (TID <*>)
+104.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+105.0,E22,Reading broadcast variable <*> took <*> ms
+106.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+107.0,E30,Found block rdd_<*>_<*> locally
+108.0,E30,Found block rdd_<*>_<*> locally
+109.0,E30,Found block rdd_<*>_<*> locally
+110.0,E30,Found block rdd_<*>_<*> locally
+111.0,E30,Found block rdd_<*>_<*> locally
+112.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+113.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+114.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+115.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+116.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+117.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+118.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+119.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+120.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+121.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+122.0,E18,Got assigned task <*>
+123.0,E19,Running task <*> in stage <*> (TID <*>)
+124.0,E18,Got assigned task <*>
+125.0,E19,Running task <*> in stage <*> (TID <*>)
+126.0,E18,Got assigned task <*>
+127.0,E19,Running task <*> in stage <*> (TID <*>)
+128.0,E18,Got assigned task <*>
+129.0,E19,Running task <*> in stage <*> (TID <*>)
+130.0,E20,Started reading broadcast variable <*>
+131.0,E18,Got assigned task <*>
+132.0,E19,Running task <*> in stage <*> (TID <*>)
+133.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+134.0,E22,Reading broadcast variable <*> took <*> ms
+135.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+136.0,E30,Found block rdd_<*>_<*> locally
+137.0,E30,Found block rdd_<*>_<*> locally
+138.0,E30,Found block rdd_<*>_<*> locally
+139.0,E30,Found block rdd_<*>_<*> locally
+140.0,E30,Found block rdd_<*>_<*> locally
+141.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+142.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+143.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+144.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+145.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+146.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+147.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+148.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+149.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+150.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+151.0,E18,Got assigned task <*>
+152.0,E19,Running task <*> in stage <*> (TID <*>)
+153.0,E18,Got assigned task <*>
+154.0,E19,Running task <*> in stage <*> (TID <*>)
+155.0,E18,Got assigned task <*>
+156.0,E19,Running task <*> in stage <*> (TID <*>)
+157.0,E18,Got assigned task <*>
+158.0,E19,Running task <*> in stage <*> (TID <*>)
+159.0,E20,Started reading broadcast variable <*>
+160.0,E18,Got assigned task <*>
+161.0,E19,Running task <*> in stage <*> (TID <*>)
+162.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+163.0,E22,Reading broadcast variable <*> took <*> ms
+164.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+165.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+166.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+167.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+168.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+169.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+170.0,E30,Found block rdd_<*>_<*> locally
+171.0,E30,Found block rdd_<*>_<*> locally
+172.0,E30,Found block rdd_<*>_<*> locally
+173.0,E30,Found block rdd_<*>_<*> locally
+174.0,E30,Found block rdd_<*>_<*> locally
+175.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+176.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+177.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+178.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+179.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+180.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+181.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+182.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+183.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+184.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+185.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+186.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+187.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+188.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+189.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+190.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+191.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+192.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+193.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+194.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+195.0,E18,Got assigned task <*>
+196.0,E19,Running task <*> in stage <*> (TID <*>)
+197.0,E18,Got assigned task <*>
+198.0,E19,Running task <*> in stage <*> (TID <*>)
+199.0,E20,Started reading broadcast variable <*>
+200.0,E18,Got assigned task <*>
+201.0,E19,Running task <*> in stage <*> (TID <*>)
+202.0,E18,Got assigned task <*>
+203.0,E19,Running task <*> in stage <*> (TID <*>)
+204.0,E18,Got assigned task <*>
+205.0,E19,Running task <*> in stage <*> (TID <*>)
+206.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+207.0,E22,Reading broadcast variable <*> took <*> ms
+208.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+209.0,E30,Found block rdd_<*>_<*> locally
+210.0,E30,Found block rdd_<*>_<*> locally
+211.0,E30,Found block rdd_<*>_<*> locally
+212.0,E30,Found block rdd_<*>_<*> locally
+213.0,E30,Found block rdd_<*>_<*> locally
+214.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+215.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+216.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+217.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+218.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+219.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+220.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+221.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+222.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+223.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+224.0,E18,Got assigned task <*>
+225.0,E19,Running task <*> in stage <*> (TID <*>)
+226.0,E18,Got assigned task <*>
+227.0,E19,Running task <*> in stage <*> (TID <*>)
+228.0,E18,Got assigned task <*>
+229.0,E19,Running task <*> in stage <*> (TID <*>)
+230.0,E20,Started reading broadcast variable <*>
+231.0,E18,Got assigned task <*>
+232.0,E19,Running task <*> in stage <*> (TID <*>)
+233.0,E18,Got assigned task <*>
+234.0,E19,Running task <*> in stage <*> (TID <*>)
+235.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+236.0,E22,Reading broadcast variable <*> took <*> ms
+237.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+238.0,E30,Found block rdd_<*>_<*> locally
+239.0,E30,Found block rdd_<*>_<*> locally
+240.0,E30,Found block rdd_<*>_<*> locally
+241.0,E30,Found block rdd_<*>_<*> locally
+242.0,E30,Found block rdd_<*>_<*> locally
+243.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+244.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+245.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+246.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+247.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+248.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+249.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+250.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+251.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+252.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+253.0,E18,Got assigned task <*>
+254.0,E19,Running task <*> in stage <*> (TID <*>)
+255.0,E18,Got assigned task <*>
+256.0,E19,Running task <*> in stage <*> (TID <*>)
+257.0,E18,Got assigned task <*>
+258.0,E19,Running task <*> in stage <*> (TID <*>)
+259.0,E20,Started reading broadcast variable <*>
+260.0,E18,Got assigned task <*>
+261.0,E19,Running task <*> in stage <*> (TID <*>)
+262.0,E18,Got assigned task <*>
+263.0,E19,Running task <*> in stage <*> (TID <*>)
+264.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+265.0,E22,Reading broadcast variable <*> took <*> ms
+266.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+267.0,E30,Found block rdd_<*>_<*> locally
+268.0,E30,Found block rdd_<*>_<*> locally
+269.0,E30,Found block rdd_<*>_<*> locally
+270.0,E30,Found block rdd_<*>_<*> locally
+271.0,E30,Found block rdd_<*>_<*> locally
+272.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+273.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+274.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+275.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+276.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+277.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+278.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+279.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+280.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+281.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+282.0,E18,Got assigned task <*>
+283.0,E19,Running task <*> in stage <*> (TID <*>)
+284.0,E18,Got assigned task <*>
+285.0,E19,Running task <*> in stage <*> (TID <*>)
+286.0,E18,Got assigned task <*>
+287.0,E19,Running task <*> in stage <*> (TID <*>)
+288.0,E18,Got assigned task <*>
+289.0,E19,Running task <*> in stage <*> (TID <*>)
+290.0,E20,Started reading broadcast variable <*>
+291.0,E18,Got assigned task <*>
+292.0,E19,Running task <*> in stage <*> (TID <*>)
+293.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+294.0,E22,Reading broadcast variable <*> took <*> ms
+295.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+296.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+297.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+298.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+299.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+300.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+301.0,E30,Found block rdd_<*>_<*> locally
+302.0,E30,Found block rdd_<*>_<*> locally
+303.0,E30,Found block rdd_<*>_<*> locally
+304.0,E30,Found block rdd_<*>_<*> locally
+305.0,E30,Found block rdd_<*>_<*> locally
+306.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+307.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+308.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+309.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+310.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+311.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+312.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+313.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+314.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+315.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+316.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+317.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+318.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+319.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+320.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+321.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+322.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+323.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+324.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+325.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+326.0,E18,Got assigned task <*>
+327.0,E19,Running task <*> in stage <*> (TID <*>)
+328.0,E18,Got assigned task <*>
+329.0,E19,Running task <*> in stage <*> (TID <*>)
+330.0,E18,Got assigned task <*>
+331.0,E19,Running task <*> in stage <*> (TID <*>)
+332.0,E20,Started reading broadcast variable <*>
+333.0,E18,Got assigned task <*>
+334.0,E19,Running task <*> in stage <*> (TID <*>)
+335.0,E18,Got assigned task <*>
+336.0,E19,Running task <*> in stage <*> (TID <*>)
+337.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+338.0,E22,Reading broadcast variable <*> took <*> ms
+339.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+340.0,E30,Found block rdd_<*>_<*> locally
+341.0,E30,Found block rdd_<*>_<*> locally
+342.0,E30,Found block rdd_<*>_<*> locally
+343.0,E30,Found block rdd_<*>_<*> locally
+344.0,E30,Found block rdd_<*>_<*> locally
+345.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+346.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+347.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+348.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+349.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+350.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+351.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+352.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+353.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+354.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+355.0,E18,Got assigned task <*>
+356.0,E19,Running task <*> in stage <*> (TID <*>)
+357.0,E18,Got assigned task <*>
+358.0,E19,Running task <*> in stage <*> (TID <*>)
+359.0,E18,Got assigned task <*>
+360.0,E19,Running task <*> in stage <*> (TID <*>)
+361.0,E18,Got assigned task <*>
+362.0,E20,Started reading broadcast variable <*>
+363.0,E19,Running task <*> in stage <*> (TID <*>)
+364.0,E18,Got assigned task <*>
+365.0,E19,Running task <*> in stage <*> (TID <*>)
+366.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+367.0,E22,Reading broadcast variable <*> took <*> ms
+368.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+369.0,E30,Found block rdd_<*>_<*> locally
+370.0,E30,Found block rdd_<*>_<*> locally
+371.0,E30,Found block rdd_<*>_<*> locally
+372.0,E30,Found block rdd_<*>_<*> locally
+373.0,E30,Found block rdd_<*>_<*> locally
+374.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+375.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+376.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+377.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+378.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+379.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+380.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+381.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+382.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+383.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+384.0,E18,Got assigned task <*>
+385.0,E19,Running task <*> in stage <*> (TID <*>)
+386.0,E18,Got assigned task <*>
+387.0,E19,Running task <*> in stage <*> (TID <*>)
+388.0,E18,Got assigned task <*>
+389.0,E19,Running task <*> in stage <*> (TID <*>)
+390.0,E18,Got assigned task <*>
+391.0,E19,Running task <*> in stage <*> (TID <*>)
+392.0,E20,Started reading broadcast variable <*>
+393.0,E18,Got assigned task <*>
+394.0,E19,Running task <*> in stage <*> (TID <*>)
+395.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+396.0,E22,Reading broadcast variable <*> took <*> ms
+397.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+398.0,E30,Found block rdd_<*>_<*> locally
+399.0,E30,Found block rdd_<*>_<*> locally
+400.0,E30,Found block rdd_<*>_<*> locally
+401.0,E30,Found block rdd_<*>_<*> locally
+402.0,E30,Found block rdd_<*>_<*> locally
+403.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+404.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+405.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+406.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+407.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+408.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+409.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+410.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+411.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+412.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+413.0,E18,Got assigned task <*>
+414.0,E19,Running task <*> in stage <*> (TID <*>)
+415.0,E18,Got assigned task <*>
+416.0,E19,Running task <*> in stage <*> (TID <*>)
+417.0,E18,Got assigned task <*>
+418.0,E19,Running task <*> in stage <*> (TID <*>)
+419.0,E18,Got assigned task <*>
+420.0,E20,Started reading broadcast variable <*>
+421.0,E19,Running task <*> in stage <*> (TID <*>)
+422.0,E18,Got assigned task <*>
+423.0,E19,Running task <*> in stage <*> (TID <*>)
+424.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+425.0,E22,Reading broadcast variable <*> took <*> ms
+426.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+427.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+428.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+429.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+430.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+431.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+432.0,E30,Found block rdd_<*>_<*> locally
+433.0,E30,Found block rdd_<*>_<*> locally
+434.0,E30,Found block rdd_<*>_<*> locally
+435.0,E30,Found block rdd_<*>_<*> locally
+436.0,E30,Found block rdd_<*>_<*> locally
+437.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+438.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+439.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+440.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+441.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+442.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+443.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+444.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+445.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+446.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+447.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+448.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+449.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+450.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+451.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+452.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+453.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+454.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+455.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+456.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+457.0,E18,Got assigned task <*>
+458.0,E19,Running task <*> in stage <*> (TID <*>)
+459.0,E18,Got assigned task <*>
+460.0,E19,Running task <*> in stage <*> (TID <*>)
+461.0,E18,Got assigned task <*>
+462.0,E20,Started reading broadcast variable <*>
+463.0,E19,Running task <*> in stage <*> (TID <*>)
+464.0,E18,Got assigned task <*>
+465.0,E19,Running task <*> in stage <*> (TID <*>)
+466.0,E18,Got assigned task <*>
+467.0,E19,Running task <*> in stage <*> (TID <*>)
+468.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+469.0,E22,Reading broadcast variable <*> took <*> ms
+470.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+471.0,E30,Found block rdd_<*>_<*> locally
+472.0,E30,Found block rdd_<*>_<*> locally
+473.0,E30,Found block rdd_<*>_<*> locally
+474.0,E30,Found block rdd_<*>_<*> locally
+475.0,E30,Found block rdd_<*>_<*> locally
+476.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+477.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+478.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+479.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+480.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+481.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+482.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+483.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+484.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+485.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+486.0,E18,Got assigned task <*>
+487.0,E19,Running task <*> in stage <*> (TID <*>)
+488.0,E18,Got assigned task <*>
+489.0,E19,Running task <*> in stage <*> (TID <*>)
+490.0,E18,Got assigned task <*>
+491.0,E19,Running task <*> in stage <*> (TID <*>)
+492.0,E20,Started reading broadcast variable <*>
+493.0,E18,Got assigned task <*>
+494.0,E19,Running task <*> in stage <*> (TID <*>)
+495.0,E18,Got assigned task <*>
+496.0,E19,Running task <*> in stage <*> (TID <*>)
+497.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+498.0,E22,Reading broadcast variable <*> took <*> ms
+499.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+500.0,E30,Found block rdd_<*>_<*> locally
+501.0,E30,Found block rdd_<*>_<*> locally
+502.0,E30,Found block rdd_<*>_<*> locally
+503.0,E30,Found block rdd_<*>_<*> locally
+504.0,E30,Found block rdd_<*>_<*> locally
+505.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+506.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+507.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+508.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+509.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+510.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+511.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+512.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+513.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+514.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+515.0,E18,Got assigned task <*>
+516.0,E19,Running task <*> in stage <*> (TID <*>)
+517.0,E18,Got assigned task <*>
+518.0,E19,Running task <*> in stage <*> (TID <*>)
+519.0,E18,Got assigned task <*>
+520.0,E19,Running task <*> in stage <*> (TID <*>)
+521.0,E20,Started reading broadcast variable <*>
+522.0,E18,Got assigned task <*>
+523.0,E19,Running task <*> in stage <*> (TID <*>)
+524.0,E18,Got assigned task <*>
+525.0,E19,Running task <*> in stage <*> (TID <*>)
+526.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+527.0,E22,Reading broadcast variable <*> took <*> ms
+528.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+529.0,E30,Found block rdd_<*>_<*> locally
+530.0,E30,Found block rdd_<*>_<*> locally
+531.0,E30,Found block rdd_<*>_<*> locally
+532.0,E30,Found block rdd_<*>_<*> locally
+533.0,E30,Found block rdd_<*>_<*> locally
+534.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+535.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+536.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+537.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+538.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+539.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+540.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+541.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+542.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+543.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+544.0,E18,Got assigned task <*>
+545.0,E19,Running task <*> in stage <*> (TID <*>)
+546.0,E18,Got assigned task <*>
+547.0,E19,Running task <*> in stage <*> (TID <*>)
+548.0,E18,Got assigned task <*>
+549.0,E19,Running task <*> in stage <*> (TID <*>)
+550.0,E18,Got assigned task <*>
+551.0,E19,Running task <*> in stage <*> (TID <*>)
+552.0,E18,Got assigned task <*>
+553.0,E19,Running task <*> in stage <*> (TID <*>)
+554.0,E20,Started reading broadcast variable <*>
+555.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+556.0,E22,Reading broadcast variable <*> took <*> ms
+557.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+558.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+559.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+560.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+561.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+562.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+563.0,E30,Found block rdd_<*>_<*> locally
+564.0,E30,Found block rdd_<*>_<*> locally
+565.0,E30,Found block rdd_<*>_<*> locally
+566.0,E30,Found block rdd_<*>_<*> locally
+567.0,E30,Found block rdd_<*>_<*> locally
+568.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+569.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+570.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+571.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+572.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+573.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+574.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+575.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+576.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+577.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+578.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+579.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+580.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+581.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+582.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+583.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+584.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+585.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+586.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+587.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+588.0,E18,Got assigned task <*>
+589.0,E19,Running task <*> in stage <*> (TID <*>)
+590.0,E18,Got assigned task <*>
+591.0,E19,Running task <*> in stage <*> (TID <*>)
+592.0,E18,Got assigned task <*>
+593.0,E19,Running task <*> in stage <*> (TID <*>)
+594.0,E18,Got assigned task <*>
+595.0,E20,Started reading broadcast variable <*>
+596.0,E19,Running task <*> in stage <*> (TID <*>)
+597.0,E18,Got assigned task <*>
+598.0,E19,Running task <*> in stage <*> (TID <*>)
+599.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+600.0,E22,Reading broadcast variable <*> took <*> ms
+601.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+602.0,E30,Found block rdd_<*>_<*> locally
+603.0,E30,Found block rdd_<*>_<*> locally
+604.0,E30,Found block rdd_<*>_<*> locally
+605.0,E30,Found block rdd_<*>_<*> locally
+606.0,E30,Found block rdd_<*>_<*> locally
+607.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+608.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+609.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+610.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+611.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+612.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+613.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+614.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+615.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+616.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+617.0,E18,Got assigned task <*>
+618.0,E19,Running task <*> in stage <*> (TID <*>)
+619.0,E18,Got assigned task <*>
+620.0,E19,Running task <*> in stage <*> (TID <*>)
+621.0,E18,Got assigned task <*>
+622.0,E19,Running task <*> in stage <*> (TID <*>)
+623.0,E18,Got assigned task <*>
+624.0,E20,Started reading broadcast variable <*>
+625.0,E19,Running task <*> in stage <*> (TID <*>)
+626.0,E18,Got assigned task <*>
+627.0,E19,Running task <*> in stage <*> (TID <*>)
+628.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+629.0,E22,Reading broadcast variable <*> took <*> ms
+630.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+631.0,E30,Found block rdd_<*>_<*> locally
+632.0,E30,Found block rdd_<*>_<*> locally
+633.0,E30,Found block rdd_<*>_<*> locally
+634.0,E30,Found block rdd_<*>_<*> locally
+635.0,E30,Found block rdd_<*>_<*> locally
+636.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+637.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+638.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+639.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+640.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+641.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+642.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+643.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+644.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+645.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+646.0,E18,Got assigned task <*>
+647.0,E19,Running task <*> in stage <*> (TID <*>)
+648.0,E18,Got assigned task <*>
+649.0,E19,Running task <*> in stage <*> (TID <*>)
+650.0,E18,Got assigned task <*>
+651.0,E19,Running task <*> in stage <*> (TID <*>)
+652.0,E18,Got assigned task <*>
+653.0,E19,Running task <*> in stage <*> (TID <*>)
+654.0,E20,Started reading broadcast variable <*>
+655.0,E18,Got assigned task <*>
+656.0,E19,Running task <*> in stage <*> (TID <*>)
+657.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+658.0,E22,Reading broadcast variable <*> took <*> ms
+659.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+660.0,E30,Found block rdd_<*>_<*> locally
+661.0,E30,Found block rdd_<*>_<*> locally
+662.0,E30,Found block rdd_<*>_<*> locally
+663.0,E30,Found block rdd_<*>_<*> locally
+664.0,E30,Found block rdd_<*>_<*> locally
+665.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+666.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+667.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+668.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+669.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+670.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+671.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+672.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+673.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+674.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+675.0,E18,Got assigned task <*>
+676.0,E19,Running task <*> in stage <*> (TID <*>)
+677.0,E18,Got assigned task <*>
+678.0,E19,Running task <*> in stage <*> (TID <*>)
+679.0,E18,Got assigned task <*>
+680.0,E19,Running task <*> in stage <*> (TID <*>)
+681.0,E18,Got assigned task <*>
+682.0,E19,Running task <*> in stage <*> (TID <*>)
+683.0,E20,Started reading broadcast variable <*>
+684.0,E18,Got assigned task <*>
+685.0,E19,Running task <*> in stage <*> (TID <*>)
+686.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+687.0,E22,Reading broadcast variable <*> took <*> ms
+688.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+689.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+690.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+691.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+692.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+693.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+694.0,E30,Found block rdd_<*>_<*> locally
+695.0,E30,Found block rdd_<*>_<*> locally
+696.0,E30,Found block rdd_<*>_<*> locally
+697.0,E30,Found block rdd_<*>_<*> locally
+698.0,E30,Found block rdd_<*>_<*> locally
+699.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+700.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+701.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+702.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+703.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+704.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+705.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+706.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+707.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+708.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+709.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+710.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+711.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+712.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+713.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+714.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+715.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+716.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+717.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+718.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+719.0,E18,Got assigned task <*>
+720.0,E19,Running task <*> in stage <*> (TID <*>)
+721.0,E18,Got assigned task <*>
+722.0,E19,Running task <*> in stage <*> (TID <*>)
+723.0,E18,Got assigned task <*>
+724.0,E19,Running task <*> in stage <*> (TID <*>)
+725.0,E18,Got assigned task <*>
+726.0,E20,Started reading broadcast variable <*>
+727.0,E19,Running task <*> in stage <*> (TID <*>)
+728.0,E18,Got assigned task <*>
+729.0,E19,Running task <*> in stage <*> (TID <*>)
+730.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+731.0,E22,Reading broadcast variable <*> took <*> ms
+732.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+733.0,E30,Found block rdd_<*>_<*> locally
+734.0,E30,Found block rdd_<*>_<*> locally
+735.0,E30,Found block rdd_<*>_<*> locally
+736.0,E30,Found block rdd_<*>_<*> locally
+737.0,E30,Found block rdd_<*>_<*> locally
+738.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+739.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+740.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+741.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+742.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+743.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+744.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+745.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+746.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+747.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+748.0,E18,Got assigned task <*>
+749.0,E19,Running task <*> in stage <*> (TID <*>)
+750.0,E18,Got assigned task <*>
+751.0,E19,Running task <*> in stage <*> (TID <*>)
+752.0,E18,Got assigned task <*>
+753.0,E19,Running task <*> in stage <*> (TID <*>)
+754.0,E18,Got assigned task <*>
+755.0,E19,Running task <*> in stage <*> (TID <*>)
+756.0,E20,Started reading broadcast variable <*>
+757.0,E18,Got assigned task <*>
+758.0,E19,Running task <*> in stage <*> (TID <*>)
+759.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+760.0,E22,Reading broadcast variable <*> took <*> ms
+761.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+762.0,E30,Found block rdd_<*>_<*> locally
+763.0,E30,Found block rdd_<*>_<*> locally
+764.0,E30,Found block rdd_<*>_<*> locally
+765.0,E30,Found block rdd_<*>_<*> locally
+766.0,E30,Found block rdd_<*>_<*> locally
+767.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+768.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+769.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+770.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+771.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+772.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+773.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+774.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+775.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+776.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+777.0,E18,Got assigned task <*>
+778.0,E19,Running task <*> in stage <*> (TID <*>)
+779.0,E18,Got assigned task <*>
+780.0,E19,Running task <*> in stage <*> (TID <*>)
+781.0,E18,Got assigned task <*>
+782.0,E19,Running task <*> in stage <*> (TID <*>)
+783.0,E18,Got assigned task <*>
+784.0,E19,Running task <*> in stage <*> (TID <*>)
+785.0,E18,Got assigned task <*>
+786.0,E19,Running task <*> in stage <*> (TID <*>)
+787.0,E20,Started reading broadcast variable <*>
+788.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+789.0,E22,Reading broadcast variable <*> took <*> ms
+790.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+791.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+792.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+793.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+794.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+795.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+796.0,E30,Found block rdd_<*>_<*> locally
+797.0,E30,Found block rdd_<*>_<*> locally
+798.0,E30,Found block rdd_<*>_<*> locally
+799.0,E30,Found block rdd_<*>_<*> locally
+800.0,E30,Found block rdd_<*>_<*> locally
+801.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+802.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+803.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+804.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+805.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+806.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+807.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+808.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+809.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+810.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+811.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+812.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+813.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+814.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+815.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+816.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+817.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+818.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+819.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+820.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+821.0,E18,Got assigned task <*>
+822.0,E19,Running task <*> in stage <*> (TID <*>)
+823.0,E18,Got assigned task <*>
+824.0,E19,Running task <*> in stage <*> (TID <*>)
+825.0,E20,Started reading broadcast variable <*>
+826.0,E18,Got assigned task <*>
+827.0,E19,Running task <*> in stage <*> (TID <*>)
+828.0,E18,Got assigned task <*>
+829.0,E19,Running task <*> in stage <*> (TID <*>)
+830.0,E18,Got assigned task <*>
+831.0,E19,Running task <*> in stage <*> (TID <*>)
+832.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+833.0,E22,Reading broadcast variable <*> took <*> ms
+834.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+835.0,E30,Found block rdd_<*>_<*> locally
+836.0,E30,Found block rdd_<*>_<*> locally
+837.0,E30,Found block rdd_<*>_<*> locally
+838.0,E30,Found block rdd_<*>_<*> locally
+839.0,E30,Found block rdd_<*>_<*> locally
+840.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+841.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+842.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+843.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+844.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+845.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+846.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+847.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+848.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+849.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+850.0,E18,Got assigned task <*>
+851.0,E19,Running task <*> in stage <*> (TID <*>)
+852.0,E18,Got assigned task <*>
+853.0,E19,Running task <*> in stage <*> (TID <*>)
+854.0,E18,Got assigned task <*>
+855.0,E19,Running task <*> in stage <*> (TID <*>)
+856.0,E18,Got assigned task <*>
+857.0,E19,Running task <*> in stage <*> (TID <*>)
+858.0,E18,Got assigned task <*>
+859.0,E19,Running task <*> in stage <*> (TID <*>)
+860.0,E20,Started reading broadcast variable <*>
+861.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+862.0,E22,Reading broadcast variable <*> took <*> ms
+863.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+864.0,E30,Found block rdd_<*>_<*> locally
+865.0,E30,Found block rdd_<*>_<*> locally
+866.0,E30,Found block rdd_<*>_<*> locally
+867.0,E30,Found block rdd_<*>_<*> locally
+868.0,E30,Found block rdd_<*>_<*> locally
+869.0,E31,File Output Committer Algorithm version is <*>
+870.0,E31,File Output Committer Algorithm version is <*>
+871.0,E31,File Output Committer Algorithm version is <*>
+872.0,E31,File Output Committer Algorithm version is <*>
+873.0,E31,File Output Committer Algorithm version is <*>
+874.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+875.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+876.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+877.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+878.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+879.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+880.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+881.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+882.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+883.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+884.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+885.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+886.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+887.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+888.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+889.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+890.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+891.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+892.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+893.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+894.0,E18,Got assigned task <*>
+895.0,E19,Running task <*> in stage <*> (TID <*>)
+896.0,E18,Got assigned task <*>
+897.0,E19,Running task <*> in stage <*> (TID <*>)
+898.0,E18,Got assigned task <*>
+899.0,E19,Running task <*> in stage <*> (TID <*>)
+900.0,E18,Got assigned task <*>
+901.0,E19,Running task <*> in stage <*> (TID <*>)
+902.0,E18,Got assigned task <*>
+903.0,E19,Running task <*> in stage <*> (TID <*>)
+904.0,E30,Found block rdd_<*>_<*> locally
+905.0,E30,Found block rdd_<*>_<*> locally
+906.0,E30,Found block rdd_<*>_<*> locally
+907.0,E30,Found block rdd_<*>_<*> locally
+908.0,E30,Found block rdd_<*>_<*> locally
+909.0,E31,File Output Committer Algorithm version is <*>
+910.0,E31,File Output Committer Algorithm version is <*>
+911.0,E31,File Output Committer Algorithm version is <*>
+912.0,E31,File Output Committer Algorithm version is <*>
+913.0,E31,File Output Committer Algorithm version is <*>
+914.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+915.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+916.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+917.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+918.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+919.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+920.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+921.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+922.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+923.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+924.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+925.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+926.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+927.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+928.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+929.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+930.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+931.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+932.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+933.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+934.0,E18,Got assigned task <*>
+935.0,E19,Running task <*> in stage <*> (TID <*>)
+936.0,E18,Got assigned task <*>
+937.0,E19,Running task <*> in stage <*> (TID <*>)
+938.0,E18,Got assigned task <*>
+939.0,E19,Running task <*> in stage <*> (TID <*>)
+940.0,E18,Got assigned task <*>
+941.0,E19,Running task <*> in stage <*> (TID <*>)
+942.0,E18,Got assigned task <*>
+943.0,E19,Running task <*> in stage <*> (TID <*>)
+944.0,E30,Found block rdd_<*>_<*> locally
+945.0,E30,Found block rdd_<*>_<*> locally
+946.0,E30,Found block rdd_<*>_<*> locally
+947.0,E30,Found block rdd_<*>_<*> locally
+948.0,E30,Found block rdd_<*>_<*> locally
+949.0,E31,File Output Committer Algorithm version is <*>
+950.0,E31,File Output Committer Algorithm version is <*>
+951.0,E31,File Output Committer Algorithm version is <*>
+952.0,E31,File Output Committer Algorithm version is <*>
+953.0,E31,File Output Committer Algorithm version is <*>
+954.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+955.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+956.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+957.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+958.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+959.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+960.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+961.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+962.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+963.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+964.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+965.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+966.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+967.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+968.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+969.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+970.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+971.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+972.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+973.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+974.0,E18,Got assigned task <*>
+975.0,E19,Running task <*> in stage <*> (TID <*>)
+976.0,E18,Got assigned task <*>
+977.0,E19,Running task <*> in stage <*> (TID <*>)
+978.0,E18,Got assigned task <*>
+979.0,E19,Running task <*> in stage <*> (TID <*>)
+980.0,E18,Got assigned task <*>
+981.0,E19,Running task <*> in stage <*> (TID <*>)
+982.0,E18,Got assigned task <*>
+983.0,E19,Running task <*> in stage <*> (TID <*>)
+984.0,E30,Found block rdd_<*>_<*> locally
+985.0,E30,Found block rdd_<*>_<*> locally
+986.0,E30,Found block rdd_<*>_<*> locally
+987.0,E30,Found block rdd_<*>_<*> locally
+988.0,E30,Found block rdd_<*>_<*> locally
+989.0,E31,File Output Committer Algorithm version is <*>
+990.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+991.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+992.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+993.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+994.0,E31,File Output Committer Algorithm version is <*>
+995.0,E31,File Output Committer Algorithm version is <*>
+996.0,E31,File Output Committer Algorithm version is <*>
+997.0,E31,File Output Committer Algorithm version is <*>
+998.0,E18,Got assigned task <*>
+999.0,E19,Running task <*> in stage <*> (TID <*>)
+1000.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1001.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1002.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1003.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1004.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1005.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1006.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1007.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1008.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1009.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1010.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1011.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1012.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1013.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1014.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1015.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1016.0,E18,Got assigned task <*>
+1017.0,E19,Running task <*> in stage <*> (TID <*>)
+1018.0,E18,Got assigned task <*>
+1019.0,E18,Got assigned task <*>
+1020.0,E19,Running task <*> in stage <*> (TID <*>)
+1021.0,E19,Running task <*> in stage <*> (TID <*>)
+1022.0,E18,Got assigned task <*>
+1023.0,E19,Running task <*> in stage <*> (TID <*>)
+1024.0,E30,Found block rdd_<*>_<*> locally
+1025.0,E30,Found block rdd_<*>_<*> locally
+1026.0,E30,Found block rdd_<*>_<*> locally
+1027.0,E30,Found block rdd_<*>_<*> locally
+1028.0,E30,Found block rdd_<*>_<*> locally
+1029.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1030.0,E31,File Output Committer Algorithm version is <*>
+1031.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1032.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1033.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1034.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1035.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1036.0,E31,File Output Committer Algorithm version is <*>
+1037.0,E31,File Output Committer Algorithm version is <*>
+1038.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1039.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1040.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1041.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1042.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1043.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1044.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1045.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1046.0,E31,File Output Committer Algorithm version is <*>
+1047.0,E31,File Output Committer Algorithm version is <*>
+1048.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1049.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1050.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1051.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1052.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1053.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1054.0,E18,Got assigned task <*>
+1055.0,E18,Got assigned task <*>
+1056.0,E19,Running task <*> in stage <*> (TID <*>)
+1057.0,E19,Running task <*> in stage <*> (TID <*>)
+1058.0,E18,Got assigned task <*>
+1059.0,E19,Running task <*> in stage <*> (TID <*>)
+1060.0,E18,Got assigned task <*>
+1061.0,E19,Running task <*> in stage <*> (TID <*>)
+1062.0,E18,Got assigned task <*>
+1063.0,E19,Running task <*> in stage <*> (TID <*>)
+1064.0,E20,Started reading broadcast variable <*>
+1065.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+1066.0,E22,Reading broadcast variable <*> took <*> ms
+1067.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+1068.0,E30,Found block rdd_<*>_<*> locally
+1069.0,E30,Found block rdd_<*>_<*> locally
+1070.0,E30,Found block rdd_<*>_<*> locally
+1071.0,E30,Found block rdd_<*>_<*> locally
+1072.0,E30,Found block rdd_<*>_<*> locally
+1073.0,E31,File Output Committer Algorithm version is <*>
+1074.0,E31,File Output Committer Algorithm version is <*>
+1075.0,E31,File Output Committer Algorithm version is <*>
+1076.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1077.0,E31,File Output Committer Algorithm version is <*>
+1078.0,E31,File Output Committer Algorithm version is <*>
+1079.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1080.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1081.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1082.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1083.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1084.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1085.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1086.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1087.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1088.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1089.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1090.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1091.0,E32,Saved output of task 'attempt_<*>_<*>_<*>_<*>_<*>_<*>' to hdfs://<*>:<*>/pjhe/test/<*>/_temporary/<*>/task_<*>_<*>_<*>_<*>
+1092.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1093.0,E33,0: attempt_<*>_<*>_<*>_<*>_<*>: Committed
+1094.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1095.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1096.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1097.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1098.0,E18,Got assigned task <*>
+1099.0,E18,Got assigned task <*>
+1100.0,E19,Running task <*> in stage <*> (TID <*>)
+1101.0,E19,Running task <*> in stage <*> (TID <*>)
+1102.0,E18,Got assigned task <*>
+1103.0,E19,Running task <*> in stage <*> (TID <*>)
+1104.0,E18,Got assigned task <*>
+1105.0,E19,Running task <*> in stage <*> (TID <*>)
+1106.0,E18,Got assigned task <*>
+1107.0,E19,Running task <*> in stage <*> (TID <*>)
+1108.0,E20,Started reading broadcast variable <*>
+1109.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+1110.0,E22,Reading broadcast variable <*> took <*> ms
+1111.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+1112.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1113.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1114.0,E20,Started reading broadcast variable <*>
+1115.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1116.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1117.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1118.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1119.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1120.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1121.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1122.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1123.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+1124.0,E22,Reading broadcast variable <*> took <*> ms
+1125.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+1126.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1127.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1128.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1129.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1130.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1131.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1132.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1133.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1134.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1135.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1136.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1137.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1138.0,E18,Got assigned task <*>
+1139.0,E19,Running task <*> in stage <*> (TID <*>)
+1140.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1141.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1142.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1143.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1144.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1145.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1146.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1147.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1148.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1149.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1150.0,E18,Got assigned task <*>
+1151.0,E19,Running task <*> in stage <*> (TID <*>)
+1152.0,E18,Got assigned task <*>
+1153.0,E19,Running task <*> in stage <*> (TID <*>)
+1154.0,E18,Got assigned task <*>
+1155.0,E19,Running task <*> in stage <*> (TID <*>)
+1156.0,E18,Got assigned task <*>
+1157.0,E19,Running task <*> in stage <*> (TID <*>)
+1158.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1159.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1160.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1161.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1162.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1163.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1164.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1165.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1166.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1167.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1168.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1169.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1170.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1171.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1172.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1173.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1174.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1175.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1176.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1177.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1178.0,E18,Got assigned task <*>
+1179.0,E19,Running task <*> in stage <*> (TID <*>)
+1180.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1181.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1182.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1183.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1184.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1185.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1186.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1187.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1188.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1189.0,E18,Got assigned task <*>
+1190.0,E19,Running task <*> in stage <*> (TID <*>)
+1191.0,E18,Got assigned task <*>
+1192.0,E19,Running task <*> in stage <*> (TID <*>)
+1193.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1194.0,E18,Got assigned task <*>
+1195.0,E19,Running task <*> in stage <*> (TID <*>)
+1196.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1197.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1198.0,E18,Got assigned task <*>
+1199.0,E19,Running task <*> in stage <*> (TID <*>)
+1200.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1201.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1202.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1203.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1204.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1205.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1206.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1207.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1208.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1209.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1210.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1211.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1212.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1213.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1214.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1215.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1216.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1217.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1218.0,E18,Got assigned task <*>
+1219.0,E19,Running task <*> in stage <*> (TID <*>)
+1220.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1221.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1222.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1223.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1224.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1225.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1226.0,E18,Got assigned task <*>
+1227.0,E19,Running task <*> in stage <*> (TID <*>)
+1228.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1229.0,E18,Got assigned task <*>
+1230.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1231.0,E19,Running task <*> in stage <*> (TID <*>)
+1232.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1233.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1234.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1235.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1236.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1237.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1238.0,E18,Got assigned task <*>
+1239.0,E19,Running task <*> in stage <*> (TID <*>)
+1240.0,E18,Got assigned task <*>
+1241.0,E19,Running task <*> in stage <*> (TID <*>)
+1242.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1243.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1244.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1245.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1246.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1247.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1248.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1249.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1250.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1251.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1252.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1253.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1254.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1255.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1256.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1257.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1258.0,E18,Got assigned task <*>
+1259.0,E19,Running task <*> in stage <*> (TID <*>)
+1260.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1261.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1262.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1263.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1264.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1265.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1266.0,E18,Got assigned task <*>
+1267.0,E19,Running task <*> in stage <*> (TID <*>)
+1268.0,E18,Got assigned task <*>
+1269.0,E19,Running task <*> in stage <*> (TID <*>)
+1270.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1271.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1272.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1273.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1274.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1275.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1276.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1277.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1278.0,E18,Got assigned task <*>
+1279.0,E19,Running task <*> in stage <*> (TID <*>)
+1280.0,E18,Got assigned task <*>
+1281.0,E19,Running task <*> in stage <*> (TID <*>)
+1282.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1283.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1284.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1285.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1286.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1287.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1288.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1289.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1290.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1291.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1292.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1293.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1294.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1295.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1296.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1297.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1298.0,E18,Got assigned task <*>
+1299.0,E19,Running task <*> in stage <*> (TID <*>)
+1300.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1301.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1302.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1303.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1304.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1305.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1306.0,E18,Got assigned task <*>
+1307.0,E19,Running task <*> in stage <*> (TID <*>)
+1308.0,E18,Got assigned task <*>
+1309.0,E19,Running task <*> in stage <*> (TID <*>)
+1310.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1311.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1312.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1313.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1314.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1315.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1316.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1317.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1318.0,E18,Got assigned task <*>
+1319.0,E19,Running task <*> in stage <*> (TID <*>)
+1320.0,E18,Got assigned task <*>
+1321.0,E19,Running task <*> in stage <*> (TID <*>)
+1322.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1323.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1324.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1325.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1326.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1327.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1328.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1329.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1330.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1331.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1332.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1333.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1334.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1335.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1336.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1337.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1338.0,E18,Got assigned task <*>
+1339.0,E19,Running task <*> in stage <*> (TID <*>)
+1340.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1341.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1342.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1343.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1344.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1345.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1346.0,E18,Got assigned task <*>
+1347.0,E19,Running task <*> in stage <*> (TID <*>)
+1348.0,E18,Got assigned task <*>
+1349.0,E19,Running task <*> in stage <*> (TID <*>)
+1350.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1351.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1352.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1353.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1354.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1355.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1356.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1357.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1358.0,E18,Got assigned task <*>
+1359.0,E19,Running task <*> in stage <*> (TID <*>)
+1360.0,E18,Got assigned task <*>
+1361.0,E19,Running task <*> in stage <*> (TID <*>)
+1362.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1363.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1364.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1365.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1366.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1367.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1368.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1369.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1370.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1371.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1372.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1373.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1374.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1375.0,E18,Got assigned task <*>
+1376.0,E19,Running task <*> in stage <*> (TID <*>)
+1377.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1378.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1379.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1380.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1381.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1382.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1383.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1384.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1385.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1386.0,E18,Got assigned task <*>
+1387.0,E19,Running task <*> in stage <*> (TID <*>)
+1388.0,E18,Got assigned task <*>
+1389.0,E19,Running task <*> in stage <*> (TID <*>)
+1390.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1391.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1392.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1393.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1394.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1395.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1396.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1397.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1398.0,E18,Got assigned task <*>
+1399.0,E19,Running task <*> in stage <*> (TID <*>)
+1400.0,E18,Got assigned task <*>
+1401.0,E19,Running task <*> in stage <*> (TID <*>)
+1402.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1403.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1404.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1405.0,E24,"Partition rdd_<*>_<*> not found, computing it"
+1406.0,E25,Input split: hdfs://<*>:<*>/pjhe/logs/2kSOSP.log:<*>+<*>
+1407.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1408.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1409.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1410.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1411.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1412.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1413.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1414.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1415.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1416.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1417.0,E28,"Block rdd_<*>_<*> stored as bytes in memory (estimated size <*>.0 B, free <*>.4 KB)"
+1418.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1419.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1420.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1421.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1422.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1423.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1424.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1425.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1426.0,E18,Got assigned task <*>
+1427.0,E19,Running task <*> in stage <*> (TID <*>)
+1428.0,E18,Got assigned task <*>
+1429.0,E19,Running task <*> in stage <*> (TID <*>)
+1430.0,E18,Got assigned task <*>
+1431.0,E20,Started reading broadcast variable <*>
+1432.0,E19,Running task <*> in stage <*> (TID <*>)
+1433.0,E18,Got assigned task <*>
+1434.0,E19,Running task <*> in stage <*> (TID <*>)
+1435.0,E18,Got assigned task <*>
+1436.0,E19,Running task <*> in stage <*> (TID <*>)
+1437.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+1438.0,E22,Reading broadcast variable <*> took <*> ms
+1439.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+1440.0,E30,Found block rdd_<*>_<*> locally
+1441.0,E30,Found block rdd_<*>_<*> locally
+1442.0,E30,Found block rdd_<*>_<*> locally
+1443.0,E30,Found block rdd_<*>_<*> locally
+1444.0,E30,Found block rdd_<*>_<*> locally
+1445.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1446.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1447.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1448.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1449.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1450.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1451.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1452.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1453.0,E18,Got assigned task <*>
+1454.0,E19,Running task <*> in stage <*> (TID <*>)
+1455.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1456.0,E18,Got assigned task <*>
+1457.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1458.0,E19,Running task <*> in stage <*> (TID <*>)
+1459.0,E18,Got assigned task <*>
+1460.0,E19,Running task <*> in stage <*> (TID <*>)
+1461.0,E30,Found block rdd_<*>_<*> locally
+1462.0,E18,Got assigned task <*>
+1463.0,E19,Running task <*> in stage <*> (TID <*>)
+1464.0,E18,Got assigned task <*>
+1465.0,E19,Running task <*> in stage <*> (TID <*>)
+1466.0,E30,Found block rdd_<*>_<*> locally
+1467.0,E30,Found block rdd_<*>_<*> locally
+1468.0,E30,Found block rdd_<*>_<*> locally
+1469.0,E30,Found block rdd_<*>_<*> locally
+1470.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1471.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1472.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1473.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1474.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1475.0,E18,Got assigned task <*>
+1476.0,E19,Running task <*> in stage <*> (TID <*>)
+1477.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1478.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1479.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1480.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1481.0,E30,Found block rdd_<*>_<*> locally
+1482.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1483.0,E18,Got assigned task <*>
+1484.0,E19,Running task <*> in stage <*> (TID <*>)
+1485.0,E18,Got assigned task <*>
+1486.0,E19,Running task <*> in stage <*> (TID <*>)
+1487.0,E18,Got assigned task <*>
+1488.0,E19,Running task <*> in stage <*> (TID <*>)
+1489.0,E18,Got assigned task <*>
+1490.0,E19,Running task <*> in stage <*> (TID <*>)
+1491.0,E30,Found block rdd_<*>_<*> locally
+1492.0,E30,Found block rdd_<*>_<*> locally
+1493.0,E30,Found block rdd_<*>_<*> locally
+1494.0,E30,Found block rdd_<*>_<*> locally
+1495.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1496.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1497.0,E18,Got assigned task <*>
+1498.0,E19,Running task <*> in stage <*> (TID <*>)
+1499.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1500.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1501.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1502.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1503.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1504.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1505.0,E30,Found block rdd_<*>_<*> locally
+1506.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1507.0,E18,Got assigned task <*>
+1508.0,E19,Running task <*> in stage <*> (TID <*>)
+1509.0,E18,Got assigned task <*>
+1510.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1511.0,E19,Running task <*> in stage <*> (TID <*>)
+1512.0,E18,Got assigned task <*>
+1513.0,E19,Running task <*> in stage <*> (TID <*>)
+1514.0,E18,Got assigned task <*>
+1515.0,E19,Running task <*> in stage <*> (TID <*>)
+1516.0,E30,Found block rdd_<*>_<*> locally
+1517.0,E30,Found block rdd_<*>_<*> locally
+1518.0,E30,Found block rdd_<*>_<*> locally
+1519.0,E30,Found block rdd_<*>_<*> locally
+1520.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1521.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1522.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1523.0,E18,Got assigned task <*>
+1524.0,E19,Running task <*> in stage <*> (TID <*>)
+1525.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1526.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1527.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1528.0,E30,Found block rdd_<*>_<*> locally
+1529.0,E18,Got assigned task <*>
+1530.0,E19,Running task <*> in stage <*> (TID <*>)
+1531.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1532.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1533.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1534.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1535.0,E18,Got assigned task <*>
+1536.0,E19,Running task <*> in stage <*> (TID <*>)
+1537.0,E18,Got assigned task <*>
+1538.0,E30,Found block rdd_<*>_<*> locally
+1539.0,E19,Running task <*> in stage <*> (TID <*>)
+1540.0,E18,Got assigned task <*>
+1541.0,E19,Running task <*> in stage <*> (TID <*>)
+1542.0,E30,Found block rdd_<*>_<*> locally
+1543.0,E30,Found block rdd_<*>_<*> locally
+1544.0,E30,Found block rdd_<*>_<*> locally
+1545.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1546.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1547.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1548.0,E18,Got assigned task <*>
+1549.0,E19,Running task <*> in stage <*> (TID <*>)
+1550.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1551.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1552.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1553.0,E18,Got assigned task <*>
+1554.0,E19,Running task <*> in stage <*> (TID <*>)
+1555.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1556.0,E30,Found block rdd_<*>_<*> locally
+1557.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1558.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1559.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1560.0,E30,Found block rdd_<*>_<*> locally
+1561.0,E18,Got assigned task <*>
+1562.0,E19,Running task <*> in stage <*> (TID <*>)
+1563.0,E18,Got assigned task <*>
+1564.0,E19,Running task <*> in stage <*> (TID <*>)
+1565.0,E18,Got assigned task <*>
+1566.0,E19,Running task <*> in stage <*> (TID <*>)
+1567.0,E30,Found block rdd_<*>_<*> locally
+1568.0,E30,Found block rdd_<*>_<*> locally
+1569.0,E30,Found block rdd_<*>_<*> locally
+1570.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1571.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1572.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1573.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1574.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1575.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1576.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1577.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1578.0,E18,Got assigned task <*>
+1579.0,E19,Running task <*> in stage <*> (TID <*>)
+1580.0,E18,Got assigned task <*>
+1581.0,E19,Running task <*> in stage <*> (TID <*>)
+1582.0,E18,Got assigned task <*>
+1583.0,E19,Running task <*> in stage <*> (TID <*>)
+1584.0,E18,Got assigned task <*>
+1585.0,E19,Running task <*> in stage <*> (TID <*>)
+1586.0,E30,Found block rdd_<*>_<*> locally
+1587.0,E30,Found block rdd_<*>_<*> locally
+1588.0,E30,Found block rdd_<*>_<*> locally
+1589.0,E30,Found block rdd_<*>_<*> locally
+1590.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1591.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1592.0,E18,Got assigned task <*>
+1593.0,E19,Running task <*> in stage <*> (TID <*>)
+1594.0,E30,Found block rdd_<*>_<*> locally
+1595.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1596.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1597.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1598.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1599.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1600.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1601.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1602.0,E18,Got assigned task <*>
+1603.0,E19,Running task <*> in stage <*> (TID <*>)
+1604.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1605.0,E18,Got assigned task <*>
+1606.0,E19,Running task <*> in stage <*> (TID <*>)
+1607.0,E18,Got assigned task <*>
+1608.0,E19,Running task <*> in stage <*> (TID <*>)
+1609.0,E18,Got assigned task <*>
+1610.0,E19,Running task <*> in stage <*> (TID <*>)
+1611.0,E30,Found block rdd_<*>_<*> locally
+1612.0,E30,Found block rdd_<*>_<*> locally
+1613.0,E30,Found block rdd_<*>_<*> locally
+1614.0,E30,Found block rdd_<*>_<*> locally
+1615.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1616.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1617.0,E18,Got assigned task <*>
+1618.0,E19,Running task <*> in stage <*> (TID <*>)
+1619.0,E30,Found block rdd_<*>_<*> locally
+1620.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1621.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1622.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1623.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1624.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1625.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1626.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1627.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1628.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1629.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1630.0,E18,Got assigned task <*>
+1631.0,E19,Running task <*> in stage <*> (TID <*>)
+1632.0,E18,Got assigned task <*>
+1633.0,E19,Running task <*> in stage <*> (TID <*>)
+1634.0,E18,Got assigned task <*>
+1635.0,E19,Running task <*> in stage <*> (TID <*>)
+1636.0,E18,Got assigned task <*>
+1637.0,E19,Running task <*> in stage <*> (TID <*>)
+1638.0,E18,Got assigned task <*>
+1639.0,E19,Running task <*> in stage <*> (TID <*>)
+1640.0,E20,Started reading broadcast variable <*>
+1641.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+1642.0,E22,Reading broadcast variable <*> took <*> ms
+1643.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+1644.0,E30,Found block rdd_<*>_<*> locally
+1645.0,E30,Found block rdd_<*>_<*> locally
+1646.0,E30,Found block rdd_<*>_<*> locally
+1647.0,E30,Found block rdd_<*>_<*> locally
+1648.0,E30,Found block rdd_<*>_<*> locally
+1649.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1650.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1651.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1652.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1653.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1654.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1655.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1656.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1657.0,E18,Got assigned task <*>
+1658.0,E19,Running task <*> in stage <*> (TID <*>)
+1659.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1660.0,E18,Got assigned task <*>
+1661.0,E19,Running task <*> in stage <*> (TID <*>)
+1662.0,E18,Got assigned task <*>
+1663.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1664.0,E19,Running task <*> in stage <*> (TID <*>)
+1665.0,E18,Got assigned task <*>
+1666.0,E19,Running task <*> in stage <*> (TID <*>)
+1667.0,E30,Found block rdd_<*>_<*> locally
+1668.0,E30,Found block rdd_<*>_<*> locally
+1669.0,E18,Got assigned task <*>
+1670.0,E19,Running task <*> in stage <*> (TID <*>)
+1671.0,E30,Found block rdd_<*>_<*> locally
+1672.0,E30,Found block rdd_<*>_<*> locally
+1673.0,E30,Found block rdd_<*>_<*> locally
+1674.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1675.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1676.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1677.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1678.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1679.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1680.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1681.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1682.0,E18,Got assigned task <*>
+1683.0,E19,Running task <*> in stage <*> (TID <*>)
+1684.0,E18,Got assigned task <*>
+1685.0,E19,Running task <*> in stage <*> (TID <*>)
+1686.0,E18,Got assigned task <*>
+1687.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1688.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1689.0,E19,Running task <*> in stage <*> (TID <*>)
+1690.0,E30,Found block rdd_<*>_<*> locally
+1691.0,E18,Got assigned task <*>
+1692.0,E19,Running task <*> in stage <*> (TID <*>)
+1693.0,E30,Found block rdd_<*>_<*> locally
+1694.0,E18,Got assigned task <*>
+1695.0,E19,Running task <*> in stage <*> (TID <*>)
+1696.0,E30,Found block rdd_<*>_<*> locally
+1697.0,E30,Found block rdd_<*>_<*> locally
+1698.0,E30,Found block rdd_<*>_<*> locally
+1699.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1700.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1701.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1702.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1703.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1704.0,E18,Got assigned task <*>
+1705.0,E19,Running task <*> in stage <*> (TID <*>)
+1706.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1707.0,E18,Got assigned task <*>
+1708.0,E19,Running task <*> in stage <*> (TID <*>)
+1709.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1710.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1711.0,E18,Got assigned task <*>
+1712.0,E19,Running task <*> in stage <*> (TID <*>)
+1713.0,E30,Found block rdd_<*>_<*> locally
+1714.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1715.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1716.0,E30,Found block rdd_<*>_<*> locally
+1717.0,E18,Got assigned task <*>
+1718.0,E30,Found block rdd_<*>_<*> locally
+1719.0,E19,Running task <*> in stage <*> (TID <*>)
+1720.0,E18,Got assigned task <*>
+1721.0,E19,Running task <*> in stage <*> (TID <*>)
+1722.0,E30,Found block rdd_<*>_<*> locally
+1723.0,E30,Found block rdd_<*>_<*> locally
+1724.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1725.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1726.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1727.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1728.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1729.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1730.0,E18,Got assigned task <*>
+1731.0,E19,Running task <*> in stage <*> (TID <*>)
+1732.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1733.0,E18,Got assigned task <*>
+1734.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1735.0,E19,Running task <*> in stage <*> (TID <*>)
+1736.0,E18,Got assigned task <*>
+1737.0,E19,Running task <*> in stage <*> (TID <*>)
+1738.0,E30,Found block rdd_<*>_<*> locally
+1739.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1740.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1741.0,E18,Got assigned task <*>
+1742.0,E30,Found block rdd_<*>_<*> locally
+1743.0,E19,Running task <*> in stage <*> (TID <*>)
+1744.0,E30,Found block rdd_<*>_<*> locally
+1745.0,E18,Got assigned task <*>
+1746.0,E19,Running task <*> in stage <*> (TID <*>)
+1747.0,E30,Found block rdd_<*>_<*> locally
+1748.0,E30,Found block rdd_<*>_<*> locally
+1749.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1750.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1751.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1752.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1753.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1754.0,E18,Got assigned task <*>
+1755.0,E19,Running task <*> in stage <*> (TID <*>)
+1756.0,E18,Got assigned task <*>
+1757.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1758.0,E19,Running task <*> in stage <*> (TID <*>)
+1759.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1760.0,E30,Found block rdd_<*>_<*> locally
+1761.0,E18,Got assigned task <*>
+1762.0,E19,Running task <*> in stage <*> (TID <*>)
+1763.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1764.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1765.0,E30,Found block rdd_<*>_<*> locally
+1766.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1767.0,E18,Got assigned task <*>
+1768.0,E19,Running task <*> in stage <*> (TID <*>)
+1769.0,E30,Found block rdd_<*>_<*> locally
+1770.0,E18,Got assigned task <*>
+1771.0,E19,Running task <*> in stage <*> (TID <*>)
+1772.0,E30,Found block rdd_<*>_<*> locally
+1773.0,E30,Found block rdd_<*>_<*> locally
+1774.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1775.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1776.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1777.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1778.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1779.0,E18,Got assigned task <*>
+1780.0,E19,Running task <*> in stage <*> (TID <*>)
+1781.0,E18,Got assigned task <*>
+1782.0,E19,Running task <*> in stage <*> (TID <*>)
+1783.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1784.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1785.0,E30,Found block rdd_<*>_<*> locally
+1786.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1787.0,E18,Got assigned task <*>
+1788.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1789.0,E19,Running task <*> in stage <*> (TID <*>)
+1790.0,E30,Found block rdd_<*>_<*> locally
+1791.0,E18,Got assigned task <*>
+1792.0,E19,Running task <*> in stage <*> (TID <*>)
+1793.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1794.0,E30,Found block rdd_<*>_<*> locally
+1795.0,E18,Got assigned task <*>
+1796.0,E19,Running task <*> in stage <*> (TID <*>)
+1797.0,E30,Found block rdd_<*>_<*> locally
+1798.0,E30,Found block rdd_<*>_<*> locally
+1799.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1800.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1801.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1802.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1803.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1804.0,E18,Got assigned task <*>
+1805.0,E19,Running task <*> in stage <*> (TID <*>)
+1806.0,E18,Got assigned task <*>
+1807.0,E19,Running task <*> in stage <*> (TID <*>)
+1808.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1809.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1810.0,E30,Found block rdd_<*>_<*> locally
+1811.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1812.0,E18,Got assigned task <*>
+1813.0,E19,Running task <*> in stage <*> (TID <*>)
+1814.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1815.0,E30,Found block rdd_<*>_<*> locally
+1816.0,E18,Got assigned task <*>
+1817.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1818.0,E19,Running task <*> in stage <*> (TID <*>)
+1819.0,E30,Found block rdd_<*>_<*> locally
+1820.0,E18,Got assigned task <*>
+1821.0,E19,Running task <*> in stage <*> (TID <*>)
+1822.0,E30,Found block rdd_<*>_<*> locally
+1823.0,E30,Found block rdd_<*>_<*> locally
+1824.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1825.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1826.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1827.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1828.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1829.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1830.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1831.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1832.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1833.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1834.0,E18,Got assigned task <*>
+1835.0,E18,Got assigned task <*>
+1836.0,E19,Running task <*> in stage <*> (TID <*>)
+1837.0,E19,Running task <*> in stage <*> (TID <*>)
+1838.0,E18,Got assigned task <*>
+1839.0,E19,Running task <*> in stage <*> (TID <*>)
+1840.0,E18,Got assigned task <*>
+1841.0,E19,Running task <*> in stage <*> (TID <*>)
+1842.0,E18,Got assigned task <*>
+1843.0,E19,Running task <*> in stage <*> (TID <*>)
+1844.0,E20,Started reading broadcast variable <*>
+1845.0,E21,"Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)"
+1846.0,E22,Reading broadcast variable <*> took <*> ms
+1847.0,E23,"Block broadcast_<*> stored as values in memory (estimated size <*> B, free <*> KB)"
+1848.0,E30,Found block rdd_<*>_<*> locally
+1849.0,E30,Found block rdd_<*>_<*> locally
+1850.0,E30,Found block rdd_<*>_<*> locally
+1851.0,E30,Found block rdd_<*>_<*> locally
+1852.0,E30,Found block rdd_<*>_<*> locally
+1853.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1854.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1855.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1856.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1857.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1858.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1859.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1860.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1861.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1862.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1863.0,E18,Got assigned task <*>
+1864.0,E19,Running task <*> in stage <*> (TID <*>)
+1865.0,E18,Got assigned task <*>
+1866.0,E19,Running task <*> in stage <*> (TID <*>)
+1867.0,E18,Got assigned task <*>
+1868.0,E19,Running task <*> in stage <*> (TID <*>)
+1869.0,E18,Got assigned task <*>
+1870.0,E19,Running task <*> in stage <*> (TID <*>)
+1871.0,E18,Got assigned task <*>
+1872.0,E19,Running task <*> in stage <*> (TID <*>)
+1873.0,E30,Found block rdd_<*>_<*> locally
+1874.0,E30,Found block rdd_<*>_<*> locally
+1875.0,E30,Found block rdd_<*>_<*> locally
+1876.0,E30,Found block rdd_<*>_<*> locally
+1877.0,E30,Found block rdd_<*>_<*> locally
+1878.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1879.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1880.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1881.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1882.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1883.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1884.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1885.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1886.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1887.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1888.0,E18,Got assigned task <*>
+1889.0,E19,Running task <*> in stage <*> (TID <*>)
+1890.0,E18,Got assigned task <*>
+1891.0,E19,Running task <*> in stage <*> (TID <*>)
+1892.0,E18,Got assigned task <*>
+1893.0,E19,Running task <*> in stage <*> (TID <*>)
+1894.0,E18,Got assigned task <*>
+1895.0,E19,Running task <*> in stage <*> (TID <*>)
+1896.0,E30,Found block rdd_<*>_<*> locally
+1897.0,E18,Got assigned task <*>
+1898.0,E19,Running task <*> in stage <*> (TID <*>)
+1899.0,E30,Found block rdd_<*>_<*> locally
+1900.0,E30,Found block rdd_<*>_<*> locally
+1901.0,E30,Found block rdd_<*>_<*> locally
+1902.0,E30,Found block rdd_<*>_<*> locally
+1903.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1904.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1905.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1906.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1907.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1908.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1909.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1910.0,E18,Got assigned task <*>
+1911.0,E19,Running task <*> in stage <*> (TID <*>)
+1912.0,E18,Got assigned task <*>
+1913.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1914.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1915.0,E19,Running task <*> in stage <*> (TID <*>)
+1916.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1917.0,E18,Got assigned task <*>
+1918.0,E19,Running task <*> in stage <*> (TID <*>)
+1919.0,E18,Got assigned task <*>
+1920.0,E19,Running task <*> in stage <*> (TID <*>)
+1921.0,E30,Found block rdd_<*>_<*> locally
+1922.0,E18,Got assigned task <*>
+1923.0,E19,Running task <*> in stage <*> (TID <*>)
+1924.0,E30,Found block rdd_<*>_<*> locally
+1925.0,E30,Found block rdd_<*>_<*> locally
+1926.0,E30,Found block rdd_<*>_<*> locally
+1927.0,E30,Found block rdd_<*>_<*> locally
+1928.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1929.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1930.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1931.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1932.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1933.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1934.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1935.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1936.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1937.0,E18,Got assigned task <*>
+1938.0,E19,Running task <*> in stage <*> (TID <*>)
+1939.0,E18,Got assigned task <*>
+1940.0,E19,Running task <*> in stage <*> (TID <*>)
+1941.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1942.0,E18,Got assigned task <*>
+1943.0,E19,Running task <*> in stage <*> (TID <*>)
+1944.0,E18,Got assigned task <*>
+1945.0,E19,Running task <*> in stage <*> (TID <*>)
+1946.0,E18,Got assigned task <*>
+1947.0,E30,Found block rdd_<*>_<*> locally
+1948.0,E19,Running task <*> in stage <*> (TID <*>)
+1949.0,E30,Found block rdd_<*>_<*> locally
+1950.0,E30,Found block rdd_<*>_<*> locally
+1951.0,E30,Found block rdd_<*>_<*> locally
+1952.0,E30,Found block rdd_<*>_<*> locally
+1953.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1954.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1955.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1956.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1957.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1958.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1959.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1960.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1961.0,E18,Got assigned task <*>
+1962.0,E19,Running task <*> in stage <*> (TID <*>)
+1963.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1964.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1965.0,E18,Got assigned task <*>
+1966.0,E19,Running task <*> in stage <*> (TID <*>)
+1967.0,E18,Got assigned task <*>
+1968.0,E19,Running task <*> in stage <*> (TID <*>)
+1969.0,E18,Got assigned task <*>
+1970.0,E30,Found block rdd_<*>_<*> locally
+1971.0,E19,Running task <*> in stage <*> (TID <*>)
+1972.0,E18,Got assigned task <*>
+1973.0,E19,Running task <*> in stage <*> (TID <*>)
+1974.0,E30,Found block rdd_<*>_<*> locally
+1975.0,E30,Found block rdd_<*>_<*> locally
+1976.0,E30,Found block rdd_<*>_<*> locally
+1977.0,E30,Found block rdd_<*>_<*> locally
+1978.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1979.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1980.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1981.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1982.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1983.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1984.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1985.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1986.0,E18,Got assigned task <*>
+1987.0,E19,Running task <*> in stage <*> (TID <*>)
+1988.0,E27,"Times: total = <*>, boot = <-*>, init = <**>, finish = <*>"
+1989.0,E18,Got assigned task <*>
+1990.0,E19,Running task <*> in stage <*> (TID <*>)
+1991.0,E18,Got assigned task <*>
+1992.0,E19,Running task <*> in stage <*> (TID <*>)
+1993.0,E18,Got assigned task <*>
+1994.0,E19,Running task <*> in stage <*> (TID <*>)
+1995.0,E30,Found block rdd_<*>_<*> locally
+1996.0,E29,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+1997.0,E18,Got assigned task <*>
+1998.0,E19,Running task <*> in stage <*> (TID <*>)
+1999.0,E30,Found block rdd_<*>_<*> locally

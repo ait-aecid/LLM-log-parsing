@@ -1,0 +1,4 @@
+{"query": "Initializing Cryptographic API", "answer": "Initializing Cryptographic API"}
+{"query": "syslogd startup succeeded", "answer": "syslogd startup succeeded"}
+{"query": "ACPI: ACPI tables contain no PCI IRQ routing entries", "answer": "ACPI: ACPI tables contain no PCI IRQ routing entries"}
+{"query": "Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code", "answer": "Authentication failed from {variables} ({variables}): Permission denied in replay cache code"}

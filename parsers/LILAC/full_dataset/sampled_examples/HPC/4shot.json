@@ -1,0 +1,4 @@
+{"query": "NIFF: node node-144 has detected an available network connection on network 10.96.0.0 via interface scip0", "answer": "NIFF: node {variables} has detected an available network connection on network {variables} via interface scip0"}
+{"query": "ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128", "answer": "ClusterFileSystem: ServerFileSystem domain {variables} is no longer served by node {variables}"}
+{"query": "Fan speeds ( 3552 3534 3375 4470 3515 3479 )", "answer": "Fan speeds ( {variables} {variables} {variables} {variables} {variables} {variables} )"}
+{"query": "ServerFileSystem: ServerFileSystem domain root3_local is full", "answer": "ServerFileSystem: ServerFileSystem domain {variables} is full"}

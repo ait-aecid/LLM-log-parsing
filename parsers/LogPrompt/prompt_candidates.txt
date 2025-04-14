@@ -1,0 +1,1 @@
+Convert the following logs into standardized templates by identifying and replacing the variable parts with a <*>.

@@ -1,0 +1,8 @@
+{"query": "calculateCaloriesWithCache totalCalories=130715", "answer": "calculateCaloriesWithCache totalCalories={variables}"}
+{"query": "processHandleBroadcastAction action:android.intent.action.TIME_TICK", "answer": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"query": "onStandStepChanged 3581", "answer": "onStandStepChanged {variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=240", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": "onStandStepChanged 3761", "answer": "onStandStepChanged {variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=240", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": " getTodayTotalDetailSteps = 1514038440000##7026##548365##8661##14071##27184972", "answer": "getTodayTotalDetailSteps = {variables}##{variables}##{variables}##{variables}##{variables}##{variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=240", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}

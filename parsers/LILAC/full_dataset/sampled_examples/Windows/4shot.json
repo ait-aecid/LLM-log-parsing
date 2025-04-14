@@ -1,0 +1,4 @@
+{"query": "Ending TrustedInstaller finalization.", "answer": "Ending TrustedInstaller finalization."}
+{"query": "No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.", "answer": "No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending."}
+{"query": "Starting TrustedInstaller initialization.", "answer": "Starting TrustedInstaller initialization."}
+{"query": "Idle processing thread terminated normally", "answer": "Idle processing thread terminated normally"}

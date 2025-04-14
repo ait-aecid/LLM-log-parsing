@@ -1,0 +1,2 @@
+{"query": "cleanUpApplicationRecordLocked, reset pid: 5769, euid: 0", "answer": "cleanUpApplicationRecordLocked, reset pid: {variables}, euid: {variables}"}
+{"query": "cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227", "answer": "cancelNotification,cancelNotificationLocked,callingUid = {variables},callingPid = {variables}"}

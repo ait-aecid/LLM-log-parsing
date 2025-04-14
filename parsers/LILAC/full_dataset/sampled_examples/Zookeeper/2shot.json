@@ -1,0 +1,2 @@
+{"query": "Interrupting SendWorker", "answer": "Interrupting SendWorker"}
+{"query": "Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961", "answer": "Established session {variables} with negotiated timeout {variables} for client {variables}"}

@@ -1,0 +1,16 @@
+{"query": "Running task 6.0 in stage 29.0 (TID 1326)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Running task 82.0 in stage 24.0 (TID 1137)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Times: total = 40, boot = 19, init = 21, finish = 0", "answer": "Times: total = {variables}, boot = {variables}, init = {variables}, finish = {variables}"}
+{"query": "Times: total = 41, boot = -84, init = 125, finish = 0", "answer": "Times: total = {variables}, boot = {variables}, init = {variables}, finish = {variables}"}
+{"query": "Block broadcast_39 stored as values in memory (estimated size 9.2 KB, free 868.3 KB)", "answer": "Block {variables} stored as values in memory (estimated size {variables}, free {variables})"}
+{"query": "Found block rdd_2_4 locally", "answer": "Found block {variables} locally"}
+{"query": "Reading broadcast variable 21 took 11 ms", "answer": "Reading broadcast variable {variables} took {variables} ms"}
+{"query": "Found block rdd_21_2 locally", "answer": "Found block {variables} locally"}
+{"query": "Got assigned task 1339", "answer": "Got assigned task {variables}"}
+{"query": "Times: total = 39, boot = 18, init = 20, finish = 1", "answer": "Times: total = {variables}, boot = {variables}, init = {variables}, finish = {variables}"}
+{"query": "Running task 38.0 in stage 28.0 (TID 1318)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Times: total = 40, boot = 14, init = 25, finish = 1", "answer": "Times: total = {variables}, boot = {variables}, init = {variables}, finish = {variables}"}
+{"query": "Running task 3.0 in stage 28.0 (TID 1283)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Running task 6.0 in stage 28.0 (TID 1286)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Times: total = 40, boot = 24, init = 16, finish = 0", "answer": "Times: total = {variables}, boot = {variables}, init = {variables}, finish = {variables}"}
+{"query": "Found block rdd_6_0 locally", "answer": "Found block {variables} locally"}

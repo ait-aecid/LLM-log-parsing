@@ -1,0 +1,4 @@
+{"query": "loaded properties from hadoop-metrics2.properties", "answer": "loaded properties from hadoop-metrics2.properties"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "attempt_1445144423722_0020_m_000002_0 TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED", "answer": "{variables} TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED"}
+{"query": "Container complete event for unknown container id container_1445144423722_0020_01_000012", "answer": "Container complete event for unknown container id {variables}"}

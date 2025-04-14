@@ -1,0 +1,2 @@
+{"query": "[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Took 20.31 seconds to build instance.", "answer": "[instance: {variables}] Took {variables} seconds to build instance."}
+{"query": "[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] During sync_power_state the instance has a pending task (spawning). Skip.", "answer": "[instance: {variables}] During sync_power_state the instance has a pending task (spawning). Skip."}

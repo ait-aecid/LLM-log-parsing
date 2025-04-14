@@ -1,0 +1,77 @@
+LLM-TD toolkit and data sets
+============================
+
+Introduction
+------------
+This repository provides an implementation of the LLM-TD algorithm and
+Linux security syslog data sets used for evaluating LLM-TD with different
+local LLMs. Note that LLM-TD relies on local LLMs which are used through 
+Ollama framework, and you have to install Ollama before using LLM-TD.
+The data sets are provided in the 'logs' directory and ground truth data 
+can be found in the 'ground-truth' directory, while the 'results'
+directory contains the templates detected by evaluated approaches.
+
+Here is an example command line for invoking LLM-TD to detect templates
+from event log logs/sshd.log with OpenChat LLM:
+
+./llm-td.pl --model=openchat --logfile=logs/sshd.log --script=./llm-query.sh
+
+To learn more about command line options of LLM-TD, execute:
+
+./llm-td.pl --help
+
+The scripts in the 'ground-truth' directory contain regular expressions for
+each distinct event type in the event log, and also provide information
+about the ground truth and the result produced by each evaluated approach
+(LLM-TD was used with the default settings).
+
+For example, to produce a summary about all event types in logs/sshd.log,
+execute the following command line:
+
+cat logs/sshd.log | ground-truth/sshd-results.pl
+
+Information about ground truth and results from evaluated approaches are
+provided as comments inside the ground truth script. For example, consider 
+the following stanza in ground-truth/sshd-results.pl:
+
+  # template: sshd[<*>]: Accepted <*> for <*> from <*> port <*> ssh2
+  # openchat: yes (sshd[<*>]: Accepted <*> for <*> from <*> port <*> ssh2)
+  # drain: no (two more specific templates detected instead of one)
+  # mistral: yes (sshd[<*>]: Accepted <*> for <*> from <*> port <*> ssh2)
+  # wizardlm2: no
+
+In the above stanza, 'template' keyword provides the ground truth template,
+whereas 'openchat', 'drain', 'mistral', and 'wizardlm2' keywords indicate
+if the relevant approach managed to identify the ground truth template.
+Note that 'yes' indicates a successful detection according to P1 and P2 
+heuristic principles, and after 'yes' the identified template is provided
+in brackets. Also, if the detection was not successful, relevant comments
+may optionally follow.
+
+LLM-TD has been primarily designed for syslog log files and it uses syslog
+program names for recognizing templates in LLM responses. However, LLM-TD can 
+be employed for analyzing non-syslog log files which contain free-form textual
+messages. If the messages do not begin with the name of the logging program,
+you can add a custom program name (e.g., AppName) to the beginning of each
+log message, so that LLM-TD can use it for recognizing templates:
+
+cat mylog | sed 's/^/AppName /' >test.log
+
+After that, you can configure LLM-TD to pick up the custom program name
+from the beginning of each log message:
+
+./llm-td.pl --model=openchat --logfile=test.log --script=./llm-query.sh \
+  --regexp='(?<line>(?<program>AppName).+)'
+
+
+Availability and licensing
+--------------------------
+This toolkit is available from https://github.com/ristov/llm-td, 
+and is distributed under the terms of GNU General Public License version 2. 
+The data sets in the 'logs' directory are distributed under the terms of
+Creative Commons Attribution 4.0 International License.
+
+
+Author
+------
+Risto Vaarandi (firstname d0t lastname at gmail d0t c0m)

@@ -1,0 +1,2 @@
+{"query": "[client 216.83.140.52] File does not exist: /var/www/html/phpgroupware", "answer": "[client {variables}] File does not exist: {variables}"}
+{"query": "Digest: generating secret for digest authentication ...", "answer": "Digest: generating secret for digest authentication ..."}

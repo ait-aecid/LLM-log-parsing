@@ -1,0 +1,2001 @@
+Unnamed: 0,EventId,template
+0.0,E1,onStandStepChanged <*>
+1.0,E2,onExtend:<*> <*> <*> <*>
+2.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+3.0,E4,processHandleBroadcastAction action:<*>
+4.0,E5,d <*> <*> <*>
+5.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+6.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+7.0,E1,onStandStepChanged <*>
+8.0,E8,calculateCaloriesWithCache totalCalories=<*>
+9.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+10.0,E10,<*> : <*> <*> <*> <*>
+11.0,E2,onExtend:<*> <*> <*> <*>
+12.0,E1,onStandStepChanged <*>
+13.0,E1,onStandStepChanged <*>
+14.0,E2,onExtend:<*> <*> <*> <*>
+15.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+16.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+17.0,E8,calculateCaloriesWithCache totalCalories=<*>
+18.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+19.0,E10,<*> : <*> <*> <*> <*>
+20.0,E1,onStandStepChanged <*>
+21.0,E2,onExtend:<*> <*> <*> <*>
+22.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+23.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+24.0,E8,calculateCaloriesWithCache totalCalories=<*>
+25.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+26.0,E10,<*> : <*> <*> <*> <*>
+27.0,E1,onStandStepChanged <*>
+28.0,E2,onExtend:<*> <*> <*> <*>
+29.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+30.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+31.0,E8,calculateCaloriesWithCache totalCalories=<*>
+32.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+33.0,E10,<*> : <*> <*> <*> <*>
+34.0,E1,onStandStepChanged <*>
+35.0,E2,onExtend:<*> <*> <*> <*>
+36.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+37.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+38.0,E8,calculateCaloriesWithCache totalCalories=<*>
+39.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+40.0,E10,<*> : <*> <*> <*> <*>
+41.0,E1,onStandStepChanged <*>
+42.0,E2,onExtend:<*> <*> <*> <*>
+43.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+44.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+45.0,E8,calculateCaloriesWithCache totalCalories=<*>
+46.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+47.0,E10,<*> : <*> <*> <*> <*>
+48.0,E1,onStandStepChanged <*>
+49.0,E2,onExtend:<*> <*> <*> <*>
+50.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+51.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+52.0,E8,calculateCaloriesWithCache totalCalories=<*>
+53.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+54.0,E10,<*> : <*> <*> <*> <*>
+55.0,E1,onStandStepChanged <*>
+56.0,E2,onExtend:<*> <*> <*> <*>
+57.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+58.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+59.0,E8,calculateCaloriesWithCache totalCalories=<*>
+60.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+61.0,E10,<*> : <*> <*> <*> <*>
+62.0,E1,onStandStepChanged <*>
+63.0,E2,onExtend:<*> <*> <*> <*>
+64.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+65.0,E1,onStandStepChanged <*>
+66.0,E2,onExtend:<*> <*> <*> <*>
+67.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+68.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+69.0,E8,calculateCaloriesWithCache totalCalories=<*>
+70.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+71.0,E11,b <*>
+72.0,E12,"screen status unknown,think screen <*>"
+73.0,E10,<*> : <*> <*> <*> <*>
+74.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+75.0,E4,processHandleBroadcastAction action:<*>
+76.0,E5,d <*> <*> <*>
+77.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+78.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+79.0,E1,onStandStepChanged <*>
+80.0,E8,calculateCaloriesWithCache totalCalories=<*>
+81.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+82.0,E10,<*> : <*> <*> <*> <*>
+83.0,E1,onStandStepChanged <*>
+84.0,E2,onExtend:<*> <*> <*> <*>
+85.0,E1,onStandStepChanged <*>
+86.0,E2,onExtend:<*> <*> <*> <*>
+87.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+88.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+89.0,E8,calculateCaloriesWithCache totalCalories=<*>
+90.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+91.0,E10,<*> : <*> <*> <*> <*>
+92.0,E1,onStandStepChanged <*>
+93.0,E2,onExtend:<*> <*> <*> <*>
+94.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+95.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+96.0,E8,calculateCaloriesWithCache totalCalories=<*>
+97.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+98.0,E10,<*> : <*> <*> <*> <*>
+99.0,E1,onStandStepChanged <*>
+100.0,E2,onExtend:<*> <*> <*> <*>
+101.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+102.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+103.0,E8,calculateCaloriesWithCache totalCalories=<*>
+104.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+105.0,E10,<*> : <*> <*> <*> <*>
+106.0,E1,onStandStepChanged <*>
+107.0,E2,onExtend:<*> <*> <*> <*>
+108.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+109.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+110.0,E8,calculateCaloriesWithCache totalCalories=<*>
+111.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+112.0,E10,<*> : <*> <*> <*> <*>
+113.0,E1,onStandStepChanged <*>
+114.0,E2,onExtend:<*> <*> <*> <*>
+115.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+116.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+117.0,E8,calculateCaloriesWithCache totalCalories=<*>
+118.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+119.0,E10,<*> : <*> <*> <*> <*>
+120.0,E1,onStandStepChanged <*>
+121.0,E2,onExtend:<*> <*> <*> <*>
+122.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+123.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+124.0,E8,calculateCaloriesWithCache totalCalories=<*>
+125.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+126.0,E10,<*> : <*> <*> <*> <*>
+127.0,E1,onStandStepChanged <*>
+128.0,E2,onExtend:<*> <*> <*> <*>
+129.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+130.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+131.0,E8,calculateCaloriesWithCache totalCalories=<*>
+132.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+133.0,E10,<*> : <*> <*> <*> <*>
+134.0,E1,onStandStepChanged <*>
+135.0,E2,onExtend:<*> <*> <*> <*>
+136.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+137.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+138.0,E8,calculateCaloriesWithCache totalCalories=<*>
+139.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+140.0,E10,<*> : <*> <*> <*> <*>
+141.0,E1,onStandStepChanged <*>
+142.0,E2,onExtend:<*> <*> <*> <*>
+143.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+144.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+145.0,E8,calculateCaloriesWithCache totalCalories=<*>
+146.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+147.0,E10,<*> : <*> <*> <*> <*>
+148.0,E1,onStandStepChanged <*>
+149.0,E2,onExtend:<*> <*> <*> <*>
+150.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+151.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+152.0,E8,calculateCaloriesWithCache totalCalories=<*>
+153.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+154.0,E10,<*> : <*> <*> <*> <*>
+155.0,E1,onStandStepChanged <*>
+156.0,E2,onExtend:<*> <*> <*> <*>
+157.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+158.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+159.0,E8,calculateCaloriesWithCache totalCalories=<*>
+160.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+161.0,E10,<*> : <*> <*> <*> <*>
+162.0,E1,onStandStepChanged <*>
+163.0,E2,onExtend:<*> <*> <*> <*>
+164.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+165.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+166.0,E8,calculateCaloriesWithCache totalCalories=<*>
+167.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+168.0,E10,<*> : <*> <*> <*> <*>
+169.0,E1,onStandStepChanged <*>
+170.0,E2,onExtend:<*> <*> <*> <*>
+171.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+172.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+173.0,E8,calculateCaloriesWithCache totalCalories=<*>
+174.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+175.0,E10,<*> : <*> <*> <*> <*>
+176.0,E1,onStandStepChanged <*>
+177.0,E2,onExtend:<*> <*> <*> <*>
+178.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+179.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+180.0,E8,calculateCaloriesWithCache totalCalories=<*>
+181.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+182.0,E10,<*> : <*> <*> <*> <*>
+183.0,E1,onStandStepChanged <*>
+184.0,E2,onExtend:<*> <*> <*> <*>
+185.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+186.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+187.0,E8,calculateCaloriesWithCache totalCalories=<*>
+188.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+189.0,E10,<*> : <*> <*> <*> <*>
+190.0,E1,onStandStepChanged <*>
+191.0,E2,onExtend:<*> <*> <*> <*>
+192.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+193.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+194.0,E8,calculateCaloriesWithCache totalCalories=<*>
+195.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+196.0,E10,<*> : <*> <*> <*> <*>
+197.0,E1,onStandStepChanged <*>
+198.0,E2,onExtend:<*> <*> <*> <*>
+199.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+200.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+201.0,E8,calculateCaloriesWithCache totalCalories=<*>
+202.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+203.0,E10,<*> : <*> <*> <*> <*>
+204.0,E1,onStandStepChanged <*>
+205.0,E2,onExtend:<*> <*> <*> <*>
+206.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+207.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+208.0,E8,calculateCaloriesWithCache totalCalories=<*>
+209.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+210.0,E10,<*> : <*> <*> <*> <*>
+211.0,E1,onStandStepChanged <*>
+212.0,E2,onExtend:<*> <*> <*> <*>
+213.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+214.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+215.0,E8,calculateCaloriesWithCache totalCalories=<*>
+216.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+217.0,E10,<*> : <*> <*> <*> <*>
+218.0,E1,onStandStepChanged <*>
+219.0,E2,onExtend:<*> <*> <*> <*>
+220.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+221.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+222.0,E8,calculateCaloriesWithCache totalCalories=<*>
+223.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+224.0,E10,<*> : <*> <*> <*> <*>
+225.0,E1,onStandStepChanged <*>
+226.0,E2,onExtend:<*> <*> <*> <*>
+227.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+228.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+229.0,E8,calculateCaloriesWithCache totalCalories=<*>
+230.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+231.0,E10,<*> : <*> <*> <*> <*>
+232.0,E1,onStandStepChanged <*>
+233.0,E2,onExtend:<*> <*> <*> <*>
+234.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+235.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+236.0,E8,calculateCaloriesWithCache totalCalories=<*>
+237.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+238.0,E10,<*> : <*> <*> <*> <*>
+239.0,E1,onStandStepChanged <*>
+240.0,E2,onExtend:<*> <*> <*> <*>
+241.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+242.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+243.0,E8,calculateCaloriesWithCache totalCalories=<*>
+244.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+245.0,E10,<*> : <*> <*> <*> <*>
+246.0,E1,onStandStepChanged <*>
+247.0,E2,onExtend:<*> <*> <*> <*>
+248.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+249.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+250.0,E8,calculateCaloriesWithCache totalCalories=<*>
+251.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+252.0,E10,<*> : <*> <*> <*> <*>
+253.0,E1,onStandStepChanged <*>
+254.0,E2,onExtend:<*> <*> <*> <*>
+255.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+256.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+257.0,E8,calculateCaloriesWithCache totalCalories=<*>
+258.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+259.0,E10,<*> : <*> <*> <*> <*>
+260.0,E1,onStandStepChanged <*>
+261.0,E2,onExtend:<*> <*> <*> <*>
+262.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+263.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+264.0,E8,calculateCaloriesWithCache totalCalories=<*>
+265.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+266.0,E10,<*> : <*> <*> <*> <*>
+267.0,E1,onStandStepChanged <*>
+268.0,E2,onExtend:<*> <*> <*> <*>
+269.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+270.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+271.0,E8,calculateCaloriesWithCache totalCalories=<*>
+272.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+273.0,E10,<*> : <*> <*> <*> <*>
+274.0,E1,onStandStepChanged <*>
+275.0,E2,onExtend:<*> <*> <*> <*>
+276.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+277.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+278.0,E8,calculateCaloriesWithCache totalCalories=<*>
+279.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+280.0,E10,<*> : <*> <*> <*> <*>
+281.0,E1,onStandStepChanged <*>
+282.0,E2,onExtend:<*> <*> <*> <*>
+283.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+284.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+285.0,E8,calculateCaloriesWithCache totalCalories=<*>
+286.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+287.0,E10,<*> : <*> <*> <*> <*>
+288.0,E1,onStandStepChanged <*>
+289.0,E2,onExtend:<*> <*> <*> <*>
+290.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+291.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+292.0,E8,calculateCaloriesWithCache totalCalories=<*>
+293.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+294.0,E10,<*> : <*> <*> <*> <*>
+295.0,E1,onStandStepChanged <*>
+296.0,E2,onExtend:<*> <*> <*> <*>
+297.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+298.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+299.0,E8,calculateCaloriesWithCache totalCalories=<*>
+300.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+301.0,E10,<*> : <*> <*> <*> <*>
+302.0,E1,onStandStepChanged <*>
+303.0,E2,onExtend:<*> <*> <*> <*>
+304.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+305.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+306.0,E8,calculateCaloriesWithCache totalCalories=<*>
+307.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+308.0,E10,<*> : <*> <*> <*> <*>
+309.0,E1,onStandStepChanged <*>
+310.0,E2,onExtend:<*> <*> <*> <*>
+311.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+312.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+313.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+314.0,E8,calculateCaloriesWithCache totalCalories=<*>
+315.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+316.0,E10,<*> : <*> <*> <*> <*>
+317.0,E1,onStandStepChanged <*>
+318.0,E2,onExtend:<*> <*> <*> <*>
+319.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+320.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+321.0,E8,calculateCaloriesWithCache totalCalories=<*>
+322.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+323.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+324.0,E1,onStandStepChanged <*>
+325.0,E2,onExtend:<*> <*> <*> <*>
+326.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+327.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+328.0,E8,calculateCaloriesWithCache totalCalories=<*>
+329.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+330.0,E1,onStandStepChanged <*>
+331.0,E2,onExtend:<*> <*> <*> <*>
+332.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+333.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+334.0,E8,calculateCaloriesWithCache totalCalories=<*>
+335.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+336.0,E10,<*> : <*> <*> <*> <*>
+337.0,E1,onStandStepChanged <*>
+338.0,E2,onExtend:<*> <*> <*> <*>
+339.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+340.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+341.0,E8,calculateCaloriesWithCache totalCalories=<*>
+342.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+343.0,E10,<*> : <*> <*> <*> <*>
+344.0,E1,onStandStepChanged <*>
+345.0,E2,onExtend:<*> <*> <*> <*>
+346.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+347.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+348.0,E8,calculateCaloriesWithCache totalCalories=<*>
+349.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+350.0,E10,<*> : <*> <*> <*> <*>
+351.0,E1,onStandStepChanged <*>
+352.0,E2,onExtend:<*> <*> <*> <*>
+353.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+354.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+355.0,E8,calculateCaloriesWithCache totalCalories=<*>
+356.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+357.0,E10,<*> : <*> <*> <*> <*>
+358.0,E1,onStandStepChanged <*>
+359.0,E2,onExtend:<*> <*> <*> <*>
+360.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+361.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+362.0,E8,calculateCaloriesWithCache totalCalories=<*>
+363.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+364.0,E10,<*> : <*> <*> <*> <*>
+365.0,E1,onStandStepChanged <*>
+366.0,E2,onExtend:<*> <*> <*> <*>
+367.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+368.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+369.0,E8,calculateCaloriesWithCache totalCalories=<*>
+370.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+371.0,E10,<*> : <*> <*> <*> <*>
+372.0,E1,onStandStepChanged <*>
+373.0,E2,onExtend:<*> <*> <*> <*>
+374.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+375.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+376.0,E8,calculateCaloriesWithCache totalCalories=<*>
+377.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+378.0,E10,<*> : <*> <*> <*> <*>
+379.0,E1,onStandStepChanged <*>
+380.0,E2,onExtend:<*> <*> <*> <*>
+381.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+382.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+383.0,E8,calculateCaloriesWithCache totalCalories=<*>
+384.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+385.0,E10,<*> : <*> <*> <*> <*>
+386.0,E1,onStandStepChanged <*>
+387.0,E2,onExtend:<*> <*> <*> <*>
+388.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+389.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+390.0,E8,calculateCaloriesWithCache totalCalories=<*>
+391.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+392.0,E10,<*> : <*> <*> <*> <*>
+393.0,E1,onStandStepChanged <*>
+394.0,E2,onExtend:<*> <*> <*> <*>
+395.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+396.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+397.0,E8,calculateCaloriesWithCache totalCalories=<*>
+398.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+399.0,E10,<*> : <*> <*> <*> <*>
+400.0,E1,onStandStepChanged <*>
+401.0,E2,onExtend:<*> <*> <*> <*>
+402.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+403.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+404.0,E8,calculateCaloriesWithCache totalCalories=<*>
+405.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+406.0,E1,onStandStepChanged <*>
+407.0,E2,onExtend:<*> <*> <*> <*>
+408.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+409.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+410.0,E8,calculateCaloriesWithCache totalCalories=<*>
+411.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+412.0,E10,<*> : <*> <*> <*> <*>
+413.0,E1,onStandStepChanged <*>
+414.0,E2,onExtend:<*> <*> <*> <*>
+415.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+416.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+417.0,E8,calculateCaloriesWithCache totalCalories=<*>
+418.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+419.0,E10,<*> : <*> <*> <*> <*>
+420.0,E1,onStandStepChanged <*>
+421.0,E2,onExtend:<*> <*> <*> <*>
+422.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+423.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+424.0,E8,calculateCaloriesWithCache totalCalories=<*>
+425.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+426.0,E10,<*> : <*> <*> <*> <*>
+427.0,E1,onStandStepChanged <*>
+428.0,E2,onExtend:<*> <*> <*> <*>
+429.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+430.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+431.0,E8,calculateCaloriesWithCache totalCalories=<*>
+432.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+433.0,E10,<*> : <*> <*> <*> <*>
+434.0,E1,onStandStepChanged <*>
+435.0,E2,onExtend:<*> <*> <*> <*>
+436.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+437.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+438.0,E8,calculateCaloriesWithCache totalCalories=<*>
+439.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+440.0,E10,<*> : <*> <*> <*> <*>
+441.0,E1,onStandStepChanged <*>
+442.0,E2,onExtend:<*> <*> <*> <*>
+443.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+444.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+445.0,E8,calculateCaloriesWithCache totalCalories=<*>
+446.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+447.0,E10,<*> : <*> <*> <*> <*>
+448.0,E1,onStandStepChanged <*>
+449.0,E2,onExtend:<*> <*> <*> <*>
+450.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+451.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+452.0,E8,calculateCaloriesWithCache totalCalories=<*>
+453.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+454.0,E10,<*> : <*> <*> <*> <*>
+455.0,E1,onStandStepChanged <*>
+456.0,E2,onExtend:<*> <*> <*> <*>
+457.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+458.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+459.0,E8,calculateCaloriesWithCache totalCalories=<*>
+460.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+461.0,E10,<*> : <*> <*> <*> <*>
+462.0,E1,onStandStepChanged <*>
+463.0,E2,onExtend:<*> <*> <*> <*>
+464.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+465.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+466.0,E8,calculateCaloriesWithCache totalCalories=<*>
+467.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+468.0,E10,<*> : <*> <*> <*> <*>
+469.0,E1,onStandStepChanged <*>
+470.0,E2,onExtend:<*> <*> <*> <*>
+471.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+472.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+473.0,E8,calculateCaloriesWithCache totalCalories=<*>
+474.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+475.0,E10,<*> : <*> <*> <*> <*>
+476.0,E1,onStandStepChanged <*>
+477.0,E2,onExtend:<*> <*> <*> <*>
+478.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+479.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+480.0,E8,calculateCaloriesWithCache totalCalories=<*>
+481.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+482.0,E10,<*> : <*> <*> <*> <*>
+483.0,E1,onStandStepChanged <*>
+484.0,E2,onExtend:<*> <*> <*> <*>
+485.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+486.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+487.0,E8,calculateCaloriesWithCache totalCalories=<*>
+488.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+489.0,E10,<*> : <*> <*> <*> <*>
+490.0,E1,onStandStepChanged <*>
+491.0,E2,onExtend:<*> <*> <*> <*>
+492.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+493.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+494.0,E8,calculateCaloriesWithCache totalCalories=<*>
+495.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+496.0,E10,<*> : <*> <*> <*> <*>
+497.0,E1,onStandStepChanged <*>
+498.0,E2,onExtend:<*> <*> <*> <*>
+499.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+500.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+501.0,E8,calculateCaloriesWithCache totalCalories=<*>
+502.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+503.0,E10,<*> : <*> <*> <*> <*>
+504.0,E1,onStandStepChanged <*>
+505.0,E2,onExtend:<*> <*> <*> <*>
+506.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+507.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+508.0,E8,calculateCaloriesWithCache totalCalories=<*>
+509.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+510.0,E10,<*> : <*> <*> <*> <*>
+511.0,E1,onStandStepChanged <*>
+512.0,E2,onExtend:<*> <*> <*> <*>
+513.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+514.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+515.0,E8,calculateCaloriesWithCache totalCalories=<*>
+516.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+517.0,E10,<*> : <*> <*> <*> <*>
+518.0,E1,onStandStepChanged <*>
+519.0,E2,onExtend:<*> <*> <*> <*>
+520.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+521.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+522.0,E8,calculateCaloriesWithCache totalCalories=<*>
+523.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+524.0,E10,<*> : <*> <*> <*> <*>
+525.0,E1,onStandStepChanged <*>
+526.0,E2,onExtend:<*> <*> <*> <*>
+527.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+528.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+529.0,E8,calculateCaloriesWithCache totalCalories=<*>
+530.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+531.0,E10,<*> : <*> <*> <*> <*>
+532.0,E1,onStandStepChanged <*>
+533.0,E2,onExtend:<*> <*> <*> <*>
+534.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+535.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+536.0,E8,calculateCaloriesWithCache totalCalories=<*>
+537.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+538.0,E10,<*> : <*> <*> <*> <*>
+539.0,E1,onStandStepChanged <*>
+540.0,E2,onExtend:<*> <*> <*> <*>
+541.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+542.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+543.0,E8,calculateCaloriesWithCache totalCalories=<*>
+544.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+545.0,E10,<*> : <*> <*> <*> <*>
+546.0,E1,onStandStepChanged <*>
+547.0,E2,onExtend:<*> <*> <*> <*>
+548.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+549.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+550.0,E8,calculateCaloriesWithCache totalCalories=<*>
+551.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+552.0,E10,<*> : <*> <*> <*> <*>
+553.0,E1,onStandStepChanged <*>
+554.0,E2,onExtend:<*> <*> <*> <*>
+555.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+556.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+557.0,E8,calculateCaloriesWithCache totalCalories=<*>
+558.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+559.0,E10,<*> : <*> <*> <*> <*>
+560.0,E1,onStandStepChanged <*>
+561.0,E2,onExtend:<*> <*> <*> <*>
+562.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+563.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+564.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+565.0,E8,calculateCaloriesWithCache totalCalories=<*>
+566.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+567.0,E10,<*> : <*> <*> <*> <*>
+568.0,E1,onStandStepChanged <*>
+569.0,E2,onExtend:<*> <*> <*> <*>
+570.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+571.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+572.0,E8,calculateCaloriesWithCache totalCalories=<*>
+573.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+574.0,E10,<*> : <*> <*> <*> <*>
+575.0,E1,onStandStepChanged <*>
+576.0,E2,onExtend:<*> <*> <*> <*>
+577.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+578.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+579.0,E8,calculateCaloriesWithCache totalCalories=<*>
+580.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+581.0,E10,<*> : <*> <*> <*> <*>
+582.0,E1,onStandStepChanged <*>
+583.0,E2,onExtend:<*> <*> <*> <*>
+584.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+585.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+586.0,E8,calculateCaloriesWithCache totalCalories=<*>
+587.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+588.0,E10,<*> : <*> <*> <*> <*>
+589.0,E1,onStandStepChanged <*>
+590.0,E2,onExtend:<*> <*> <*> <*>
+591.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+592.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+593.0,E8,calculateCaloriesWithCache totalCalories=<*>
+594.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+595.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+596.0,E1,onStandStepChanged <*>
+597.0,E2,onExtend:<*> <*> <*> <*>
+598.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+599.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+600.0,E8,calculateCaloriesWithCache totalCalories=<*>
+601.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+602.0,E10,<*> : <*> <*> <*> <*>
+603.0,E1,onStandStepChanged <*>
+604.0,E2,onExtend:<*> <*> <*> <*>
+605.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+606.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+607.0,E8,calculateCaloriesWithCache totalCalories=<*>
+608.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+609.0,E10,<*> : <*> <*> <*> <*>
+610.0,E1,onStandStepChanged <*>
+611.0,E2,onExtend:<*> <*> <*> <*>
+612.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+613.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+614.0,E8,calculateCaloriesWithCache totalCalories=<*>
+615.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+616.0,E10,<*> : <*> <*> <*> <*>
+617.0,E1,onStandStepChanged <*>
+618.0,E2,onExtend:<*> <*> <*> <*>
+619.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+620.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+621.0,E8,calculateCaloriesWithCache totalCalories=<*>
+622.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+623.0,E10,<*> : <*> <*> <*> <*>
+624.0,E1,onStandStepChanged <*>
+625.0,E2,onExtend:<*> <*> <*> <*>
+626.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+627.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+628.0,E8,calculateCaloriesWithCache totalCalories=<*>
+629.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+630.0,E10,<*> : <*> <*> <*> <*>
+631.0,E1,onStandStepChanged <*>
+632.0,E2,onExtend:<*> <*> <*> <*>
+633.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+634.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+635.0,E8,calculateCaloriesWithCache totalCalories=<*>
+636.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+637.0,E10,<*> : <*> <*> <*> <*>
+638.0,E1,onStandStepChanged <*>
+639.0,E2,onExtend:<*> <*> <*> <*>
+640.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+641.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+642.0,E8,calculateCaloriesWithCache totalCalories=<*>
+643.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+644.0,E10,<*> : <*> <*> <*> <*>
+645.0,E1,onStandStepChanged <*>
+646.0,E2,onExtend:<*> <*> <*> <*>
+647.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+648.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+649.0,E8,calculateCaloriesWithCache totalCalories=<*>
+650.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+651.0,E10,<*> : <*> <*> <*> <*>
+652.0,E1,onStandStepChanged <*>
+653.0,E2,onExtend:<*> <*> <*> <*>
+654.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+655.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+656.0,E8,calculateCaloriesWithCache totalCalories=<*>
+657.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+658.0,E10,<*> : <*> <*> <*> <*>
+659.0,E1,onStandStepChanged <*>
+660.0,E2,onExtend:<*> <*> <*> <*>
+661.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+662.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+663.0,E8,calculateCaloriesWithCache totalCalories=<*>
+664.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+665.0,E10,<*> : <*> <*> <*> <*>
+666.0,E1,onStandStepChanged <*>
+667.0,E2,onExtend:<*> <*> <*> <*>
+668.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+669.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+670.0,E8,calculateCaloriesWithCache totalCalories=<*>
+671.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+672.0,E10,<*> : <*> <*> <*> <*>
+673.0,E1,onStandStepChanged <*>
+674.0,E2,onExtend:<*> <*> <*> <*>
+675.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+676.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+677.0,E8,calculateCaloriesWithCache totalCalories=<*>
+678.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+679.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+680.0,E1,onStandStepChanged <*>
+681.0,E2,onExtend:<*> <*> <*> <*>
+682.0,E1,onStandStepChanged <*>
+683.0,E2,onExtend:<*> <*> <*> <*>
+684.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+685.0,E4,processHandleBroadcastAction action:<*>
+686.0,E5,d <*> <*> <*>
+687.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+688.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+689.0,E1,onStandStepChanged <*>
+690.0,E8,calculateCaloriesWithCache totalCalories=<*>
+691.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+692.0,E10,<*> : <*> <*> <*> <*>
+693.0,E1,onStandStepChanged <*>
+694.0,E2,onExtend:<*> <*> <*> <*>
+695.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+696.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+697.0,E8,calculateCaloriesWithCache totalCalories=<*>
+698.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+699.0,E1,onStandStepChanged <*>
+700.0,E14,flushTempCacheToDB by <*>
+701.0,E15,Alarm uploadStaticsToDB totalSteps=<*>Calories:<*>Floor:<*>Distance:<*>
+702.0,E16,<*> writeDataToDB size <*>
+703.0,E17,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+704.0,E17,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+705.0,E17,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+706.0,E17,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+707.0,E17,"upLoadOneMinuteDataToEngine time=<*>,<*>,<*>,<*>,<*>"
+708.0,E18,getBinderPackageName packageName = <*>
+709.0,E18,getBinderPackageName packageName = <*>
+710.0,E19,"getAppContext() isAppValid health or wear, packageName = <*>"
+711.0,E2,onExtend:<*> <*> <*> <*>
+712.0,E18,getBinderPackageName packageName = <*>
+713.0,E18,getBinderPackageName packageName = <*>
+714.0,E20,insert<*>HealthData() checkAppType <*> appID = <*>
+715.0,E21,"insertHiHealthData() size = <*>,app = 1,One Data Type = <*>,packageName = com.huawei.health,writeStatType = 0"
+716.0,E22,"saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>"
+717.0,E23,"saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+718.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+719.0,E23,"saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+720.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+721.0,E25,"saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>"
+722.0,E23,"saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+723.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+724.0,E25,"saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>"
+725.0,E23,"saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>"
+726.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+727.0,E26,"bulkSaveDetailHiHealthData() size = <*> ,totalTime = <*>"
+728.0,E27,startListenerChange subscribeList = [*]
+729.0,E28,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*> ,errorMessage = <*>"
+730.0,E29,insertHiHealthData() end totalTime = <*>
+731.0,E30,uploadStaticsToDB() onResult  type = <*> obj=<*>
+732.0,E31,uploadStaticsToDB failed message=<*>
+733.0,E32,checkInsertStatus stepSum or calorieSum is enough
+734.0,E18,getBinderPackageName packageName = <*>
+735.0,E18,getBinderPackageName packageName = <*>
+736.0,E19,"getAppContext() isAppValid health or wear, packageName = <*>"
+737.0,E33,checkInsertStatus stepStatSum or calorieStatSum is enough
+738.0,E34,"stepSyncOrNot appSynTimes is <*> , statsyncTimes is <*>"
+739.0,E35,"startInsertSportSync start auto sync,app is <*>"
+740.0,E18,getBinderPackageName packageName = <*>
+741.0,E36,"checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>"
+742.0,E37,"startInsertSportSync first <*> steps sync,do all sync"
+743.0,E18,getBinderPackageName packageName = <*>
+744.0,E38,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+745.0,E20,insert<*>HealthData() checkAppType <*> appID = <*>
+746.0,E21,"insertHiHealthData() size = <*>,app = 1,One Data Type = <*>,packageName = com.huawei.health,writeStatType = 0"
+747.0,E39,needAutoSync <*>SyncSwitch is <*>
+748.0,E22,"saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>"
+749.0,E40,"initDataPrivacy the dataPrivacy switch is <*> , start push health data!"
+750.0,E41,initDataPrivacy the dataPrivacy is <*>
+751.0,E42,"initUserPrivacy the userPrivacy switch is <*>n, start push user data!"
+752.0,E43,initUserPrivacy the userPrivacy is <*>
+753.0,E44,ifCanSync not! no cloud version
+754.0,E45,sendSyncFailedBroadcast
+755.0,E26,"bulkSaveDetailHiHealthData() size = <*> ,totalTime = <*>"
+756.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+757.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+758.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+759.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+760.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+761.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+762.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+763.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+764.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+765.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+766.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+767.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+768.0,E24,"new date =<*> , type=<*> ,<*> ,old=<*>"
+769.0,E46,"saveRealTimeHealthDatasStat() size = <*> ,totalTime = <*>"
+770.0,E27,startListenerChange subscribeList = [*]
+771.0,E29,insertHiHealthData() end totalTime = <*>
+772.0,E47,<*>() onSuccess  type = <*> data=<*>
+773.0,E48,InsertEvent success begin:<*> end:<*>
+774.0,E49,setWriteDBLastDataMinute=<*>
+775.0,E50,setWriteDBLastData<*> success
+776.0,E51,<*> result success
+777.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+778.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+779.0,E32,checkInsertStatus stepSum or calorieSum is enough
+780.0,E8,calculateCaloriesWithCache totalCalories=<*>
+781.0,E33,checkInsertStatus stepStatSum or calorieStatSum is enough
+782.0,E34,"stepSyncOrNot appSynTimes is <*> , statsyncTimes is <*>"
+783.0,E35,"startInsertSportSync start auto sync,app is <*>"
+784.0,E36,"checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>"
+785.0,E37,"startInsertSportSync first <*> steps sync,do all sync"
+786.0,E38,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+787.0,E39,needAutoSync <*>SyncSwitch is <*>
+788.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+789.0,E40,"initDataPrivacy the dataPrivacy switch is <*> , start push health data!"
+790.0,E41,initDataPrivacy the dataPrivacy is <*>
+791.0,E42,"initUserPrivacy the userPrivacy switch is <*>n, start push user data!"
+792.0,E43,initUserPrivacy the userPrivacy is <*>
+793.0,E44,ifCanSync not! no cloud version
+794.0,E45,sendSyncFailedBroadcast
+795.0,E10,<*> : <*> <*> <*> <*>
+796.0,E1,onStandStepChanged <*>
+797.0,E2,onExtend:<*> <*> <*> <*>
+798.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+799.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+800.0,E8,calculateCaloriesWithCache totalCalories=<*>
+801.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+802.0,E10,<*> : <*> <*> <*> <*>
+803.0,E1,onStandStepChanged <*>
+804.0,E2,onExtend:<*> <*> <*> <*>
+805.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+806.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+807.0,E8,calculateCaloriesWithCache totalCalories=<*>
+808.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+809.0,E10,<*> : <*> <*> <*> <*>
+810.0,E1,onStandStepChanged <*>
+811.0,E2,onExtend:<*> <*> <*> <*>
+812.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+813.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+814.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+815.0,E8,calculateCaloriesWithCache totalCalories=<*>
+816.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+817.0,E10,<*> : <*> <*> <*> <*>
+818.0,E1,onStandStepChanged <*>
+819.0,E2,onExtend:<*> <*> <*> <*>
+820.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+821.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+822.0,E8,calculateCaloriesWithCache totalCalories=<*>
+823.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+824.0,E10,<*> : <*> <*> <*> <*>
+825.0,E1,onStandStepChanged <*>
+826.0,E2,onExtend:<*> <*> <*> <*>
+827.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+828.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+829.0,E8,calculateCaloriesWithCache totalCalories=<*>
+830.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+831.0,E10,<*> : <*> <*> <*> <*>
+832.0,E1,onStandStepChanged <*>
+833.0,E2,onExtend:<*> <*> <*> <*>
+834.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+835.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+836.0,E8,calculateCaloriesWithCache totalCalories=<*>
+837.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+838.0,E10,<*> : <*> <*> <*> <*>
+839.0,E1,onStandStepChanged <*>
+840.0,E2,onExtend:<*> <*> <*> <*>
+841.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+842.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+843.0,E8,calculateCaloriesWithCache totalCalories=<*>
+844.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+845.0,E10,<*> : <*> <*> <*> <*>
+846.0,E1,onStandStepChanged <*>
+847.0,E2,onExtend:<*> <*> <*> <*>
+848.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+849.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+850.0,E8,calculateCaloriesWithCache totalCalories=<*>
+851.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+852.0,E10,<*> : <*> <*> <*> <*>
+853.0,E1,onStandStepChanged <*>
+854.0,E2,onExtend:<*> <*> <*> <*>
+855.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+856.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+857.0,E8,calculateCaloriesWithCache totalCalories=<*>
+858.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+859.0,E10,<*> : <*> <*> <*> <*>
+860.0,E1,onStandStepChanged <*>
+861.0,E2,onExtend:<*> <*> <*> <*>
+862.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+863.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+864.0,E8,calculateCaloriesWithCache totalCalories=<*>
+865.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+866.0,E10,<*> : <*> <*> <*> <*>
+867.0,E1,onStandStepChanged <*>
+868.0,E2,onExtend:<*> <*> <*> <*>
+869.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+870.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+871.0,E8,calculateCaloriesWithCache totalCalories=<*>
+872.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+873.0,E10,<*> : <*> <*> <*> <*>
+874.0,E1,onStandStepChanged <*>
+875.0,E2,onExtend:<*> <*> <*> <*>
+876.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+877.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+878.0,E8,calculateCaloriesWithCache totalCalories=<*>
+879.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+880.0,E10,<*> : <*> <*> <*> <*>
+881.0,E1,onStandStepChanged <*>
+882.0,E2,onExtend:<*> <*> <*> <*>
+883.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+884.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+885.0,E8,calculateCaloriesWithCache totalCalories=<*>
+886.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+887.0,E10,<*> : <*> <*> <*> <*>
+888.0,E1,onStandStepChanged <*>
+889.0,E2,onExtend:<*> <*> <*> <*>
+890.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+891.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+892.0,E8,calculateCaloriesWithCache totalCalories=<*>
+893.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+894.0,E10,<*> : <*> <*> <*> <*>
+895.0,E1,onStandStepChanged <*>
+896.0,E2,onExtend:<*> <*> <*> <*>
+897.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+898.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+899.0,E8,calculateCaloriesWithCache totalCalories=<*>
+900.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+901.0,E1,onStandStepChanged <*>
+902.0,E2,onExtend:<*> <*> <*> <*>
+903.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+904.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+905.0,E8,calculateCaloriesWithCache totalCalories=<*>
+906.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+907.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+908.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+909.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+910.0,E1,onStandStepChanged <*>
+911.0,E2,onExtend:<*> <*> <*> <*>
+912.0,E2,onExtend:<*> <*> <*> <*>
+913.0,E2,onExtend:<*> <*> <*> <*>
+914.0,E2,onExtend:<*> <*> <*> <*>
+915.0,E2,onExtend:<*> <*> <*> <*>
+916.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+917.0,E4,processHandleBroadcastAction action:<*>
+918.0,E5,d <*> <*> <*>
+919.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+920.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+921.0,E1,onStandStepChanged <*>
+922.0,E8,calculateCaloriesWithCache totalCalories=<*>
+923.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+924.0,E10,<*> : <*> <*> <*> <*>
+925.0,E1,onStandStepChanged <*>
+926.0,E2,onExtend:<*> <*> <*> <*>
+927.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+928.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+929.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+930.0,E8,calculateCaloriesWithCache totalCalories=<*>
+931.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+932.0,E1,onStandStepChanged <*>
+933.0,E2,onExtend:<*> <*> <*> <*>
+934.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+935.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+936.0,E8,calculateCaloriesWithCache totalCalories=<*>
+937.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+938.0,E1,onStandStepChanged <*>
+939.0,E2,onExtend:<*> <*> <*> <*>
+940.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+941.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+942.0,E8,calculateCaloriesWithCache totalCalories=<*>
+943.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+944.0,E1,onStandStepChanged <*>
+945.0,E2,onExtend:<*> <*> <*> <*>
+946.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+947.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+948.0,E8,calculateCaloriesWithCache totalCalories=<*>
+949.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+950.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+951.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+952.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+953.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+954.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+955.0,E1,onStandStepChanged <*>
+956.0,E2,onExtend:<*> <*> <*> <*>
+957.0,E2,onExtend:<*> <*> <*> <*>
+958.0,E2,onExtend:<*> <*> <*> <*>
+959.0,E2,onExtend:<*> <*> <*> <*>
+960.0,E2,onExtend:<*> <*> <*> <*>
+961.0,E2,onExtend:<*> <*> <*> <*>
+962.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+963.0,E4,processHandleBroadcastAction action:<*>
+964.0,E5,d <*> <*> <*>
+965.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+966.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+967.0,E1,onStandStepChanged <*>
+968.0,E8,calculateCaloriesWithCache totalCalories=<*>
+969.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+970.0,E10,<*> : <*> <*> <*> <*>
+971.0,E1,onStandStepChanged <*>
+972.0,E2,onExtend:<*> <*> <*> <*>
+973.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+974.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+975.0,E8,calculateCaloriesWithCache totalCalories=<*>
+976.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+977.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+978.0,E1,onStandStepChanged <*>
+979.0,E2,onExtend:<*> <*> <*> <*>
+980.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+981.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+982.0,E8,calculateCaloriesWithCache totalCalories=<*>
+983.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+984.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+985.0,E1,onStandStepChanged <*>
+986.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+987.0,E4,processHandleBroadcastAction action:<*>
+988.0,E5,d <*> <*> <*>
+989.0,E2,onExtend:<*> <*> <*> <*>
+990.0,E2,onExtend:<*> <*> <*> <*>
+991.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+992.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+993.0,E1,onStandStepChanged <*>
+994.0,E8,calculateCaloriesWithCache totalCalories=<*>
+995.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+996.0,E10,<*> : <*> <*> <*> <*>
+997.0,E1,onStandStepChanged <*>
+998.0,E2,onExtend:<*> <*> <*> <*>
+999.0,E52,"d: timeStamp back,extendReportTimeStamp=<*>"
+1000.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1001.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1002.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1003.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1004.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1005.0,E53,start <*> <*>
+1006.0,E38,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+1007.0,E54,stepSyncOrNot appSynTimes is <*>
+1008.0,E39,needAutoSync <*>SyncSwitch is <*>
+1009.0,E40,"initDataPrivacy the dataPrivacy switch is <*> , start push health data!"
+1010.0,E41,initDataPrivacy the dataPrivacy is <*>
+1011.0,E42,"initUserPrivacy the userPrivacy switch is <*>n, start push user data!"
+1012.0,E43,initUserPrivacy the userPrivacy is <*>
+1013.0,E44,ifCanSync not! no cloud version
+1014.0,E45,sendSyncFailedBroadcast
+1015.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1016.0,E1,onStandStepChanged <*>
+1017.0,E2,onExtend:<*> <*> <*> <*>
+1018.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1019.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1020.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1021.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1022.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1023.0,E1,onStandStepChanged <*>
+1024.0,E2,onExtend:<*> <*> <*> <*>
+1025.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1026.0,E4,processHandleBroadcastAction action:<*>
+1027.0,E5,d <*> <*> <*>
+1028.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1029.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1030.0,E1,onStandStepChanged <*>
+1031.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1032.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1033.0,E10,<*> : <*> <*> <*> <*>
+1034.0,E1,onStandStepChanged <*>
+1035.0,E2,onExtend:<*> <*> <*> <*>
+1036.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1037.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1038.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1039.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1040.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1041.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1042.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1043.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1044.0,E1,onStandStepChanged <*>
+1045.0,E2,onExtend:<*> <*> <*> <*>
+1046.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1047.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1048.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1049.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1050.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1051.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1052.0,E1,onStandStepChanged <*>
+1053.0,E2,onExtend:<*> <*> <*> <*>
+1054.0,E2,onExtend:<*> <*> <*> <*>
+1055.0,E2,onExtend:<*> <*> <*> <*>
+1056.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1057.0,E4,processHandleBroadcastAction action:<*>
+1058.0,E5,d <*> <*> <*>
+1059.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1060.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1061.0,E1,onStandStepChanged <*>
+1062.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1063.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1064.0,E10,<*> : <*> <*> <*> <*>
+1065.0,E1,onStandStepChanged <*>
+1066.0,E2,onExtend:<*> <*> <*> <*>
+1067.0,E52,"d: timeStamp back,extendReportTimeStamp=<*>"
+1068.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1069.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1070.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1071.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1072.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1073.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1074.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1075.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1076.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1077.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1078.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1079.0,E1,onStandStepChanged <*>
+1080.0,E2,onExtend:<*> <*> <*> <*>
+1081.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1082.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1083.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1084.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1085.0,E1,onStandStepChanged <*>
+1086.0,E2,onExtend:<*> <*> <*> <*>
+1087.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1088.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1089.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1090.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1091.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1092.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1093.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1094.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1095.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1096.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1097.0,E1,onStandStepChanged <*>
+1098.0,E2,onExtend:<*> <*> <*> <*>
+1099.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1100.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1101.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1102.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1103.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1104.0,E1,onStandStepChanged <*>
+1105.0,E2,onExtend:<*> <*> <*> <*>
+1106.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1107.0,E4,processHandleBroadcastAction action:<*>
+1108.0,E5,d <*> <*> <*>
+1109.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1110.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1111.0,E1,onStandStepChanged <*>
+1112.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1113.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1114.0,E10,<*> : <*> <*> <*> <*>
+1115.0,E1,onStandStepChanged <*>
+1116.0,E2,onExtend:<*> <*> <*> <*>
+1117.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1118.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1119.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1120.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1121.0,E1,onStandStepChanged <*>
+1122.0,E2,onExtend:<*> <*> <*> <*>
+1123.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1124.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1125.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1126.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1127.0,E1,onStandStepChanged <*>
+1128.0,E2,onExtend:<*> <*> <*> <*>
+1129.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1130.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1131.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1132.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1133.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1134.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1135.0,E1,onStandStepChanged <*>
+1136.0,E2,onExtend:<*> <*> <*> <*>
+1137.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1138.0,E4,processHandleBroadcastAction action:<*>
+1139.0,E5,d <*> <*> <*>
+1140.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1141.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1142.0,E1,onStandStepChanged <*>
+1143.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1144.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1145.0,E10,<*> : <*> <*> <*> <*>
+1146.0,E1,onStandStepChanged <*>
+1147.0,E2,onExtend:<*> <*> <*> <*>
+1148.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1149.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1150.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1151.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1152.0,E1,onStandStepChanged <*>
+1153.0,E2,onExtend:<*> <*> <*> <*>
+1154.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1155.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1156.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1157.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1158.0,E1,onStandStepChanged <*>
+1159.0,E2,onExtend:<*> <*> <*> <*>
+1160.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1161.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1162.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1163.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1164.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1165.0,E1,onStandStepChanged <*>
+1166.0,E2,onExtend:<*> <*> <*> <*>
+1167.0,E2,onExtend:<*> <*> <*> <*>
+1168.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1169.0,E4,processHandleBroadcastAction action:<*>
+1170.0,E5,d <*> <*> <*>
+1171.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1172.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1173.0,E1,onStandStepChanged <*>
+1174.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1175.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1176.0,E10,<*> : <*> <*> <*> <*>
+1177.0,E1,onStandStepChanged <*>
+1178.0,E2,onExtend:<*> <*> <*> <*>
+1179.0,E52,"d: timeStamp back,extendReportTimeStamp=<*>"
+1180.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1181.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1182.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1183.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1184.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1185.0,E1,onStandStepChanged <*>
+1186.0,E2,onExtend:<*> <*> <*> <*>
+1187.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1188.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1189.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1190.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1191.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1192.0,E1,onStandStepChanged <*>
+1193.0,E2,onExtend:<*> <*> <*> <*>
+1194.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1195.0,E4,processHandleBroadcastAction action:<*>
+1196.0,E5,d <*> <*> <*>
+1197.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1198.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1199.0,E1,onStandStepChanged <*>
+1200.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1201.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1202.0,E10,<*> : <*> <*> <*> <*>
+1203.0,E1,onStandStepChanged <*>
+1204.0,E2,onExtend:<*> <*> <*> <*>
+1205.0,E1,onStandStepChanged <*>
+1206.0,E2,onExtend:<*> <*> <*> <*>
+1207.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1208.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1209.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1210.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1211.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1212.0,E1,onStandStepChanged <*>
+1213.0,E2,onExtend:<*> <*> <*> <*>
+1214.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1215.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1216.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1217.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1218.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1219.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1220.0,E1,onStandStepChanged <*>
+1221.0,E2,onExtend:<*> <*> <*> <*>
+1222.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1223.0,E4,processHandleBroadcastAction action:<*>
+1224.0,E5,d <*> <*> <*>
+1225.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1226.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1227.0,E1,onStandStepChanged <*>
+1228.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1229.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1230.0,E10,<*> : <*> <*> <*> <*>
+1231.0,E1,onStandStepChanged <*>
+1232.0,E2,onExtend:<*> <*> <*> <*>
+1233.0,E1,onStandStepChanged <*>
+1234.0,E2,onExtend:<*> <*> <*> <*>
+1235.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1236.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1237.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1238.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1239.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1240.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1241.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1242.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1243.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1244.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1245.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1246.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1247.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1248.0,E1,onStandStepChanged <*>
+1249.0,E2,onExtend:<*> <*> <*> <*>
+1250.0,E2,onExtend:<*> <*> <*> <*>
+1251.0,E2,onExtend:<*> <*> <*> <*>
+1252.0,E2,onExtend:<*> <*> <*> <*>
+1253.0,E2,onExtend:<*> <*> <*> <*>
+1254.0,E2,onExtend:<*> <*> <*> <*>
+1255.0,E2,onExtend:<*> <*> <*> <*>
+1256.0,E2,onExtend:<*> <*> <*> <*>
+1257.0,E2,onExtend:<*> <*> <*> <*>
+1258.0,E2,onExtend:<*> <*> <*> <*>
+1259.0,E2,onExtend:<*> <*> <*> <*>
+1260.0,E2,onExtend:<*> <*> <*> <*>
+1261.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1262.0,E4,processHandleBroadcastAction action:<*>
+1263.0,E5,d <*> <*> <*>
+1264.0,E1,onStandStepChanged <*>
+1265.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1266.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1267.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1268.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1269.0,E10,<*> : <*> <*> <*> <*>
+1270.0,E1,onStandStepChanged <*>
+1271.0,E2,onExtend:<*> <*> <*> <*>
+1272.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1273.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1274.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1275.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1276.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1277.0,E1,onStandStepChanged <*>
+1278.0,E2,onExtend:<*> <*> <*> <*>
+1279.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1280.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1281.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1282.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1283.0,E55,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@<*>
+1284.0,E10,<*> : <*> <*> <*> <*>
+1285.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1286.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1287.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1288.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1289.0,E55,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@<*>
+1290.0,E55,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@<*>
+1291.0,E10,<*> : <*> <*> <*> <*>
+1292.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1293.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1294.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1295.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1296.0,E55,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@<*>
+1297.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1298.0,E55,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@<*>
+1299.0,E10,<*> : <*> <*> <*> <*>
+1300.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1301.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1302.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1303.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1304.0,E55,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@<*>
+1305.0,E1,onStandStepChanged <*>
+1306.0,E2,onExtend:<*> <*> <*> <*>
+1307.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1308.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1309.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1310.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1311.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1312.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1313.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1314.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1315.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1316.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1317.0,E1,onStandStepChanged <*>
+1318.0,E2,onExtend:<*> <*> <*> <*>
+1319.0,E2,onExtend:<*> <*> <*> <*>
+1320.0,E2,onExtend:<*> <*> <*> <*>
+1321.0,E2,onExtend:<*> <*> <*> <*>
+1322.0,E2,onExtend:<*> <*> <*> <*>
+1323.0,E2,onExtend:<*> <*> <*> <*>
+1324.0,E2,onExtend:<*> <*> <*> <*>
+1325.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1326.0,E4,processHandleBroadcastAction action:<*>
+1327.0,E5,d <*> <*> <*>
+1328.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1329.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1330.0,E1,onStandStepChanged <*>
+1331.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1332.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1333.0,E10,<*> : <*> <*> <*> <*>
+1334.0,E1,onStandStepChanged <*>
+1335.0,E2,onExtend:<*> <*> <*> <*>
+1336.0,E52,"d: timeStamp back,extendReportTimeStamp=<*>"
+1337.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1338.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1339.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1340.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1341.0,E1,onStandStepChanged <*>
+1342.0,E2,onExtend:<*> <*> <*> <*>
+1343.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1344.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1345.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1346.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1347.0,E1,onStandStepChanged <*>
+1348.0,E2,onExtend:<*> <*> <*> <*>
+1349.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1350.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1351.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1352.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1353.0,E10,<*> : <*> <*> <*> <*>
+1354.0,E1,onStandStepChanged <*>
+1355.0,E2,onExtend:<*> <*> <*> <*>
+1356.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1357.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1358.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1359.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1360.0,E10,<*> : <*> <*> <*> <*>
+1361.0,E1,onStandStepChanged <*>
+1362.0,E2,onExtend:<*> <*> <*> <*>
+1363.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1364.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1365.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1366.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1367.0,E10,<*> : <*> <*> <*> <*>
+1368.0,E1,onStandStepChanged <*>
+1369.0,E2,onExtend:<*> <*> <*> <*>
+1370.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1371.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1372.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1373.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1374.0,E10,<*> : <*> <*> <*> <*>
+1375.0,E1,onStandStepChanged <*>
+1376.0,E2,onExtend:<*> <*> <*> <*>
+1377.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1378.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1379.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1380.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1381.0,E10,<*> : <*> <*> <*> <*>
+1382.0,E1,onStandStepChanged <*>
+1383.0,E2,onExtend:<*> <*> <*> <*>
+1384.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1385.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1386.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1387.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1388.0,E10,<*> : <*> <*> <*> <*>
+1389.0,E1,onStandStepChanged <*>
+1390.0,E2,onExtend:<*> <*> <*> <*>
+1391.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1392.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1393.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1394.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1395.0,E10,<*> : <*> <*> <*> <*>
+1396.0,E1,onStandStepChanged <*>
+1397.0,E2,onExtend:<*> <*> <*> <*>
+1398.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1399.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1400.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1401.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1402.0,E10,<*> : <*> <*> <*> <*>
+1403.0,E1,onStandStepChanged <*>
+1404.0,E2,onExtend:<*> <*> <*> <*>
+1405.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1406.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1407.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1408.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1409.0,E10,<*> : <*> <*> <*> <*>
+1410.0,E1,onStandStepChanged <*>
+1411.0,E2,onExtend:<*> <*> <*> <*>
+1412.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1413.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1414.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1415.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1416.0,E10,<*> : <*> <*> <*> <*>
+1417.0,E1,onStandStepChanged <*>
+1418.0,E2,onExtend:<*> <*> <*> <*>
+1419.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1420.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1421.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1422.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1423.0,E10,<*> : <*> <*> <*> <*>
+1424.0,E1,onStandStepChanged <*>
+1425.0,E2,onExtend:<*> <*> <*> <*>
+1426.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1427.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1428.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1429.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1430.0,E10,<*> : <*> <*> <*> <*>
+1431.0,E1,onStandStepChanged <*>
+1432.0,E2,onExtend:<*> <*> <*> <*>
+1433.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1434.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1435.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1436.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1437.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1438.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1439.0,E1,onStandStepChanged <*>
+1440.0,E2,onExtend:<*> <*> <*> <*>
+1441.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1442.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1443.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1444.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1445.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1446.0,E1,onStandStepChanged <*>
+1447.0,E2,onExtend:<*> <*> <*> <*>
+1448.0,E2,onExtend:<*> <*> <*> <*>
+1449.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1450.0,E4,processHandleBroadcastAction action:<*>
+1451.0,E5,d <*> <*> <*>
+1452.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1453.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1454.0,E1,onStandStepChanged <*>
+1455.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1456.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1457.0,E10,<*> : <*> <*> <*> <*>
+1458.0,E1,onStandStepChanged <*>
+1459.0,E2,onExtend:<*> <*> <*> <*>
+1460.0,E52,"d: timeStamp back,extendReportTimeStamp=<*>"
+1461.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1462.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1463.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1464.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1465.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1466.0,E1,onStandStepChanged <*>
+1467.0,E2,onExtend:<*> <*> <*> <*>
+1468.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1469.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1470.0,E4,processHandleBroadcastAction action:<*>
+1471.0,E5,d <*> <*> <*>
+1472.0,E1,onStandStepChanged <*>
+1473.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1474.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1475.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1476.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1477.0,E10,<*> : <*> <*> <*> <*>
+1478.0,E1,onStandStepChanged <*>
+1479.0,E2,onExtend:<*> <*> <*> <*>
+1480.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1481.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1482.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1483.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1484.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1485.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1486.0,E1,onStandStepChanged <*>
+1487.0,E2,onExtend:<*> <*> <*> <*>
+1488.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1489.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1490.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1491.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1492.0,E1,onStandStepChanged <*>
+1493.0,E2,onExtend:<*> <*> <*> <*>
+1494.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1495.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1496.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1497.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1498.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1499.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1500.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1501.0,E1,onStandStepChanged <*>
+1502.0,E2,onExtend:<*> <*> <*> <*>
+1503.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1504.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1505.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1506.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1507.0,E1,onStandStepChanged <*>
+1508.0,E2,onExtend:<*> <*> <*> <*>
+1509.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1510.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1511.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1512.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1513.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1514.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1515.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1516.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1517.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1518.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1519.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1520.0,E1,onStandStepChanged <*>
+1521.0,E2,onExtend:<*> <*> <*> <*>
+1522.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1523.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1524.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1525.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1526.0,E1,onStandStepChanged <*>
+1527.0,E2,onExtend:<*> <*> <*> <*>
+1528.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1529.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1530.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1531.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1532.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1533.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1534.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1535.0,E53,start <*> <*>
+1536.0,E38,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+1537.0,E54,stepSyncOrNot appSynTimes is <*>
+1538.0,E39,needAutoSync <*>SyncSwitch is <*>
+1539.0,E40,"initDataPrivacy the dataPrivacy switch is <*> , start push health data!"
+1540.0,E41,initDataPrivacy the dataPrivacy is <*>
+1541.0,E42,"initUserPrivacy the userPrivacy switch is <*>n, start push user data!"
+1542.0,E43,initUserPrivacy the userPrivacy is <*>
+1543.0,E44,ifCanSync not! no cloud version
+1544.0,E45,sendSyncFailedBroadcast
+1545.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1546.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1547.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1548.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1549.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1550.0,E1,onStandStepChanged <*>
+1551.0,E2,onExtend:<*> <*> <*> <*>
+1552.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1553.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1554.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1555.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1556.0,E1,onStandStepChanged <*>
+1557.0,E2,onExtend:<*> <*> <*> <*>
+1558.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1559.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1560.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1561.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1562.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1563.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1564.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1565.0,E1,onStandStepChanged <*>
+1566.0,E2,onExtend:<*> <*> <*> <*>
+1567.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1568.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1569.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1570.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1571.0,E1,onStandStepChanged <*>
+1572.0,E2,onExtend:<*> <*> <*> <*>
+1573.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1574.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1575.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1576.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1577.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1578.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1579.0,E1,onStandStepChanged <*>
+1580.0,E2,onExtend:<*> <*> <*> <*>
+1581.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1582.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1583.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1584.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1585.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1586.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1587.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1588.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1589.0,E1,onStandStepChanged <*>
+1590.0,E2,onExtend:<*> <*> <*> <*>
+1591.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1592.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1593.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1594.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1595.0,E1,onStandStepChanged <*>
+1596.0,E2,onExtend:<*> <*> <*> <*>
+1597.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1598.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1599.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1600.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1601.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1602.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1603.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1604.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1605.0,E1,onStandStepChanged <*>
+1606.0,E2,onExtend:<*> <*> <*> <*>
+1607.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1608.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1609.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1610.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1611.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1612.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1613.0,E1,onStandStepChanged <*>
+1614.0,E2,onExtend:<*> <*> <*> <*>
+1615.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1616.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1617.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1618.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1619.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1620.0,E1,onStandStepChanged <*>
+1621.0,E2,onExtend:<*> <*> <*> <*>
+1622.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1623.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1624.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1625.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1626.0,E1,onStandStepChanged <*>
+1627.0,E2,onExtend:<*> <*> <*> <*>
+1628.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1629.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1630.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1631.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1632.0,E1,onStandStepChanged <*>
+1633.0,E2,onExtend:<*> <*> <*> <*>
+1634.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1635.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1636.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1637.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1638.0,E1,onStandStepChanged <*>
+1639.0,E2,onExtend:<*> <*> <*> <*>
+1640.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1641.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1642.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1643.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1644.0,E1,onStandStepChanged <*>
+1645.0,E2,onExtend:<*> <*> <*> <*>
+1646.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1647.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1648.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1649.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1650.0,E1,onStandStepChanged <*>
+1651.0,E2,onExtend:<*> <*> <*> <*>
+1652.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1653.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1654.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1655.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1656.0,E1,onStandStepChanged <*>
+1657.0,E2,onExtend:<*> <*> <*> <*>
+1658.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1659.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1660.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1661.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1662.0,E1,onStandStepChanged <*>
+1663.0,E2,onExtend:<*> <*> <*> <*>
+1664.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1665.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1666.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1667.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1668.0,E1,onStandStepChanged <*>
+1669.0,E2,onExtend:<*> <*> <*> <*>
+1670.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1671.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1672.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1673.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1674.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1675.0,E1,onStandStepChanged <*>
+1676.0,E2,onExtend:<*> <*> <*> <*>
+1677.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1678.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1679.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1680.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1681.0,E1,onStandStepChanged <*>
+1682.0,E2,onExtend:<*> <*> <*> <*>
+1683.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1684.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1685.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1686.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1687.0,E1,onStandStepChanged <*>
+1688.0,E2,onExtend:<*> <*> <*> <*>
+1689.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1690.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1691.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1692.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1693.0,E1,onStandStepChanged <*>
+1694.0,E2,onExtend:<*> <*> <*> <*>
+1695.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1696.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1697.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1698.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1699.0,E1,onStandStepChanged <*>
+1700.0,E2,onExtend:<*> <*> <*> <*>
+1701.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1702.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1703.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1704.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1705.0,E1,onStandStepChanged <*>
+1706.0,E2,onExtend:<*> <*> <*> <*>
+1707.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1708.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1709.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1710.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1711.0,E1,onStandStepChanged <*>
+1712.0,E2,onExtend:<*> <*> <*> <*>
+1713.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1714.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1715.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1716.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1717.0,E1,onStandStepChanged <*>
+1718.0,E2,onExtend:<*> <*> <*> <*>
+1719.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1720.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1721.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1722.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1723.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1724.0,E1,onStandStepChanged <*>
+1725.0,E2,onExtend:<*> <*> <*> <*>
+1726.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1727.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1728.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1729.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1730.0,E1,onStandStepChanged <*>
+1731.0,E2,onExtend:<*> <*> <*> <*>
+1732.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1733.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1734.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1735.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1736.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1737.0,E1,onStandStepChanged <*>
+1738.0,E2,onExtend:<*> <*> <*> <*>
+1739.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1740.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1741.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1742.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1743.0,E1,onStandStepChanged <*>
+1744.0,E2,onExtend:<*> <*> <*> <*>
+1745.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1746.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1747.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1748.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1749.0,E1,onStandStepChanged <*>
+1750.0,E2,onExtend:<*> <*> <*> <*>
+1751.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1752.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1753.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1754.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1755.0,E1,onStandStepChanged <*>
+1756.0,E2,onExtend:<*> <*> <*> <*>
+1757.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1758.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1759.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1760.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1761.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1762.0,E1,onStandStepChanged <*>
+1763.0,E2,onExtend:<*> <*> <*> <*>
+1764.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1765.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1766.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1767.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1768.0,E1,onStandStepChanged <*>
+1769.0,E2,onExtend:<*> <*> <*> <*>
+1770.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1771.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1772.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1773.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1774.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1775.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1776.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1777.0,E56,theDayChanged <*>
+1778.0,E57,i<*>itEnvir<*>ment
+1779.0,E58,g<*>tStepCounterStatus
+1780.0,E59,getStepCounterStatus= <*>
+1781.0,E60,r<*>StartStepCounter
+1782.0,E1,onStandStepChanged <*>
+1783.0,E61,registersensor<*>uccess: <*>
+1784.0,E62,c<*>r()
+1785.0,E63,getTodayBasicStandardSteps= <*>##<*>##<*>
+1786.0,E64,tryToRecordAsBasicStepData bWrite <*>
+1787.0,E65,getDiffTotalSteps= <*>##0
+1788.0,E66,setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>
+1789.0,E67,setDiffTotalSteps=<*>
+1790.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1791.0,E63,getTodayBasicStandardSteps= <*>##<*>##<*>
+1792.0,E65,getDiffTotalSteps= <*>##0
+1793.0,E68,tryToReloadTodayBasicSteps<*>|<*>|<*>|<*>
+1794.0,E69,<*> : <*> restar <*>
+1795.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1796.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1797.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1798.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1799.0,E10,<*> : <*> <*> <*> <*>
+1800.0,E70,d: next day:steps<m>LastReport<m>
+1801.0,E71,setGoalNotifiShownRecord <*> false
+1802.0,E72,c<*>seN<*>tific<*>ti<*>n...
+1803.0,E73,deleteHealthNotification()
+1804.0,E1,onStandStepChanged <*>
+1805.0,E2,onExtend:<*> <*> <*> <*>
+1806.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1807.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1808.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1809.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1810.0,E1,onStandStepChanged <*>
+1811.0,E2,onExtend:<*> <*> <*> <*>
+1812.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1813.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1814.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1815.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1816.0,E1,onStandStepChanged <*>
+1817.0,E2,onExtend:<*> <*> <*> <*>
+1818.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1819.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1820.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1821.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1822.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1823.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1824.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1825.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1826.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1827.0,E1,onStandStepChanged <*>
+1828.0,E2,onExtend:<*> <*> <*> <*>
+1829.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1830.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1831.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1832.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1833.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1834.0,E1,onStandStepChanged <*>
+1835.0,E2,onExtend:<*> <*> <*> <*>
+1836.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1837.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1838.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1839.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1840.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1841.0,E1,onStandStepChanged <*>
+1842.0,E2,onExtend:<*> <*> <*> <*>
+1843.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1844.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1845.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1846.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1847.0,E1,onStandStepChanged <*>
+1848.0,E2,onExtend:<*> <*> <*> <*>
+1849.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1850.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1851.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1852.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1853.0,E1,onStandStepChanged <*>
+1854.0,E2,onExtend:<*> <*> <*> <*>
+1855.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1856.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1857.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1858.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1859.0,E1,onStandStepChanged <*>
+1860.0,E2,onExtend:<*> <*> <*> <*>
+1861.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1862.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1863.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1864.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1865.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1866.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1867.0,E1,onStandStepChanged <*>
+1868.0,E2,onExtend:<*> <*> <*> <*>
+1869.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1870.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1871.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1872.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1873.0,E1,onStandStepChanged <*>
+1874.0,E2,onExtend:<*> <*> <*> <*>
+1875.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1876.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1877.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1878.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1879.0,E1,onStandStepChanged <*>
+1880.0,E2,onExtend:<*> <*> <*> <*>
+1881.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1882.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1883.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1884.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1885.0,E1,onStandStepChanged <*>
+1886.0,E2,onExtend:<*> <*> <*> <*>
+1887.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1888.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1889.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1890.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1891.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1892.0,E1,onStandStepChanged <*>
+1893.0,E2,onExtend:<*> <*> <*> <*>
+1894.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1895.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1896.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1897.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1898.0,E1,onStandStepChanged <*>
+1899.0,E2,onExtend:<*> <*> <*> <*>
+1900.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1901.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1902.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1903.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1904.0,E1,onStandStepChanged <*>
+1905.0,E2,onExtend:<*> <*> <*> <*>
+1906.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1907.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1908.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1909.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1910.0,E1,onStandStepChanged <*>
+1911.0,E2,onExtend:<*> <*> <*> <*>
+1912.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1913.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1914.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1915.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1916.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1917.0,E1,onStandStepChanged <*>
+1918.0,E2,onExtend:<*> <*> <*> <*>
+1919.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1920.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1921.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1922.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1923.0,E1,onStandStepChanged <*>
+1924.0,E2,onExtend:<*> <*> <*> <*>
+1925.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1926.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1927.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1928.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1929.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1930.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1931.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1932.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1933.0,E1,onStandStepChanged <*>
+1934.0,E2,onExtend:<*> <*> <*> <*>
+1935.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1936.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1937.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1938.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1939.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1940.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1941.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1942.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1943.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1944.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1945.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1946.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1947.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1948.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1949.0,E1,onStandStepChanged <*>
+1950.0,E2,onExtend:<*> <*> <*> <*>
+1951.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1952.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1953.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1954.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1955.0,E1,onStandStepChanged <*>
+1956.0,E2,onExtend:<*> <*> <*> <*>
+1957.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1958.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1959.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1960.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1961.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1962.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1963.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1964.0,E1,onStandStepChanged <*>
+1965.0,E2,onExtend:<*> <*> <*> <*>
+1966.0,E6,getTodayTotalDetailSteps = <*>##0##549659##8661##16256##33866758
+1967.0,E7,setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>
+1968.0,E8,calculateCaloriesWithCache totalCalories=<*>
+1969.0,E9,calculateAltitudeWithCache totalAltitude=<*>
+1970.0,E3,onReceive action: android.intent.action.SCREEN_<*>
+1971.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1972.0,E53,start <*> <*>
+1973.0,E38,"startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"
+1974.0,E74,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is <*> oldDay is <*>"
+1975.0,E54,stepSyncOrNot appSynTimes is <*>
+1976.0,E39,needAutoSync <*>SyncSwitch is <*>
+1977.0,E40,"initDataPrivacy the dataPrivacy switch is <*> , start push health data!"
+1978.0,E41,initDataPrivacy the dataPrivacy is <*>
+1979.0,E42,"initUserPrivacy the userPrivacy switch is <*>n, start push user data!"
+1980.0,E43,initUserPrivacy the userPrivacy is <*>
+1981.0,E44,ifCanSync not! no cloud version
+1982.0,E45,sendSyncFailedBroadcast
+1983.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1984.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1985.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1986.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1987.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1988.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1989.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1990.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1991.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1992.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1993.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1994.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1995.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1996.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1997.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1998.0,E13,processHandleBroadcastAction action:android.intent.action.<*>
+1999.0,E13,processHandleBroadcastAction action:android.intent.action.<*>

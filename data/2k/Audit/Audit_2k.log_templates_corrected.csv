@@ -1,0 +1,9 @@
+EventId,EventTemplate
+E1,"pid=<*> uid=<*> auid=<*> ses=<*> msg='op=PAM:<*> acct=<*> exe=<*> hostname=<*> addr=<*> terminal=<*> res=<*>'"
+E2,"pid=<*> uid=<*> auid=<*> ses=<*> msg='unit=<*> comm=<*> exe=<*> hostname=<*> addr=<*> terminal=<*> res=<*>'"
+E3,"pid=<*> uid=<*> old-auid=<*> auid=<*> tty=<*> old-ses=<*> ses=<*> res=<*>"
+E4,"apparmor=<*> operation=<*> info=<*> profile=<*> name=<*> pid=<*> comm=<*>"
+E5,"arch=<*> syscall=<*> success=<*> exit=<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> items=<*> ppid=<*> pid=<*> auid=<*> uid=<*> gid=<*> euid=<*> suid=<*> fsuid=<*> egid=<*> sgid=<*> fsgid=<*> tty=<*> ses=<*> comm=<*> exe=<*> key=<*>"
+E6,"proctitle=<*>"
+E7,"pid=<*> uid=<*> auid=<*> ses=<*> msg='op=<*> id=<*> exe=<*> hostname=<*> addr=<*> terminal=<*> res=<*>'"
+E8,"pid=<*> uid=<*> auid=<*> ses=<*> msg='cwd=<*> cmd=<*> terminal=<*> res=<*>'"

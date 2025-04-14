@@ -1,0 +1,201 @@
+Content,EventTemplate
+183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5,<*>:<*> open through proxy <*>:<*> SOCKS5
+tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.,<*>:<*> error : A connection request was canceled before the completion.
+"proxy.cse.cuhk.edu.hk:5070 close, 1990 bytes (1.94 KB) sent, 23862 bytes (23.3 KB) received, lifetime 00:03","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"183.62.156.108:22 close, 89652 bytes (87.5 KB) sent, 599249 bytes (585 KB) received, lifetime 37:51","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"cgi.qqweb.qq.com:80 close, 477 bytes sent, 448 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 KB) received, lifetime 00:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"showxml.qq.com:80 close, 600 bytes sent, 1716 bytes (1.67 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"2052.flash2-http.qq.com:80 close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"impservice.dictapp.youdao.com:80 close, 666 bytes sent, 709 bytes received, lifetime 00:10","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"formi.baidu.com:843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403","<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+"91.190.218.40:443 close, 497 bytes sent, 302 bytes received, lifetime 00:12","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+86.99.222.235:443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.,<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy closed the connection unexpectedly.
+"proxy.cse.cuhk.edu.hk:5070 close, 2018 bytes (1.97 KB) sent, 1298 bytes (1.26 KB) received, lifetime 00:04","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"127.0.0.1:135 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403","<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+oimagea3.ydstatic.com:80 error : A connection request was canceled before the completion.,<*>:<*> error : A connection request was canceled before the completion.
+"oimagec3.ydstatic.com:80 close, 358 bytes sent, 48647 bytes (47.5 KB) received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"get.sogou.com:80 close, 899 bytes sent, 348 bytes received, lifetime 00:03","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"ss.bdimg.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"t11.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"sestat.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"b1.bdstatic.com:80 close, 389 bytes sent, 409 bytes received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"pos.baidu.com:80 close, 1822 bytes (1.77 KB) sent, 1370 bytes (1.33 KB) received, lifetime 00:10","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"xin.4399.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"newsimg.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"comment.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"timg.baidu.com:80 close, 1299 bytes (1.26 KB) sent, 4993 bytes (4.87 KB) received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.googletagservices.com:443 close, 1257 bytes (1.22 KB) sent, 540 bytes received, lifetime 04:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"odr.mookie1.com:443 close, 361 bytes sent, 4839 bytes (4.72 KB) received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"r6---sn-i3b7kn7d.googlevideo.com:443 close, 12789 bytes (12.4 KB) sent, 13833013 bytes (13.1 MB) received, lifetime 01:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+ecmb.bdimg.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"i9.baidu.com:80 close, 1915 bytes (1.87 KB) sent, 12764 bytes (12.4 KB) received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"z13.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"cm.g.doubleclick.net:443 close, 2197 bytes (2.14 KB) sent, 1527 bytes (1.49 KB) received, lifetime 06:13","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"app.4399.cn:80 close, 1381 bytes (1.34 KB) sent, 38524 bytes (37.6 KB) received, lifetime 00:52","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.qulishi.com:80 close, 1581 bytes (1.54 KB) sent, 79427 bytes (77.5 KB) received, lifetime 02:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"q7.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 01:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"w.cnzz.com:80 close, 570 bytes sent, 11519 bytes (11.2 KB) received, lifetime 02:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"qbwup.imtt.qq.com:80 close, 494 bytes sent, 208 bytes received, lifetime 00:33","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"clientservices.googleapis.com:443 close, 1051 bytes (1.02 KB) sent, 592 bytes received, lifetime 04:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"info.pinyin.sogou.com:80 close, 1020 bytes sent, 607 bytes received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.google.com.hk:443 close, 2411 bytes (2.35 KB) sent, 2093 bytes (2.04 KB) received, lifetime 04:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"ocsp.digicert.com:80 close, 942 bytes sent, 3184 bytes (3.10 KB) received, lifetime 00:07","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+mail-attachment.googleusercontent.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"static.adobelogin.com:443 close, 356 bytes sent, 3523 bytes (3.44 KB) received, lifetime 00:02","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"block-edge.dropbox.com:443 close, 861480 bytes (841 KB) sent, 5464 bytes (5.33 KB) received, lifetime 01:45","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"capi.grammarly.com:443 close, 4974 bytes (4.85 KB) sent, 8661 bytes (8.45 KB) received, lifetime 02:13","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"cidian.youdao.com:80 close, 2369 bytes (2.31 KB) sent, 1583 bytes (1.54 KB) received, lifetime 02:59","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"3.client-channel.google.com:443 close, 27694 bytes (27.0 KB) sent, 165991 bytes (162 KB) received, lifetime 01:07:37","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"cbjs.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"bdimg.share.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"ubmcmm.baidustatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"s1.img4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+hpd.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"dup.baidustatic.com:443 close, 333 bytes sent, 3697 bytes (3.61 KB) received, lifetime 00:14","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"dj1.baidu.com:80 close, 1369 bytes (1.33 KB) sent, 289 bytes received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"client-lb.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"sclick.baidu.com:80 close, 1971 bytes (1.92 KB) sent, 401 bytes received, lifetime 00:08","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+www.3367.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+s.360.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"changyan.sohu.com:80 close, 6361 bytes (6.21 KB) sent, 6197 bytes (6.05 KB) received, lifetime 00:08","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"i7.baidu.com:80 close, 2813 bytes (2.74 KB) sent, 23975 bytes (23.4 KB) received, lifetime 00:26","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"js.passport.qihucdn.com:80 close, 496 bytes sent, 426 bytes received, lifetime 00:16","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"upload.3367.com:80 close, 2331 bytes (2.27 KB) sent, 440133 bytes (429 KB) received, lifetime 01:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"long.open.weixin.qq.com:443 close, 1910 bytes (1.86 KB) sent, 276 bytes received, lifetime 00:29","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"res.wx.qq.com:443 close, 1582 bytes (1.54 KB) sent, 40194 bytes (39.2 KB) received, lifetime 03:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"update.googleapis.com:443 close, 298 bytes sent, 4250 bytes (4.15 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"dl-debug.dropbox.com:443 close, 163539 bytes (159 KB) sent, 4712 bytes (4.60 KB) received, lifetime 01:02","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"lh4.googleusercontent.com:443 close, 471 bytes sent, 4692 bytes (4.58 KB) received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.google-analytics.com:443 close, 1770 bytes (1.72 KB) sent, 5146 bytes (5.02 KB) received, lifetime 04:02","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.gmail.com:443 close, 459 bytes sent, 4187 bytes (4.08 KB) received, lifetime 00:17","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+github-windows.s3.amazonaws.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"pic4.zhimg.com:443 close, 330 bytes sent, 3763 bytes (3.67 KB) received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"content.googleapis.com:443 close, 2094 bytes (2.04 KB) sent, 623 bytes received, lifetime 04:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"api.github.com:443 close, 328 bytes sent, 3642 bytes (3.55 KB) received, lifetime 00:16","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"user-images.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 03:15","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"12.client-channel.google.com:443 close, 474 bytes sent, 4042 bytes (3.94 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"csi.gstatic.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:13","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+mu1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"d0.sina.com.cn:443 close, 328 bytes sent, 3654 bytes (3.56 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"contentrecommend-out.uve.weibo.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:10","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+show.re.taobao.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"tvax1.sinaimg.cn:80 close, 909 bytes sent, 3467 bytes (3.38 KB) received, lifetime 00:16","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"rs.sinajs.cn:80 close, 1187 bytes (1.15 KB) sent, 472 bytes received, lifetime 00:12","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"m.simba.taobao.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:26","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"dslb.cdn.krcom.cn:80 close, 446 bytes sent, 195160 bytes (190 KB) received, lifetime 00:59","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"strip.alicdn.com:80 close, 1596 bytes (1.55 KB) sent, 29034 bytes (28.3 KB) received, lifetime 02:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"gtms03.alicdn.com:80 close, 399 bytes sent, 498 bytes received, lifetime 02:06","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"rm.api.weibo.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.weibo.com:80 close, 11058 bytes (10.7 KB) sent, 451 bytes received, lifetime 00:07","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"notifications.google.com:443 close, 19334 bytes (18.8 KB) sent, 8031 bytes (7.84 KB) received, lifetime 09:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"collector.githubapp.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:16","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"data.grammarly.com:443 close, 1277 bytes (1.24 KB) sent, 3833 bytes (3.74 KB) received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"assets-cdn.github.com:443 close, 1227 bytes (1.19 KB) sent, 4890 bytes (4.77 KB) received, lifetime 06:19","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"icauh.youdao.com:80 close, 413 bytes sent, 534 bytes received, lifetime 00:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.evernote.com:443 close, 2487 bytes (2.42 KB) sent, 2361 bytes (2.30 KB) received, lifetime 04:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+tools.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"security.ie.sogou.com:80 close, 691 bytes sent, 184 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"apis.google.com:443 close, 461 bytes sent, 4217 bytes (4.11 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+gm1.ggpht.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"live.github.com:443 close, 2931 bytes (2.86 KB) sent, 2089 bytes (2.04 KB) received, lifetime 47:52","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"drive-thirdparty.googleusercontent.com:443 close, 484 bytes sent, 4707 bytes (4.59 KB) received, lifetime 00:17","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"pixel.facebook.com:443 close, 1491 bytes (1.45 KB) sent, 5027 bytes (4.90 KB) received, lifetime 01:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+auth.grammarly.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"avatars1.githubusercontent.com:443 close, 1145 bytes (1.11 KB) sent, 666 bytes received, lifetime 05:03","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+www.ieeeconfpublishing.org:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"dblp.uni-trier.de:80 close, 0 bytes sent, 0 bytes received, lifetime 00:15","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"accounts.google.com:443 close, 2834 bytes (2.76 KB) sent, 1881 bytes (1.83 KB) received, lifetime 04:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+p3p.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"secure.quantserve.com:443 close, 643 bytes sent, 3323 bytes (3.24 KB) received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+server26401.teamviewer.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"c.trello.com:443 close, 18252 bytes (17.8 KB) sent, 4768 bytes (4.65 KB) received, lifetime 02:08","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+mtalk.google.com:5228 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*>:<*> error : Could not connect to proxy <*>:<*> - Could not resolve <*> error <*>
+awqiizxequsixgr:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*>:<*> error : Could not connect to proxy <*>:<*> - Could not resolve <*> error <*>
+wpad:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,<*>:<*> error : Could not connect to proxy <*>:<*> - Could not resolve <*> error <*>
+"update.hicloud.com:8180 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403","<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+"suggestion.baidu.com:80 close, 3808 bytes (3.71 KB) sent, 2035 bytes (1.98 KB) received, lifetime 00:35","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"cpro.baidustatic.com:80 close, 0 bytes sent, 0 bytes received, lifetime 01:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"intf.zsall.mobilem.360.cn:80 close, 314 bytes sent, 1035 bytes (1.01 KB) received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"blog.csdn.net:80 close, 670 bytes sent, 421 bytes received, lifetime 00:29","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"static.blog.csdn.net:80 close, 2188 bytes (2.13 KB) sent, 41402 bytes (40.4 KB) received, lifetime 02:03","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"dc.csdn.net:80 close, 1822 bytes (1.77 KB) sent, 754 bytes received, lifetime 01:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"beacon.tingyun.com:80 close, 42307 bytes (41.3 KB) sent, 279 bytes received, lifetime 01:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"c.csdnimg.cn:80 close, 1314 bytes (1.28 KB) sent, 27289 bytes (26.6 KB) received, lifetime 03:09","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"fonts.gstatic.com:443 close, 461 bytes sent, 4786 bytes (4.67 KB) received, lifetime 01:03","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"engine.adzerk.net:443 close, 2508 bytes (2.44 KB) sent, 7073 bytes (6.90 KB) received, lifetime 01:03","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"ogs.google.com:443 close, 2476 bytes (2.41 KB) sent, 2643 bytes (2.58 KB) received, lifetime 04:28","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"sb.scorecardresearch.com:443 close, 3818 bytes (3.72 KB) sent, 6276 bytes (6.12 KB) received, lifetime 11:02","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"d.agkn.com:443 close, 324 bytes sent, 2764 bytes (2.69 KB) received, lifetime 00:12","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"log.getdropbox.com:80 close, 739 bytes sent, 404 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"hangouts.google.com:443 close, 13281 bytes (12.9 KB) sent, 19539 bytes (19.0 KB) received, lifetime 04:17","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+xf-com-update-doctor.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+pdlxf-doctor.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"fs-conn-doctor.qq.com:443 close, 184 bytes sent, 134 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"puui.qpic.cn:80 close, 384 bytes sent, 8537 bytes (8.33 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+btrace.qq.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"local-p2p.qq.com:443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 503","<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+"eclick.baidu.com:80 close, 1065 bytes (1.04 KB) sent, 311 bytes received, lifetime 00:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+input.shouji.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"f-log-extension.grammarly.io:443 close, 0 bytes sent, 0 bytes received, lifetime 00:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"s.youtube.com:443 close, 733 bytes sent, 292 bytes received, lifetime 04:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"g.msn.com:80 close, 170 bytes sent, 370 bytes received, lifetime 00:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"r17---sn-p5qlsn67.googlevideo.com:443 close, 1173 bytes (1.14 KB) sent, 11041 bytes (10.7 KB) received, lifetime 00:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"static.doubleclick.net:443 close, 2553 bytes (2.49 KB) sent, 641 bytes received, lifetime 06:39","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"pagead2.googlesyndication.com:443 close, 8439 bytes (8.24 KB) sent, 41643 bytes (40.6 KB) received, lifetime 07:44","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+tpc.googlesyndication.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"plus.google.com:443 close, 2130 bytes (2.08 KB) sent, 1035 bytes (1.01 KB) received, lifetime 05:41","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+0-edge-chat.facebook.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"zhihu-web-analytics.zhihu.com:443 close, 343 bytes sent, 3122 bytes (3.04 KB) received, lifetime 00:17","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"scontent-hkg3-2.xx.fbcdn.net:443 close, 3732 bytes (3.64 KB) sent, 804155 bytes (785 KB) received, lifetime 01:10","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"video-hkg3-2.xx.fbcdn.net:443 close, 58373 bytes (57.0 KB) sent, 8896991 bytes (8.48 MB) received, lifetime 02:25","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"203.205.151.204:80 close, 357 bytes sent, 484 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+rssgov.windows.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"go.microsoft.com:80 close, 717 bytes sent, 357 bytes received, lifetime 00:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"qd-update.qq.com:8080 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403","<*>:<*> error : Could not connect through proxy <*>:<*> - Proxy server cannot establish a connection with the target, status code <*>"
+"play.google.com:443 close, 40925 bytes (39.9 KB) sent, 33398 bytes (32.6 KB) received, lifetime 30:55","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"people-pa.clients6.google.com:443 close, 1836 bytes (1.79 KB) sent, 4868 bytes (4.75 KB) received, lifetime 03:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+client-cf.dropbox.com:443 error : A connection request was canceled before the completion.,<*>:<*> error : A connection request was canceled before the completion.
+"dict.youdao.com:80 close, 941 bytes sent, 163 bytes received, lifetime 05:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"config.pinyin.sogou.com:80 close, 545 bytes sent, 278 bytes received, lifetime 01:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"tc.dl.pinyin.sogoucdn.com:80 close, 158 bytes sent, 33899 bytes (33.1 KB) received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"qa.sockets.stackexchange.com:443 close, 4755 bytes (4.64 KB) sent, 4917 bytes (4.80 KB) received, lifetime 02:02:11","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+16.client-channel.google.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*>:<*> error : Could not connect to proxy <*>:<*> - connection attempt failed with error <*>
+bolt.dropbox.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,<*>:<*> error : Could not connect to proxy <*>:<*> - connection attempt failed with error <*>
+"p2.qhimg.com:80 close, 230 bytes sent, 1125 bytes (1.09 KB) received, lifetime 00:09","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"safebrowsing.googleapis.com:443 close, 1848 bytes (1.80 KB) sent, 2305 bytes (2.25 KB) received, lifetime 04:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"d.dropbox.com:443 close, 2560 bytes (2.50 KB) sent, 4976 bytes (4.85 KB) received, lifetime 01:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"clients6.google.com:443 close, 7738 bytes (7.55 KB) sent, 8620 bytes (8.41 KB) received, lifetime 07:17","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+xy.brand.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+src.wei.focus.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+mini.cpc.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+bx.optimix.asia:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"txt.go.sohu.com:80 close, 606 bytes sent, 857 bytes received, lifetime 00:07","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"pv.mini.sohu.com:80 close, 1941 bytes (1.89 KB) sent, 1363 bytes (1.33 KB) received, lifetime 00:05","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"css.sohu.com:80 close, 3549 bytes (3.46 KB) sent, 108371 bytes (105 KB) received, lifetime 00:21","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"p.inte.sogou.com:80 close, 5061 bytes (4.94 KB) sent, 1248 bytes (1.21 KB) received, lifetime 00:15","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"i2.itc.cn:80 close, 1330 bytes (1.29 KB) sent, 62141 bytes (60.6 KB) received, lifetime 00:33","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+crl.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"cdn.e9377f.com:80 close, 575 bytes sent, 243 bytes received, lifetime 00:30","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"v.admaster.com.cn:80 close, 4121 bytes (4.02 KB) sent, 4104 bytes (4.00 KB) received, lifetime 00:02","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+at.mct01.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"ping.pinyin.sogou.com:80 close, 634 bytes sent, 166 bytes received, lifetime 00:01","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"s2.googleusercontent.com:443 close, 470 bytes sent, 4691 bytes (4.58 KB) received, lifetime 00:14","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+r18---sn-vgqsenes.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"d3cv4a9a9wh0bt.cloudfront.net:443 close, 820 bytes sent, 5619 bytes (5.48 KB) received, lifetime 02:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"r1---sn-i3belnez.googlevideo.com:443 close, 10046 bytes (9.81 KB) sent, 5657896 bytes (5.39 MB) received, lifetime 00:54","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"mtalk.google.com:443 close, 985 bytes sent, 463 bytes received, lifetime 14:59","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"qdun-data.qq.com:443 close, 261 bytes sent, 70 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.gstatic.com:443 close, 1239 bytes (1.20 KB) sent, 20185 bytes (19.7 KB) received, lifetime 04:00","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"pubads.g.doubleclick.net:443 close, 22150 bytes (21.6 KB) sent, 60543 bytes (59.1 KB) received, lifetime 17:27","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+r8---sn-i3b7knez.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"yt3.ggpht.com:443 close, 733 bytes sent, 229 bytes received, lifetime <1 sec","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"www.zhihu.com:443 close, 568 bytes sent, 152 bytes received, lifetime 00:18","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+pic01.ishuhui.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,<*>:<*> open through proxy <*>:<*> HTTPS
+"googleads.g.doubleclick.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:12","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"
+"mhfm9.us.cdndm5.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:12","<*> close, <*> bytes<*>sent, <*> bytes<*>received, lifetime <*>"

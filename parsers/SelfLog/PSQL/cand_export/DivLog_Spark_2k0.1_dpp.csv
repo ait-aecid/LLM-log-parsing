@@ -1,0 +1,201 @@
+Content,EventTemplate
+"Registered signal handlers for [TERM, HUP, INT]","Registered signal handlers for [TERM, HUP, INT]"
+"Changing view acls to: yarn,curi",Changing view acls to: <*>
+"Changing modify acls to: yarn,curi",Changing modify acls to: <*>
+"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)","SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
+Slf4jLogger started,Slf4jLogger started
+Starting remoting,Starting remoting
+Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],Remoting started; listening on addresses :[akka.tcp://<*>]
+Successfully started service 'sparkExecutorActorSystem' on port 55904.,Successfully started service 'sparkExecutorActorSystem' on port <*>.
+Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,Created local directory at <*>
+MemoryStore started with capacity 17.7 GB,MemoryStore started with capacity <*> GB
+Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,Connecting to driver: spark://<*>
+Successfully registered with driver,Successfully registered with driver
+Starting executor ID 5 on host mesos-slave-07,Starting executor ID <*> on host <*>
+Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.,Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.
+Server created on 40984,Server created on <*>
+Trying to register BlockManager,Trying to register BlockManager
+Registered BlockManager,Registered BlockManager
+Got assigned task 0,Got assigned task <*>
+Got assigned task 1,Got assigned task <*>
+Got assigned task 3,Got assigned task <*>
+Running task 0.0 in stage 0.0 (TID 0),Running task <*> in stage <*> (TID <*>)
+Reading broadcast variable 9 took 160 ms,Reading broadcast variable <*> took <*> ms
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292,Input split: hdfs://<*>
+"mapred.tip.id is deprecated. Instead, use mapreduce.task.id","mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
+"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id","mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
+"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap","mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap"
+"mapred.job.id is deprecated. Instead, use mapreduce.job.id","mapred.job.id is deprecated. Instead, use mapreduce.job.id"
+"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition","mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+Reading broadcast variable 0 took 21 ms,Reading broadcast variable <*> took <*> ms
+"Block broadcast_4 stored as values in memory (estimated size 384.0 B, free 318.0 KB)","Block <*> stored as values in memory (estimated size <*>, free <*>)"
+"Block broadcast_2_piece0 stored as bytes in memory (estimated size 93.0 B, free 319.0 KB)","Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+Reading broadcast variable 2 took 16 ms,Reading broadcast variable <*> took <*> ms
+"Times: total = 1072, boot = 856, init = 210, finish = 6","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Times: total = 1114, boot = 885, init = 223, finish = 6","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Times: total = 1074, boot = 869, init = 199, finish = 6","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 42,Got assigned task <*>
+Got assigned task 56,Got assigned task <*>
+Got assigned task 69,Got assigned task <*>
+Got assigned task 79,Got assigned task <*>
+Finished task 3.0 in stage 1.0 (TID 78). 2651 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 87,Got assigned task <*>
+Got assigned task 101,Got assigned task <*>
+Running task 1.0 in stage 2.0 (TID 101),Running task <*> in stage <*> (TID <*>)
+Got assigned task 118,Got assigned task <*>
+"Block broadcast_11_piece0 stored as bytes in memory (estimated size 5.4 KB, free 344.7 KB)","Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+Got assigned task 122,Got assigned task <*>
+Got assigned task 136,Got assigned task <*>
+Got assigned task 150,Got assigned task <*>
+Got assigned task 158,Got assigned task <*>
+"Partition rdd_6_2 not found, computing it","Partition rdd_<*> not found, computing it"
+Got assigned task 171,Got assigned task <*>
+Got assigned task 185,Got assigned task <*>
+Got assigned task 195,Got assigned task <*>
+Got assigned task 198,Got assigned task <*>
+Finished task 0.0 in stage 4.0 (TID 171). 2099 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 206,Got assigned task <*>
+Got assigned task 220,Got assigned task <*>
+Got assigned task 231,Got assigned task <*>
+Started reading broadcast variable 14,Started reading broadcast variable <*>
+Got assigned task 238,Got assigned task <*>
+Got assigned task 247,Got assigned task <*>
+Got assigned task 261,Got assigned task <*>
+Got assigned task 273,Got assigned task <*>
+Got assigned task 278,Got assigned task <*>
+Got assigned task 279,Got assigned task <*>
+Reading broadcast variable 15 took 15 ms,Reading broadcast variable <*> took <*> ms
+Got assigned task 285,Got assigned task <*>
+Got assigned task 299,Got assigned task <*>
+Got assigned task 312,Got assigned task <*>
+Got assigned task 319,Got assigned task <*>
+"Partition rdd_11_0 not found, computing it","Partition rdd_<*> not found, computing it"
+"Times: total = 42, boot = -103, init = 144, finish = 1","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 321,Got assigned task <*>
+Got assigned task 335,Got assigned task <*>
+Got assigned task 349,Got assigned task <*>
+Got assigned task 358,Got assigned task <*>
+Finished task 0.0 in stage 8.0 (TID 321). 2141 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 360,Got assigned task <*>
+Got assigned task 374,Got assigned task <*>
+Got assigned task 388,Got assigned task <*>
+Got assigned task 398,Got assigned task <*>
+Running task 3.0 in stage 9.0 (TID 398),Running task <*> in stage <*> (TID <*>)
+Got assigned task 399,Got assigned task <*>
+Got assigned task 402,Got assigned task <*>
+Got assigned task 416,Got assigned task <*>
+Got assigned task 430,Got assigned task <*>
+Got assigned task 439,Got assigned task <*>
+"Times: total = 40, boot = -127, init = 167, finish = 0","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 450,Got assigned task <*>
+Got assigned task 464,Got assigned task <*>
+Got assigned task 475,Got assigned task <*>
+"Partition rdd_16_3 not found, computing it","Partition rdd_<*> not found, computing it"
+Got assigned task 480,Got assigned task <*>
+Got assigned task 494,Got assigned task <*>
+Got assigned task 508,Got assigned task <*>
+Got assigned task 518,Got assigned task <*>
+"Block broadcast_21 stored as values in memory (estimated size 10.1 KB, free 403.2 KB)","Block <*> stored as values in memory (estimated size <*>, free <*>)"
+Found block rdd_16_0 locally,Found block rdd_<*> locally
+Finished task 1.0 in stage 12.0 (TID 494). 2105 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Finished task 1.0 in stage 13.0 (TID 542). 2241 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 576,Got assigned task <*>
+Got assigned task 590,Got assigned task <*>
+Got assigned task 638,Got assigned task <*>
+Started reading broadcast variable 24,Started reading broadcast variable <*>
+"Block broadcast_24_piece0 stored as bytes in memory (estimated size 5.6 KB, free 393.0 KB)","Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+Got assigned task 643,Got assigned task <*>
+Got assigned task 671,Got assigned task <*>
+Got assigned task 706,Got assigned task <*>
+Finished task 2.0 in stage 17.0 (TID 716). 2156 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 722,Got assigned task <*>
+Got assigned task 736,Got assigned task <*>
+Got assigned task 750,Got assigned task <*>
+Running task 4.0 in stage 18.0 (TID 759),Running task <*> in stage <*> (TID <*>)
+Got assigned task 789,Got assigned task <*>
+Got assigned task 799,Got assigned task <*>
+Running task 1.0 in stage 20.0 (TID 821),Running task <*> in stage <*> (TID <*>)
+Got assigned task 833,Got assigned task <*>
+Found block rdd_26_1 locally,Found block rdd_<*> locally
+Got assigned task 877,Got assigned task <*>
+"Block broadcast_30 stored as values in memory (estimated size 9.7 KB, free 389.7 KB)","Block <*> stored as values in memory (estimated size <*>, free <*>)"
+Finished task 4.0 in stage 21.0 (TID 879). 2333 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 886,Got assigned task <*>
+Got assigned task 900,Got assigned task <*>
+Started reading broadcast variable 31,Started reading broadcast variable <*>
+"Block rdd_30_1 stored as bytes in memory (estimated size 165.0 B, free 405.6 KB)","Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+Got assigned task 940,Got assigned task <*>
+Got assigned task 951,Got assigned task <*>
+Found block rdd_30_3 locally,Found block rdd_<*> locally
+Got assigned task 970,Got assigned task <*>
+Got assigned task 984,Got assigned task <*>
+Got assigned task 998,Got assigned task <*>
+Got assigned task 1026,Got assigned task <*>
+"Block broadcast_33_piece0 stored as bytes in memory (estimated size 29.5 KB, free 404.8 KB)","Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+File Output Committer Algorithm version is 1,File Output Committer Algorithm version is <*>
+"Times: total = 40, boot = -340, init = 380, finish = 0","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+attempt_201706092018_0024_m_000000_970: Committed,attempt_<*>: Committed
+Got assigned task 1125,Got assigned task <*>
+Got assigned task 1127,Got assigned task <*>
+Got assigned task 1128,Got assigned task <*>
+Running task 44.0 in stage 24.0 (TID 1129),Running task <*> in stage <*> (TID <*>)
+"Times: total = 38, boot = -390, init = 428, finish = 0","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 1135,Got assigned task <*>
+Running task 82.0 in stage 24.0 (TID 1137),Running task <*> in stage <*> (TID <*>)
+Got assigned task 1146,Got assigned task <*>
+Running task 123.0 in stage 24.0 (TID 1150),Running task <*> in stage <*> (TID <*>)
+Saved output of task 'attempt_201706092018_0024_m_000124_1151' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000124,Saved output of task 'attempt_<*>' to hdfs://<*>
+Got assigned task 1155,Got assigned task <*>
+Running task 160.0 in stage 24.0 (TID 1155),Running task <*> in stage <*> (TID <*>)
+Finished task 164.0 in stage 24.0 (TID 1159). 2364 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 1166,Got assigned task <*>
+Got assigned task 1180,Got assigned task <*>
+Running task 2.0 in stage 25.0 (TID 1194),Running task <*> in stage <*> (TID <*>)
+Got assigned task 1199,Got assigned task <*>
+Reading broadcast variable 34 took 9 ms,Reading broadcast variable <*> took <*> ms
+"Times: total = 38, boot = -727, init = 765, finish = 0","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Times: total = 39, boot = -700, init = 739, finish = 0","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Times: total = 39, boot = -690, init = 729, finish = 0","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 1204,Got assigned task <*>
+"Times: total = 47, boot = -8758, init = 8800, finish = 5","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Times: total = 55, boot = -8764, init = 8814, finish = 5","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Times: total = 59, boot = -8772, init = 8826, finish = 5","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+"Block rdd_42_2 stored as bytes in memory (estimated size 850.0 B, free 806.5 KB)","Block <*> stored as bytes in memory (estimated size <*>, free <*>)"
+Got assigned task 1209,Got assigned task <*>
+"Times: total = 65, boot = 10, init = 45, finish = 10","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Running task 19.0 in stage 26.0 (TID 1219),Running task <*> in stage <*> (TID <*>)
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:160424+7292,Input split: hdfs://<*>
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:196884+7292,Input split: hdfs://<*>
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:204176+7292,Input split: hdfs://<*>
+"Partition rdd_42_29 not found, computing it","Partition rdd_<*> not found, computing it"
+Finished task 25.0 in stage 26.0 (TID 1225). 2705 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:218760+7292,Input split: hdfs://<*>
+Got assigned task 1234,Got assigned task <*>
+"Times: total = 50, boot = 3, init = 42, finish = 5","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Running task 36.0 in stage 26.0 (TID 1236),Running task <*> in stage <*> (TID <*>)
+Got assigned task 1252,Got assigned task <*>
+Running task 32.0 in stage 27.0 (TID 1272),Running task <*> in stage <*> (TID <*>)
+"Times: total = 108, boot = 28, init = 79, finish = 1","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Running task 37.0 in stage 27.0 (TID 1277),Running task <*> in stage <*> (TID <*>)
+Got assigned task 1279,Got assigned task <*>
+Finished task 39.0 in stage 27.0 (TID 1279). 2267 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 1280,Got assigned task <*>
+Got assigned task 1283,Got assigned task <*>
+Reading broadcast variable 39 took 716 ms,Reading broadcast variable <*> took <*> ms
+Finished task 3.0 in stage 28.0 (TID 1283). 2087 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+"Times: total = 49, boot = -793, init = 841, finish = 1","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 1291,Got assigned task <*>
+Got assigned task 1295,Got assigned task <*>
+Running task 17.0 in stage 28.0 (TID 1297),Running task <*> in stage <*> (TID <*>)
+Got assigned task 1300,Got assigned task <*>
+Got assigned task 1301,Got assigned task <*>
+Got assigned task 1303,Got assigned task <*>
+Running task 28.0 in stage 28.0 (TID 1308),Running task <*> in stage <*> (TID <*>)
+Got assigned task 1310,Got assigned task <*>
+Started reading broadcast variable 40,Started reading broadcast variable <*>
+Running task 5.0 in stage 29.0 (TID 1325),Running task <*> in stage <*> (TID <*>)
+"Times: total = 39, boot = 19, init = 19, finish = 1","Times: total = <*>, boot = <*>, init = <*>, finish = <*>"
+Got assigned task 1337,Got assigned task <*>
+Finished task 18.0 in stage 29.0 (TID 1338). 2128 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Finished task 23.0 in stage 29.0 (TID 1343). 2171 bytes result sent to driver,Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver
+Got assigned task 1354,Got assigned task <*>

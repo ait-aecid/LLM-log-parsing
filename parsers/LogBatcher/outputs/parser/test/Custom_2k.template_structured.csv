@@ -1,0 +1,14 @@
+EventID,EventTemplate,Occurrence
+E1,"""GET <*> HTTP/1.<*>"" <*> <*> ""<*>"" ""<*>""",2824
+E2,<*> <*> HTTP/1.<*>,1531
+E3,"""POST <*> HTTP/1.<*>"" <*> <*> ""<*>"" ""<*>""",571
+E4,"""OPTIONS * HTTP/1.<*>"" <*> <*> ""-"" ""Apache/2.<*> (Ubuntu) OpenSSL/1.<*> (internal dummy connection)""",175
+E5,"""POST <*> HTTP/1.<*>"" <*> <*> ""https://intranet.mannsmith.harrison.com/?p=<*>"" ""Mozilla/5.<*> (X11; Ubuntu; Linux <*>; rv:<*>) <*> Firefox/86.<*>""",61
+E6,"""-"" <*> <*> ""-"" ""-""",29
+E7,"""POST <*>=<*> HTTP/1.<*>"" <*> <*> ""-"" ""WordPress/5.<*>; https://intranet.mannsmith.harrison.com""",20
+E8,"""GET <*> HTTP/1.<*>"" <*> <*> ""https://intranet.mannsmith.harrison.com/wp-login.php?loggedout=<*>&wp_lang=en_US"" ""Mozilla/5.<*> (X11; Linux <*>) AppleWebKit/537.<*> (KHTML, like Gecko) HeadlessChrome/97.<*> Safari/537.<*>""",15
+E9,"""GET / HTTP/1.<*>"" <*> <*> ""-"" ""WordPress/5.<*>; https://intranet.mannsmith.harrison.com""",4
+E10,"""OPTIONS <*>=%2Fwp%2Fv2%2Fpages&_locale=user HTTP/1.<*>"" <*> <*> ""https://intranet.mannsmith.harrison.com/wp-admin/post-new.php"" ""Mozilla/5.<*> (X11; Linux <*>) AppleWebKit/537.<*> (KHTML, like Gecko) HeadlessChrome/97.<*> Safari/537.<*>""",4
+E11,"""OPTIONS <*>=%2Fwp%2Fv2%2Ftemplates&_locale=user HTTP/1.<*>"" <*> <*> ""https://intranet.mannsmith.harrison.com/wp-admin/post-new.php"" ""Mozilla/5.<*> (X11; Linux <*>) AppleWebKit/537.<*> (KHTML, like Gecko) HeadlessChrome/97.<*> Safari/537.<*>""",4
+E12,"""POST <*> HTTP/1.<*>"" <*> <*> ""-"" ""WordPress/5.<*>; https://intranet.mannsmith.harrison.com""",1
+E13,"""GET <*>=<*>&load%5Bchunk_0%5D=hoverIntent&ver=<*> HTTP/1.<*>"" <*> <*> ""https://intranet.mannsmith.harrison.com/wp-admin/post-new.php"" ""Mozilla/5.<*> (X11; Ubuntu; Linux <*>; rv:<*>) <*> Firefox/86.<*>""",1

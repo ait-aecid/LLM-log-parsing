@@ -1,0 +1,10 @@
+Your task is to extract the corresponding template from the provided input logs. A template is formed by identifying whether each token in the logs is a variable or a constant. A constant refers to the part that is common to all logs of this category and does not change with different specific logs. A variable, on the other hand, refers to the part that has different values across various logs. By identifying the variables within the logs and substituting them with the wildcard ‘<*>', a template can be constructed.
+Here is the examples of the log to template task:
+{groupLogs}
+Based on the example, you need to find the template.Be careful with the your own logs understanding extract the template.
+Input logs belong to the same template, So you can also use the differences to help you judge the variable part in the log.
+Input(logs):{inputlogs}
+Output(json format):
+{{
+  "logTemplate": "Provide the template extracted from the new log entry. Follow the guidance in the analysis, replacing variables with the variable category abbreviations introduced above and if there are only constants in the log, return the log itself directly."
+}}

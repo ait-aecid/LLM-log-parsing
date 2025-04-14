@@ -1,0 +1,8 @@
+{"query": "Got assigned task 1235", "answer": "Got assigned task {variables}"}
+{"query": "Finished task 15.0 in stage 28.0 (TID 1295). 2087 bytes result sent to driver", "answer": "Finished task {variables} in stage {variables} (TID {variables}). {variables} bytes result sent to driver"}
+{"query": "Finished task 26.0 in stage 28.0 (TID 1306). 2087 bytes result sent to driver", "answer": "Finished task {variables} in stage {variables} (TID {variables}). {variables} bytes result sent to driver"}
+{"query": "Finished task 4.0 in stage 29.0 (TID 1324). 2128 bytes result sent to driver", "answer": "Finished task {variables} in stage {variables} (TID {variables}). {variables} bytes result sent to driver"}
+{"query": "Finished task 123.0 in stage 24.0 (TID 1150). 2364 bytes result sent to driver", "answer": "Finished task {variables} in stage {variables} (TID {variables}). {variables} bytes result sent to driver"}
+{"query": "Finished task 4.0 in stage 2.0 (TID 119). 2087 bytes result sent to driver", "answer": "Finished task {variables} in stage {variables} (TID {variables}). {variables} bytes result sent to driver"}
+{"query": "Running task 19.0 in stage 27.0 (TID 1259)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}
+{"query": "Running task 3.0 in stage 21.0 (TID 878)", "answer": "Running task {variables} in stage {variables} (TID {variables})"}

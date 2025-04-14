@@ -1,0 +1,14 @@
+Pattern
+LOG <*>: <*>
+LOG Apache/2.0.49 (Fedora) configured -- resuming normal operations
+LOG Graceful restart requested, doing restart
+LOG [client <*>] Invalid URI in request GET HTTP/1.1
+LOG child process <*> still did not exit, sending a SIGTERM
+LOG jk2_init() Can't find child <*> in scoreboard
+LOG jk2_init() Found child <*> in scoreboard slot <*>
+LOG mod_jk child init <*> <*>
+LOG mod_jk child workerEnv in error state <*>
+LOG mod_jk2 Shutting down
+LOG mod_security/<*> configured
+LOG uriMap.mapUri() uri must start with /
+LOG workerEnv.init() ok /etc/httpd/conf/workers2.properties

@@ -1,0 +1,8 @@
+{"query": "Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]", "answer": "Failed to get next element [HRESULT = {variables} - CBS_E_MANIFEST_INVALID_ITEM]"}
+{"query": "Read out cached package applicability for package: Package_for_KB3004375~31bf3856ad364e35~amd64~~6.1.3.1, ApplicableState: 112, CurrentState:112", "answer": "Read out cached package applicability for package: {variables}, ApplicableState: {variables}, CurrentState:{variables}"}
+{"query": "Session: 30546354_3222456494 initialized by client WindowsUpdateAgent.", "answer": "Session: {variables} initialized by client WindowsUpdateAgent."}
+{"query": "Read out cached package applicability for package: Package_for_KB3156016~31bf3856ad364e35~amd64~~6.1.1.1, ApplicableState: 112, CurrentState:112", "answer": "Read out cached package applicability for package: {variables}, ApplicableState: {variables}, CurrentState:{variables}"}
+{"query": "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]", "answer": "Expecting attribute name [HRESULT = {variables} - CBS_E_MANIFEST_INVALID_ITEM]"}
+{"query": "Session: 30546173_4289083966 initialized by client WindowsUpdateAgent.", "answer": "Session: {variables} initialized by client WindowsUpdateAgent."}
+{"query": "Session: 30546174_20798196 initialized by client WindowsUpdateAgent.", "answer": "Session: {variables} initialized by client WindowsUpdateAgent."}
+{"query": "Session: 30546174_184807577 initialized by client WindowsUpdateAgent.", "answer": "Session: {variables} initialized by client WindowsUpdateAgent."}

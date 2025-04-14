@@ -1,0 +1,2 @@
+{"query": "uploadStaticsToDB() onResult  type = 4 obj=true", "answer": "uploadStaticsToDB() onResult type = {variables} obj={variables}"}
+{"query": "startInsertSportSync start auto sync,app is 1", "answer": "startInsertSportSync start auto sync,app is {variables}"}

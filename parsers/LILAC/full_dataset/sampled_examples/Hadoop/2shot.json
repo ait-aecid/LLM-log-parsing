@@ -1,0 +1,2 @@
+{"query": "Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)", "answer": "Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: {variables} cluster_timestamp: {variables} } attemptId: {variables} } keyId: {variables})"}
+{"query": "Auth successful for job_1445144423722_0020 (auth:SIMPLE)", "answer": "Auth successful for {variables} (auth:SIMPLE)"}

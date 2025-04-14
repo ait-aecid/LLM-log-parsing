@@ -1,0 +1,9 @@
+EventID,EventTemplate,Occurrence
+E1,"pid=<*> uid=<*> auid=<*> ses=<*> msg='op=PAM:<*> acct=""<*>"" exe=""<*>"" hostname=<*> addr=<*> terminal=<*> res=<*>'",1525
+E2,"pid=<*> uid=<*> auid=<*> ses=<*> msg='unit=<*> comm=""systemd"" exe=""<*>"" hostname=? addr=? terminal=? res=success'",471
+E3,pid=<*> uid=<*> old-auid=<*> auid=<*> tty=<*> old-ses=<*> ses=<*> res=<*>,304
+E4,"apparmor=""STATUS"" operation=""profile_replace"" info=""same as current profile, skipping"" profile=""unconfined"" name=""<*>"" pid=<*> comm=""apparmor_parser""",4
+E5,"arch=<*> syscall=<*> success=yes exit=<*> <*>=<*> <*>=<*> <*>=<*> <*>=<*> items=<*> ppid=<*> pid=<*> auid=<*> uid=<*> gid=<*> euid=<*> suid=<*> fsuid=<*> egid=<*> sgid=<*> fsgid=<*> tty=pts1 ses=<*> comm=""apparmor_parser"" exe=""<*>"" key=(<*>)",4
+E6,proctitle=<*>,4
+E7,"pid=<*> uid=<*> auid=<*> ses=<*> msg='op=login id=<*> exe=""<*>"" hostname=<*> addr=<*> terminal=<*> res=<*>'",3
+E8,"pid=<*> uid=<*> auid=<*> ses=<*> msg='cwd=""<*>"" cmd=<*> terminal=<*> res=<*>'",1

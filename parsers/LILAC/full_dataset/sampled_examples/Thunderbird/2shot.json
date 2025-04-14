@@ -1,0 +1,2 @@
+{"query": "connection lost: 'Connection closed.'", "answer": "connection lost: 'Connection closed.'"}
+{"query": "RRD_update (/var/lib/ganglia/rrds/C Nodes/cn304/pkts_out.rrd): illegal attempt to update using time 1131563037 when last update time is 1131563037 (minimum one second step)", "answer": "RRD_update ({variables}): illegal attempt to update using time {variables} when last update time is {variables} (minimum one second step)"}

@@ -1,0 +1,8 @@
+{"query": "CCFile::captureLog Received Capture notice id: 1499459904.126805, reason = AuthFail:sts:5_rsn:0", "answer": "CCFile::captureLog Received Capture notice id: {variables}, reason = AuthFail:sts:{variables}_rsn:{variables}"}
+{"query": "Cocoa scripting error for '0x006d0002': four character codes must be four characters long.", "answer": "Cocoa scripting error for '{variables}': four character codes must be four characters long."}
+{"query": "ARPT: 724786.252727: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0", "answer": "ARPT: {variables}: AQM agg results {variables} len hi/lo: {variables} {variables} BAbitmap({variables}-{variables}) {variables}"}
+{"query": "Location icon should now be in state 'Active'", "answer": "Location icon should now be in state 'Active'"}
+{"query": "CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7", "answer": "CCIOReporterFormatter::addRegistryChildToChannelDictionary streams {variables}"}
+{"query": "Cocoa scripting error for '0x025c0009': four character codes must be four characters long.", "answer": "Cocoa scripting error for '{variables}': four character codes must be four characters long."}
+{"query": "com.apple.Addres(32626) deny network-outbound /private/var/run/mDNSResponder", "answer": "{variables}({variables}) deny network-outbound {variables}"}
+{"query": "com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 1277 seconds.  Ignoring.", "answer": "com.apple.{variables}: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for {variables} seconds. Ignoring."}

@@ -1,0 +1,4 @@
+{"query": "(root) CMD (/projects/tbird/temps/get_temps c)", "answer": "({variables}) CMD ({variables} {variables})"}
+{"query": "Mounted root (ext2 filesystem).", "answer": "Mounted {variables} (ext2 filesystem)."}
+{"query": "allocating divert_blk for eth0", "answer": "allocating divert_blk for {variables}"}
+{"query": "PS/2 mouse device common for all mice", "answer": "PS/{variables} mouse device common for all mice"}

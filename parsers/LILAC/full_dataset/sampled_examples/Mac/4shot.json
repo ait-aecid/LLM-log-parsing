@@ -1,0 +1,4 @@
+{"query": "schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>", "answer": "schedule invalidation <DYTransport {variables}, error: lost transport connection ({variables})>"}
+{"query": "ARPT: 762484.281874: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake", "answer": "ARPT: {variables}: {variables}::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake"}
+{"query": "[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object", "answer": "[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object"}
+{"query": "IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0", "answer": "{variables}({variables})::listenerCallback - Thunderbolt HPD packet for route = {variables} port = {variables} unplug = {variables}"}

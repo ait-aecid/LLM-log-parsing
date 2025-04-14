@@ -1,0 +1,8 @@
+{"query": "10.251.73.188:50010:Got exception while serving blk_7517964792804498202 to /10.250.6.191:", "answer": "{variables}:Got exception while serving {variables} to {variables}:"}
+{"query": "BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.215.192:50010 is added to blk_-1704027189958470814 size 67108864", "answer": "BLOCK* NameSystem.addStoredBlock: blockMap updated: {variables} is added to {variables} size {variables}"}
+{"query": "BLOCK* NameSystem.delete: blk_-6477590833521072407 is added to invalidSet of 10.251.39.179:50010", "answer": "BLOCK* NameSystem.delete: {variables} is added to invalidSet of {variables}"}
+{"query": "Deleting block blk_7583807825342916938 file /mnt/hadoop/dfs/data/current/subdir13/blk_7583807825342916938", "answer": "Deleting block {variables} file {variables}"}
+{"query": "Receiving block blk_-7623732795385061487 src: /10.251.122.65:40641 dest: /10.251.122.65:50010", "answer": "Receiving block {variables} src: {variables} dest: {variables}"}
+{"query": "PacketResponder 2 for block blk_-4424971182856566289 terminating", "answer": "PacketResponder {variables} for block {variables} terminating"}
+{"query": "BLOCK* NameSystem.delete: blk_-7709713535298137702 is added to invalidSet of 10.251.215.50:50010", "answer": "BLOCK* NameSystem.delete: {variables} is added to invalidSet of {variables}"}
+{"query": "Receiving block blk_3235988328669699941 src: /10.251.199.159:43276 dest: /10.251.199.159:50010", "answer": "Receiving block {variables} src: {variables} dest: {variables}"}

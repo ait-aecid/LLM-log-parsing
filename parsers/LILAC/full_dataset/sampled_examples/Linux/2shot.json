@@ -1,0 +1,2 @@
+{"query": "apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)", "answer": "apm: BIOS version {variables} Flags {variables} (Driver version {variables})"}
+{"query": "PID hash table entries: 512 (order 9: 4096 bytes)", "answer": "PID hash table entries: {variables} (order {variables}: {variables} bytes)"}

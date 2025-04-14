@@ -1,0 +1,16 @@
+{"query": "onStandStepChanged 3673", "answer": "onStandStepChanged {variables}"}
+{"query": "onExtend:1514038539000 1 0 4", "answer": "onExtend:{variables} {variables} {variables} {variables}"}
+{"query": "setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905625", "answer": "setTodayTotalDetailSteps={variables}##{variables}##{variables}##{variables}##{variables}##{variables}"}
+{"query": "onStandStepChanged 3681", "answer": "onStandStepChanged {variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=240", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": "onExtend:1514038808000 1 0 4", "answer": "onExtend:{variables} {variables} {variables} {variables}"}
+{"query": "onStandStepChanged 3755", "answer": "onStandStepChanged {variables}"}
+{"query": "onExtend:1514040956000 0 0 0", "answer": "onExtend:{variables} {variables} {variables} {variables}"}
+{"query": " getTodayTotalDetailSteps = 1514038620000##7112##548695##8661##16256##27325968", "answer": "getTodayTotalDetailSteps = {variables}##{variables}##{variables}##{variables}##{variables}##{variables}"}
+{"query": "calculateAltitudeWithCache totalAltitude=240", "answer": "calculateAltitudeWithCache totalAltitude={variables}"}
+{"query": "onStandStepChanged 3598", "answer": "onStandStepChanged {variables}"}
+{"query": "REPORT : 7189 5132 153988 240", "answer": "REPORT : {variables} {variables} {variables} {variables}"}
+{"query": " getTodayTotalDetailSteps = 1514043900000##7214##549659##8661##16256##32611763", "answer": "getTodayTotalDetailSteps = {variables}##{variables}##{variables}##{variables}##{variables}##{variables}"}
+{"query": " getTodayTotalDetailSteps = 1514041980000##7189##549659##8661##16256##30709030", "answer": "getTodayTotalDetailSteps = {variables}##{variables}##{variables}##{variables}##{variables}##{variables}"}
+{"query": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33119761", "answer": "setTodayTotalDetailSteps={variables}##{variables}##{variables}##{variables}##{variables}##{variables}"}
+{"query": "onStandStepChanged 3761", "answer": "onStandStepChanged {variables}"}

@@ -1,0 +1,2 @@
+{"query": "proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS", "answer": "{variables} open through proxy {variables} HTTPS"}
+{"query": "proxy.cse.cuhk.edu.hk:5070 close, 1522 bytes (1.48 KB) sent, 1765 bytes (1.72 KB) received, lifetime 00:53", "answer": "{variables} close, {variables} bytes ({variables}) sent, {variables} bytes ({variables}) received, lifetime {variables}"}

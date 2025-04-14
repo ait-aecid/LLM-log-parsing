@@ -1,0 +1,16 @@
+{"query": "generating core.11113", "answer": "generating core.{variables}"}
+{"query": "Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007", "answer": "Error receiving packet on tree network, expecting type {variables} instead of type {variables} (softheader={variables} {variables} {variables} {variables}) PSR0={variables} PSR1={variables} PRXF={variables} PIXF={variables}"}
+{"query": "iar 00106988 dear 02f7bd6c", "answer": "iar {variables} dear {variables}"}
+{"query": "generating core.8877", "answer": "generating core.{variables}"}
+{"query": "0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.", "answer": "{variables} microseconds spent in the rbs signal handler during {variables} calls. {variables} microseconds was the maximum time for a single instance of a correctable ddr."}
+{"query": "iar 00106228 dear 0244c1ec", "answer": "iar {variables} dear {variables}"}
+{"query": "iar 0010639c dear 0245b71c", "answer": "iar {variables} dear {variables}"}
+{"query": "1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected", "answer": "{variables} torus receiver z+ input pipe error(s) (dcr {variables}) detected and corrected"}
+{"query": "generating core.40250", "answer": "generating core.{variables}"}
+{"query": "2576000 double-hummer alignment exceptions", "answer": "{variables} double-hummer alignment exceptions"}
+{"query": "iar 00106bc0 dear 0245cdec", "answer": "iar {variables} dear {variables}"}
+{"query": "generating core.52376", "answer": "generating core.{variables}"}
+{"query": "program interrupt: privileged instruction...0", "answer": "program interrupt: privileged instruction...{variables}"}
+{"query": "generating core.16904", "answer": "generating core.{variables}"}
+{"query": "iar 001066c4 dear 0252527c", "answer": "iar {variables} dear {variables}"}
+{"query": "idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)", "answer": "idoproxydb hit ASSERT condition: ASSERT expression={variables} Source file=idotransportmgr.cpp Source line={variables} Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"}

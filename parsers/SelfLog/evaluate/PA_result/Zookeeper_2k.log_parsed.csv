@@ -1,0 +1,2001 @@
+Unnamed: 0,EventId,template
+0.0,E1,Notification time out: <*>
+1.0,E2,Received connection request /<*>:<*>
+2.0,E3,Send worker leaving thread
+3.0,E4,Interrupted while waiting for message on queue
+4.0,E3,Send worker leaving thread
+5.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+6.0,E2,Received connection request /<*>:<*>
+7.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+8.0,E4,Interrupted while waiting for message on queue
+9.0,E3,Send worker leaving thread
+10.0,E3,Send worker leaving thread
+11.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+12.0,E2,Received connection request /<*>:<*>
+13.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+14.0,E4,Interrupted while waiting for message on queue
+15.0,E6,Interrupting <*>Worker
+16.0,E3,Send worker leaving thread
+17.0,E6,Interrupting <*>Worker
+18.0,E4,Interrupted while waiting for message on queue
+19.0,E2,Received connection request /<*>:<*>
+20.0,E6,Interrupting <*>Worker
+21.0,E3,Send worker leaving thread
+22.0,E4,Interrupted while waiting for message on queue
+23.0,E6,Interrupting <*>Worker
+24.0,E3,Send worker leaving thread
+25.0,E4,Interrupted while waiting for message on queue
+26.0,E2,Received connection request /<*>:<*>
+27.0,E4,Interrupted while waiting for message on queue
+28.0,E4,Interrupted while waiting for message on queue
+29.0,E6,Interrupting <*>Worker
+30.0,E4,Interrupted while waiting for message on queue
+31.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+32.0,E4,Interrupted while waiting for message on queue
+33.0,E3,Send worker leaving thread
+34.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+35.0,E2,Received connection request /<*>:<*>
+36.0,E4,Interrupted while waiting for message on queue
+37.0,E4,Interrupted while waiting for message on queue
+38.0,E4,Interrupted while waiting for message on queue
+39.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+40.0,E4,Interrupted while waiting for message on queue
+41.0,E4,Interrupted while waiting for message on queue
+42.0,E2,Received connection request /<*>:<*>
+43.0,E6,Interrupting <*>Worker
+44.0,E4,Interrupted while waiting for message on queue
+45.0,E6,Interrupting <*>Worker
+46.0,E6,Interrupting <*>Worker
+47.0,E2,Received connection request /<*>:<*>
+48.0,E4,Interrupted while waiting for message on queue
+49.0,E4,Interrupted while waiting for message on queue
+50.0,E3,Send worker leaving thread
+51.0,E6,Interrupting <*>Worker
+52.0,E6,Interrupting <*>Worker
+53.0,E4,Interrupted while waiting for message on queue
+54.0,E6,Interrupting <*>Worker
+55.0,E2,Received connection request /<*>:<*>
+56.0,E2,Received connection request /<*>:<*>
+57.0,E4,Interrupted while waiting for message on queue
+58.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+59.0,E6,Interrupting <*>Worker
+60.0,E6,Interrupting <*>Worker
+61.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+62.0,E3,Send worker leaving thread
+63.0,E2,Received connection request /<*>:<*>
+64.0,E2,Received connection request /<*>:<*>
+65.0,E3,Send worker leaving thread
+66.0,E6,Interrupting <*>Worker
+67.0,E4,Interrupted while waiting for message on queue
+68.0,E4,Interrupted while waiting for message on queue
+69.0,E6,Interrupting <*>Worker
+70.0,E3,Send worker leaving thread
+71.0,E6,Interrupting <*>Worker
+72.0,E3,Send worker leaving thread
+73.0,E2,Received connection request /<*>:<*>
+74.0,E6,Interrupting <*>Worker
+75.0,E3,Send worker leaving thread
+76.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+77.0,E4,Interrupted while waiting for message on queue
+78.0,E4,Interrupted while waiting for message on queue
+79.0,E6,Interrupting <*>Worker
+80.0,E2,Received connection request /<*>:<*>
+81.0,E3,Send worker leaving thread
+82.0,E4,Interrupted while waiting for message on queue
+83.0,E3,Send worker leaving thread
+84.0,E2,Received connection request /<*>:<*>
+85.0,E4,Interrupted while waiting for message on queue
+86.0,E4,Interrupted while waiting for message on queue
+87.0,E6,Interrupting <*>Worker
+88.0,E6,Interrupting <*>Worker
+89.0,E2,Received connection request /<*>:<*>
+90.0,E6,Interrupting <*>Worker
+91.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+92.0,E4,Interrupted while waiting for message on queue
+93.0,E3,Send worker leaving thread
+94.0,E2,Received connection request /<*>:<*>
+95.0,E4,Interrupted while waiting for message on queue
+96.0,E2,Received connection request /<*>:<*>
+97.0,E3,Send worker leaving thread
+98.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+99.0,E4,Interrupted while waiting for message on queue
+100.0,E4,Interrupted while waiting for message on queue
+101.0,E4,Interrupted while waiting for message on queue
+102.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+103.0,E6,Interrupting <*>Worker
+104.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+105.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+106.0,E6,Interrupting <*>Worker
+107.0,E2,Received connection request /<*>:<*>
+108.0,E6,Interrupting <*>Worker
+109.0,E6,Interrupting <*>Worker
+110.0,E3,Send worker leaving thread
+111.0,E6,Interrupting <*>Worker
+112.0,E6,Interrupting <*>Worker
+113.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+114.0,E3,Send worker leaving thread
+115.0,E2,Received connection request /<*>:<*>
+116.0,E6,Interrupting <*>Worker
+117.0,E2,Received connection request /<*>:<*>
+118.0,E4,Interrupted while waiting for message on queue
+119.0,E3,Send worker leaving thread
+120.0,E6,Interrupting <*>Worker
+121.0,E4,Interrupted while waiting for message on queue
+122.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+123.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+124.0,E2,Received connection request /<*>:<*>
+125.0,E4,Interrupted while waiting for message on queue
+126.0,E6,Interrupting <*>Worker
+127.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+128.0,E6,Interrupting <*>Worker
+129.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+130.0,E4,Interrupted while waiting for message on queue
+131.0,E2,Received connection request /<*>:<*>
+132.0,E6,Interrupting <*>Worker
+133.0,E3,Send worker leaving thread
+134.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+135.0,E2,Received connection request /<*>:<*>
+136.0,E6,Interrupting <*>Worker
+137.0,E4,Interrupted while waiting for message on queue
+138.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+139.0,E4,Interrupted while waiting for message on queue
+140.0,E6,Interrupting <*>Worker
+141.0,E3,Send worker leaving thread
+142.0,E4,Interrupted while waiting for message on queue
+143.0,E2,Received connection request /<*>:<*>
+144.0,E6,Interrupting <*>Worker
+145.0,E2,Received connection request /<*>:<*>
+146.0,E3,Send worker leaving thread
+147.0,E3,Send worker leaving thread
+148.0,E6,Interrupting <*>Worker
+149.0,E3,Send worker leaving thread
+150.0,E3,Send worker leaving thread
+151.0,E2,Received connection request /<*>:<*>
+152.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+153.0,E4,Interrupted while waiting for message on queue
+154.0,E4,Interrupted while waiting for message on queue
+155.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+156.0,E6,Interrupting <*>Worker
+157.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+158.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+159.0,E4,Interrupted while waiting for message on queue
+160.0,E3,Send worker leaving thread
+161.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+162.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+163.0,E3,Send worker leaving thread
+164.0,E3,Send worker leaving thread
+165.0,E2,Received connection request /<*>:<*>
+166.0,E6,Interrupting <*>Worker
+167.0,E3,Send worker leaving thread
+168.0,E6,Interrupting <*>Worker
+169.0,E2,Received connection request /<*>:<*>
+170.0,E2,Received connection request /<*>:<*>
+171.0,E3,Send worker leaving thread
+172.0,E6,Interrupting <*>Worker
+173.0,E3,Send worker leaving thread
+174.0,E3,Send worker leaving thread
+175.0,E4,Interrupted while waiting for message on queue
+176.0,E4,Interrupted while waiting for message on queue
+177.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+178.0,E2,Received connection request /<*>:<*>
+179.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+180.0,E6,Interrupting <*>Worker
+181.0,E2,Received connection request /<*>:<*>
+182.0,E6,Interrupting <*>Worker
+183.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+184.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+185.0,E2,Received connection request /<*>:<*>
+186.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+187.0,E2,Received connection request /<*>:<*>
+188.0,E6,Interrupting <*>Worker
+189.0,E2,Received connection request /<*>:<*>
+190.0,E3,Send worker leaving thread
+191.0,E4,Interrupted while waiting for message on queue
+192.0,E6,Interrupting <*>Worker
+193.0,E4,Interrupted while waiting for message on queue
+194.0,E4,Interrupted while waiting for message on queue
+195.0,E3,Send worker leaving thread
+196.0,E4,Interrupted while waiting for message on queue
+197.0,E2,Received connection request /<*>:<*>
+198.0,E4,Interrupted while waiting for message on queue
+199.0,E2,Received connection request /<*>:<*>
+200.0,E2,Received connection request /<*>:<*>
+201.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+202.0,E2,Received connection request /<*>:<*>
+203.0,E2,Received connection request /<*>:<*>
+204.0,E6,Interrupting <*>Worker
+205.0,E6,Interrupting <*>Worker
+206.0,E4,Interrupted while waiting for message on queue
+207.0,E6,Interrupting <*>Worker
+208.0,E4,Interrupted while waiting for message on queue
+209.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+210.0,E6,Interrupting <*>Worker
+211.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+212.0,E2,Received connection request /<*>:<*>
+213.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+214.0,E2,Received connection request /<*>:<*>
+215.0,E3,Send worker leaving thread
+216.0,E2,Received connection request /<*>:<*>
+217.0,E2,Received connection request /<*>:<*>
+218.0,E4,Interrupted while waiting for message on queue
+219.0,E6,Interrupting <*>Worker
+220.0,E2,Received connection request /<*>:<*>
+221.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+222.0,E2,Received connection request /<*>:<*>
+223.0,E4,Interrupted while waiting for message on queue
+224.0,E2,Received connection request /<*>:<*>
+225.0,E2,Received connection request /<*>:<*>
+226.0,E3,Send worker leaving thread
+227.0,E2,Received connection request /<*>:<*>
+228.0,E4,Interrupted while waiting for message on queue
+229.0,E3,Send worker leaving thread
+230.0,E6,Interrupting <*>Worker
+231.0,E4,Interrupted while waiting for message on queue
+232.0,E3,Send worker leaving thread
+233.0,E6,Interrupting <*>Worker
+234.0,E4,Interrupted while waiting for message on queue
+235.0,E6,Interrupting <*>Worker
+236.0,E3,Send worker leaving thread
+237.0,E4,Interrupted while waiting for message on queue
+238.0,E3,Send worker leaving thread
+239.0,E6,Interrupting <*>Worker
+240.0,E3,Send worker leaving thread
+241.0,E6,Interrupting <*>Worker
+242.0,E3,Send worker leaving thread
+243.0,E3,Send worker leaving thread
+244.0,E6,Interrupting <*>Worker
+245.0,E4,Interrupted while waiting for message on queue
+246.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+247.0,E3,Send worker leaving thread
+248.0,E2,Received connection request /<*>:<*>
+249.0,E4,Interrupted while waiting for message on queue
+250.0,E4,Interrupted while waiting for message on queue
+251.0,E3,Send worker leaving thread
+252.0,E4,Interrupted while waiting for message on queue
+253.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+254.0,E6,Interrupting <*>Worker
+255.0,E6,Interrupting <*>Worker
+256.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+257.0,E4,Interrupted while waiting for message on queue
+258.0,E3,Send worker leaving thread
+259.0,E4,Interrupted while waiting for message on queue
+260.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+261.0,E3,Send worker leaving thread
+262.0,E4,Interrupted while waiting for message on queue
+263.0,E2,Received connection request /<*>:<*>
+264.0,E2,Received connection request /<*>:<*>
+265.0,E3,Send worker leaving thread
+266.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+267.0,E4,Interrupted while waiting for message on queue
+268.0,E4,Interrupted while waiting for message on queue
+269.0,E2,Received connection request /<*>:<*>
+270.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+271.0,E3,Send worker leaving thread
+272.0,E6,Interrupting <*>Worker
+273.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+274.0,E6,Interrupting <*>Worker
+275.0,E6,Interrupting <*>Worker
+276.0,E4,Interrupted while waiting for message on queue
+277.0,E6,Interrupting <*>Worker
+278.0,E2,Received connection request /<*>:<*>
+279.0,E4,Interrupted while waiting for message on queue
+280.0,E3,Send worker leaving thread
+281.0,E6,Interrupting <*>Worker
+282.0,E3,Send worker leaving thread
+283.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+284.0,E3,Send worker leaving thread
+285.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+286.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+287.0,E6,Interrupting <*>Worker
+288.0,E4,Interrupted while waiting for message on queue
+289.0,E3,Send worker leaving thread
+290.0,E6,Interrupting <*>Worker
+291.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+292.0,E4,Interrupted while waiting for message on queue
+293.0,E3,Send worker leaving thread
+294.0,E2,Received connection request /<*>:<*>
+295.0,E6,Interrupting <*>Worker
+296.0,E6,Interrupting <*>Worker
+297.0,E4,Interrupted while waiting for message on queue
+298.0,E3,Send worker leaving thread
+299.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+300.0,E4,Interrupted while waiting for message on queue
+301.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+302.0,E2,Received connection request /<*>:<*>
+303.0,E4,Interrupted while waiting for message on queue
+304.0,E3,Send worker leaving thread
+305.0,E3,Send worker leaving thread
+306.0,E4,Interrupted while waiting for message on queue
+307.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+308.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+309.0,E3,Send worker leaving thread
+310.0,E6,Interrupting <*>Worker
+311.0,E2,Received connection request /<*>:<*>
+312.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+313.0,E2,Received connection request /<*>:<*>
+314.0,E4,Interrupted while waiting for message on queue
+315.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+316.0,E4,Interrupted while waiting for message on queue
+317.0,E6,Interrupting <*>Worker
+318.0,E6,Interrupting <*>Worker
+319.0,E3,Send worker leaving thread
+320.0,E3,Send worker leaving thread
+321.0,E3,Send worker leaving thread
+322.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+323.0,E4,Interrupted while waiting for message on queue
+324.0,E2,Received connection request /<*>:<*>
+325.0,E4,Interrupted while waiting for message on queue
+326.0,E3,Send worker leaving thread
+327.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+328.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+329.0,E4,Interrupted while waiting for message on queue
+330.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+331.0,E2,Received connection request /<*>:<*>
+332.0,E6,Interrupting <*>Worker
+333.0,E4,Interrupted while waiting for message on queue
+334.0,E4,Interrupted while waiting for message on queue
+335.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+336.0,E2,Received connection request /<*>:<*>
+337.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+338.0,E4,Interrupted while waiting for message on queue
+339.0,E6,Interrupting <*>Worker
+340.0,E6,Interrupting <*>Worker
+341.0,E3,Send worker leaving thread
+342.0,E4,Interrupted while waiting for message on queue
+343.0,E2,Received connection request /<*>:<*>
+344.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+345.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+346.0,E2,Received connection request /<*>:<*>
+347.0,E4,Interrupted while waiting for message on queue
+348.0,E2,Received connection request /<*>:<*>
+349.0,E4,Interrupted while waiting for message on queue
+350.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+351.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+352.0,E3,Send worker leaving thread
+353.0,E2,Received connection request /<*>:<*>
+354.0,E4,Interrupted while waiting for message on queue
+355.0,E6,Interrupting <*>Worker
+356.0,E2,Received connection request /<*>:<*>
+357.0,E3,Send worker leaving thread
+358.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+359.0,E3,Send worker leaving thread
+360.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+361.0,E2,Received connection request /<*>:<*>
+362.0,E3,Send worker leaving thread
+363.0,E4,Interrupted while waiting for message on queue
+364.0,E2,Received connection request /<*>:<*>
+365.0,E3,Send worker leaving thread
+366.0,E2,Received connection request /<*>:<*>
+367.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+368.0,E6,Interrupting <*>Worker
+369.0,E4,Interrupted while waiting for message on queue
+370.0,E2,Received connection request /<*>:<*>
+371.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+372.0,E6,Interrupting <*>Worker
+373.0,E2,Received connection request /<*>:<*>
+374.0,E3,Send worker leaving thread
+375.0,E6,Interrupting <*>Worker
+376.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+377.0,E4,Interrupted while waiting for message on queue
+378.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+379.0,E6,Interrupting <*>Worker
+380.0,E6,Interrupting <*>Worker
+381.0,E6,Interrupting <*>Worker
+382.0,E2,Received connection request /<*>:<*>
+383.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+384.0,E4,Interrupted while waiting for message on queue
+385.0,E4,Interrupted while waiting for message on queue
+386.0,E3,Send worker leaving thread
+387.0,E6,Interrupting <*>Worker
+388.0,E6,Interrupting <*>Worker
+389.0,E2,Received connection request /<*>:<*>
+390.0,E4,Interrupted while waiting for message on queue
+391.0,E2,Received connection request /<*>:<*>
+392.0,E6,Interrupting <*>Worker
+393.0,E3,Send worker leaving thread
+394.0,E6,Interrupting <*>Worker
+395.0,E6,Interrupting <*>Worker
+396.0,E4,Interrupted while waiting for message on queue
+397.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+398.0,E2,Received connection request /<*>:<*>
+399.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+400.0,E2,Received connection request /<*>:<*>
+401.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+402.0,E3,Send worker leaving thread
+403.0,E4,Interrupted while waiting for message on queue
+404.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+405.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+406.0,E6,Interrupting <*>Worker
+407.0,E3,Send worker leaving thread
+408.0,E2,Received connection request /<*>:<*>
+409.0,E4,Interrupted while waiting for message on queue
+410.0,E3,Send worker leaving thread
+411.0,E3,Send worker leaving thread
+412.0,E3,Send worker leaving thread
+413.0,E3,Send worker leaving thread
+414.0,E3,Send worker leaving thread
+415.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+416.0,E2,Received connection request /<*>:<*>
+417.0,E6,Interrupting <*>Worker
+418.0,E2,Received connection request /<*>:<*>
+419.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+420.0,E6,Interrupting <*>Worker
+421.0,E6,Interrupting <*>Worker
+422.0,E4,Interrupted while waiting for message on queue
+423.0,E4,Interrupted while waiting for message on queue
+424.0,E2,Received connection request /<*>:<*>
+425.0,E2,Received connection request /<*>:<*>
+426.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+427.0,E6,Interrupting <*>Worker
+428.0,E4,Interrupted while waiting for message on queue
+429.0,E3,Send worker leaving thread
+430.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+431.0,E2,Received connection request /<*>:<*>
+432.0,E3,Send worker leaving thread
+433.0,E4,Interrupted while waiting for message on queue
+434.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+435.0,E2,Received connection request /<*>:<*>
+436.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+437.0,E3,Send worker leaving thread
+438.0,E4,Interrupted while waiting for message on queue
+439.0,E6,Interrupting <*>Worker
+440.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+441.0,E2,Received connection request /<*>:<*>
+442.0,E2,Received connection request /<*>:<*>
+443.0,E4,Interrupted while waiting for message on queue
+444.0,E3,Send worker leaving thread
+445.0,E2,Received connection request /<*>:<*>
+446.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+447.0,E4,Interrupted while waiting for message on queue
+448.0,E6,Interrupting <*>Worker
+449.0,E3,Send worker leaving thread
+450.0,E2,Received connection request /<*>:<*>
+451.0,E4,Interrupted while waiting for message on queue
+452.0,E3,Send worker leaving thread
+453.0,E6,Interrupting <*>Worker
+454.0,E6,Interrupting <*>Worker
+455.0,E4,Interrupted while waiting for message on queue
+456.0,E4,Interrupted while waiting for message on queue
+457.0,E4,Interrupted while waiting for message on queue
+458.0,E3,Send worker leaving thread
+459.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+460.0,E3,Send worker leaving thread
+461.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+462.0,E6,Interrupting <*>Worker
+463.0,E6,Interrupting <*>Worker
+464.0,E3,Send worker leaving thread
+465.0,E2,Received connection request /<*>:<*>
+466.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+467.0,E3,Send worker leaving thread
+468.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+469.0,E2,Received connection request /<*>:<*>
+470.0,E4,Interrupted while waiting for message on queue
+471.0,E4,Interrupted while waiting for message on queue
+472.0,E3,Send worker leaving thread
+473.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+474.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+475.0,E2,Received connection request /<*>:<*>
+476.0,E4,Interrupted while waiting for message on queue
+477.0,E3,Send worker leaving thread
+478.0,E4,Interrupted while waiting for message on queue
+479.0,E2,Received connection request /<*>:<*>
+480.0,E2,Received connection request /<*>:<*>
+481.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+482.0,E2,Received connection request /<*>:<*>
+483.0,E4,Interrupted while waiting for message on queue
+484.0,E2,Received connection request /<*>:<*>
+485.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+486.0,E2,Received connection request /<*>:<*>
+487.0,E4,Interrupted while waiting for message on queue
+488.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+489.0,E4,Interrupted while waiting for message on queue
+490.0,E2,Received connection request /<*>:<*>
+491.0,E6,Interrupting <*>Worker
+492.0,E6,Interrupting <*>Worker
+493.0,E2,Received connection request /<*>:<*>
+494.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+495.0,E8,caught end of stream exception
+496.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+497.0,E9,Client attempting to renew session <*> at /*:<*>
+498.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+499.0,E10,Client attempting to establish new session at /<*>:<*>
+500.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+501.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+502.0,E12,Accepted socket connection from /<*>:<*>
+503.0,E12,Accepted socket connection from /<*>:<*>
+504.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+505.0,E13,d: Unexpected Exception:
+506.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+507.0,E12,Accepted socket connection from /<*>:<*>
+508.0,E12,Accepted socket connection from /<*>:<*>
+509.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+510.0,E12,Accepted socket connection from /<*>:<*>
+511.0,E12,Accepted socket connection from /<*>:<*>
+512.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+513.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+514.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+515.0,E10,Client attempting to establish new session at /<*>:<*>
+516.0,E10,Client attempting to establish new session at /<*>:<*>
+517.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+518.0,E10,Client attempting to establish new session at /<*>:<*>
+519.0,E10,Client attempting to establish new session at /<*>:<*>
+520.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+521.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+522.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+523.0,E12,Accepted socket connection from /<*>:<*>
+524.0,E10,Client attempting to establish new session at /<*>:<*>
+525.0,E10,Client attempting to establish new session at /<*>:<*>
+526.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+527.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+528.0,E10,Client attempting to establish new session at /<*>:<*>
+529.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+530.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+531.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+532.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+533.0,E10,Client attempting to establish new session at /<*>:<*>
+534.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+535.0,E8,caught end of stream exception
+536.0,E10,Client attempting to establish new session at /<*>:<*>
+537.0,E8,caught end of stream exception
+538.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+539.0,E15,Server environment:user.dir=<*>
+540.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+541.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+542.0,E10,Client attempting to establish new session at /<*>:<*>
+543.0,E17,Processed session termination for sessionid: <*>
+544.0,E17,Processed session termination for sessionid: <*>
+545.0,E8,caught end of stream exception
+546.0,E17,Processed session termination for sessionid: <*>
+547.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+548.0,E17,Processed session termination for sessionid: <*>
+549.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+550.0,E17,Processed session termination for sessionid: <*>
+551.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+552.0,E17,Processed session termination for sessionid: <*>
+553.0,E8,caught end of stream exception
+554.0,E17,Processed session termination for sessionid: <*>
+555.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+556.0,E8,caught end of stream exception
+557.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+558.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+559.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+560.0,E10,Client attempting to establish new session at /<*>:<*>
+561.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+562.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+563.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+564.0,E19,******* GOODBYE /<*>:<*> ********
+565.0,E20,L<*>KING
+566.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+567.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+568.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+569.0,E6,Interrupting <*>Worker
+570.0,E1,Notification time out: <*>
+571.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+572.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+573.0,E8,caught end of stream exception
+574.0,E8,caught end of stream exception
+575.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+576.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+577.0,E12,Accepted socket connection from /<*>:<*>
+578.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+579.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+580.0,E21,My election bind port: <*>.<*>.<*>/<*>.<*>.<*>:<*>
+581.0,E22,"Have smaller server identifier, so dropping the connection: (<*>, <*>)"
+582.0,E23,C<*>RR<*>SP<*>ND<*>NG
+583.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+584.0,E20,L<*>KING
+585.0,E24,"New election. My id =  <*>, proposed zxid=0x<*>"
+586.0,E25,Server environment:host.name=<*>
+587.0,E26,FOLLOWING - LEADER ELECTION TOOK - <*>
+588.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+589.0,E12,Accepted socket connection from /<*>:<*>
+590.0,E10,Client attempting to establish new session at /<*>:<*>
+591.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+592.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+593.0,E8,caught end of stream exception
+594.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+595.0,E10,Client attempting to establish new session at /<*>:<*>
+596.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+597.0,E27,"Notification: <*> (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), <*> (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)"
+598.0,E26,FOLLOWING - LEADER ELECTION TOOK - <*>
+599.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+600.0,E8,caught end of stream exception
+601.0,E10,Client attempting to establish new session at /<*>:<*>
+602.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+603.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+604.0,E8,caught end of stream exception
+605.0,E8,caught end of stream exception
+606.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+607.0,E28,<*>.set to <*>
+608.0,E29,Server environment:java.vendor=<*> Corporation
+609.0,E30,Revalidating client: <*>
+610.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+611.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+612.0,E9,Client attempting to renew session <*> at /*:<*>
+613.0,E31,Server environment:zookeeper.version=<*>--<*> built on <*> <*> <*> <*>:<*> GMT
+614.0,E32,Server environment:user.name=<*>
+615.0,E30,Revalidating client: <*>
+616.0,E8,caught end of stream exception
+617.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+618.0,E2,Received connection request /<*>:<*>
+619.0,E33,Server environment:os.name=<*>
+620.0,E12,Accepted socket connection from /<*>:<*>
+621.0,E10,Client attempting to establish new session at /<*>:<*>
+622.0,E34,Closed socket connection for client /<*>:<*> (no session established for client)
+623.0,E35,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+624.0,E36,"Notification: <*> (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0xb (n.peerEPoch), LOOKING (my state)"
+625.0,E37,"Notification: <*> (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)"
+626.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+627.0,E10,Client attempting to establish new session at /<*>:<*>
+628.0,E12,Accepted socket connection from /<*>:<*>
+629.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+630.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+631.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+632.0,E8,caught end of stream exception
+633.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+634.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+635.0,E12,Accepted socket connection from /<*>:<*>
+636.0,E12,Accepted socket connection from /<*>:<*>
+637.0,E38,tickTime set to <*>
+638.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+639.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+640.0,E1,Notification time out: <*>
+641.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+642.0,E1,Notification time out: <*>
+643.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+644.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+645.0,E1,Notification time out: <*>
+646.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+647.0,E1,Notification time out: <*>
+648.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+649.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+650.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+651.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+652.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+653.0,E1,Notification time out: <*>
+654.0,E1,Notification time out: <*>
+655.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+656.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+657.0,E1,Notification time out: <*>
+658.0,E1,Notification time out: <*>
+659.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+660.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+661.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+662.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+663.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+664.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+665.0,E1,Notification time out: <*>
+666.0,E1,Notification time out: <*>
+667.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+668.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+669.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+670.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+671.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+672.0,E1,Notification time out: <*>
+673.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+674.0,E1,Notification time out: <*>
+675.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+676.0,E1,Notification time out: <*>
+677.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+678.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+679.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+680.0,E1,Notification time out: <*>
+681.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+682.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+683.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+684.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+685.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+686.0,E1,Notification time out: <*>
+687.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+688.0,E1,Notification time out: <*>
+689.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+690.0,E1,Notification time out: <*>
+691.0,E1,Notification time out: <*>
+692.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+693.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+694.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+695.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+696.0,E1,Notification time out: <*>
+697.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+698.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+699.0,E1,Notification time out: <*>
+700.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+701.0,E1,Notification time out: <*>
+702.0,E1,Notification time out: <*>
+703.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+704.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+705.0,E1,Notification time out: <*>
+706.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+707.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+708.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+709.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+710.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+711.0,E1,Notification time out: <*>
+712.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+713.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+714.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+715.0,E1,Notification time out: <*>
+716.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+717.0,E1,Notification time out: <*>
+718.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+719.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+720.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+721.0,E1,Notification time out: <*>
+722.0,E1,Notification time out: <*>
+723.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+724.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+725.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+726.0,E1,Notification time out: <*>
+727.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+728.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+729.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+730.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+731.0,E1,Notification time out: <*>
+732.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+733.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+734.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+735.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+736.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+737.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+738.0,E1,Notification time out: <*>
+739.0,E1,Notification time out: <*>
+740.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+741.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+742.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+743.0,E1,Notification time out: <*>
+744.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+745.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+746.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+747.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+748.0,E1,Notification time out: <*>
+749.0,E1,Notification time out: <*>
+750.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+751.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+752.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+753.0,E29,Server environment:java.vendor=<*> Corporation
+754.0,E39,d: Unexpected exception causing shutdown while sock still open
+755.0,E39,d: Unexpected exception causing shutdown while sock still open
+756.0,E19,******* GOODBYE /<*>:<*> ********
+757.0,E39,d: Unexpected exception causing shutdown while sock still open
+758.0,E39,d: Unexpected exception causing shutdown while sock still open
+759.0,E19,******* GOODBYE /<*>:<*> ********
+760.0,E19,******* GOODBYE /<*>:<*> ********
+761.0,E19,******* GOODBYE /<*>:<*> ********
+762.0,E19,******* GOODBYE /<*>:<*> ********
+763.0,E39,d: Unexpected exception causing shutdown while sock still open
+764.0,E19,******* GOODBYE /<*>:<*> ********
+765.0,E19,******* GOODBYE /<*>:<*> ********
+766.0,E19,******* GOODBYE /<*>:<*> ********
+767.0,E19,******* GOODBYE /<*>:<*> ********
+768.0,E19,******* GOODBYE /<*>:<*> ********
+769.0,E39,d: Unexpected exception causing shutdown while sock still open
+770.0,E39,d: Unexpected exception causing shutdown while sock still open
+771.0,E19,******* GOODBYE /<*>:<*> ********
+772.0,E19,******* GOODBYE /<*>:<*> ********
+773.0,E19,******* GOODBYE /<*>:<*> ********
+774.0,E19,******* GOODBYE /<*>:<*> ********
+775.0,E39,d: Unexpected exception causing shutdown while sock still open
+776.0,E19,******* GOODBYE /<*>:<*> ********
+777.0,E39,d: Unexpected exception causing shutdown while sock still open
+778.0,E39,d: Unexpected exception causing shutdown while sock still open
+779.0,E39,d: Unexpected exception causing shutdown while sock still open
+780.0,E19,******* GOODBYE /<*>:<*> ********
+781.0,E19,******* GOODBYE /<*>:<*> ********
+782.0,E19,******* GOODBYE /<*>:<*> ********
+783.0,E39,d: Unexpected exception causing shutdown while sock still open
+784.0,E6,Interrupting <*>Worker
+785.0,E2,Received connection request /<*>:<*>
+786.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+787.0,E2,Received connection request /<*>:<*>
+788.0,E6,Interrupting <*>Worker
+789.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+790.0,E2,Received connection request /<*>:<*>
+791.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+792.0,E6,Interrupting <*>Worker
+793.0,E6,Interrupting <*>Worker
+794.0,E4,Interrupted while waiting for message on queue
+795.0,E3,Send worker leaving thread
+796.0,E3,Send worker leaving thread
+797.0,E2,Received connection request /<*>:<*>
+798.0,E6,Interrupting <*>Worker
+799.0,E4,Interrupted while waiting for message on queue
+800.0,E2,Received connection request /<*>:<*>
+801.0,E3,Send worker leaving thread
+802.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+803.0,E6,Interrupting <*>Worker
+804.0,E3,Send worker leaving thread
+805.0,E6,Interrupting <*>Worker
+806.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+807.0,E3,Send worker leaving thread
+808.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+809.0,E2,Received connection request /<*>:<*>
+810.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+811.0,E4,Interrupted while waiting for message on queue
+812.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+813.0,E6,Interrupting <*>Worker
+814.0,E2,Received connection request /<*>:<*>
+815.0,E6,Interrupting <*>Worker
+816.0,E2,Received connection request /<*>:<*>
+817.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+818.0,E3,Send worker leaving thread
+819.0,E6,Interrupting <*>Worker
+820.0,E2,Received connection request /<*>:<*>
+821.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+822.0,E2,Received connection request /<*>:<*>
+823.0,E4,Interrupted while waiting for message on queue
+824.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+825.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+826.0,E2,Received connection request /<*>:<*>
+827.0,E3,Send worker leaving thread
+828.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+829.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+830.0,E4,Interrupted while waiting for message on queue
+831.0,E6,Interrupting <*>Worker
+832.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+833.0,E4,Interrupted while waiting for message on queue
+834.0,E4,Interrupted while waiting for message on queue
+835.0,E6,Interrupting <*>Worker
+836.0,E4,Interrupted while waiting for message on queue
+837.0,E4,Interrupted while waiting for message on queue
+838.0,E6,Interrupting <*>Worker
+839.0,E4,Interrupted while waiting for message on queue
+840.0,E4,Interrupted while waiting for message on queue
+841.0,E3,Send worker leaving thread
+842.0,E4,Interrupted while waiting for message on queue
+843.0,E6,Interrupting <*>Worker
+844.0,E4,Interrupted while waiting for message on queue
+845.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+846.0,E6,Interrupting <*>Worker
+847.0,E6,Interrupting <*>Worker
+848.0,E4,Interrupted while waiting for message on queue
+849.0,E2,Received connection request /<*>:<*>
+850.0,E3,Send worker leaving thread
+851.0,E4,Interrupted while waiting for message on queue
+852.0,E6,Interrupting <*>Worker
+853.0,E4,Interrupted while waiting for message on queue
+854.0,E2,Received connection request /<*>:<*>
+855.0,E2,Received connection request /<*>:<*>
+856.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+857.0,E6,Interrupting <*>Worker
+858.0,E2,Received connection request /<*>:<*>
+859.0,E4,Interrupted while waiting for message on queue
+860.0,E4,Interrupted while waiting for message on queue
+861.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+862.0,E3,Send worker leaving thread
+863.0,E3,Send worker leaving thread
+864.0,E4,Interrupted while waiting for message on queue
+865.0,E2,Received connection request /<*>:<*>
+866.0,E3,Send worker leaving thread
+867.0,E6,Interrupting <*>Worker
+868.0,E3,Send worker leaving thread
+869.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+870.0,E6,Interrupting <*>Worker
+871.0,E2,Received connection request /<*>:<*>
+872.0,E6,Interrupting <*>Worker
+873.0,E2,Received connection request /<*>:<*>
+874.0,E3,Send worker leaving thread
+875.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+876.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+877.0,E4,Interrupted while waiting for message on queue
+878.0,E3,Send worker leaving thread
+879.0,E2,Received connection request /<*>:<*>
+880.0,E4,Interrupted while waiting for message on queue
+881.0,E3,Send worker leaving thread
+882.0,E6,Interrupting <*>Worker
+883.0,E2,Received connection request /<*>:<*>
+884.0,E6,Interrupting <*>Worker
+885.0,E4,Interrupted while waiting for message on queue
+886.0,E2,Received connection request /<*>:<*>
+887.0,E2,Received connection request /<*>:<*>
+888.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+889.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+890.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+891.0,E4,Interrupted while waiting for message on queue
+892.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+893.0,E6,Interrupting <*>Worker
+894.0,E6,Interrupting <*>Worker
+895.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+896.0,E6,Interrupting <*>Worker
+897.0,E6,Interrupting <*>Worker
+898.0,E6,Interrupting <*>Worker
+899.0,E4,Interrupted while waiting for message on queue
+900.0,E6,Interrupting <*>Worker
+901.0,E2,Received connection request /<*>:<*>
+902.0,E3,Send worker leaving thread
+903.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+904.0,E3,Send worker leaving thread
+905.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+906.0,E3,Send worker leaving thread
+907.0,E3,Send worker leaving thread
+908.0,E4,Interrupted while waiting for message on queue
+909.0,E2,Received connection request /<*>:<*>
+910.0,E3,Send worker leaving thread
+911.0,E6,Interrupting <*>Worker
+912.0,E3,Send worker leaving thread
+913.0,E2,Received connection request /<*>:<*>
+914.0,E3,Send worker leaving thread
+915.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+916.0,E2,Received connection request /<*>:<*>
+917.0,E3,Send worker leaving thread
+918.0,E6,Interrupting <*>Worker
+919.0,E3,Send worker leaving thread
+920.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+921.0,E2,Received connection request /<*>:<*>
+922.0,E3,Send worker leaving thread
+923.0,E3,Send worker leaving thread
+924.0,E2,Received connection request /<*>:<*>
+925.0,E2,Received connection request /<*>:<*>
+926.0,E2,Received connection request /<*>:<*>
+927.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+928.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+929.0,E6,Interrupting <*>Worker
+930.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+931.0,E3,Send worker leaving thread
+932.0,E3,Send worker leaving thread
+933.0,E6,Interrupting <*>Worker
+934.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+935.0,E4,Interrupted while waiting for message on queue
+936.0,E4,Interrupted while waiting for message on queue
+937.0,E3,Send worker leaving thread
+938.0,E6,Interrupting <*>Worker
+939.0,E3,Send worker leaving thread
+940.0,E6,Interrupting <*>Worker
+941.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+942.0,E2,Received connection request /<*>:<*>
+943.0,E4,Interrupted while waiting for message on queue
+944.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+945.0,E3,Send worker leaving thread
+946.0,E4,Interrupted while waiting for message on queue
+947.0,E2,Received connection request /<*>:<*>
+948.0,E4,Interrupted while waiting for message on queue
+949.0,E2,Received connection request /<*>:<*>
+950.0,E2,Received connection request /<*>:<*>
+951.0,E2,Received connection request /<*>:<*>
+952.0,E2,Received connection request /<*>:<*>
+953.0,E3,Send worker leaving thread
+954.0,E4,Interrupted while waiting for message on queue
+955.0,E2,Received connection request /<*>:<*>
+956.0,E4,Interrupted while waiting for message on queue
+957.0,E6,Interrupting <*>Worker
+958.0,E4,Interrupted while waiting for message on queue
+959.0,E2,Received connection request /<*>:<*>
+960.0,E3,Send worker leaving thread
+961.0,E4,Interrupted while waiting for message on queue
+962.0,E3,Send worker leaving thread
+963.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+964.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+965.0,E6,Interrupting <*>Worker
+966.0,E4,Interrupted while waiting for message on queue
+967.0,E3,Send worker leaving thread
+968.0,E4,Interrupted while waiting for message on queue
+969.0,E2,Received connection request /<*>:<*>
+970.0,E3,Send worker leaving thread
+971.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+972.0,E2,Received connection request /<*>:<*>
+973.0,E3,Send worker leaving thread
+974.0,E2,Received connection request /<*>:<*>
+975.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+976.0,E2,Received connection request /<*>:<*>
+977.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+978.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+979.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+980.0,E2,Received connection request /<*>:<*>
+981.0,E4,Interrupted while waiting for message on queue
+982.0,E6,Interrupting <*>Worker
+983.0,E2,Received connection request /<*>:<*>
+984.0,E2,Received connection request /<*>:<*>
+985.0,E4,Interrupted while waiting for message on queue
+986.0,E6,Interrupting <*>Worker
+987.0,E3,Send worker leaving thread
+988.0,E3,Send worker leaving thread
+989.0,E3,Send worker leaving thread
+990.0,E4,Interrupted while waiting for message on queue
+991.0,E2,Received connection request /<*>:<*>
+992.0,E6,Interrupting <*>Worker
+993.0,E6,Interrupting <*>Worker
+994.0,E4,Interrupted while waiting for message on queue
+995.0,E3,Send worker leaving thread
+996.0,E6,Interrupting <*>Worker
+997.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+998.0,E2,Received connection request /<*>:<*>
+999.0,E2,Received connection request /<*>:<*>
+1000.0,E4,Interrupted while waiting for message on queue
+1001.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1002.0,E6,Interrupting <*>Worker
+1003.0,E4,Interrupted while waiting for message on queue
+1004.0,E4,Interrupted while waiting for message on queue
+1005.0,E4,Interrupted while waiting for message on queue
+1006.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1007.0,E2,Received connection request /<*>:<*>
+1008.0,E2,Received connection request /<*>:<*>
+1009.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1010.0,E4,Interrupted while waiting for message on queue
+1011.0,E3,Send worker leaving thread
+1012.0,E3,Send worker leaving thread
+1013.0,E3,Send worker leaving thread
+1014.0,E6,Interrupting <*>Worker
+1015.0,E6,Interrupting <*>Worker
+1016.0,E6,Interrupting <*>Worker
+1017.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1018.0,E6,Interrupting <*>Worker
+1019.0,E4,Interrupted while waiting for message on queue
+1020.0,E3,Send worker leaving thread
+1021.0,E2,Received connection request /<*>:<*>
+1022.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1023.0,E3,Send worker leaving thread
+1024.0,E2,Received connection request /<*>:<*>
+1025.0,E3,Send worker leaving thread
+1026.0,E3,Send worker leaving thread
+1027.0,E6,Interrupting <*>Worker
+1028.0,E4,Interrupted while waiting for message on queue
+1029.0,E4,Interrupted while waiting for message on queue
+1030.0,E6,Interrupting <*>Worker
+1031.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1032.0,E6,Interrupting <*>Worker
+1033.0,E2,Received connection request /<*>:<*>
+1034.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1035.0,E3,Send worker leaving thread
+1036.0,E6,Interrupting <*>Worker
+1037.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1038.0,E3,Send worker leaving thread
+1039.0,E6,Interrupting <*>Worker
+1040.0,E2,Received connection request /<*>:<*>
+1041.0,E4,Interrupted while waiting for message on queue
+1042.0,E2,Received connection request /<*>:<*>
+1043.0,E6,Interrupting <*>Worker
+1044.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1045.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1046.0,E3,Send worker leaving thread
+1047.0,E6,Interrupting <*>Worker
+1048.0,E3,Send worker leaving thread
+1049.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1050.0,E2,Received connection request /<*>:<*>
+1051.0,E6,Interrupting <*>Worker
+1052.0,E3,Send worker leaving thread
+1053.0,E4,Interrupted while waiting for message on queue
+1054.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1055.0,E2,Received connection request /<*>:<*>
+1056.0,E6,Interrupting <*>Worker
+1057.0,E2,Received connection request /<*>:<*>
+1058.0,E4,Interrupted while waiting for message on queue
+1059.0,E3,Send worker leaving thread
+1060.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1061.0,E6,Interrupting <*>Worker
+1062.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1063.0,E3,Send worker leaving thread
+1064.0,E4,Interrupted while waiting for message on queue
+1065.0,E6,Interrupting <*>Worker
+1066.0,E4,Interrupted while waiting for message on queue
+1067.0,E2,Received connection request /<*>:<*>
+1068.0,E3,Send worker leaving thread
+1069.0,E6,Interrupting <*>Worker
+1070.0,E3,Send worker leaving thread
+1071.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1072.0,E2,Received connection request /<*>:<*>
+1073.0,E4,Interrupted while waiting for message on queue
+1074.0,E2,Received connection request /<*>:<*>
+1075.0,E6,Interrupting <*>Worker
+1076.0,E4,Interrupted while waiting for message on queue
+1077.0,E6,Interrupting <*>Worker
+1078.0,E2,Received connection request /<*>:<*>
+1079.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1080.0,E6,Interrupting <*>Worker
+1081.0,E6,Interrupting <*>Worker
+1082.0,E6,Interrupting <*>Worker
+1083.0,E2,Received connection request /<*>:<*>
+1084.0,E6,Interrupting <*>Worker
+1085.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1086.0,E2,Received connection request /<*>:<*>
+1087.0,E3,Send worker leaving thread
+1088.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1089.0,E4,Interrupted while waiting for message on queue
+1090.0,E2,Received connection request /<*>:<*>
+1091.0,E6,Interrupting <*>Worker
+1092.0,E4,Interrupted while waiting for message on queue
+1093.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1094.0,E6,Interrupting <*>Worker
+1095.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1096.0,E4,Interrupted while waiting for message on queue
+1097.0,E3,Send worker leaving thread
+1098.0,E6,Interrupting <*>Worker
+1099.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1100.0,E3,Send worker leaving thread
+1101.0,E4,Interrupted while waiting for message on queue
+1102.0,E4,Interrupted while waiting for message on queue
+1103.0,E4,Interrupted while waiting for message on queue
+1104.0,E4,Interrupted while waiting for message on queue
+1105.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1106.0,E6,Interrupting <*>Worker
+1107.0,E2,Received connection request /<*>:<*>
+1108.0,E3,Send worker leaving thread
+1109.0,E4,Interrupted while waiting for message on queue
+1110.0,E3,Send worker leaving thread
+1111.0,E4,Interrupted while waiting for message on queue
+1112.0,E2,Received connection request /<*>:<*>
+1113.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1114.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1115.0,E3,Send worker leaving thread
+1116.0,E4,Interrupted while waiting for message on queue
+1117.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1118.0,E4,Interrupted while waiting for message on queue
+1119.0,E3,Send worker leaving thread
+1120.0,E4,Interrupted while waiting for message on queue
+1121.0,E4,Interrupted while waiting for message on queue
+1122.0,E4,Interrupted while waiting for message on queue
+1123.0,E6,Interrupting <*>Worker
+1124.0,E3,Send worker leaving thread
+1125.0,E4,Interrupted while waiting for message on queue
+1126.0,E4,Interrupted while waiting for message on queue
+1127.0,E3,Send worker leaving thread
+1128.0,E2,Received connection request /<*>:<*>
+1129.0,E3,Send worker leaving thread
+1130.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1131.0,E4,Interrupted while waiting for message on queue
+1132.0,E3,Send worker leaving thread
+1133.0,E6,Interrupting <*>Worker
+1134.0,E6,Interrupting <*>Worker
+1135.0,E4,Interrupted while waiting for message on queue
+1136.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1137.0,E3,Send worker leaving thread
+1138.0,E3,Send worker leaving thread
+1139.0,E2,Received connection request /<*>:<*>
+1140.0,E4,Interrupted while waiting for message on queue
+1141.0,E4,Interrupted while waiting for message on queue
+1142.0,E6,Interrupting <*>Worker
+1143.0,E6,Interrupting <*>Worker
+1144.0,E4,Interrupted while waiting for message on queue
+1145.0,E3,Send worker leaving thread
+1146.0,E2,Received connection request /<*>:<*>
+1147.0,E2,Received connection request /<*>:<*>
+1148.0,E2,Received connection request /<*>:<*>
+1149.0,E4,Interrupted while waiting for message on queue
+1150.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1151.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1152.0,E3,Send worker leaving thread
+1153.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1154.0,E2,Received connection request /<*>:<*>
+1155.0,E6,Interrupting <*>Worker
+1156.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1157.0,E3,Send worker leaving thread
+1158.0,E6,Interrupting <*>Worker
+1159.0,E6,Interrupting <*>Worker
+1160.0,E2,Received connection request /<*>:<*>
+1161.0,E3,Send worker leaving thread
+1162.0,E2,Received connection request /<*>:<*>
+1163.0,E4,Interrupted while waiting for message on queue
+1164.0,E2,Received connection request /<*>:<*>
+1165.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1166.0,E4,Interrupted while waiting for message on queue
+1167.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1168.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1169.0,E3,Send worker leaving thread
+1170.0,E4,Interrupted while waiting for message on queue
+1171.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1172.0,E6,Interrupting <*>Worker
+1173.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1174.0,E2,Received connection request /<*>:<*>
+1175.0,E4,Interrupted while waiting for message on queue
+1176.0,E6,Interrupting <*>Worker
+1177.0,E4,Interrupted while waiting for message on queue
+1178.0,E2,Received connection request /<*>:<*>
+1179.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1180.0,E3,Send worker leaving thread
+1181.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1182.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1183.0,E4,Interrupted while waiting for message on queue
+1184.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1185.0,E3,Send worker leaving thread
+1186.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1187.0,E3,Send worker leaving thread
+1188.0,E3,Send worker leaving thread
+1189.0,E2,Received connection request /<*>:<*>
+1190.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1191.0,E6,Interrupting <*>Worker
+1192.0,E6,Interrupting <*>Worker
+1193.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1194.0,E4,Interrupted while waiting for message on queue
+1195.0,E6,Interrupting <*>Worker
+1196.0,E4,Interrupted while waiting for message on queue
+1197.0,E3,Send worker leaving thread
+1198.0,E4,Interrupted while waiting for message on queue
+1199.0,E6,Interrupting <*>Worker
+1200.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1201.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1202.0,E3,Send worker leaving thread
+1203.0,E4,Interrupted while waiting for message on queue
+1204.0,E4,Interrupted while waiting for message on queue
+1205.0,E6,Interrupting <*>Worker
+1206.0,E3,Send worker leaving thread
+1207.0,E3,Send worker leaving thread
+1208.0,E6,Interrupting <*>Worker
+1209.0,E2,Received connection request /<*>:<*>
+1210.0,E4,Interrupted while waiting for message on queue
+1211.0,E4,Interrupted while waiting for message on queue
+1212.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1213.0,E2,Received connection request /<*>:<*>
+1214.0,E4,Interrupted while waiting for message on queue
+1215.0,E2,Received connection request /<*>:<*>
+1216.0,E6,Interrupting <*>Worker
+1217.0,E6,Interrupting <*>Worker
+1218.0,E2,Received connection request /<*>:<*>
+1219.0,E2,Received connection request /<*>:<*>
+1220.0,E2,Received connection request /<*>:<*>
+1221.0,E4,Interrupted while waiting for message on queue
+1222.0,E2,Received connection request /<*>:<*>
+1223.0,E2,Received connection request /<*>:<*>
+1224.0,E3,Send worker leaving thread
+1225.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1226.0,E4,Interrupted while waiting for message on queue
+1227.0,E6,Interrupting <*>Worker
+1228.0,E6,Interrupting <*>Worker
+1229.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1230.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1231.0,E2,Received connection request /<*>:<*>
+1232.0,E4,Interrupted while waiting for message on queue
+1233.0,E2,Received connection request /<*>:<*>
+1234.0,E2,Received connection request /<*>:<*>
+1235.0,E6,Interrupting <*>Worker
+1236.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1237.0,E2,Received connection request /<*>:<*>
+1238.0,E4,Interrupted while waiting for message on queue
+1239.0,E4,Interrupted while waiting for message on queue
+1240.0,E3,Send worker leaving thread
+1241.0,E6,Interrupting <*>Worker
+1242.0,E4,Interrupted while waiting for message on queue
+1243.0,E3,Send worker leaving thread
+1244.0,E3,Send worker leaving thread
+1245.0,E6,Interrupting <*>Worker
+1246.0,E4,Interrupted while waiting for message on queue
+1247.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1248.0,E4,Interrupted while waiting for message on queue
+1249.0,E4,Interrupted while waiting for message on queue
+1250.0,E4,Interrupted while waiting for message on queue
+1251.0,E3,Send worker leaving thread
+1252.0,E2,Received connection request /<*>:<*>
+1253.0,E4,Interrupted while waiting for message on queue
+1254.0,E3,Send worker leaving thread
+1255.0,E4,Interrupted while waiting for message on queue
+1256.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1257.0,E40,Got user-level KeeperException when processing sessionid:<*> type:create cxid:<*> zxid:<*> txntype:<*> reqpath:n/a Error Path:<*> Error:KeeperErrorCode = NodeExists for <*>
+1258.0,E8,caught end of stream exception
+1259.0,E12,Accepted socket connection from /<*>:<*>
+1260.0,E17,Processed session termination for sessionid: <*>
+1261.0,E17,Processed session termination for sessionid: <*>
+1262.0,E17,Processed session termination for sessionid: <*>
+1263.0,E12,Accepted socket connection from /<*>:<*>
+1264.0,E3,Send worker leaving thread
+1265.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1266.0,E10,Client attempting to establish new session at /<*>:<*>
+1267.0,E41,"Notification: <*> (n.leader), 0x<*> (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0x<*> (n.peerEPoch), LEADING (my state)"
+1268.0,E12,Accepted socket connection from /<*>:<*>
+1269.0,E12,Accepted socket connection from /<*>:<*>
+1270.0,E17,Processed session termination for sessionid: <*>
+1271.0,E12,Accepted socket connection from /<*>:<*>
+1272.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1273.0,E10,Client attempting to establish new session at /<*>:<*>
+1274.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1275.0,E17,Processed session termination for sessionid: <*>
+1276.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1277.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1278.0,E10,Client attempting to establish new session at /<*>:<*>
+1279.0,E17,Processed session termination for sessionid: <*>
+1280.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1281.0,E17,Processed session termination for sessionid: <*>
+1282.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1283.0,E17,Processed session termination for sessionid: <*>
+1284.0,E17,Processed session termination for sessionid: <*>
+1285.0,E12,Accepted socket connection from /<*>:<*>
+1286.0,E17,Processed session termination for sessionid: <*>
+1287.0,E10,Client attempting to establish new session at /<*>:<*>
+1288.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1289.0,E17,Processed session termination for sessionid: <*>
+1290.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1291.0,E12,Accepted socket connection from /<*>:<*>
+1292.0,E12,Accepted socket connection from /<*>:<*>
+1293.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1294.0,E17,Processed session termination for sessionid: <*>
+1295.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1296.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1297.0,E8,caught end of stream exception
+1298.0,E17,Processed session termination for sessionid: <*>
+1299.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1300.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1301.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1302.0,E8,caught end of stream exception
+1303.0,E12,Accepted socket connection from /<*>:<*>
+1304.0,E12,Accepted socket connection from /<*>:<*>
+1305.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1306.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1307.0,E12,Accepted socket connection from /<*>:<*>
+1308.0,E8,caught end of stream exception
+1309.0,E17,Processed session termination for sessionid: <*>
+1310.0,E8,caught end of stream exception
+1311.0,E17,Processed session termination for sessionid: <*>
+1312.0,E17,Processed session termination for sessionid: <*>
+1313.0,E8,caught end of stream exception
+1314.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1315.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1316.0,E17,Processed session termination for sessionid: <*>
+1317.0,E17,Processed session termination for sessionid: <*>
+1318.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1319.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1320.0,E17,Processed session termination for sessionid: <*>
+1321.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1322.0,E8,caught end of stream exception
+1323.0,E17,Processed session termination for sessionid: <*>
+1324.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1325.0,E17,Processed session termination for sessionid: <*>
+1326.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1327.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1328.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1329.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1330.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1331.0,E17,Processed session termination for sessionid: <*>
+1332.0,E10,Client attempting to establish new session at /<*>:<*>
+1333.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1334.0,E10,Client attempting to establish new session at /<*>:<*>
+1335.0,E8,caught end of stream exception
+1336.0,E2,Received connection request /<*>:<*>
+1337.0,E8,caught end of stream exception
+1338.0,E8,caught end of stream exception
+1339.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1340.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1341.0,E10,Client attempting to establish new session at /<*>:<*>
+1342.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1343.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1344.0,E12,Accepted socket connection from /<*>:<*>
+1345.0,E10,Client attempting to establish new session at /<*>:<*>
+1346.0,E8,caught end of stream exception
+1347.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1348.0,E42,S <*> q <*> p
+1349.0,E43,Snapshotting: 0x<*> to /var/lib/zookeeper/version-2/snapshot.<*>
+1350.0,E10,Client attempting to establish new session at /<*>:<*>
+1351.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1352.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1353.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1354.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1355.0,E10,Client attempting to establish new session at /<*>:<*>
+1356.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1357.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1358.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1359.0,E17,Processed session termination for sessionid: <*>
+1360.0,E12,Accepted socket connection from /<*>:<*>
+1361.0,E12,Accepted socket connection from /<*>:<*>
+1362.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1363.0,E17,Processed session termination for sessionid: <*>
+1364.0,E17,Processed session termination for sessionid: <*>
+1365.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1366.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1367.0,E10,Client attempting to establish new session at /<*>:<*>
+1368.0,E8,caught end of stream exception
+1369.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1370.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1371.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1372.0,E10,Client attempting to establish new session at /<*>:<*>
+1373.0,E8,caught end of stream exception
+1374.0,E17,Processed session termination for sessionid: <*>
+1375.0,E17,Processed session termination for sessionid: <*>
+1376.0,E28,<*>.set to <*>
+1377.0,E2,Received connection request /<*>:<*>
+1378.0,E43,Snapshotting: 0x<*> to /var/lib/zookeeper/version-2/snapshot.<*>
+1379.0,E44,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@<*>
+1380.0,E4,Interrupted while waiting for message on queue
+1381.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1382.0,E17,Processed session termination for sessionid: <*>
+1383.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1384.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1385.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1386.0,E17,Processed session termination for sessionid: <*>
+1387.0,E17,Processed session termination for sessionid: <*>
+1388.0,E17,Processed session termination for sessionid: <*>
+1389.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1390.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1391.0,E12,Accepted socket connection from /<*>:<*>
+1392.0,E10,Client attempting to establish new session at /<*>:<*>
+1393.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1394.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1395.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1396.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1397.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+1398.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1399.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1400.0,E8,caught end of stream exception
+1401.0,E10,Client attempting to establish new session at /<*>:<*>
+1402.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1403.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1404.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1405.0,E30,Revalidating client: <*>
+1406.0,E28,<*>.set to <*>
+1407.0,E45,maxSessionTimeout set to <*>
+1408.0,E2,Received connection request /<*>:<*>
+1409.0,E23,C<*>RR<*>SP<*>ND<*>NG
+1410.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1411.0,E12,Accepted socket connection from /<*>:<*>
+1412.0,E9,Client attempting to renew session <*> at /*:<*>
+1413.0,E8,caught end of stream exception
+1414.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1415.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1416.0,E12,Accepted socket connection from /<*>:<*>
+1417.0,E15,Server environment:user.dir=<*>
+1418.0,E46,Have quorum of supporters; starting up and setting last processed zxid: <*>
+1419.0,E47,"Notification: <*> (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), <*> (n.sid), 0xa (n.peerEPoch), LEADING (my state)"
+1420.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1421.0,E17,Processed session termination for sessionid: <*>
+1422.0,E17,Processed session termination for sessionid: <*>
+1423.0,E10,Client attempting to establish new session at /<*>:<*>
+1424.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1425.0,E17,Processed session termination for sessionid: <*>
+1426.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1427.0,E48,shutdown of request processor <*>
+1428.0,E12,Accepted socket connection from /<*>:<*>
+1429.0,E35,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+1430.0,E34,Closed socket connection for client /<*>:<*> (no session established for client)
+1431.0,E35,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+1432.0,E49,First is 0x0
+1433.0,E41,"Notification: <*> (n.leader), 0x<*> (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0x<*> (n.peerEPoch), LEADING (my state)"
+1434.0,E41,"Notification: <*> (n.leader), 0x<*> (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0x<*> (n.peerEPoch), LEADING (my state)"
+1435.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1436.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1437.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1438.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1439.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1440.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1441.0,E17,Processed session termination for sessionid: <*>
+1442.0,E17,Processed session termination for sessionid: <*>
+1443.0,E12,Accepted socket connection from /<*>:<*>
+1444.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1445.0,E8,caught end of stream exception
+1446.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1447.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1448.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1449.0,E17,Processed session termination for sessionid: <*>
+1450.0,E10,Client attempting to establish new session at /<*>:<*>
+1451.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1452.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1453.0,E28,<*>.set to <*>
+1454.0,E50,Reading snapshot /var/lib/zookeeper/version-2/snapshot.b<*>
+1455.0,E51,S<*>nding D<*>FF
+1456.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1457.0,E17,Processed session termination for sessionid: <*>
+1458.0,E17,Processed session termination for sessionid: <*>
+1459.0,E20,L<*>KING
+1460.0,E52,G <*>tting a snapshot fr <*>m leader
+1461.0,E16,Cannot open channel to <*> at election address /<*>:<*>
+1462.0,E36,"Notification: <*> (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0xb (n.peerEPoch), LOOKING (my state)"
+1463.0,E36,"Notification: <*> (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0xb (n.peerEPoch), LOOKING (my state)"
+1464.0,E4,Interrupted while waiting for message on queue
+1465.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1466.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1467.0,E3,Send worker leaving thread
+1468.0,E3,Send worker leaving thread
+1469.0,E3,Send worker leaving thread
+1470.0,E4,Interrupted while waiting for message on queue
+1471.0,E6,Interrupting <*>Worker
+1472.0,E3,Send worker leaving thread
+1473.0,E3,Send worker leaving thread
+1474.0,E2,Received connection request /<*>:<*>
+1475.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1476.0,E6,Interrupting <*>Worker
+1477.0,E2,Received connection request /<*>:<*>
+1478.0,E4,Interrupted while waiting for message on queue
+1479.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1480.0,E2,Received connection request /<*>:<*>
+1481.0,E3,Send worker leaving thread
+1482.0,E2,Received connection request /<*>:<*>
+1483.0,E3,Send worker leaving thread
+1484.0,E6,Interrupting <*>Worker
+1485.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1486.0,E3,Send worker leaving thread
+1487.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1488.0,E3,Send worker leaving thread
+1489.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1490.0,E6,Interrupting <*>Worker
+1491.0,E3,Send worker leaving thread
+1492.0,E2,Received connection request /<*>:<*>
+1493.0,E2,Received connection request /<*>:<*>
+1494.0,E6,Interrupting <*>Worker
+1495.0,E6,Interrupting <*>Worker
+1496.0,E2,Received connection request /<*>:<*>
+1497.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1498.0,E3,Send worker leaving thread
+1499.0,E2,Received connection request /<*>:<*>
+1500.0,E2,Received connection request /<*>:<*>
+1501.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1502.0,E3,Send worker leaving thread
+1503.0,E4,Interrupted while waiting for message on queue
+1504.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1505.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1506.0,E4,Interrupted while waiting for message on queue
+1507.0,E4,Interrupted while waiting for message on queue
+1508.0,E3,Send worker leaving thread
+1509.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1510.0,E6,Interrupting <*>Worker
+1511.0,E2,Received connection request /<*>:<*>
+1512.0,E2,Received connection request /<*>:<*>
+1513.0,E4,Interrupted while waiting for message on queue
+1514.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1515.0,E3,Send worker leaving thread
+1516.0,E2,Received connection request /<*>:<*>
+1517.0,E3,Send worker leaving thread
+1518.0,E3,Send worker leaving thread
+1519.0,E2,Received connection request /<*>:<*>
+1520.0,E2,Received connection request /<*>:<*>
+1521.0,E3,Send worker leaving thread
+1522.0,E3,Send worker leaving thread
+1523.0,E3,Send worker leaving thread
+1524.0,E4,Interrupted while waiting for message on queue
+1525.0,E4,Interrupted while waiting for message on queue
+1526.0,E3,Send worker leaving thread
+1527.0,E2,Received connection request /<*>:<*>
+1528.0,E3,Send worker leaving thread
+1529.0,E3,Send worker leaving thread
+1530.0,E4,Interrupted while waiting for message on queue
+1531.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1532.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1533.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1534.0,E4,Interrupted while waiting for message on queue
+1535.0,E3,Send worker leaving thread
+1536.0,E3,Send worker leaving thread
+1537.0,E6,Interrupting <*>Worker
+1538.0,E3,Send worker leaving thread
+1539.0,E2,Received connection request /<*>:<*>
+1540.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1541.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1542.0,E4,Interrupted while waiting for message on queue
+1543.0,E6,Interrupting <*>Worker
+1544.0,E4,Interrupted while waiting for message on queue
+1545.0,E3,Send worker leaving thread
+1546.0,E6,Interrupting <*>Worker
+1547.0,E3,Send worker leaving thread
+1548.0,E3,Send worker leaving thread
+1549.0,E6,Interrupting <*>Worker
+1550.0,E6,Interrupting <*>Worker
+1551.0,E3,Send worker leaving thread
+1552.0,E2,Received connection request /<*>:<*>
+1553.0,E4,Interrupted while waiting for message on queue
+1554.0,E2,Received connection request /<*>:<*>
+1555.0,E3,Send worker leaving thread
+1556.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1557.0,E6,Interrupting <*>Worker
+1558.0,E4,Interrupted while waiting for message on queue
+1559.0,E3,Send worker leaving thread
+1560.0,E6,Interrupting <*>Worker
+1561.0,E6,Interrupting <*>Worker
+1562.0,E4,Interrupted while waiting for message on queue
+1563.0,E2,Received connection request /<*>:<*>
+1564.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1565.0,E3,Send worker leaving thread
+1566.0,E6,Interrupting <*>Worker
+1567.0,E2,Received connection request /<*>:<*>
+1568.0,E3,Send worker leaving thread
+1569.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1570.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1571.0,E2,Received connection request /<*>:<*>
+1572.0,E3,Send worker leaving thread
+1573.0,E4,Interrupted while waiting for message on queue
+1574.0,E2,Received connection request /<*>:<*>
+1575.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1576.0,E2,Received connection request /<*>:<*>
+1577.0,E6,Interrupting <*>Worker
+1578.0,E2,Received connection request /<*>:<*>
+1579.0,E4,Interrupted while waiting for message on queue
+1580.0,E4,Interrupted while waiting for message on queue
+1581.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1582.0,E2,Received connection request /<*>:<*>
+1583.0,E4,Interrupted while waiting for message on queue
+1584.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1585.0,E2,Received connection request /<*>:<*>
+1586.0,E6,Interrupting <*>Worker
+1587.0,E3,Send worker leaving thread
+1588.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1589.0,E6,Interrupting <*>Worker
+1590.0,E4,Interrupted while waiting for message on queue
+1591.0,E4,Interrupted while waiting for message on queue
+1592.0,E3,Send worker leaving thread
+1593.0,E6,Interrupting <*>Worker
+1594.0,E6,Interrupting <*>Worker
+1595.0,E3,Send worker leaving thread
+1596.0,E4,Interrupted while waiting for message on queue
+1597.0,E3,Send worker leaving thread
+1598.0,E2,Received connection request /<*>:<*>
+1599.0,E2,Received connection request /<*>:<*>
+1600.0,E2,Received connection request /<*>:<*>
+1601.0,E4,Interrupted while waiting for message on queue
+1602.0,E6,Interrupting <*>Worker
+1603.0,E4,Interrupted while waiting for message on queue
+1604.0,E2,Received connection request /<*>:<*>
+1605.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1606.0,E3,Send worker leaving thread
+1607.0,E4,Interrupted while waiting for message on queue
+1608.0,E4,Interrupted while waiting for message on queue
+1609.0,E6,Interrupting <*>Worker
+1610.0,E2,Received connection request /<*>:<*>
+1611.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1612.0,E3,Send worker leaving thread
+1613.0,E4,Interrupted while waiting for message on queue
+1614.0,E6,Interrupting <*>Worker
+1615.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1616.0,E2,Received connection request /<*>:<*>
+1617.0,E4,Interrupted while waiting for message on queue
+1618.0,E6,Interrupting <*>Worker
+1619.0,E2,Received connection request /<*>:<*>
+1620.0,E2,Received connection request /<*>:<*>
+1621.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1622.0,E6,Interrupting <*>Worker
+1623.0,E2,Received connection request /<*>:<*>
+1624.0,E6,Interrupting <*>Worker
+1625.0,E3,Send worker leaving thread
+1626.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1627.0,E4,Interrupted while waiting for message on queue
+1628.0,E4,Interrupted while waiting for message on queue
+1629.0,E4,Interrupted while waiting for message on queue
+1630.0,E2,Received connection request /<*>:<*>
+1631.0,E4,Interrupted while waiting for message on queue
+1632.0,E6,Interrupting <*>Worker
+1633.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1634.0,E6,Interrupting <*>Worker
+1635.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1636.0,E2,Received connection request /<*>:<*>
+1637.0,E6,Interrupting <*>Worker
+1638.0,E4,Interrupted while waiting for message on queue
+1639.0,E3,Send worker leaving thread
+1640.0,E4,Interrupted while waiting for message on queue
+1641.0,E4,Interrupted while waiting for message on queue
+1642.0,E3,Send worker leaving thread
+1643.0,E4,Interrupted while waiting for message on queue
+1644.0,E2,Received connection request /<*>:<*>
+1645.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1646.0,E6,Interrupting <*>Worker
+1647.0,E4,Interrupted while waiting for message on queue
+1648.0,E2,Received connection request /<*>:<*>
+1649.0,E2,Received connection request /<*>:<*>
+1650.0,E6,Interrupting <*>Worker
+1651.0,E6,Interrupting <*>Worker
+1652.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1653.0,E2,Received connection request /<*>:<*>
+1654.0,E6,Interrupting <*>Worker
+1655.0,E2,Received connection request /<*>:<*>
+1656.0,E4,Interrupted while waiting for message on queue
+1657.0,E4,Interrupted while waiting for message on queue
+1658.0,E2,Received connection request /<*>:<*>
+1659.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1660.0,E6,Interrupting <*>Worker
+1661.0,E6,Interrupting <*>Worker
+1662.0,E6,Interrupting <*>Worker
+1663.0,E2,Received connection request /<*>:<*>
+1664.0,E3,Send worker leaving thread
+1665.0,E2,Received connection request /<*>:<*>
+1666.0,E4,Interrupted while waiting for message on queue
+1667.0,E4,Interrupted while waiting for message on queue
+1668.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1669.0,E4,Interrupted while waiting for message on queue
+1670.0,E2,Received connection request /<*>:<*>
+1671.0,E4,Interrupted while waiting for message on queue
+1672.0,E2,Received connection request /<*>:<*>
+1673.0,E3,Send worker leaving thread
+1674.0,E4,Interrupted while waiting for message on queue
+1675.0,E3,Send worker leaving thread
+1676.0,E2,Received connection request /<*>:<*>
+1677.0,E3,Send worker leaving thread
+1678.0,E2,Received connection request /<*>:<*>
+1679.0,E2,Received connection request /<*>:<*>
+1680.0,E3,Send worker leaving thread
+1681.0,E6,Interrupting <*>Worker
+1682.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1683.0,E4,Interrupted while waiting for message on queue
+1684.0,E3,Send worker leaving thread
+1685.0,E3,Send worker leaving thread
+1686.0,E4,Interrupted while waiting for message on queue
+1687.0,E2,Received connection request /<*>:<*>
+1688.0,E4,Interrupted while waiting for message on queue
+1689.0,E4,Interrupted while waiting for message on queue
+1690.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1691.0,E4,Interrupted while waiting for message on queue
+1692.0,E4,Interrupted while waiting for message on queue
+1693.0,E6,Interrupting <*>Worker
+1694.0,E6,Interrupting <*>Worker
+1695.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1696.0,E4,Interrupted while waiting for message on queue
+1697.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1698.0,E6,Interrupting <*>Worker
+1699.0,E6,Interrupting <*>Worker
+1700.0,E6,Interrupting <*>Worker
+1701.0,E4,Interrupted while waiting for message on queue
+1702.0,E2,Received connection request /<*>:<*>
+1703.0,E4,Interrupted while waiting for message on queue
+1704.0,E3,Send worker leaving thread
+1705.0,E2,Received connection request /<*>:<*>
+1706.0,E2,Received connection request /<*>:<*>
+1707.0,E6,Interrupting <*>Worker
+1708.0,E6,Interrupting <*>Worker
+1709.0,E2,Received connection request /<*>:<*>
+1710.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1711.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1712.0,E6,Interrupting <*>Worker
+1713.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1714.0,E6,Interrupting <*>Worker
+1715.0,E2,Received connection request /<*>:<*>
+1716.0,E4,Interrupted while waiting for message on queue
+1717.0,E2,Received connection request /<*>:<*>
+1718.0,E2,Received connection request /<*>:<*>
+1719.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1720.0,E3,Send worker leaving thread
+1721.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1722.0,E4,Interrupted while waiting for message on queue
+1723.0,E2,Received connection request /<*>:<*>
+1724.0,E2,Received connection request /<*>:<*>
+1725.0,E3,Send worker leaving thread
+1726.0,E6,Interrupting <*>Worker
+1727.0,E4,Interrupted while waiting for message on queue
+1728.0,E3,Send worker leaving thread
+1729.0,E4,Interrupted while waiting for message on queue
+1730.0,E2,Received connection request /<*>:<*>
+1731.0,E2,Received connection request /<*>:<*>
+1732.0,E4,Interrupted while waiting for message on queue
+1733.0,E3,Send worker leaving thread
+1734.0,E2,Received connection request /<*>:<*>
+1735.0,E3,Send worker leaving thread
+1736.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1737.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1738.0,E4,Interrupted while waiting for message on queue
+1739.0,E2,Received connection request /<*>:<*>
+1740.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1741.0,E2,Received connection request /<*>:<*>
+1742.0,E3,Send worker leaving thread
+1743.0,E4,Interrupted while waiting for message on queue
+1744.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1745.0,E6,Interrupting <*>Worker
+1746.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1747.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1748.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1749.0,E3,Send worker leaving thread
+1750.0,E4,Interrupted while waiting for message on queue
+1751.0,E4,Interrupted while waiting for message on queue
+1752.0,E4,Interrupted while waiting for message on queue
+1753.0,E6,Interrupting <*>Worker
+1754.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1755.0,E6,Interrupting <*>Worker
+1756.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1757.0,E4,Interrupted while waiting for message on queue
+1758.0,E3,Send worker leaving thread
+1759.0,E2,Received connection request /<*>:<*>
+1760.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1761.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1762.0,E6,Interrupting <*>Worker
+1763.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1764.0,E6,Interrupting <*>Worker
+1765.0,E3,Send worker leaving thread
+1766.0,E2,Received connection request /<*>:<*>
+1767.0,E3,Send worker leaving thread
+1768.0,E4,Interrupted while waiting for message on queue
+1769.0,E4,Interrupted while waiting for message on queue
+1770.0,E2,Received connection request /<*>:<*>
+1771.0,E4,Interrupted while waiting for message on queue
+1772.0,E2,Received connection request /<*>:<*>
+1773.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1774.0,E2,Received connection request /<*>:<*>
+1775.0,E4,Interrupted while waiting for message on queue
+1776.0,E4,Interrupted while waiting for message on queue
+1777.0,E6,Interrupting <*>Worker
+1778.0,E3,Send worker leaving thread
+1779.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1780.0,E3,Send worker leaving thread
+1781.0,E6,Interrupting <*>Worker
+1782.0,E4,Interrupted while waiting for message on queue
+1783.0,E4,Interrupted while waiting for message on queue
+1784.0,E2,Received connection request /<*>:<*>
+1785.0,E6,Interrupting <*>Worker
+1786.0,E2,Received connection request /<*>:<*>
+1787.0,E2,Received connection request /<*>:<*>
+1788.0,E4,Interrupted while waiting for message on queue
+1789.0,E2,Received connection request /<*>:<*>
+1790.0,E3,Send worker leaving thread
+1791.0,E4,Interrupted while waiting for message on queue
+1792.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1793.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1794.0,E6,Interrupting <*>Worker
+1795.0,E6,Interrupting <*>Worker
+1796.0,E3,Send worker leaving thread
+1797.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1798.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1799.0,E6,Interrupting <*>Worker
+1800.0,E2,Received connection request /<*>:<*>
+1801.0,E4,Interrupted while waiting for message on queue
+1802.0,E4,Interrupted while waiting for message on queue
+1803.0,E6,Interrupting <*>Worker
+1804.0,E2,Received connection request /<*>:<*>
+1805.0,E3,Send worker leaving thread
+1806.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1807.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1808.0,E4,Interrupted while waiting for message on queue
+1809.0,E2,Received connection request /<*>:<*>
+1810.0,E3,Send worker leaving thread
+1811.0,E6,Interrupting <*>Worker
+1812.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1813.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1814.0,E6,Interrupting <*>Worker
+1815.0,E2,Received connection request /<*>:<*>
+1816.0,E3,Send worker leaving thread
+1817.0,E2,Received connection request /<*>:<*>
+1818.0,E3,Send worker leaving thread
+1819.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1820.0,E6,Interrupting <*>Worker
+1821.0,E4,Interrupted while waiting for message on queue
+1822.0,E4,Interrupted while waiting for message on queue
+1823.0,E3,Send worker leaving thread
+1824.0,E4,Interrupted while waiting for message on queue
+1825.0,E2,Received connection request /<*>:<*>
+1826.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1827.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1828.0,E6,Interrupting <*>Worker
+1829.0,E2,Received connection request /<*>:<*>
+1830.0,E4,Interrupted while waiting for message on queue
+1831.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1832.0,E2,Received connection request /<*>:<*>
+1833.0,E4,Interrupted while waiting for message on queue
+1834.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1835.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1836.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1837.0,E3,Send worker leaving thread
+1838.0,E6,Interrupting <*>Worker
+1839.0,E2,Received connection request /<*>:<*>
+1840.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1841.0,E3,Send worker leaving thread
+1842.0,E2,Received connection request /<*>:<*>
+1843.0,E4,Interrupted while waiting for message on queue
+1844.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1845.0,E2,Received connection request /<*>:<*>
+1846.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1847.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1848.0,E6,Interrupting <*>Worker
+1849.0,E6,Interrupting <*>Worker
+1850.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1851.0,E6,Interrupting <*>Worker
+1852.0,E4,Interrupted while waiting for message on queue
+1853.0,E4,Interrupted while waiting for message on queue
+1854.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1855.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1856.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1857.0,E2,Received connection request /<*>:<*>
+1858.0,E3,Send worker leaving thread
+1859.0,E6,Interrupting <*>Worker
+1860.0,E6,Interrupting <*>Worker
+1861.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1862.0,E2,Received connection request /<*>:<*>
+1863.0,E4,Interrupted while waiting for message on queue
+1864.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1865.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1866.0,E2,Received connection request /<*>:<*>
+1867.0,E4,Interrupted while waiting for message on queue
+1868.0,E2,Received connection request /<*>:<*>
+1869.0,E4,Interrupted while waiting for message on queue
+1870.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1871.0,E6,Interrupting <*>Worker
+1872.0,E2,Received connection request /<*>:<*>
+1873.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1874.0,E4,Interrupted while waiting for message on queue
+1875.0,E2,Received connection request /<*>:<*>
+1876.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1877.0,E2,Received connection request /<*>:<*>
+1878.0,E6,Interrupting <*>Worker
+1879.0,E4,Interrupted while waiting for message on queue
+1880.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1881.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1882.0,E2,Received connection request /<*>:<*>
+1883.0,E4,Interrupted while waiting for message on queue
+1884.0,E4,Interrupted while waiting for message on queue
+1885.0,E2,Received connection request /<*>:<*>
+1886.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1887.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1888.0,E6,Interrupting <*>Worker
+1889.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1890.0,E4,Interrupted while waiting for message on queue
+1891.0,E2,Received connection request /<*>:<*>
+1892.0,E4,Interrupted while waiting for message on queue
+1893.0,E3,Send worker leaving thread
+1894.0,E2,Received connection request /<*>:<*>
+1895.0,E6,Interrupting <*>Worker
+1896.0,E3,Send worker leaving thread
+1897.0,E2,Received connection request /<*>:<*>
+1898.0,E3,Send worker leaving thread
+1899.0,E3,Send worker leaving thread
+1900.0,E2,Received connection request /<*>:<*>
+1901.0,E2,Received connection request /<*>:<*>
+1902.0,E4,Interrupted while waiting for message on queue
+1903.0,E2,Received connection request /<*>:<*>
+1904.0,E2,Received connection request /<*>:<*>
+1905.0,E2,Received connection request /<*>:<*>
+1906.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1907.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1908.0,E3,Send worker leaving thread
+1909.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1910.0,E4,Interrupted while waiting for message on queue
+1911.0,E2,Received connection request /<*>:<*>
+1912.0,E2,Received connection request /<*>:<*>
+1913.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1914.0,E3,Send worker leaving thread
+1915.0,E6,Interrupting <*>Worker
+1916.0,E4,Interrupted while waiting for message on queue
+1917.0,E2,Received connection request /<*>:<*>
+1918.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1919.0,E6,Interrupting <*>Worker
+1920.0,E34,Closed socket connection for client /<*>:<*> (no session established for client)
+1921.0,E36,"Notification: <*> (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0xb (n.peerEPoch), LOOKING (my state)"
+1922.0,E34,Closed socket connection for client /<*>:<*> (no session established for client)
+1923.0,E12,Accepted socket connection from /<*>:<*>
+1924.0,E12,Accepted socket connection from /<*>:<*>
+1925.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1926.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1927.0,E12,Accepted socket connection from /<*>:<*>
+1928.0,E10,Client attempting to establish new session at /<*>:<*>
+1929.0,E10,Client attempting to establish new session at /<*>:<*>
+1930.0,E8,caught end of stream exception
+1931.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1932.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1933.0,E10,Client attempting to establish new session at /<*>:<*>
+1934.0,E12,Accepted socket connection from /<*>:<*>
+1935.0,E12,Accepted socket connection from /<*>:<*>
+1936.0,E8,caught end of stream exception
+1937.0,E12,Accepted socket connection from /<*>:<*>
+1938.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1939.0,E8,caught end of stream exception
+1940.0,E10,Client attempting to establish new session at /<*>:<*>
+1941.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1942.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1943.0,E12,Accepted socket connection from /<*>:<*>
+1944.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1945.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1946.0,E8,caught end of stream exception
+1947.0,E12,Accepted socket connection from /<*>:<*>
+1948.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1949.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1950.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1951.0,E12,Accepted socket connection from /<*>:<*>
+1952.0,E12,Accepted socket connection from /<*>:<*>
+1953.0,E12,Accepted socket connection from /<*>:<*>
+1954.0,E8,caught end of stream exception
+1955.0,E5,"Connection broken for id <*>, my id = <*>, error = <*>"
+1956.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1957.0,E20,L<*>KING
+1958.0,E53,"Notification: <*> (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), <*> (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)"
+1959.0,E12,Accepted socket connection from /<*>:<*>
+1960.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1961.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1962.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1963.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1964.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1965.0,E10,Client attempting to establish new session at /<*>:<*>
+1966.0,E12,Accepted socket connection from /<*>:<*>
+1967.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1968.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1969.0,E10,Client attempting to establish new session at /<*>:<*>
+1970.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1971.0,E10,Client attempting to establish new session at /<*>:<*>
+1972.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1973.0,E8,caught end of stream exception
+1974.0,E54,minSessionTimeout set to <*>
+1975.0,E33,Server environment:os.name=<*>
+1976.0,E32,Server environment:user.name=<*>
+1977.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1978.0,E12,Accepted socket connection from /<*>:<*>
+1979.0,E12,Accepted socket connection from /<*>:<*>
+1980.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1981.0,E8,caught end of stream exception
+1982.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1983.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1984.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1985.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1986.0,E14,Connection request from old client /<*>:<*>; will be dropped if server is in r-o mode
+1987.0,E2,Received connection request /<*>:<*>
+1988.0,E54,minSessionTimeout set to <*>
+1989.0,E15,Server environment:user.dir=<*>
+1990.0,E52,G <*>tting a snapshot fr <*>m leader
+1991.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1992.0,E12,Accepted socket connection from /<*>:<*>
+1993.0,E11,Established session <*> with negotiated timeout <*> for client /<*>:<*>
+1994.0,E36,"Notification: <*> (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), <*> (n.sid), 0xb (n.peerEPoch), LOOKING (my state)"
+1995.0,E10,Client attempting to establish new session at /<*>:<*>
+1996.0,E7,Closed socket connection for client /<*>:<*> which had sessionid 0x<*>
+1997.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1998.0,E18,"Expiring session <*><*>, timeout of <*>ms exceeded"
+1999.0,E17,Processed session termination for sessionid: <*>

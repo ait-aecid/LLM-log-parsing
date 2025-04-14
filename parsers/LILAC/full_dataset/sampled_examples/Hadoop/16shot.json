@@ -1,0 +1,16 @@
+{"query": "attempt_1445144423722_0020_m_000008_0 TaskAttempt Transitioned from ASSIGNED to RUNNING", "answer": "{variables} TaskAttempt Transitioned from ASSIGNED to RUNNING"}
+{"query": "Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)", "answer": "Retrying connect to server: {variables}. Already tried {variables} time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries={variables}, sleepTime={variables} MILLISECONDS)"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:8030 New: msra-sa-41:8030", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.19211523", "answer": "Progress of TaskAttempt {variables} is : {variables}"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1", "answer": "Reduce slow start threshold not met. completedMapsForReduceSlowstart {variables}"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "attempt_1445144423722_0020_m_000000_0 TaskAttempt Transitioned from UNASSIGNED to ASSIGNED", "answer": "{variables} TaskAttempt Transitioned from UNASSIGNED to ASSIGNED"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "Assigned container container_1445144423722_0020_01_000003 to attempt_1445144423722_0020_m_000001_0", "answer": "Assigned container {variables} to {variables}"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "Reduce slow start threshold not met. completedMapsForReduceSlowstart 1", "answer": "Reduce slow start threshold not met. completedMapsForReduceSlowstart {variables}"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}
+{"query": "TaskAttempt: [attempt_1445144423722_0020_m_000009_0] using containerId: [container_1445144423722_0020_01_000011 on NM: [MSRA-SA-39.fareast.corp.microsoft.com:28345]", "answer": "TaskAttempt: [{variables}] using containerId: [{variables} on NM: [{variables}]"}
+{"query": "Address change detected. Old: msra-sa-41/10.190.173.170:9000 New: msra-sa-41:9000", "answer": "Address change detected. Old: {variables} New: {variables}"}

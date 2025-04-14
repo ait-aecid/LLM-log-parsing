@@ -1,0 +1,8 @@
+{"query": "setLightsOn(true)", "answer": "setLightsOn({variables})"}
+{"query": "HBM brightnessOut =38", "answer": "HBM brightnessOut ={variables}"}
+{"query": "[HSM] stayAwake false uid: 10111, pid: 28601", "answer": "[HSM] stayAwake {variables} uid: {variables}, pid: {variables}"}
+{"query": "updateDimmedActivatedHideSensitive overlap:false", "answer": "updateDimmedActivatedHideSensitive overlap:{variables}"}
+{"query": "getRingtonePlayer...", "answer": "getRingtonePlayer..."}
+{"query": "flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false", "answer": "flingToHeight: vel={variables}, expand={variables}, target={variables}, collapseSpeedUpFactor={variables}, expandBecauseOfFalsing={variables}"}
+{"query": "isMusicActive...", "answer": "isMusicActive..."}
+{"query": "setLightsOn(true)", "answer": "setLightsOn({variables})"}

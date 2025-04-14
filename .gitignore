@@ -1,0 +1,12 @@
+.venv
+.vscode
+*/__pycache__
+__pycache__/
+ssh_info.txt
+data/full/*
+aminer_templates/templates.ipynb
+output/*
+output-full/*
+old/*
+!output/README.md
+!output-full/README.md

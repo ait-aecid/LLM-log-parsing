@@ -1,0 +1,201 @@
+Content,EventTemplate
+session closed for user root,session closed for user root
+session opened for user root by (uid=0),session opened for user root by (uid=0)
+(root) CMD (run-parts /etc/cron.hourly),(root) CMD (run-parts /etc/cron.hourly)
+data_thread() got not answer from any [Thunderbird_A8] datasource,data_thread() got not answer from any [Thunderbird_<*>] datasource
+[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************
+[ib_sm_sweep.c:1455]: No topology change,[ib_sm_sweep.c:1455]: No topology change
+[ib_sm_sweep.c:1482]: No configuration change required,[ib_sm_sweep.c:1482]: No configuration change required
+Local disconnected: Connection closed.,Local disconnected: Connection closed.
+connection lost: 'Connection closed.',connection lost: 'Connection closed.'
+data_thread() got not answer from any [Thunderbird_C4] datasource,data_thread() got not answer from any [Thunderbird_<*>] datasource
+unable to qualify my own domain name (eadmin1) -- using short name,unable to qualify my own domain name (<*>) -- using short name
+unable to qualify my own domain name (badmin1) -- using short name,unable to qualify my own domain name (<*>) -- using short name
+unable to qualify my own domain name (dadmin1) -- using short name,unable to qualify my own domain name (<*>) -- using short name
+"jA9J1WSU011176: from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091901.jA9J1WSU011176@badmin1>, relay=#7#@localhost","<*>: from=root, size=<*>, class=<*>, nrcpts=<*>, msgid=<<*>>, relay=#<*>#@localhost"
+"jA9J1WFE024258: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]","<*>: to=root, ctladdr=root (0/0), delay=<*>:<*>:<*>, xdelay=<*>:<*>:<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>.<*>.<*>, stat=Deferred: Connection refused by [<*>]"
+DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,DHCPDISCOVER from <*> via eth1
+DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,DHCPOFFER on <*> to <*> via eth1
+DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,DHCPDISCOVER from <*> via eth1: network A_net: no free leases
+DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1,DHCPACK on <*> to <*> via eth1
+START: tftp pid=16563 from=10.100.4.251,START: tftp pid=<*> from=<*>
+DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+"synchronized to 10.100.30.250, stratum 3","synchronized to <*>, stratum <*>"
+RRD_update (/var/lib/ganglia/rrds/C Nodes/cn304/pkts_out.rrd): illegal attempt to update using time 1131563037 when last update time is 1131563037 (minimum one second step),RRD_update (/var/lib/ganglia/rrds/<*>.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+kernel time sync disabled 0041,kernel time sync disabled <*>
+time reset +0.182379 s,time reset +<*>.<*> s
+Received SNMP packet(s) from #34#,Received SNMP packet(s) from #<*>#
+data_thread() got not answer from any [Thunderbird_A7] datasource,data_thread() got not answer from any [Thunderbird_<*>] datasource
+"synchronized to LOCAL(0), stratum 10","synchronized to <*>, stratum <*>"
+kernel time sync enabled 0001,kernel time sync enabled <*>
+"synchronized to #3#, stratum 1","synchronized to <*>, stratum <*>"
+(root) CMD (/projects/tbird/temps/get_temps e),(root) CMD (/projects/tbird/temps/get_temps <*>)
+My unqualified host name (cadmin1) unknown; sleeping for retry,My unqualified host name (<*>) unknown; sleeping for retry
+CentOS-4 (Kernel Module GPG key),CentOS-<*> (Kernel Module GPG key)
+(supports S0 S4 S5),(supports <*>)
+DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+HPET id: 0xffffffff base: 0xfed00000,HPET id: <*> base: <*>
+INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl),INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)
+INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level),INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)
+IOAPIC (id[0x08] address[0xfec00000] gsi_base[0]),IOAPIC (id[<*>] address[<*>] gsi_base[<*>])
+IRQ0 used by override.,IRQ<*> used by override.
+IRQ9 used by override.,IRQ<*> used by override.
+Interpreter enabled,Interpreter enabled
+LAPIC (acpi_id[0x04] lapic_id[0x07] enabled),LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+LAPIC_NMI (acpi_id[0x02] high edge lint[0x1]),LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])
+Local APIC address 0xfee00000,Local APIC address <*>
+MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12) *14,PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>
+PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 7 10 11 12) *15,PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>
+"PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.","PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>, disabled."
+PCI Interrupt Routing Table [\_SB_.PCI0.PALO.DOBA._PRT],PCI Interrupt Routing Table [<*>]
+PCI Interrupt Routing Table [\_SB_.PCI0.VPR0._PRT],PCI Interrupt Routing Table [<*>]
+PCI Root Bridge [PCI0] (00:00),PCI Root Bridge [PCI0] (<*>:<*>)
+"PCI interrupt 0000:00:06.0[A] -> GSI 16 (level, low) -> IRQ 169","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+"PCI interrupt 0000:02:0e.0[A] -> GSI 46 (level, low) -> IRQ 177","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+"PCI interrupt 0000:06:07.0[A] -> GSI 64 (level, low) -> IRQ 185","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+"PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+"PCI interrupt 0000:09:0d.0[A] -> GSI 18 (level, low) -> IRQ 201","PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+Power Button (FF) [PWRF],Power Button (FF) [PWRF]
+Processor [CPU2] (supports C1),Processor [CPU<*>] (supports C1)
+RSDP (v000 DELL ) @ 0x00000000000fd650,RSDP (<*> DELL ) @ <*>
+RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc,<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>
+Subsystem revision 20040816,Subsystem revision <*>
+Using IOAPIC for interrupt routing,Using IOAPIC for interrupt routing
+Intel(R) Xeon(TM) CPU 3.60GHz stepping 03,Intel(R) Xeon(TM) CPU <*> stepping <*>
+L2 cache: 2048K,L2 cache: <*>K
+Physical Processor ID: 3,Physical Processor ID: <*>
+"Trace cache: 12K uops, L1 D cache: 16K","Trace cache: <*> uops, L1 D cache: <*>"
+colour VGA+ 80x25,colour VGA+ <*>
+mounted filesystem with ordered data mode.,mounted filesystem with ordered data mode.
+"sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $",<*> <*>.<*> <*>/<*>/<*> <*>:<*>:<*> ak Exp $
+"apic_id 9, version 32, address 0xfec80000, GSI 32-55","apic_id <*>, version <*>, address <*>, GSI <*>"
+"routing cache hash table of 65536 buckets, 1024Kbytes","routing cache hash table of <*> buckets, <*>Kbytes"
+PCI Hot Plug PCI Core version: 0.5,PCI Hot Plug PCI Core version: <*>.<*>
+"root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr","root=LABEL=/ initrd=/<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>"
+Registered protocol family 17,Registered protocol family <*>
+Registered protocol family 2,Registered protocol family <*>
+Using software bounce buffering for IO (SWIOTLB),Using software bounce buffering for IO (SWIOTLB)
+Probing PCI hardware (bus 00),Probing PCI hardware (bus <*>)
+Transparent bridge - 0000:00:1e.0,Transparent bridge - <*>
+Using ACPI for IRQ routing,Using ACPI for IRQ routing
+Using MMCONFIG at e0000000,Using MMCONFIG at <*>
+Using configuration type 1,Using configuration type <*>
+Compressed image found at block 0,Compressed image found at block <*>
+Disabled at runtime.,Disabled at runtime.
+Initializing.,Initializing.
+Registering netfilter hooks,Registering netfilter hooks
+Starting in permissive mode,Starting in permissive mode
+Hash tables configured (established 262144 bind 65536),Hash tables configured (established <*> bind <*>)
+Direct-Access ANSI SCSI revision: 02,Direct-Access ANSI SCSI revision: <*>
+Processor ANSI SCSI revision: 02,Processor ANSI SCSI revision: <*>
+Disk quotas dquot_6.5.1,Disk quotas dquot_<*>.<*>.<*>
+Mounted root (ext2 filesystem).,Mounted root (ext2 filesystem).
+MegaRAID Model: LD 0 RAID1 139G Rev: 516A,MegaRAID Model: LD <*> RAID1 <*> Rev: <*>
+PE/PV Model: 1x2 SCSI BP Rev: 1.0,PE/PV Model: <*> SCSI BP Rev: <*>.<*>
+initialized,initialized
+initializing netlink socket (disabled),initializing netlink socket (disabled)
+passed.,passed.
+4.1.0-ioctl (2003-12-10) initialised: #36#@#37#,<*>.<*>.<*>-ioctl (<*><*><*>) initialised: #<*>#@#<*>#
+allocating divert_blk for eth1,allocating divert_blk for eth<*>
+not allocating divert_blk for non-ethernet device lo,not allocating divert_blk for non-ethernet device <*>
+v2.0:USB HID core driver,v<*>.<*>:USB HID core driver
+eth0: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex,eth0: <*>: NIC Link is Up <*> Mbps Full Duplex
+eth1: e1000_probe: Intel(R) PRO/1000 Network Connection,eth<*>: <*>: Intel(R) PRO/<*> Network Connection
+no floppy controllers found,no floppy controllers found
+RNG not detected,RNG not detected
+Wait for ready failed before probe !,Wait for ready failed before probe !
+Assuming 33MHz system bus speed for PIO modes; override with idebus=xx,Assuming <*>MHz system bus speed for PIO modes; override with idebus=xx
+Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda,Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on /dev/sda
+(C) 2000-2002 Netfilter core team,(C) <*>-<*> Netfilter core team
+Installing public key data,Installing public key data
+... autorun DONE.,... autorun DONE.
+Autodetecting RAID arrays.,Autodetecting RAID arrays.
+autorun ...,autorun ...
+"md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27","md driver <*>.<*>.<*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>"
+#38#-rh1 (Release Date: Fri Dec 10 19:02:14 EST 2004),<*> (Release Date: <*> <*>)
+#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004),<*> (Release Date: <*> <*>)
+fw version:[516A] bios version:[H418],fw version:[<*>] bios version:[<*>]
+probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0,probe new device <*>:<*>:<*>:<*>: bus <*>:slot <*>:func <*>
+PS/2 mouse device common for all mice,PS/<*> mouse device common for all mice
+v2.0 (20020519),v<*>.<*> (<*>)
+rpc.statd startup succeeded,rpc.statd startup succeeded
+portmap startup succeeded,portmap startup succeeded
+Starting ts_fixup: succeeded,Starting ts_fixup: succeeded
+Version 1.0.6 Starting,Version <*>.<*>.<*> Starting
+LSI Logic MegaRAID driver,LSI Logic MegaRAID driver
+scanning scsi channel 0 [Phy 0] for non-raid devices,scanning scsi channel <*> [Phy <*>] for non-raid devices
+scanning scsi channel 1 [virtual] for logical drives,scanning scsi channel <*> [virtual] for logical drives
+asking for cache data failed,asking for cache data failed
+assuming drive cache: write through,assuming drive cache: write through
+sda1 sda2 sda3 sda4,sda1 sda2 sda3 sda4
+Registering secondary module capability,Registering secondary module capability
+"i8042 AUX port at 0x60,0x64 irq 12","<*> AUX port at <*>,<*> irq <*>"
+"i8042 KBD port at 0x60,0x64 irq 1","<*> KBD port at <*>,<*> irq <*>"
+syslog-ng startup succeeded,syslog-ng startup succeeded
+syslog-ng version 1.6.7 starting,syslog-ng version <*>.<*>.<*> starting
+Detected 3591.360 MHz processor.,Detected <*>.<*> MHz processor.
+Using 14.318180 MHz HPET timer.,Using <*>.<*> MHz HPET timer.
+Using HPET based timekeeping.,Using HPET based timekeeping.
+Creating Topspin /dev entries:,Creating Topspin /dev entries:
+registered new driver hiddev,registered new driver hiddev
+registered new driver hub,registered new driver hub
+registered new driver usbfs,registered new driver usbfs
+registered new driver usbhid,registered new driver usbhid
+probe of vesafb0 failed with error -6,probe of vesafb0 failed with error <*>
+"connection from ""#28#""","connection from ""#<*>#"""
+"User #29#, coming from #30#, authenticated.","User #<*>#, coming from #<*>#, authenticated."
+Now running on #29#'s privileges.,Now running on #<*>#'s privileges.
+Mounting NFS filesystems: succeeded,Mounting NFS filesystems: succeeded
+Mounting other filesystems: failed,Mounting other filesystems: failed
+Warning: we failed to resolve data source name an14 an15 an16 an17 an18 an19 an20 an21 an22 an23 an24 an25 an26 an27 an28 an29 an30 an31 an32 an33 an34 an35 an36 an37 an38 an39 an40 an41 an42 an43 an44 an45 an46 an47 an48 an49 an50 an51 an52 an53 an54 an55 an56 an57 an58 an59 an60 an61 an62 an63 an64 an65 an66 an67 an68 an69 an70 an71 an72 an73 an74 an75 an76 an77 an78 an79 an80 an81 an82 an83 an84 an85 an86 an87 an88 an89 an90 an91 an92 an93 an94 an95 an96 an97 an98 an99 an100 an101 an102 an103 an104 an105 an106 an107 an108 an109 an110 an111 an112 an113 an114 an115 an116 an117 an118 an119 an120 an121 an122 an123 an124 an125 an126 an127 an128,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name an142 an143 an144 an145 an146 an147 an148 an149 an150 an151 an152 an153 an154 an155 an156 an157 an158 an159 an160 an161 an162 an163 an164 an165 an166 an167 an168 an169 an170 an171 an172 an173 an174 an175 an176 an177 an178 an179 an180 an181 an182 an183 an184 an185 an186 an187 an188 an189 an190 an191 an192 an193 an194 an195 an196 an197 an198 an199 an200 an201 an202 an203 an204 an205 an206 an207 an208 an209 an210 an211 an212 an213 an214 an215 an216 an217 an218 an219 an220 an221 an222 an223 an224 an225 an226 an227 an228 an229 an230 an231 an232 an233 an234 an235 an236 an237 an238 an239 an240 an241 an242 an243 an244 an245 an246 an247 an248 an249 an250 an251 an252 an253 an254 an255 an256,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name an270 an271 an272 an273 an274 an275 an276 an277 an278 an279 an280 an281 an282 an283 an284 an285 an286 an287 an288 an289 an290 an291 an292 an293 an294 an295 an296 an297 an298 an299 an300 an301 an302 an303 an304 an305 an306 an307 an308 an309 an310 an311 an312 an313 an314 an315 an316 an317 an318 an319 an320 an321 an322 an323 an324 an325 an326 an327 an328 an329 an330 an331 an332 an333 an334 an335 an336 an337 an338 an339 an340 an341 an342 an343 an344 an345 an346 an347 an348 an349 an350 an351 an352 an353 an354 an355 an356 an357 an358 an359 an360 an361 an362 an363 an364 an365 an366 an367 an368 an369 an370 an371 an372 an373 an374 an375 an376 an377 an378 an379 an380 an381 an382 an383 an384,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name an398 an399 an400 an401 an402 an403 an404 an405 an406 an407 an408 an409 an410 an411 an412 an413 an414 an415 an416 an417 an418 an419 an420 an421 an422 an423 an424 an425 an426 an427 an428 an429 an430 an431 an432 an433 an434 an435 an436 an437 an438 an439 an440 an441 an442 an443 an444 an445 an446 an447 an448 an449 an450 an451 an452 an453 an454 an455 an456 an457 an458 an459 an460 an461 an462 an463 an464 an465 an466 an467 an468 an469 an470 an471 an472 an473 an474 an475 an476 an477 an478 an479 an480 an481 an482 an483 an484 an485 an486 an487 an488 an489 an490 an491 an492 an493 an494 an495 an496 an497 an498 an499 an500 an501 an502 an503 an504 an505 an506 an507 an508 an509 an510 an511 an512,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name an782 an783 an784 an785 an786 an787 an788 an789 an790 an791 an792 an793 an794 an795 an796 an797 an798 an799 an800 an801 an802 an803 an804 an805 an806 an807 an808 an809 an810 an811 an812 an813 an814 an815 an816 an817 an818 an819 an820 an821 an822 an823 an824 an825 an826 an827 an828 an829 an830 an831 an832 an833 an834 an835 an836 an837 an838 an839 an840 an841 an842 an843 an844 an845 an846 an847 an848 an849 an850 an851 an852 an853 an854 an855 an856 an857 an858 an859 an860 an861 an862 an863 an864 an865 an866 an867 an868 an869 an870 an871 an872 an873 an874 an875 an876 an877 an878 an879 an880 an881 an882 an883 an884 an885 an886 an887 an888 an889 an890 an891 an892 an893 an894 an895 an896,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name an910 an911 an912 an913 an914 an915 an916 an917 an918 an919 an920 an921 an922 an923 an924 an925 an926 an927 an928 an929 an930 an931 an932 an933 an934 an935 an936 an937 an938 an939 an940 an941 an942 an943 an944 an945 an946 an947 an948 an949 an950 an951 an952 an953 an954 an955 an956 an957 an958 an959 an960 an961 an962 an963 an964 an965 an966 an967 an968 an969 an970 an971 an972 an973 an974 an975 an976 an977 an978 an979 an980 an981 an982 an983 an984 an985 an986 an987 an988 an989 an990 an991 an992 an993 an994 an995 an996 an997 an998 an999 an1000 an1001 an1002 an1003 an1004 an1005 an1006 an1007 an1008 an1009 an1010 an1011 an1012 an1013 an1014 an1015 an1016 an1017 an1018 an1019 an1020 an1021 an1022 an1023 an1024,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name bn654 bn655 bn656 bn657 bn658 bn659 bn660 bn661 bn662 bn663 bn664 bn665 bn666 bn667 bn668 bn669 bn670 bn671 bn672 bn673 bn674 bn675 bn676 bn677 bn678 bn679 bn680 bn681 bn682 bn683 bn684 bn685 bn686 bn687 bn688 bn689 bn690 bn691 bn692 bn693 bn694 bn695 bn696 bn697 bn698 bn699 bn700 bn701 bn702 bn703 bn704 bn705 bn706 bn707 bn708 bn709 bn710 bn711 bn712 bn713 bn714 bn715 bn716 bn717 bn718 bn719 bn720 bn721 bn722 bn723 bn724 bn725 bn726 bn727 bn728 bn729 bn730 bn731 bn732 bn733 bn734 bn735 bn736 bn737 bn738 bn739 bn740 bn741 bn742 bn743 bn744 bn745 bn746 bn747 bn748 bn749 bn750 bn751 bn752 bn753 bn754 bn755 bn756 bn757 bn758 bn759 bn760 bn761 bn762 bn763 bn764 bn765 bn766 bn767 bn768,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name dadmin2 dadmin3 dadmin4,Warning: we failed to resolve data source name <*>
+RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step),RRD_update (/var/lib/ganglia/rrds/<*>.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+Warning: we failed to resolve data source name bn782 bn783 bn784 bn785 bn786 bn787 bn788 bn789 bn790 bn791 bn792 bn793 bn794 bn795 bn796 bn797 bn798 bn799 bn800 bn801 bn802 bn803 bn804 bn805 bn806 bn807 bn808 bn809 bn810 bn811 bn812 bn813 bn814 bn815 bn816 bn817 bn818 bn819 bn820 bn821 bn822 bn823 bn824 bn825 bn826 bn827 bn828 bn829 bn830 bn831 bn832 bn833 bn834 bn835 bn836 bn837 bn838 bn839 bn840 bn841 bn842 bn843 bn844 bn845 bn846 bn847 bn848 bn849 bn850 bn851 bn852 bn853 bn854 bn855 bn856 bn857 bn858 bn859 bn860 bn861 bn862 bn863 bn864 bn865 bn866 bn867 bn868 bn869 bn870 bn871 bn872 bn873 bn874 bn875 bn876 bn877 bn878 bn879 bn880 bn881 bn882 bn883 bn884 bn885 bn886 bn887 bn888 bn889 bn890 bn891 bn892 bn893 bn894 bn895 bn896,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name cn142 cn143 cn144 cn145 cn146 cn147 cn148 cn149 cn150 cn151 cn152 cn153 cn154 cn155 cn156 cn157 cn158 cn159 cn160 cn161 cn162 cn163 cn164 cn165 cn166 cn167 cn168 cn169 cn170 cn171 cn172 cn173 cn174 cn175 cn176 cn177 cn178 cn179 cn180 cn181 cn182 cn183 cn184 cn185 cn186 cn187 cn188 cn189 cn190 cn191 cn192 cn193 cn194 cn195 cn196 cn197 cn198 cn199 cn200 cn201 cn202 cn203 cn204 cn205 cn206 cn207 cn208 cn209 cn210 cn211 cn212 cn213 cn214 cn215 cn216 cn217 cn218 cn219 cn220 cn221 cn222 cn223 cn224 cn225 cn226 cn227 cn228 cn229 cn230 cn231 cn232 cn233 cn234 cn235 cn236 cn237 cn238 cn239 cn240 cn241 cn242 cn243 cn244 cn245 cn246 cn247 cn248 cn249 cn250 cn251 cn252 cn253 cn254 cn255 cn256,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name cn526 cn527 cn528 cn529 cn530 cn531 cn532 cn533 cn534 cn535 cn536 cn537 cn538 cn539 cn540 cn541 cn542 cn543 cn544 cn545 cn546 cn547 cn548 cn549 cn550 cn551 cn552 cn553 cn554 cn555 cn556 cn557 cn558 cn559 cn560 cn561 cn562 cn563 cn564 cn565 cn566 cn567 cn568 cn569 cn570 cn571 cn572 cn573 cn574 cn575 cn576 cn577 cn578 cn579 cn580 cn581 cn582 cn583 cn584 cn585 cn586 cn587 cn588 cn589 cn590 cn591 cn592 cn593 cn594 cn595 cn596 cn597 cn598 cn599 cn600 cn601 cn602 cn603 cn604 cn605 cn606 cn607 cn608 cn609 cn610 cn611 cn612 cn613 cn614 cn615 cn616 cn617 cn618 cn619 cn620 cn621 cn622 cn623 cn624 cn625 cn626 cn627 cn628 cn629 cn630 cn631 cn632 cn633 cn634 cn635 cn636 cn637 cn638 cn639 cn640,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve data source name dn398 dn399 dn400 dn401 dn402 dn403 dn404 dn405 dn406 dn407 dn408 dn409 dn410 dn411 dn412 dn413 dn414 dn415 dn416 dn417 dn418 dn419 dn420 dn421 dn422 dn423 dn424 dn425 dn426 dn427 dn428 dn429 dn430 dn431 dn432 dn433 dn434 dn435 dn436 dn437 dn438 dn439 dn440 dn441 dn442 dn443 dn444 dn445 dn446 dn447 dn448 dn449 dn450 dn451 dn452 dn453 dn454 dn455 dn456 dn457 dn458 dn459 dn460 dn461 dn462 dn463 dn464 dn465 dn466 dn467 dn468 dn469 dn470 dn471 dn472 dn473 dn474 dn475 dn476 dn477 dn478 dn479 dn480 dn481 dn482 dn483 dn484 dn485 dn486 dn487 dn488 dn489 dn490 dn491 dn492 dn493 dn494 dn495 dn496 dn497 dn498 dn499 dn500 dn501 dn502 dn503 dn504 dn505 dn506 dn507 dn508 dn509 dn510 dn511 dn512,Warning: we failed to resolve data source name <*>
+Warning: we failed to resolve trusted host name dadmin3 dadmin4,Warning: we failed to resolve trusted host name <*>
+gmetad startup succeeded,gmetad startup succeeded
+Registered protocol family 10,Registered protocol family <*>
+not allocating divert_blk for non-ethernet device sit0,not allocating divert_blk for non-ethernet device <*>
+succeeded,succeeded
+Server listening on :: port 22.,Server listening on :: port <*>.
+error: Bind to port 22 on 0.0.0.0 failed: Address already in use.,error: Bind to port <*> on <*> failed: Address already in use.
+Cannot open file /dev/logsurfer for writing (No such file or directory),Cannot open file /dev/logsurfer for writing (No such file or directory)
+Changing permissions on special file /dev/logsurfer,Changing permissions on special file /dev/logsurfer
+xinetd startup succeeded,xinetd startup succeeded
+Reading included configuration file: /etc/xinetd.d/chargen-udp [file=/etc/xinetd.d/chargen-udp] [line=18],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/cups-lpd [file=/etc/xinetd.d/cups-lpd] [line=17],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/daytime-udp [file=/etc/xinetd.d/daytime-udp] [line=15],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/gssftp [file=/etc/xinetd.d/gssftp] [line=13],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/krb5-telnet [file=/etc/xinetd.d/krb5-telnet] [line=13],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/kshell [file=/etc/xinetd.d/kshell] [line=13],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/ktalk [file=/etc/xinetd.d/ktalk] [line=13],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Reading included configuration file: /etc/xinetd.d/time [file=/etc/xinetd.d/time] [line=18],Reading included configuration file: <*> [file=<*>] [line=<*>]
+Started working: 1 available service,Started working: <*> available service
+removing chargen,removing <*>
+removing daytime,removing <*>
+removing echo,removing <*>
+removing eklogin,removing <*>
+removing ftp,removing <*>
+removing klogin,removing <*>
+removing kshell,removing <*>
+removing ntalk,removing <*>
+removing printer,removing <*>
+removing rsync,removing <*>
+removing telnet,removing <*>
+removing time,removing <*>
+xinetd Version 2.3.13 started with libwrap loadavg options compiled in.,xinetd Version <*>.<*>.<*> started with libwrap loadavg options compiled in.
+"jA9JBXgf022479: from=root, size=1594553, class=0, nrcpts=1, msgid=<200511091911.jA9JBXgf022479@cadmin1>, relay=#7#@localhost","<*>: from=root, size=<*>, class=<*>, nrcpts=<*>, msgid=<<*>>, relay=#<*>#@localhost"
+"Device: /dev/sda, Temperature changed -2 Celsius to 26 Celsius since last report","Device: /dev/sda, Temperature changed <*> Celsius to <*> Celsius since last report"

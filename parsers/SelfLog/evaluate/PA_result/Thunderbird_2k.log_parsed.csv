@@ -1,0 +1,2001 @@
+Unnamed: 0,EventId,template
+0.0,E1,<*> closed for user <*>
+1.0,E2,<*> opened for user <*> by (uid=*)
+2.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+3.0,E1,<*> closed for user <*>
+4.0,E2,<*> opened for user <*> by (uid=*)
+5.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+6.0,E1,<*> closed for user <*>
+7.0,E2,<*> opened for user <*> by (uid=*)
+8.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+9.0,E1,<*> closed for user <*>
+10.0,E2,<*> opened for user <*> by (uid=*)
+11.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+12.0,E1,<*> closed for user <*>
+13.0,E2,<*> opened for user <*> by (uid=*)
+14.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+15.0,E1,<*> closed for user <*>
+16.0,E2,<*> opened for user <*> by (uid=*)
+17.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+18.0,E1,<*> closed for user <*>
+19.0,E2,<*> opened for user <*> by (uid=*)
+20.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+21.0,E1,<*> closed for user <*>
+22.0,E2,<*> opened for user <*> by (uid=*)
+23.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+24.0,E1,<*> closed for user <*>
+25.0,E2,<*> opened for user <*> by (uid=*)
+26.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+27.0,E1,<*> closed for user <*>
+28.0,E2,<*> opened for user <*> by (uid=*)
+29.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+30.0,E1,<*> closed for user <*>
+31.0,E2,<*> opened for user <*> by (uid=*)
+32.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+33.0,E1,<*> closed for user <*>
+34.0,E2,<*> opened for user <*> by (uid=*)
+35.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+36.0,E1,<*> closed for user <*>
+37.0,E2,<*> opened for user <*> by (uid=*)
+38.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+39.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+40.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+41.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+42.0,E1,<*> closed for user <*>
+43.0,E2,<*> opened for user <*> by (uid=*)
+44.0,E3,<*> (root) CMD (run-parts /etc/cron.hourly)
+45.0,E5,"<*> to <*>.<*>, stratum <*>"
+46.0,E5,"<*> to <*>.<*>, stratum <*>"
+47.0,E5,"<*> to <*>.<*>, stratum <*>"
+48.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+49.0,E5,"<*> to <*>.<*>, stratum <*>"
+50.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+51.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+52.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+53.0,E5,"<*> to <*>.<*>, stratum <*>"
+54.0,E5,"<*> to <*>.<*>, stratum <*>"
+55.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+56.0,E5,"<*> to <*>.<*>, stratum <*>"
+57.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+58.0,E5,"<*> to <*>.<*>, stratum <*>"
+59.0,E5,"<*> to <*>.<*>, stratum <*>"
+60.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+61.0,E5,"<*> to <*>.<*>, stratum <*>"
+62.0,E7,[<*>]: No topology change
+63.0,E8,[<*>]: No configuration change required
+64.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+65.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+66.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+67.0,E5,"<*> to <*>.<*>, stratum <*>"
+68.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+69.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+70.0,E5,"<*> to <*>.<*>, stratum <*>"
+71.0,E5,"<*> to <*>.<*>, stratum <*>"
+72.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+73.0,E9,Local disconnected: Connection <*>.
+74.0,E10,c <*>: '<*> <*>.'
+75.0,E5,"<*> to <*>.<*>, stratum <*>"
+76.0,E5,"<*> to <*>.<*>, stratum <*>"
+77.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+78.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+79.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+80.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+81.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+82.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+83.0,E5,"<*> to <*>.<*>, stratum <*>"
+84.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+85.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+86.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+87.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+88.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+89.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+90.0,E5,"<*> to <*>.<*>, stratum <*>"
+91.0,E5,"<*> to <*>.<*>, stratum <*>"
+92.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+93.0,E7,[<*>]: No topology change
+94.0,E8,[<*>]: No configuration change required
+95.0,E11,unable to qualify my own domain name (<*>) -- using short name
+96.0,E1,<*> closed for user <*>
+97.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+98.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+99.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+100.0,E11,unable to qualify my own domain name (<*>) -- using short name
+101.0,E11,unable to qualify my own domain name (<*>) -- using short name
+102.0,E5,"<*> to <*>.<*>, stratum <*>"
+103.0,E11,unable to qualify my own domain name (<*>) -- using short name
+104.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+105.0,E5,"<*> to <*>.<*>, stratum <*>"
+106.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+107.0,E1,<*> closed for user <*>
+108.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+109.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+110.0,E5,"<*> to <*>.<*>, stratum <*>"
+111.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+112.0,E1,<*> closed for user <*>
+113.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+114.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+115.0,E1,<*> closed for user <*>
+116.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+117.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+118.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+119.0,E5,"<*> to <*>.<*>, stratum <*>"
+120.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+121.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+122.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+123.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+124.0,E11,unable to qualify my own domain name (<*>) -- using short name
+125.0,E5,"<*> to <*>.<*>, stratum <*>"
+126.0,E1,<*> closed for user <*>
+127.0,E14,DHCPDISCOVER from <*> via eth1
+128.0,E15,DHCPOFFER on <*> to <*> via <*>
+129.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+130.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+131.0,E16,<*> from <*> via <*>: network <*>: <*>
+132.0,E16,<*> from <*> via <*>: network <*>: <*>
+133.0,E16,<*> from <*> via <*>: network <*>: <*>
+134.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+135.0,E5,"<*> to <*>.<*>, stratum <*>"
+136.0,E7,[<*>]: No topology change
+137.0,E8,[<*>]: No configuration change required
+138.0,E17,DHCPACK on <*> to <*> via <*>
+139.0,E18,DHCPREQUEST for <*> (<*>) from <*> via eth1
+140.0,E19,START: tftp pid=<*> from=<*>
+141.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+142.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+143.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+144.0,E5,"<*> to <*>.<*>, stratum <*>"
+145.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+146.0,E5,"<*> to <*>.<*>, stratum <*>"
+147.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+148.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+149.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+150.0,E5,"<*> to <*>.<*>, stratum <*>"
+151.0,E5,"<*> to <*>.<*>, stratum <*>"
+152.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+153.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+154.0,E5,"<*> to <*>.<*>, stratum <*>"
+155.0,E5,"<*> to <*>.<*>, stratum <*>"
+156.0,E5,"<*> to <*>.<*>, stratum <*>"
+157.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+158.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+159.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+160.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+161.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+162.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+163.0,E5,"<*> to <*>.<*>, stratum <*>"
+164.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+165.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+166.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+167.0,E7,[<*>]: No topology change
+168.0,E8,[<*>]: No configuration change required
+169.0,E5,"<*> to <*>.<*>, stratum <*>"
+170.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+171.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+172.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+173.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+174.0,E5,"<*> to <*>.<*>, stratum <*>"
+175.0,E5,"<*> to <*>.<*>, stratum <*>"
+176.0,E5,"<*> to <*>.<*>, stratum <*>"
+177.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+178.0,E5,"<*> to <*>.<*>, stratum <*>"
+179.0,E5,"<*> to <*>.<*>, stratum <*>"
+180.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+181.0,E5,"<*> to <*>.<*>, stratum <*>"
+182.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+183.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+184.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+185.0,E5,"<*> to <*>.<*>, stratum <*>"
+186.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+187.0,E17,DHCPACK on <*> to <*> via <*>
+188.0,E14,DHCPDISCOVER from <*> via eth1
+189.0,E14,DHCPDISCOVER from <*> via eth1
+190.0,E15,DHCPOFFER on <*> to <*> via <*>
+191.0,E15,DHCPOFFER on <*> to <*> via <*>
+192.0,E18,DHCPREQUEST for <*> (<*>) from <*> via eth1
+193.0,E16,<*> from <*> via <*>: network <*>: <*>
+194.0,E16,<*> from <*> via <*>: network <*>: <*>
+195.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+196.0,E16,<*> from <*> via <*>: network <*>: <*>
+197.0,E16,<*> from <*> via <*>: network <*>: <*>
+198.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+199.0,E16,<*> from <*> via <*>: network <*>: <*>
+200.0,E16,<*> from <*> via <*>: network <*>: <*>
+201.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+202.0,E5,"<*> to <*>.<*>, stratum <*>"
+203.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+204.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+205.0,E17,DHCPACK on <*> to <*> via <*>
+206.0,E14,DHCPDISCOVER from <*> via eth1
+207.0,E14,DHCPDISCOVER from <*> via eth1
+208.0,E15,DHCPOFFER on <*> to <*> via <*>
+209.0,E15,DHCPOFFER on <*> to <*> via <*>
+210.0,E18,DHCPREQUEST for <*> (<*>) from <*> via eth1
+211.0,E16,<*> from <*> via <*>: network <*>: <*>
+212.0,E16,<*> from <*> via <*>: network <*>: <*>
+213.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+214.0,E16,<*> from <*> via <*>: network <*>: <*>
+215.0,E16,<*> from <*> via <*>: network <*>: <*>
+216.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+217.0,E16,<*> from <*> via <*>: network <*>: <*>
+218.0,E16,<*> from <*> via <*>: network <*>: <*>
+219.0,E20,DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.
+220.0,E5,"<*> to <*>.<*>, stratum <*>"
+221.0,E5,"<*> to <*>.<*>, stratum <*>"
+222.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+223.0,E5,"<*> to <*>.<*>, stratum <*>"
+224.0,E7,[<*>]: No topology change
+225.0,E8,[<*>]: No configuration change required
+226.0,E5,"<*> to <*>.<*>, stratum <*>"
+227.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+228.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+229.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+230.0,E5,"<*> to <*>.<*>, stratum <*>"
+231.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+232.0,E5,"<*> to <*>.<*>, stratum <*>"
+233.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+234.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+235.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+236.0,E5,"<*> to <*>.<*>, stratum <*>"
+237.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+238.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+239.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+240.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+241.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+242.0,E5,"<*> to <*>.<*>, stratum <*>"
+243.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+244.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+245.0,E5,"<*> to <*>.<*>, stratum <*>"
+246.0,E5,"<*> to <*>.<*>, stratum <*>"
+247.0,E7,[<*>]: No topology change
+248.0,E8,[<*>]: No configuration change required
+249.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+250.0,E5,"<*> to <*>.<*>, stratum <*>"
+251.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+252.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+253.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+254.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+255.0,E5,"<*> to <*>.<*>, stratum <*>"
+256.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+257.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+258.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+259.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+260.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+261.0,E5,"<*> to <*>.<*>, stratum <*>"
+262.0,E5,"<*> to <*>.<*>, stratum <*>"
+263.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+264.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+265.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+266.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+267.0,E5,"<*> to <*>.<*>, stratum <*>"
+268.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+269.0,E5,"<*> to <*>.<*>, stratum <*>"
+270.0,E7,[<*>]: No topology change
+271.0,E8,[<*>]: No configuration change required
+272.0,E5,"<*> to <*>.<*>, stratum <*>"
+273.0,E5,"<*> to <*>.<*>, stratum <*>"
+274.0,E5,"<*> to <*>.<*>, stratum <*>"
+275.0,E5,"<*> to <*>.<*>, stratum <*>"
+276.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+277.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+278.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+279.0,E5,"<*> to <*>.<*>, stratum <*>"
+280.0,E5,"<*> to <*>.<*>, stratum <*>"
+281.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+282.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+283.0,E5,"<*> to <*>.<*>, stratum <*>"
+284.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+285.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+286.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+287.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+288.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+289.0,E5,"<*> to <*>.<*>, stratum <*>"
+290.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+291.0,E5,"<*> to <*>.<*>, stratum <*>"
+292.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+293.0,E7,[<*>]: No topology change
+294.0,E8,[<*>]: No configuration change required
+295.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+296.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+297.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+298.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+299.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+300.0,E5,"<*> to <*>.<*>, stratum <*>"
+301.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+302.0,E5,"<*> to <*>.<*>, stratum <*>"
+303.0,E5,"<*> to <*>.<*>, stratum <*>"
+304.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+305.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+306.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+307.0,E5,"<*> to <*>.<*>, stratum <*>"
+308.0,E5,"<*> to <*>.<*>, stratum <*>"
+309.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+310.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+311.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+312.0,E5,"<*> to <*>.<*>, stratum <*>"
+313.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+314.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+315.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+316.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+317.0,E5,"<*> to <*>.<*>, stratum <*>"
+318.0,E5,"<*> to <*>.<*>, stratum <*>"
+319.0,E7,[<*>]: No topology change
+320.0,E8,[<*>]: No configuration change required
+321.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+322.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+323.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+324.0,E5,"<*> to <*>.<*>, stratum <*>"
+325.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+326.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+327.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+328.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+329.0,E5,"<*> to <*>.<*>, stratum <*>"
+330.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+331.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+332.0,E5,"<*> to <*>.<*>, stratum <*>"
+333.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+334.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+335.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+336.0,E7,[<*>]: No topology change
+337.0,E8,[<*>]: No configuration change required
+338.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+339.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+340.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+341.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+342.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+343.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+344.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+345.0,E5,"<*> to <*>.<*>, stratum <*>"
+346.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+347.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+348.0,E5,"<*> to <*>.<*>, stratum <*>"
+349.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+350.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+351.0,E5,"<*> to <*>.<*>, stratum <*>"
+352.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+353.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+354.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+355.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+356.0,E5,"<*> to <*>.<*>, stratum <*>"
+357.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+358.0,E5,"<*> to <*>.<*>, stratum <*>"
+359.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+360.0,E5,"<*> to <*>.<*>, stratum <*>"
+361.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+362.0,E7,[<*>]: No topology change
+363.0,E8,[<*>]: No configuration change required
+364.0,E5,"<*> to <*>.<*>, stratum <*>"
+365.0,E5,"<*> to <*>.<*>, stratum <*>"
+366.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+367.0,E5,"<*> to <*>.<*>, stratum <*>"
+368.0,E5,"<*> to <*>.<*>, stratum <*>"
+369.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+370.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+371.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+372.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+373.0,E5,"<*> to <*>.<*>, stratum <*>"
+374.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+375.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+376.0,E5,"<*> to <*>.<*>, stratum <*>"
+377.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+378.0,E5,"<*> to <*>.<*>, stratum <*>"
+379.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+380.0,E5,"<*> to <*>.<*>, stratum <*>"
+381.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+382.0,E5,"<*> to <*>.<*>, stratum <*>"
+383.0,E5,"<*> to <*>.<*>, stratum <*>"
+384.0,E7,[<*>]: No topology change
+385.0,E8,[<*>]: No configuration change required
+386.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+387.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+388.0,E5,"<*> to <*>.<*>, stratum <*>"
+389.0,E5,"<*> to <*>.<*>, stratum <*>"
+390.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+391.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+392.0,E5,"<*> to <*>.<*>, stratum <*>"
+393.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+394.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+395.0,E5,"<*> to <*>.<*>, stratum <*>"
+396.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+397.0,E5,"<*> to <*>.<*>, stratum <*>"
+398.0,E5,"<*> to <*>.<*>, stratum <*>"
+399.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+400.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+401.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+402.0,E5,"<*> to <*>.<*>, stratum <*>"
+403.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+404.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+405.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+406.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+407.0,E5,"<*> to <*>.<*>, stratum <*>"
+408.0,E5,"<*> to <*>.<*>, stratum <*>"
+409.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+410.0,E5,"<*> to <*>.<*>, stratum <*>"
+411.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+412.0,E5,"<*> to <*>.<*>, stratum <*>"
+413.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+414.0,E7,[<*>]: No topology change
+415.0,E8,[<*>]: No configuration change required
+416.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+417.0,E5,"<*> to <*>.<*>, stratum <*>"
+418.0,E5,"<*> to <*>.<*>, stratum <*>"
+419.0,E5,"<*> to <*>.<*>, stratum <*>"
+420.0,E5,"<*> to <*>.<*>, stratum <*>"
+421.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+422.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+423.0,E5,"<*> to <*>.<*>, stratum <*>"
+424.0,E5,"<*> to <*>.<*>, stratum <*>"
+425.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+426.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+427.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+428.0,E5,"<*> to <*>.<*>, stratum <*>"
+429.0,E5,"<*> to <*>.<*>, stratum <*>"
+430.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+431.0,E5,"<*> to <*>.<*>, stratum <*>"
+432.0,E5,"<*> to <*>.<*>, stratum <*>"
+433.0,E5,"<*> to <*>.<*>, stratum <*>"
+434.0,E5,"<*> to <*>.<*>, stratum <*>"
+435.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+436.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+437.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+438.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+439.0,E5,"<*> to <*>.<*>, stratum <*>"
+440.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+441.0,E7,[<*>]: No topology change
+442.0,E8,[<*>]: No configuration change required
+443.0,E5,"<*> to <*>.<*>, stratum <*>"
+444.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+445.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+446.0,E5,"<*> to <*>.<*>, stratum <*>"
+447.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+448.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+449.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+450.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+451.0,E5,"<*> to <*>.<*>, stratum <*>"
+452.0,E5,"<*> to <*>.<*>, stratum <*>"
+453.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+454.0,E5,"<*> to <*>.<*>, stratum <*>"
+455.0,E5,"<*> to <*>.<*>, stratum <*>"
+456.0,E5,"<*> to <*>.<*>, stratum <*>"
+457.0,E5,"<*> to <*>.<*>, stratum <*>"
+458.0,E22,kernel time sync disabled <*>
+459.0,E23,time reset +<*> s
+460.0,E5,"<*> to <*>.<*>, stratum <*>"
+461.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+462.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+463.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+464.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+465.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+466.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+467.0,E5,"<*> to <*>.<*>, stratum <*>"
+468.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+469.0,E5,"<*> to <*>.<*>, stratum <*>"
+470.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+471.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+472.0,E5,"<*> to <*>.<*>, stratum <*>"
+473.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+474.0,E7,[<*>]: No topology change
+475.0,E8,[<*>]: No configuration change required
+476.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+477.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+478.0,E5,"<*> to <*>.<*>, stratum <*>"
+479.0,E5,"<*> to <*>.<*>, stratum <*>"
+480.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+481.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+482.0,E5,"<*> to <*>.<*>, stratum <*>"
+483.0,E5,"<*> to <*>.<*>, stratum <*>"
+484.0,E5,"<*> to <*>.<*>, stratum <*>"
+485.0,E5,"<*> to <*>.<*>, stratum <*>"
+486.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+487.0,E5,"<*> to <*>.<*>, stratum <*>"
+488.0,E5,"<*> to <*>.<*>, stratum <*>"
+489.0,E5,"<*> to <*>.<*>, stratum <*>"
+490.0,E5,"<*> to <*>.<*>, stratum <*>"
+491.0,E5,"<*> to <*>.<*>, stratum <*>"
+492.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+493.0,E5,"<*> to <*>.<*>, stratum <*>"
+494.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+495.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+496.0,E5,"<*> to <*>.<*>, stratum <*>"
+497.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+498.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+499.0,E5,"<*> to <*>.<*>, stratum <*>"
+500.0,E5,"<*> to <*>.<*>, stratum <*>"
+501.0,E5,"<*> to <*>.<*>, stratum <*>"
+502.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+503.0,E5,"<*> to <*>.<*>, stratum <*>"
+504.0,E5,"<*> to <*>.<*>, stratum <*>"
+505.0,E5,"<*> to <*>.<*>, stratum <*>"
+506.0,E5,"<*> to <*>.<*>, stratum <*>"
+507.0,E7,[<*>]: No topology change
+508.0,E8,[<*>]: No configuration change required
+509.0,E5,"<*> to <*>.<*>, stratum <*>"
+510.0,E5,"<*> to <*>.<*>, stratum <*>"
+511.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+512.0,E5,"<*> to <*>.<*>, stratum <*>"
+513.0,E5,"<*> to <*>.<*>, stratum <*>"
+514.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+515.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+516.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+517.0,E5,"<*> to <*>.<*>, stratum <*>"
+518.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+519.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+520.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+521.0,E5,"<*> to <*>.<*>, stratum <*>"
+522.0,E5,"<*> to <*>.<*>, stratum <*>"
+523.0,E5,"<*> to <*>.<*>, stratum <*>"
+524.0,E5,"<*> to <*>.<*>, stratum <*>"
+525.0,E5,"<*> to <*>.<*>, stratum <*>"
+526.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+527.0,E5,"<*> to <*>.<*>, stratum <*>"
+528.0,E5,"<*> to <*>.<*>, stratum <*>"
+529.0,E5,"<*> to <*>.<*>, stratum <*>"
+530.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+531.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+532.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+533.0,E5,"<*> to <*>.<*>, stratum <*>"
+534.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+535.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+536.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+537.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+538.0,E5,"<*> to <*>.<*>, stratum <*>"
+539.0,E5,"<*> to <*>.<*>, stratum <*>"
+540.0,E5,"<*> to <*>.<*>, stratum <*>"
+541.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+542.0,E5,"<*> to <*>.<*>, stratum <*>"
+543.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+544.0,E7,[<*>]: No topology change
+545.0,E8,[<*>]: No configuration change required
+546.0,E5,"<*> to <*>.<*>, stratum <*>"
+547.0,E5,"<*> to <*>.<*>, stratum <*>"
+548.0,E5,"<*> to <*>.<*>, stratum <*>"
+549.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+550.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+551.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+552.0,E5,"<*> to <*>.<*>, stratum <*>"
+553.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+554.0,E5,"<*> to <*>.<*>, stratum <*>"
+555.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+556.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+557.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+558.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+559.0,E5,"<*> to <*>.<*>, stratum <*>"
+560.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+561.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+562.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+563.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+564.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+565.0,E24,Received SNMP packet(s) from <*>
+566.0,E5,"<*> to <*>.<*>, stratum <*>"
+567.0,E7,[<*>]: No topology change
+568.0,E8,[<*>]: No configuration change required
+569.0,E5,"<*> to <*>.<*>, stratum <*>"
+570.0,E5,"<*> to <*>.<*>, stratum <*>"
+571.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+572.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+573.0,E5,"<*> to <*>.<*>, stratum <*>"
+574.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+575.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+576.0,E5,"<*> to <*>.<*>, stratum <*>"
+577.0,E5,"<*> to <*>.<*>, stratum <*>"
+578.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+579.0,E5,"<*> to <*>.<*>, stratum <*>"
+580.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+581.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+582.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+583.0,E5,"<*> to <*>.<*>, stratum <*>"
+584.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+585.0,E5,"<*> to <*>.<*>, stratum <*>"
+586.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+587.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+588.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+589.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+590.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+591.0,E7,[<*>]: No topology change
+592.0,E8,[<*>]: No configuration change required
+593.0,E5,"<*> to <*>.<*>, stratum <*>"
+594.0,E5,"<*> to <*>.<*>, stratum <*>"
+595.0,E5,"<*> to <*>.<*>, stratum <*>"
+596.0,E5,"<*> to <*>.<*>, stratum <*>"
+597.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+598.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+599.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+600.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+601.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+602.0,E5,"<*> to <*>.<*>, stratum <*>"
+603.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+604.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+605.0,E5,"<*> to <*>.<*>, stratum <*>"
+606.0,E5,"<*> to <*>.<*>, stratum <*>"
+607.0,E5,"<*> to <*>.<*>, stratum <*>"
+608.0,E5,"<*> to <*>.<*>, stratum <*>"
+609.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+610.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+611.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+612.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+613.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+614.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+615.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+616.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+617.0,E5,"<*> to <*>.<*>, stratum <*>"
+618.0,E7,[<*>]: No topology change
+619.0,E8,[<*>]: No configuration change required
+620.0,E5,"<*> to <*>.<*>, stratum <*>"
+621.0,E5,"<*> to <*>.<*>, stratum <*>"
+622.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+623.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+624.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+625.0,E5,"<*> to <*>.<*>, stratum <*>"
+626.0,E5,"<*> to <*>.<*>, stratum <*>"
+627.0,E5,"<*> to <*>.<*>, stratum <*>"
+628.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+629.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+630.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+631.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+632.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+633.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+634.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+635.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+636.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+637.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+638.0,E5,"<*> to <*>.<*>, stratum <*>"
+639.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+640.0,E7,[<*>]: No topology change
+641.0,E8,[<*>]: No configuration change required
+642.0,E5,"<*> to <*>.<*>, stratum <*>"
+643.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+644.0,E5,"<*> to <*>.<*>, stratum <*>"
+645.0,E5,"<*> to <*>.<*>, stratum <*>"
+646.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+647.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+648.0,E5,"<*> to <*>.<*>, stratum <*>"
+649.0,E5,"<*> to <*>.<*>, stratum <*>"
+650.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+651.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+652.0,E5,"<*> to <*>.<*>, stratum <*>"
+653.0,E5,"<*> to <*>.<*>, stratum <*>"
+654.0,E5,"<*> to <*>.<*>, stratum <*>"
+655.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+656.0,E5,"<*> to <*>.<*>, stratum <*>"
+657.0,E5,"<*> to <*>.<*>, stratum <*>"
+658.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+659.0,E5,"<*> to <*>.<*>, stratum <*>"
+660.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+661.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+662.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+663.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+664.0,E5,"<*> to <*>.<*>, stratum <*>"
+665.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+666.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+667.0,E5,"<*> to <*>.<*>, stratum <*>"
+668.0,E5,"<*> to <*>.<*>, stratum <*>"
+669.0,E5,"<*> to <*>.<*>, stratum <*>"
+670.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+671.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+672.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+673.0,E7,[<*>]: No topology change
+674.0,E8,[<*>]: No configuration change required
+675.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+676.0,E5,"<*> to <*>.<*>, stratum <*>"
+677.0,E5,"<*> to <*>.<*>, stratum <*>"
+678.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+679.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+680.0,E5,"<*> to <*>.<*>, stratum <*>"
+681.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+682.0,E5,"<*> to <*>.<*>, stratum <*>"
+683.0,E5,"<*> to <*>.<*>, stratum <*>"
+684.0,E5,"<*> to <*>.<*>, stratum <*>"
+685.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+686.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+687.0,E5,"<*> to <*>.<*>, stratum <*>"
+688.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+689.0,E5,"<*> to <*>.<*>, stratum <*>"
+690.0,E5,"<*> to <*>.<*>, stratum <*>"
+691.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+692.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+693.0,E5,"<*> to <*>.<*>, stratum <*>"
+694.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+695.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+696.0,E7,[<*>]: No topology change
+697.0,E8,[<*>]: No configuration change required
+698.0,E5,"<*> to <*>.<*>, stratum <*>"
+699.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+700.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+701.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+702.0,E5,"<*> to <*>.<*>, stratum <*>"
+703.0,E5,"<*> to <*>.<*>, stratum <*>"
+704.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+705.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+706.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+707.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+708.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+709.0,E5,"<*> to <*>.<*>, stratum <*>"
+710.0,E5,"<*> to <*>.<*>, stratum <*>"
+711.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+712.0,E5,"<*> to <*>.<*>, stratum <*>"
+713.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+714.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+715.0,E5,"<*> to <*>.<*>, stratum <*>"
+716.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+717.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+718.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+719.0,E5,"<*> to <*>.<*>, stratum <*>"
+720.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+721.0,E7,[<*>]: No topology change
+722.0,E8,[<*>]: No configuration change required
+723.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+724.0,E5,"<*> to <*>.<*>, stratum <*>"
+725.0,E5,"<*> to <*>.<*>, stratum <*>"
+726.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+727.0,E5,"<*> to <*>.<*>, stratum <*>"
+728.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+729.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+730.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+731.0,E5,"<*> to <*>.<*>, stratum <*>"
+732.0,E5,"<*> to <*>.<*>, stratum <*>"
+733.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+734.0,E5,"<*> to <*>.<*>, stratum <*>"
+735.0,E5,"<*> to <*>.<*>, stratum <*>"
+736.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+737.0,E5,"<*> to <*>.<*>, stratum <*>"
+738.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+739.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+740.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+741.0,E5,"<*> to <*>.<*>, stratum <*>"
+742.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+743.0,E5,"<*> to <*>.<*>, stratum <*>"
+744.0,E7,[<*>]: No topology change
+745.0,E8,[<*>]: No configuration change required
+746.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+747.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+748.0,E5,"<*> to <*>.<*>, stratum <*>"
+749.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+750.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+751.0,E5,"<*> to <*>.<*>, stratum <*>"
+752.0,E5,"<*> to <*>.<*>, stratum <*>"
+753.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+754.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+755.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+756.0,E5,"<*> to <*>.<*>, stratum <*>"
+757.0,E5,"<*> to <*>.<*>, stratum <*>"
+758.0,E5,"<*> to <*>.<*>, stratum <*>"
+759.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+760.0,E5,"<*> to <*>.<*>, stratum <*>"
+761.0,E5,"<*> to <*>.<*>, stratum <*>"
+762.0,E5,"<*> to <*>.<*>, stratum <*>"
+763.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+764.0,E5,"<*> to <*>.<*>, stratum <*>"
+765.0,E5,"<*> to <*>.<*>, stratum <*>"
+766.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+767.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+768.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+769.0,E5,"<*> to <*>.<*>, stratum <*>"
+770.0,E5,"<*> to <*>.<*>, stratum <*>"
+771.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+772.0,E5,"<*> to <*>.<*>, stratum <*>"
+773.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+774.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+775.0,E7,[<*>]: No topology change
+776.0,E8,[<*>]: No configuration change required
+777.0,E5,"<*> to <*>.<*>, stratum <*>"
+778.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+779.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+780.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+781.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+782.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+783.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+784.0,E5,"<*> to <*>.<*>, stratum <*>"
+785.0,E5,"<*> to <*>.<*>, stratum <*>"
+786.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+787.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+788.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+789.0,E5,"<*> to <*>.<*>, stratum <*>"
+790.0,E5,"<*> to <*>.<*>, stratum <*>"
+791.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+792.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+793.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+794.0,E5,"<*> to <*>.<*>, stratum <*>"
+795.0,E5,"<*> to <*>.<*>, stratum <*>"
+796.0,E5,"<*> to <*>.<*>, stratum <*>"
+797.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+798.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+799.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+800.0,E7,[<*>]: No topology change
+801.0,E8,[<*>]: No configuration change required
+802.0,E5,"<*> to <*>.<*>, stratum <*>"
+803.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+804.0,E5,"<*> to <*>.<*>, stratum <*>"
+805.0,E5,"<*> to <*>.<*>, stratum <*>"
+806.0,E5,"<*> to <*>.<*>, stratum <*>"
+807.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+808.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+809.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+810.0,E5,"<*> to <*>.<*>, stratum <*>"
+811.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+812.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+813.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+814.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+815.0,E5,"<*> to <*>.<*>, stratum <*>"
+816.0,E5,"<*> to <*>.<*>, stratum <*>"
+817.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+818.0,E5,"<*> to <*>.<*>, stratum <*>"
+819.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+820.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+821.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+822.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+823.0,E7,[<*>]: No topology change
+824.0,E8,[<*>]: No configuration change required
+825.0,E5,"<*> to <*>.<*>, stratum <*>"
+826.0,E5,"<*> to <*>.<*>, stratum <*>"
+827.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+828.0,E5,"<*> to <*>.<*>, stratum <*>"
+829.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+830.0,E5,"<*> to <*>.<*>, stratum <*>"
+831.0,E5,"<*> to <*>.<*>, stratum <*>"
+832.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+833.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+834.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+835.0,E5,"<*> to <*>.<*>, stratum <*>"
+836.0,E5,"<*> to <*>.<*>, stratum <*>"
+837.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+838.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+839.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+840.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+841.0,E5,"<*> to <*>.<*>, stratum <*>"
+842.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+843.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+844.0,E5,"<*> to <*>.<*>, stratum <*>"
+845.0,E5,"<*> to <*>.<*>, stratum <*>"
+846.0,E5,"<*> to <*>.<*>, stratum <*>"
+847.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+848.0,E5,"<*> to <*>.<*>, stratum <*>"
+849.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+850.0,E7,[<*>]: No topology change
+851.0,E8,[<*>]: No configuration change required
+852.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+853.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+854.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+855.0,E5,"<*> to <*>.<*>, stratum <*>"
+856.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+857.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+858.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+859.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+860.0,E5,"<*> to <*>.<*>, stratum <*>"
+861.0,E5,"<*> to <*>.<*>, stratum <*>"
+862.0,E5,"<*> to <*>.<*>, stratum <*>"
+863.0,E5,"<*> to <*>.<*>, stratum <*>"
+864.0,E5,"<*> to <*>.<*>, stratum <*>"
+865.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+866.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+867.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+868.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+869.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+870.0,E7,[<*>]: No topology change
+871.0,E8,[<*>]: No configuration change required
+872.0,E5,"<*> to <*>.<*>, stratum <*>"
+873.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+874.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+875.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+876.0,E5,"<*> to <*>.<*>, stratum <*>"
+877.0,E5,"<*> to <*>.<*>, stratum <*>"
+878.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+879.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+880.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+881.0,E5,"<*> to <*>.<*>, stratum <*>"
+882.0,E5,"<*> to <*>.<*>, stratum <*>"
+883.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+884.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+885.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+886.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+887.0,E5,"<*> to <*>.<*>, stratum <*>"
+888.0,E5,"<*> to <*>.<*>, stratum <*>"
+889.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+890.0,E5,"<*> to <*>.<*>, stratum <*>"
+891.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+892.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+893.0,E5,"<*> to <*>.<*>, stratum <*>"
+894.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+895.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+896.0,E7,[<*>]: No topology change
+897.0,E8,[<*>]: No configuration change required
+898.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+899.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+900.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+901.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+902.0,E5,"<*> to <*>.<*>, stratum <*>"
+903.0,E5,"<*> to <*>.<*>, stratum <*>"
+904.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+905.0,E5,"<*> to <*>.<*>, stratum <*>"
+906.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+907.0,E5,"<*> to <*>.<*>, stratum <*>"
+908.0,E5,"<*> to <*>.<*>, stratum <*>"
+909.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+910.0,E5,"<*> to <*>.<*>, stratum <*>"
+911.0,E5,"<*> to <*>.<*>, stratum <*>"
+912.0,E5,"<*> to <*>.<*>, stratum <*>"
+913.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+914.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+915.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+916.0,E5,"<*> to <*>.<*>, stratum <*>"
+917.0,E5,"<*> to <*>.<*>, stratum <*>"
+918.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+919.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+920.0,E5,"<*> to <*>.<*>, stratum <*>"
+921.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+922.0,E7,[<*>]: No topology change
+923.0,E8,[<*>]: No configuration change required
+924.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+925.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+926.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+927.0,E5,"<*> to <*>.<*>, stratum <*>"
+928.0,E5,"<*> to <*>.<*>, stratum <*>"
+929.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+930.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+931.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+932.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+933.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+934.0,E5,"<*> to <*>.<*>, stratum <*>"
+935.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+936.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+937.0,E5,"<*> to <*>.<*>, stratum <*>"
+938.0,E5,"<*> to <*>.<*>, stratum <*>"
+939.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+940.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+941.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+942.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+943.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+944.0,E5,"<*> to <*>.<*>, stratum <*>"
+945.0,E5,"<*> to <*>.<*>, stratum <*>"
+946.0,E7,[<*>]: No topology change
+947.0,E8,[<*>]: No configuration change required
+948.0,E5,"<*> to <*>.<*>, stratum <*>"
+949.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+950.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+951.0,E5,"<*> to <*>.<*>, stratum <*>"
+952.0,E5,"<*> to <*>.<*>, stratum <*>"
+953.0,E25,"synchronized to LOCAL(*), stratum <*>"
+954.0,E5,"<*> to <*>.<*>, stratum <*>"
+955.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+956.0,E26,kernel time sync enabled <*>
+957.0,E5,"<*> to <*>.<*>, stratum <*>"
+958.0,E5,"<*> to <*>.<*>, stratum <*>"
+959.0,E5,"<*> to <*>.<*>, stratum <*>"
+960.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+961.0,E5,"<*> to <*>.<*>, stratum <*>"
+962.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+963.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+964.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+965.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+966.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+967.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+968.0,E5,"<*> to <*>.<*>, stratum <*>"
+969.0,E5,"<*> to <*>.<*>, stratum <*>"
+970.0,E5,"<*> to <*>.<*>, stratum <*>"
+971.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+972.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+973.0,E5,"<*> to <*>.<*>, stratum <*>"
+974.0,E5,"<*> to <*>.<*>, stratum <*>"
+975.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+976.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+977.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+978.0,E7,[<*>]: No topology change
+979.0,E8,[<*>]: No configuration change required
+980.0,E5,"<*> to <*>.<*>, stratum <*>"
+981.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+982.0,E5,"<*> to <*>.<*>, stratum <*>"
+983.0,E5,"<*> to <*>.<*>, stratum <*>"
+984.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+985.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+986.0,E5,"<*> to <*>.<*>, stratum <*>"
+987.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+988.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+989.0,E5,"<*> to <*>.<*>, stratum <*>"
+990.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+991.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+992.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+993.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+994.0,E5,"<*> to <*>.<*>, stratum <*>"
+995.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+996.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+997.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+998.0,E5,"<*> to <*>.<*>, stratum <*>"
+999.0,E5,"<*> to <*>.<*>, stratum <*>"
+1000.0,E5,"<*> to <*>.<*>, stratum <*>"
+1001.0,E5,"<*> to <*>.<*>, stratum <*>"
+1002.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1003.0,E5,"<*> to <*>.<*>, stratum <*>"
+1004.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1005.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1006.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1007.0,E7,[<*>]: No topology change
+1008.0,E8,[<*>]: No configuration change required
+1009.0,E5,"<*> to <*>.<*>, stratum <*>"
+1010.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1011.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1012.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1013.0,E5,"<*> to <*>.<*>, stratum <*>"
+1014.0,E5,"<*> to <*>.<*>, stratum <*>"
+1015.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1016.0,E5,"<*> to <*>.<*>, stratum <*>"
+1017.0,E5,"<*> to <*>.<*>, stratum <*>"
+1018.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1019.0,E5,"<*> to <*>.<*>, stratum <*>"
+1020.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1021.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1022.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1023.0,E5,"<*> to <*>.<*>, stratum <*>"
+1024.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1025.0,E5,"<*> to <*>.<*>, stratum <*>"
+1026.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1027.0,E5,"<*> to <*>.<*>, stratum <*>"
+1028.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1029.0,E7,[<*>]: No topology change
+1030.0,E8,[<*>]: No configuration change required
+1031.0,E5,"<*> to <*>.<*>, stratum <*>"
+1032.0,E5,"<*> to <*>.<*>, stratum <*>"
+1033.0,E5,"<*> to <*>.<*>, stratum <*>"
+1034.0,E5,"<*> to <*>.<*>, stratum <*>"
+1035.0,E5,"<*> to <*>.<*>, stratum <*>"
+1036.0,E5,"<*> to <*>.<*>, stratum <*>"
+1037.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1038.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1039.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1040.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1041.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1042.0,E5,"<*> to <*>.<*>, stratum <*>"
+1043.0,E5,"<*> to <*>.<*>, stratum <*>"
+1044.0,E5,"<*> to <*>.<*>, stratum <*>"
+1045.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1046.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1047.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1048.0,E5,"<*> to <*>.<*>, stratum <*>"
+1049.0,E5,"<*> to <*>.<*>, stratum <*>"
+1050.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1051.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1052.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1053.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1054.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1055.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1056.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1057.0,E5,"<*> to <*>.<*>, stratum <*>"
+1058.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1059.0,E7,[<*>]: No topology change
+1060.0,E8,[<*>]: No configuration change required
+1061.0,E5,"<*> to <*>.<*>, stratum <*>"
+1062.0,E5,"<*> to <*>.<*>, stratum <*>"
+1063.0,E5,"<*> to <*>.<*>, stratum <*>"
+1064.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1065.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1066.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1067.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1068.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1069.0,E5,"<*> to <*>.<*>, stratum <*>"
+1070.0,E5,"<*> to <*>.<*>, stratum <*>"
+1071.0,E5,"<*> to <*>.<*>, stratum <*>"
+1072.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1073.0,E5,"<*> to <*>.<*>, stratum <*>"
+1074.0,E5,"<*> to <*>.<*>, stratum <*>"
+1075.0,E5,"<*> to <*>.<*>, stratum <*>"
+1076.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1077.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1078.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1079.0,E5,"<*> to <*>.<*>, stratum <*>"
+1080.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1081.0,E7,[<*>]: No topology change
+1082.0,E8,[<*>]: No configuration change required
+1083.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1084.0,E5,"<*> to <*>.<*>, stratum <*>"
+1085.0,E5,"<*> to <*>.<*>, stratum <*>"
+1086.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1087.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1088.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1089.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1090.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1091.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1092.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1093.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1094.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1095.0,E5,"<*> to <*>.<*>, stratum <*>"
+1096.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1097.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1098.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1099.0,E2,<*> opened for user <*> by (uid=*)
+1100.0,E27,(root) CMD (<*>)
+1101.0,E2,<*> opened for user <*> by (uid=*)
+1102.0,E27,(root) CMD (<*>)
+1103.0,E2,<*> opened for user <*> by (uid=*)
+1104.0,E27,(root) CMD (<*>)
+1105.0,E2,<*> opened for user <*> by (uid=*)
+1106.0,E27,(root) CMD (<*>)
+1107.0,E2,<*> opened for user <*> by (uid=*)
+1108.0,E27,(root) CMD (<*>)
+1109.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1110.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1111.0,E5,"<*> to <*>.<*>, stratum <*>"
+1112.0,E5,"<*> to <*>.<*>, stratum <*>"
+1113.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1114.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1115.0,E5,"<*> to <*>.<*>, stratum <*>"
+1116.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1117.0,E7,[<*>]: No topology change
+1118.0,E8,[<*>]: No configuration change required
+1119.0,E5,"<*> to <*>.<*>, stratum <*>"
+1120.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1121.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1122.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1123.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1124.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1125.0,E5,"<*> to <*>.<*>, stratum <*>"
+1126.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1127.0,E5,"<*> to <*>.<*>, stratum <*>"
+1128.0,E5,"<*> to <*>.<*>, stratum <*>"
+1129.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1130.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1131.0,E5,"<*> to <*>.<*>, stratum <*>"
+1132.0,E5,"<*> to <*>.<*>, stratum <*>"
+1133.0,E5,"<*> to <*>.<*>, stratum <*>"
+1134.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1135.0,E5,"<*> to <*>.<*>, stratum <*>"
+1136.0,E7,[<*>]: No topology change
+1137.0,E8,[<*>]: No configuration change required
+1138.0,E5,"<*> to <*>.<*>, stratum <*>"
+1139.0,E5,"<*> to <*>.<*>, stratum <*>"
+1140.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1141.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1142.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1143.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1144.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1145.0,E5,"<*> to <*>.<*>, stratum <*>"
+1146.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1147.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1148.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1149.0,E5,"<*> to <*>.<*>, stratum <*>"
+1150.0,E5,"<*> to <*>.<*>, stratum <*>"
+1151.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1152.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1153.0,E5,"<*> to <*>.<*>, stratum <*>"
+1154.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1155.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1156.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1157.0,E5,"<*> to <*>.<*>, stratum <*>"
+1158.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1159.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1160.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1161.0,E28,My unqualified host name (<*>); unknown; sleeping for retry
+1162.0,E28,My unqualified host name (<*>); unknown; sleeping for retry
+1163.0,E28,My unqualified host name (<*>); unknown; sleeping for retry
+1164.0,E5,"<*> to <*>.<*>, stratum <*>"
+1165.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1166.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1167.0,E28,My unqualified host name (<*>); unknown; sleeping for retry
+1168.0,E5,"<*> to <*>.<*>, stratum <*>"
+1169.0,E28,My unqualified host name (<*>); unknown; sleeping for retry
+1170.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1171.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1172.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1173.0,E5,"<*> to <*>.<*>, stratum <*>"
+1174.0,E7,[<*>]: No topology change
+1175.0,E8,[<*>]: No configuration change required
+1176.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1177.0,E5,"<*> to <*>.<*>, stratum <*>"
+1178.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1179.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1180.0,E5,"<*> to <*>.<*>, stratum <*>"
+1181.0,E29,CentOS-<*> (Kernel Module GPG key)
+1182.0,E30,(supports S0 S<*> S<*>)
+1183.0,E31,DSDT (v<*> DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000
+1184.0,E32,FADT (v<*> DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0
+1185.0,E33,HPET (v001 <*> <*> <*> 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c
+1186.0,E34,HPET id: <*> base: <*>
+1187.0,E35,INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)
+1188.0,E36,INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)
+1189.0,E37,IOAPIC (id[<*>] address[<*>] gsi_base[<*>])
+1190.0,E37,IOAPIC (id[<*>] address[<*>] gsi_base[<*>])
+1191.0,E37,IOAPIC (id[<*>] address[<*>] gsi_base[<*>])
+1192.0,E38,d used by override.
+1193.0,E38,d used by override.
+1194.0,E38,d used by override.
+1195.0,E39,d <*> <*> <*>
+1196.0,E40,LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+1197.0,E40,LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+1198.0,E40,LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+1199.0,E40,LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)
+1200.0,E41,LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])
+1201.0,E41,LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])
+1202.0,E41,LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])
+1203.0,E41,LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])
+1204.0,E42,Local APIC address <*>
+1205.0,E43,MADT (v<*> DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724
+1206.0,E44,0: MCFG (v001 <*> <*> <*> 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854
+1207.0,E45,PCI Interrupt Link [LNKA] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>
+1208.0,E46,PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 <*> 12)
+1209.0,E47,PCI Interrupt Link [LNKC] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>
+1210.0,E48,"PCI Interrupt Link [LNKE] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>), *<*> disabled."
+1211.0,E48,"PCI Interrupt Link [LNKE] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>), *<*> disabled."
+1212.0,E48,"PCI Interrupt Link [LNKE] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>), *<*> disabled."
+1213.0,E48,"PCI Interrupt Link [LNKE] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>), *<*> disabled."
+1214.0,E48,"PCI Interrupt Link [LNKE] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>), *<*> disabled."
+1215.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1216.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1217.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1218.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1219.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1220.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1221.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1222.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1223.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1224.0,E49,PCI Interrupt Routing Table [\_SB_.PCI0.PBHI.PXB1._PRT]
+1225.0,E50,PCI Root Bridge [PCI0] (<*>:<*>)
+1226.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1227.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1228.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1229.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1230.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1231.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1232.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1233.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1234.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1235.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1236.0,E51,"PCI interrupt <*>:<*>:<*>.0[A] -> GSI <*> (level, low) -> IRQ <*>"
+1237.0,E52,Power Button (<*>) [PWRF]
+1238.0,E53,Processor [CPU<*>] (supports C1)
+1239.0,E53,Processor [CPU<*>] (supports C1)
+1240.0,E53,Processor [CPU<*>] (supports C1)
+1241.0,E53,Processor [CPU<*>] (supports C1)
+1242.0,E54,RSDP (v<*> DELL ) @ 0x<*>
+1243.0,E55,RSDT (v001 DELL PE BKC <*> MSFT 0x0100000a) @ 0x00000000000fd664
+1244.0,E56,SPCR (v<*> DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc
+1245.0,E57,Subsystem revision <*>
+1246.0,E58,Using <*> for interrupt routing
+1247.0,E59,Intel(R) Xeon(TM) CPU <*>GHz stepping <*>
+1248.0,E60,L2 cache: <*>K
+1249.0,E60,L2 cache: <*>K
+1250.0,E60,L2 cache: <*>K
+1251.0,E60,L2 cache: <*>K
+1252.0,E60,L2 cache: <*>K
+1253.0,E61,Physical Processor ID: <*>
+1254.0,E61,Physical Processor ID: <*>
+1255.0,E61,Physical Processor ID: <*>
+1256.0,E61,Physical Processor ID: <*>
+1257.0,E61,Physical Processor ID: <*>
+1258.0,E62,"<*> Trace cache: <*> uops, L1 D cache: <*>"
+1259.0,E62,"<*> Trace cache: <*> uops, L1 D cache: <*>"
+1260.0,E62,"<*> Trace cache: <*> uops, L1 D cache: <*>"
+1261.0,E62,"<*> Trace cache: <*> uops, L1 D cache: <*>"
+1262.0,E62,"<*> Trace cache: <*> uops, L1 D cache: <*>"
+1263.0,E63,colour <*>+ <*>x<*>
+1264.0,E64,d filesystem with <*> data mode.
+1265.0,E64,d filesystem with <*> data mode.
+1266.0,E64,d filesystem with <*> data mode.
+1267.0,E65,sda<*>
+1268.0,E66,"apic_id <*>, version <*>, address <*>, GSI <*>"
+1269.0,E66,"apic_id <*>, version <*>, address <*>, GSI <*>"
+1270.0,E66,"apic_id <*>, version <*>, address <*>, GSI <*>"
+1271.0,E67,"d cache hash table of <*> buckets, <*>Kbytes"
+1272.0,E68,PCI Hot Plug PCI Core version: <*>
+1273.0,E69,"root=LABEL=/ initrd=/<*> console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/<*>"
+1274.0,E70,Registered protocol family <*>
+1275.0,E70,Registered protocol family <*>
+1276.0,E70,Registered protocol family <*>
+1277.0,E70,Registered protocol family <*>
+1278.0,E71,Using software bounce buffering for IO (<*>)
+1279.0,E72,Probing PCI hardware (bus <*>)
+1280.0,E73,Transparent bridge - <*>:00:<*>e.<*>
+1281.0,E74,Using <*> for IRQ routing
+1282.0,E75,Using MMCONFIG at <*>
+1283.0,E76,Using configuration type <*>
+1284.0,E77,Compressed image found at block <*>
+1285.0,E78,d at runtime.
+1286.0,E79,Initializing.
+1287.0,E80,R<*>istering netfilter h<*>oks
+1288.0,E81,Starting in <*> mode
+1289.0,E82,Unregistering netfilter hooks
+1290.0,E83,Hash tables configured (established <*> bind <*>)
+1291.0,E84,Direct-Access ANSI SCSI revision: <*>
+1292.0,E85,d: Processor ANSI SCSI revision: <*>
+1293.0,E86,Disk quotas dquot_<*>.<*>.<*>
+1294.0,E87,Mounted root (<*> filesystem).
+1295.0,E88,MegaRAID Model: LD <*> RAID1 <*>G Rev: <*>
+1296.0,E89,PE/PV Model: <*> SCSI BP Rev: <*>
+1297.0,E90,d
+1298.0,E91,initializing netlink socket (<*>)
+1299.0,E92,d: passed.
+1300.0,E93,d.d.d-ioctl (d-d-d) initialised: #d#@#d#
+1301.0,E94,allocating divert_blk for <*>
+1302.0,E94,allocating divert_blk for <*>
+1303.0,E95,not allocating divert_blk for non-ethernet device <*>
+1304.0,E96,d<*>.d:USB HID core driver
+1305.0,E97,<*>: <*>: e1000_probe: Intel(R) PRO/1000 Network Connection
+1306.0,E98,<*>: <*>: e1000_watchdog: NIC Link is Up <*> Mbps Full Duplex
+1307.0,E97,<*>: <*>: e1000_probe: Intel(R) PRO/1000 Network Connection
+1308.0,E99,no <*> controllers found
+1309.0,E100,CNG not <*>
+1310.0,E101,Wait for <*> failed before <*> !
+1311.0,E101,Wait for <*> failed before <*> !
+1312.0,E101,Wait for <*> failed before <*> !
+1313.0,E101,Wait for <*> failed before <*> !
+1314.0,E101,Wait for <*> failed before <*> !
+1315.0,E101,Wait for <*> failed before <*> !
+1316.0,E102,Assuming <*> system bus speed for PIO modes; override with idebus=xx
+1317.0,E103,Unknown cmd fd(<*>) cmd(<*>) arg(<*>) on /dev/sda
+1318.0,E104,(C) <*>-<*> Netfilter core team
+1319.0,E104,(C) <*>-<*> Netfilter core team
+1320.0,E104,(C) <*>-<*> Netfilter core team
+1321.0,E104,(C) <*>-<*> Netfilter core team
+1322.0,E105,I <*> <*> <*> <*>
+1323.0,E106,... autorun DONE.
+1324.0,E106,... autorun DONE.
+1325.0,E107,A<*>detecting R<*>D arra<*>s.
+1326.0,E107,A<*>detecting R<*>D arra<*>s.
+1327.0,E108,a<*>orun ...
+1328.0,E108,a<*>orun ...
+1329.0,E109,"<*> driver <*> MAX_MD_DEVS=256, MD_SB_DISKS=27"
+1330.0,E110,#<*># (Release Date: <*> <*> <*> <*>:<*>:<*>:<*>)
+1331.0,E110,#<*># (Release Date: <*> <*> <*> <*>:<*>:<*>:<*>)
+1332.0,E111,fw version:[<*>] bios version:[<*>]
+1333.0,E112,probe new device <*>:0x<*>:0x<*>:0x<*>: bus <*>:slot <*>:func <*>
+1334.0,E113,d <*> m device common for all <*>
+1335.0,E65,sda<*>
+1336.0,E114,d. statd startup <*>
+1337.0,E115,<*> startup succeeded
+1338.0,E116,d: Starting ts_fixup: <*>
+1339.0,E117,Version <*> Starting
+1340.0,E118,LSI Logic <*> driver
+1341.0,E119,scanning scsi channel <*> [Phy <*>] for non-raid devices
+1342.0,E120,scanning scsi channel <*> [virtual] for logical drives
+1343.0,E121,asking for <*> data failed
+1344.0,E122,assuming drive cache: <*> <*>
+1345.0,E65,sda<*>
+1346.0,E123,Registering <*> module capability
+1347.0,E124,"i8042 <*> port at 0x60,0x64 irq <*>"
+1348.0,E124,"i8042 <*> port at 0x60,0x64 irq <*>"
+1349.0,E125,<*>-ng startup <*>
+1350.0,E126,syslog-ng version <*> starting
+1351.0,E127,Detected <*> MHz processor.
+1352.0,E128,Using <*> MHz HPET timer.
+1353.0,E129,Using <*> based timekeeping.
+1354.0,E130,Creating Topspin /dev entries:
+1355.0,E131,registered new driver <*>
+1356.0,E132,<*> new driver <*>
+1357.0,E131,registered new driver <*>
+1358.0,E131,registered new driver <*>
+1359.0,E133,probe of vesafb<*> failed with error <*>
+1360.0,E5,"<*> to <*>.<*>, stratum <*>"
+1361.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1362.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1363.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1364.0,E5,"<*> to <*>.<*>, stratum <*>"
+1365.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1366.0,E5,"<*> to <*>.<*>, stratum <*>"
+1367.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1368.0,E7,[<*>]: No topology change
+1369.0,E8,[<*>]: No configuration change required
+1370.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1371.0,E134,"connection from ""<*>"""
+1372.0,E5,"<*> to <*>.<*>, stratum <*>"
+1373.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1374.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1375.0,E135,"User #<*>#, coming from #<*>#, authenticated."
+1376.0,E5,"<*> to <*>.<*>, stratum <*>"
+1377.0,E5,"<*> to <*>.<*>, stratum <*>"
+1378.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1379.0,E136,Now running on #<*>#'s privileges.
+1380.0,E9,Local disconnected: Connection <*>.
+1381.0,E10,c <*>: '<*> <*>.'
+1382.0,E137,Mounting NFS filesystems: <*>
+1383.0,E138,Mounting other filesystems: <*>
+1384.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1385.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1386.0,E139,Warning: we failed to resolve data source name <*>
+1387.0,E139,Warning: we failed to resolve data source name <*>
+1388.0,E139,Warning: we failed to resolve data source name <*>
+1389.0,E139,Warning: we failed to resolve data source name <*>
+1390.0,E139,Warning: we failed to resolve data source name <*>
+1391.0,E139,Warning: we failed to resolve data source name <*>
+1392.0,E139,Warning: we failed to resolve data source name <*>
+1393.0,E139,Warning: we failed to resolve data source name <*>
+1394.0,E139,Warning: we failed to resolve data source name <*>
+1395.0,E139,Warning: we failed to resolve data source name <*>
+1396.0,E139,Warning: we failed to resolve data source name <*>
+1397.0,E139,Warning: we failed to resolve data source name <*>
+1398.0,E139,Warning: we failed to resolve data source name <*>
+1399.0,E139,Warning: we failed to resolve data source name <*>
+1400.0,E139,Warning: we failed to resolve data source name <*>
+1401.0,E139,Warning: we failed to resolve data source name <*>
+1402.0,E134,"connection from ""<*>"""
+1403.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1404.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1405.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1406.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1407.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1408.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1409.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1410.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1411.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1412.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1413.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1414.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1415.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1416.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1417.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1418.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1419.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1420.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1421.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1422.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1423.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1424.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1425.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1426.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1427.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1428.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1429.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1430.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1431.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1432.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1433.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1434.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1435.0,E139,Warning: we failed to resolve data source name <*>
+1436.0,E139,Warning: we failed to resolve data source name <*>
+1437.0,E139,Warning: we failed to resolve data source name <*>
+1438.0,E139,Warning: we failed to resolve data source name <*>
+1439.0,E139,Warning: we failed to resolve data source name <*>
+1440.0,E139,Warning: we failed to resolve data source name <*>
+1441.0,E139,Warning: we failed to resolve data source name <*>
+1442.0,E139,Warning: we failed to resolve data source name <*>
+1443.0,E139,Warning: we failed to resolve data source name <*>
+1444.0,E139,Warning: we failed to resolve data source name <*>
+1445.0,E139,Warning: we failed to resolve data source name <*>
+1446.0,E139,Warning: we failed to resolve data source name <*>
+1447.0,E139,Warning: we failed to resolve data source name <*>
+1448.0,E139,Warning: we failed to resolve data source name <*>
+1449.0,E139,Warning: we failed to resolve data source name <*>
+1450.0,E139,Warning: we failed to resolve data source name <*>
+1451.0,E139,Warning: we failed to resolve data source name <*>
+1452.0,E139,Warning: we failed to resolve data source name <*>
+1453.0,E140,Warning: we failed to resolve trusted host name <*> <*>
+1454.0,E115,<*> startup succeeded
+1455.0,E136,Now running on #<*>#'s privileges.
+1456.0,E135,"User #<*>#, coming from #<*>#, authenticated."
+1457.0,E5,"<*> to <*>.<*>, stratum <*>"
+1458.0,E5,"<*> to <*>.<*>, stratum <*>"
+1459.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1460.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1461.0,E70,Registered protocol family <*>
+1462.0,E95,not allocating divert_blk for non-ethernet device <*>
+1463.0,E141,d: <*>cceeded
+1464.0,E142,Server listening on <*> port <*>.
+1465.0,E143,error: Bind to port <*> on <*> failed: Address already in use.
+1466.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1467.0,E5,"<*> to <*>.<*>, stratum <*>"
+1468.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1469.0,E144,Cannot open file /dev/<*> for writing (No such file or directory)
+1470.0,E145,Changing permissions on special file /dev/<*>
+1471.0,E5,"<*> to <*>.<*>, stratum <*>"
+1472.0,E5,"<*> to <*>.<*>, stratum <*>"
+1473.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1474.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1475.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1476.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1477.0,E5,"<*> to <*>.<*>, stratum <*>"
+1478.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1479.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1480.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1481.0,E5,"<*> to <*>.<*>, stratum <*>"
+1482.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1483.0,E141,d: <*>cceeded
+1484.0,E146,xinetd startup <*>
+1485.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1486.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1487.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1488.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1489.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1490.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1491.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1492.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1493.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1494.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1495.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1496.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1497.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1498.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1499.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1500.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1501.0,E147,Reading included configuration file: <*> [file=</etc/xinetd.d/krb5-telnet] [line=13]
+1502.0,E148,d: Started working: <*> available service
+1503.0,E149,r<*>oving chargen
+1504.0,E149,r<*>oving chargen
+1505.0,E150,r<*>moving d<*>ytime
+1506.0,E150,r<*>moving d<*>ytime
+1507.0,E151,r<*>moving <*>cho
+1508.0,E151,r<*>moving <*>cho
+1509.0,E152,removing <*>login
+1510.0,E153,r<*>oving <*>tp
+1511.0,E152,removing <*>login
+1512.0,E154,r<*>oving <*>shell
+1513.0,E155,r<*>moving <*>talk
+1514.0,E156,r<*>oving <*>rinter
+1515.0,E157,removing <*>
+1516.0,E158,r<*>oving telnet
+1517.0,E159,r<*>oving t<*>me
+1518.0,E159,r<*>oving t<*>me
+1519.0,E160,xinetd Version <*> started with libwrap <*> options compiled in.
+1520.0,E5,"<*> to <*>.<*>, stratum <*>"
+1521.0,E7,[<*>]: No topology change
+1522.0,E8,[<*>]: No configuration change required
+1523.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1524.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1525.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1526.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1527.0,E5,"<*> to <*>.<*>, stratum <*>"
+1528.0,E5,"<*> to <*>.<*>, stratum <*>"
+1529.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1530.0,E5,"<*> to <*>.<*>, stratum <*>"
+1531.0,E5,"<*> to <*>.<*>, stratum <*>"
+1532.0,E21,RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+1533.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1534.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1535.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1536.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1537.0,E7,[<*>]: No topology change
+1538.0,E8,[<*>]: No configuration change required
+1539.0,E5,"<*> to <*>.<*>, stratum <*>"
+1540.0,E5,"<*> to <*>.<*>, stratum <*>"
+1541.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1542.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1543.0,E5,"<*> to <*>.<*>, stratum <*>"
+1544.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1545.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1546.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1547.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1548.0,E5,"<*> to <*>.<*>, stratum <*>"
+1549.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1550.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1551.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1552.0,E5,"<*> to <*>.<*>, stratum <*>"
+1553.0,E5,"<*> to <*>.<*>, stratum <*>"
+1554.0,E5,"<*> to <*>.<*>, stratum <*>"
+1555.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1556.0,E5,"<*> to <*>.<*>, stratum <*>"
+1557.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1558.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1559.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1560.0,E5,"<*> to <*>.<*>, stratum <*>"
+1561.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1562.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1563.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1564.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1565.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1566.0,E7,[<*>]: No topology change
+1567.0,E8,[<*>]: No configuration change required
+1568.0,E1,<*> closed for user <*>
+1569.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+1570.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+1571.0,E11,unable to qualify my own domain name (<*>) -- using short name
+1572.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1573.0,E11,unable to qualify my own domain name (<*>) -- using short name
+1574.0,E11,unable to qualify my own domain name (<*>) -- using short name
+1575.0,E5,"<*> to <*>.<*>, stratum <*>"
+1576.0,E11,unable to qualify my own domain name (<*>) -- using short name
+1577.0,E11,unable to qualify my own domain name (<*>) -- using short name
+1578.0,E1,<*> closed for user <*>
+1579.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+1580.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+1581.0,E1,<*> closed for user <*>
+1582.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+1583.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+1584.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1585.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1586.0,E1,<*> closed for user <*>
+1587.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+1588.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+1589.0,E5,"<*> to <*>.<*>, stratum <*>"
+1590.0,E5,"<*> to <*>.<*>, stratum <*>"
+1591.0,E1,<*> closed for user <*>
+1592.0,E12,"0: j<*>9J<*>UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.j<*>9J<*>UvC004306@eadmin1>, relay=#7#@localhost"
+1593.0,E13,"0: jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]"
+1594.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1595.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1596.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1597.0,E5,"<*> to <*>.<*>, stratum <*>"
+1598.0,E5,"<*> to <*>.<*>, stratum <*>"
+1599.0,E5,"<*> to <*>.<*>, stratum <*>"
+1600.0,E5,"<*> to <*>.<*>, stratum <*>"
+1601.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1602.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1603.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1604.0,E5,"<*> to <*>.<*>, stratum <*>"
+1605.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1606.0,E5,"<*> to <*>.<*>, stratum <*>"
+1607.0,E5,"<*> to <*>.<*>, stratum <*>"
+1608.0,E5,"<*> to <*>.<*>, stratum <*>"
+1609.0,E5,"<*> to <*>.<*>, stratum <*>"
+1610.0,E7,[<*>]: No topology change
+1611.0,E8,[<*>]: No configuration change required
+1612.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1613.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1614.0,E5,"<*> to <*>.<*>, stratum <*>"
+1615.0,E5,"<*> to <*>.<*>, stratum <*>"
+1616.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1617.0,E5,"<*> to <*>.<*>, stratum <*>"
+1618.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1619.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1620.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1621.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1622.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1623.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1624.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1625.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1626.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1627.0,E5,"<*> to <*>.<*>, stratum <*>"
+1628.0,E5,"<*> to <*>.<*>, stratum <*>"
+1629.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1630.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1631.0,E5,"<*> to <*>.<*>, stratum <*>"
+1632.0,E5,"<*> to <*>.<*>, stratum <*>"
+1633.0,E5,"<*> to <*>.<*>, stratum <*>"
+1634.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1635.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1636.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1637.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1638.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1639.0,E7,[<*>]: No topology change
+1640.0,E8,[<*>]: No configuration change required
+1641.0,E5,"<*> to <*>.<*>, stratum <*>"
+1642.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1643.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1644.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1645.0,E5,"<*> to <*>.<*>, stratum <*>"
+1646.0,E5,"<*> to <*>.<*>, stratum <*>"
+1647.0,E5,"<*> to <*>.<*>, stratum <*>"
+1648.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1649.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1650.0,E5,"<*> to <*>.<*>, stratum <*>"
+1651.0,E5,"<*> to <*>.<*>, stratum <*>"
+1652.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1653.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1654.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1655.0,E5,"<*> to <*>.<*>, stratum <*>"
+1656.0,E5,"<*> to <*>.<*>, stratum <*>"
+1657.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1658.0,E7,[<*>]: No topology change
+1659.0,E8,[<*>]: No configuration change required
+1660.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1661.0,E5,"<*> to <*>.<*>, stratum <*>"
+1662.0,E5,"<*> to <*>.<*>, stratum <*>"
+1663.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1664.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1665.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1666.0,E5,"<*> to <*>.<*>, stratum <*>"
+1667.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1668.0,E5,"<*> to <*>.<*>, stratum <*>"
+1669.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1670.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1671.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1672.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1673.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1674.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1675.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1676.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1677.0,E5,"<*> to <*>.<*>, stratum <*>"
+1678.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1679.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1680.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1681.0,E5,"<*> to <*>.<*>, stratum <*>"
+1682.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1683.0,E7,[<*>]: No topology change
+1684.0,E8,[<*>]: No configuration change required
+1685.0,E5,"<*> to <*>.<*>, stratum <*>"
+1686.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1687.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1688.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1689.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1690.0,E5,"<*> to <*>.<*>, stratum <*>"
+1691.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1692.0,E5,"<*> to <*>.<*>, stratum <*>"
+1693.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1694.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1695.0,E5,"<*> to <*>.<*>, stratum <*>"
+1696.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1697.0,E5,"<*> to <*>.<*>, stratum <*>"
+1698.0,E5,"<*> to <*>.<*>, stratum <*>"
+1699.0,E5,"<*> to <*>.<*>, stratum <*>"
+1700.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1701.0,E5,"<*> to <*>.<*>, stratum <*>"
+1702.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1703.0,E5,"<*> to <*>.<*>, stratum <*>"
+1704.0,E7,[<*>]: No topology change
+1705.0,E8,[<*>]: No configuration change required
+1706.0,E5,"<*> to <*>.<*>, stratum <*>"
+1707.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1708.0,E5,"<*> to <*>.<*>, stratum <*>"
+1709.0,E5,"<*> to <*>.<*>, stratum <*>"
+1710.0,E5,"<*> to <*>.<*>, stratum <*>"
+1711.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1712.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1713.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1714.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1715.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1716.0,E5,"<*> to <*>.<*>, stratum <*>"
+1717.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1718.0,E5,"<*> to <*>.<*>, stratum <*>"
+1719.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1720.0,E5,"<*> to <*>.<*>, stratum <*>"
+1721.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1722.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1723.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1724.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1725.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1726.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1727.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1728.0,E7,[<*>]: No topology change
+1729.0,E8,[<*>]: No configuration change required
+1730.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1731.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1732.0,E5,"<*> to <*>.<*>, stratum <*>"
+1733.0,E5,"<*> to <*>.<*>, stratum <*>"
+1734.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1735.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1736.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1737.0,E5,"<*> to <*>.<*>, stratum <*>"
+1738.0,E5,"<*> to <*>.<*>, stratum <*>"
+1739.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1740.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1741.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1742.0,E5,"<*> to <*>.<*>, stratum <*>"
+1743.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1744.0,E5,"<*> to <*>.<*>, stratum <*>"
+1745.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1746.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1747.0,E5,"<*> to <*>.<*>, stratum <*>"
+1748.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1749.0,E5,"<*> to <*>.<*>, stratum <*>"
+1750.0,E5,"<*> to <*>.<*>, stratum <*>"
+1751.0,E5,"<*> to <*>.<*>, stratum <*>"
+1752.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1753.0,E5,"<*> to <*>.<*>, stratum <*>"
+1754.0,E5,"<*> to <*>.<*>, stratum <*>"
+1755.0,E7,[<*>]: No topology change
+1756.0,E8,[<*>]: No configuration change required
+1757.0,E5,"<*> to <*>.<*>, stratum <*>"
+1758.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1759.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1760.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1761.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1762.0,E5,"<*> to <*>.<*>, stratum <*>"
+1763.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1764.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1765.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1766.0,E5,"<*> to <*>.<*>, stratum <*>"
+1767.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1768.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1769.0,E5,"<*> to <*>.<*>, stratum <*>"
+1770.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1771.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1772.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1773.0,E5,"<*> to <*>.<*>, stratum <*>"
+1774.0,E5,"<*> to <*>.<*>, stratum <*>"
+1775.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1776.0,E5,"<*> to <*>.<*>, stratum <*>"
+1777.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1778.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1779.0,E7,[<*>]: No topology change
+1780.0,E8,[<*>]: No configuration change required
+1781.0,E5,"<*> to <*>.<*>, stratum <*>"
+1782.0,E5,"<*> to <*>.<*>, stratum <*>"
+1783.0,E5,"<*> to <*>.<*>, stratum <*>"
+1784.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1785.0,E5,"<*> to <*>.<*>, stratum <*>"
+1786.0,E5,"<*> to <*>.<*>, stratum <*>"
+1787.0,E5,"<*> to <*>.<*>, stratum <*>"
+1788.0,E5,"<*> to <*>.<*>, stratum <*>"
+1789.0,E5,"<*> to <*>.<*>, stratum <*>"
+1790.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1791.0,E5,"<*> to <*>.<*>, stratum <*>"
+1792.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1793.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1794.0,E5,"<*> to <*>.<*>, stratum <*>"
+1795.0,E5,"<*> to <*>.<*>, stratum <*>"
+1796.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1797.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1798.0,E5,"<*> to <*>.<*>, stratum <*>"
+1799.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1800.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1801.0,E5,"<*> to <*>.<*>, stratum <*>"
+1802.0,E5,"<*> to <*>.<*>, stratum <*>"
+1803.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1804.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1805.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1806.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1807.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1808.0,E5,"<*> to <*>.<*>, stratum <*>"
+1809.0,E5,"<*> to <*>.<*>, stratum <*>"
+1810.0,E5,"<*> to <*>.<*>, stratum <*>"
+1811.0,E5,"<*> to <*>.<*>, stratum <*>"
+1812.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1813.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1814.0,E7,[<*>]: No topology change
+1815.0,E8,[<*>]: No configuration change required
+1816.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1817.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1818.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1819.0,E5,"<*> to <*>.<*>, stratum <*>"
+1820.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1821.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1822.0,E5,"<*> to <*>.<*>, stratum <*>"
+1823.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1824.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1825.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1826.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1827.0,E5,"<*> to <*>.<*>, stratum <*>"
+1828.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1829.0,E5,"<*> to <*>.<*>, stratum <*>"
+1830.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1831.0,E7,[<*>]: No topology change
+1832.0,E8,[<*>]: No configuration change required
+1833.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1834.0,E5,"<*> to <*>.<*>, stratum <*>"
+1835.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1836.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1837.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1838.0,E5,"<*> to <*>.<*>, stratum <*>"
+1839.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1840.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1841.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1842.0,E9,Local disconnected: Connection <*>.
+1843.0,E10,c <*>: '<*> <*>.'
+1844.0,E5,"<*> to <*>.<*>, stratum <*>"
+1845.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1846.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1847.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1848.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1849.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1850.0,E5,"<*> to <*>.<*>, stratum <*>"
+1851.0,E5,"<*> to <*>.<*>, stratum <*>"
+1852.0,E5,"<*> to <*>.<*>, stratum <*>"
+1853.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1854.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1855.0,E5,"<*> to <*>.<*>, stratum <*>"
+1856.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1857.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1858.0,E7,[<*>]: No topology change
+1859.0,E8,[<*>]: No configuration change required
+1860.0,E5,"<*> to <*>.<*>, stratum <*>"
+1861.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1862.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1863.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1864.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1865.0,E5,"<*> to <*>.<*>, stratum <*>"
+1866.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1867.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1868.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1869.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1870.0,E5,"<*> to <*>.<*>, stratum <*>"
+1871.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1872.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1873.0,E5,"<*> to <*>.<*>, stratum <*>"
+1874.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1875.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1876.0,E7,[<*>]: No topology change
+1877.0,E8,[<*>]: No configuration change required
+1878.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1879.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1880.0,E5,"<*> to <*>.<*>, stratum <*>"
+1881.0,E5,"<*> to <*>.<*>, stratum <*>"
+1882.0,E5,"<*> to <*>.<*>, stratum <*>"
+1883.0,E5,"<*> to <*>.<*>, stratum <*>"
+1884.0,E5,"<*> to <*>.<*>, stratum <*>"
+1885.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1886.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1887.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1888.0,E5,"<*> to <*>.<*>, stratum <*>"
+1889.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1890.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1891.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1892.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1893.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1894.0,E5,"<*> to <*>.<*>, stratum <*>"
+1895.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1896.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1897.0,E5,"<*> to <*>.<*>, stratum <*>"
+1898.0,E7,[<*>]: No topology change
+1899.0,E8,[<*>]: No configuration change required
+1900.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1901.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1902.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1903.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1904.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1905.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1906.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1907.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1908.0,E5,"<*> to <*>.<*>, stratum <*>"
+1909.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1910.0,E5,"<*> to <*>.<*>, stratum <*>"
+1911.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1912.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1913.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1914.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1915.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1916.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1917.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1918.0,E7,[<*>]: No topology change
+1919.0,E8,[<*>]: No configuration change required
+1920.0,E5,"<*> to <*>.<*>, stratum <*>"
+1921.0,E5,"<*> to <*>.<*>, stratum <*>"
+1922.0,E5,"<*> to <*>.<*>, stratum <*>"
+1923.0,E5,"<*> to <*>.<*>, stratum <*>"
+1924.0,E5,"<*> to <*>.<*>, stratum <*>"
+1925.0,E5,"<*> to <*>.<*>, stratum <*>"
+1926.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1927.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1928.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1929.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1930.0,E5,"<*> to <*>.<*>, stratum <*>"
+1931.0,E5,"<*> to <*>.<*>, stratum <*>"
+1932.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1933.0,E5,"<*> to <*>.<*>, stratum <*>"
+1934.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1935.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1936.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1937.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1938.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1939.0,E5,"<*> to <*>.<*>, stratum <*>"
+1940.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1941.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1942.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1943.0,E7,[<*>]: No topology change
+1944.0,E8,[<*>]: No configuration change required
+1945.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1946.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1947.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1948.0,E5,"<*> to <*>.<*>, stratum <*>"
+1949.0,E5,"<*> to <*>.<*>, stratum <*>"
+1950.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1951.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1952.0,E161,"Device: /dev<sda>, Temperature changed <-2> Celsius to <26> Celsius since last report"
+1953.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1954.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1955.0,E5,"<*> to <*>.<*>, stratum <*>"
+1956.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1957.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1958.0,E5,"<*> to <*>.<*>, stratum <*>"
+1959.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1960.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1961.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1962.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1963.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1964.0,E7,[<*>]: No topology change
+1965.0,E8,[<*>]: No configuration change required
+1966.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1967.0,E5,"<*> to <*>.<*>, stratum <*>"
+1968.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1969.0,E5,"<*> to <*>.<*>, stratum <*>"
+1970.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1971.0,E5,"<*> to <*>.<*>, stratum <*>"
+1972.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1973.0,E5,"<*> to <*>.<*>, stratum <*>"
+1974.0,E5,"<*> to <*>.<*>, stratum <*>"
+1975.0,E5,"<*> to <*>.<*>, stratum <*>"
+1976.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1977.0,E5,"<*> to <*>.<*>, stratum <*>"
+1978.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1979.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1980.0,E5,"<*> to <*>.<*>, stratum <*>"
+1981.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1982.0,E6,[<*>:1831]: ********************** NEW SWEEP ********************
+1983.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1984.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1985.0,E5,"<*> to <*>.<*>, stratum <*>"
+1986.0,E5,"<*> to <*>.<*>, stratum <*>"
+1987.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1988.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1989.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1990.0,E7,[<*>]: No topology change
+1991.0,E8,[<*>]: No configuration change required
+1992.0,E5,"<*> to <*>.<*>, stratum <*>"
+1993.0,E5,"<*> to <*>.<*>, stratum <*>"
+1994.0,E5,"<*> to <*>.<*>, stratum <*>"
+1995.0,E5,"<*> to <*>.<*>, stratum <*>"
+1996.0,E4,d_thread() got not answer from any [Thunderbird_A*] datasource
+1997.0,E5,"<*> to <*>.<*>, stratum <*>"
+1998.0,E5,"<*> to <*>.<*>, stratum <*>"
+1999.0,E5,"<*> to <*>.<*>, stratum <*>"

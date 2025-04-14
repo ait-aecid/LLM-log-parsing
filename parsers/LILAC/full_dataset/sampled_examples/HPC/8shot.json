@@ -1,0 +1,8 @@
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "running", "answer": "running"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "NIFF: node node-87 has detected an available network connection on network 5.5.224.0 via interface alt0", "answer": "NIFF: node {variables} has detected an available network connection on network {variables} via interface alt0"}
+{"query": "ambient=29", "answer": "ambient={variables}"}
+{"query": "Linkerror event interval expired", "answer": "Linkerror event interval expired"}
+{"query": "ambient=33", "answer": "ambient={variables}"}
+{"query": "boot  (command 4223)", "answer": "boot (command {variables})"}

@@ -1,0 +1,4 @@
+{"query": "auxiliary processor.........................0", "answer": "auxiliary processor.........................{variables}"}
+{"query": "debug wait enable.................0", "answer": "debug wait enable.................{variables}"}
+{"query": "MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)", "answer": "MACHINE CHECK DCR read timeout (mc={variables} iar {variables} lr {variables})"}
+{"query": "ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41060, Connection timed out", "answer": "ciod: Error reading message prefix on CioStream socket to {variables}:{variables}, Connection timed out"}

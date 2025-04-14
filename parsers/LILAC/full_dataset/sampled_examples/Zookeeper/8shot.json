@@ -1,0 +1,8 @@
+{"query": "Interrupted while waiting for message on queue", "answer": "Interrupted while waiting for message on queue"}
+{"query": "Cannot open channel to 3 at election address /10.10.34.13:3888", "answer": "Cannot open channel to {variables} at election address {variables}"}
+{"query": "Send worker leaving thread", "answer": "Send worker leaving thread"}
+{"query": "Received connection request /10.10.34.13:59016", "answer": "Received connection request {variables}"}
+{"query": "Processed session termination for sessionid: 0x14ed93111f200a7", "answer": "Processed session termination for sessionid: {variables}"}
+{"query": "Send worker leaving thread", "answer": "Send worker leaving thread"}
+{"query": "Interrupted while waiting for message on queue", "answer": "Interrupted while waiting for message on queue"}
+{"query": "Interrupting SendWorker", "answer": "Interrupting SendWorker"}

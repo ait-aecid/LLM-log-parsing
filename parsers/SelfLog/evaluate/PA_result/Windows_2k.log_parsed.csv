@@ -1,0 +1,2001 @@
+Unnamed: 0,EventId,template
+0.0,E1,Loaded Servicing Stack v<*> with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_<*>_none_<*>\cbscore.dll
+1.0,E2,0: <*>@<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>.<*>.<*>.<*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>)
+2.0,E2,0: <*>@<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>.<*>.<*>.<*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>)
+3.0,E2,0: <*>@<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>.<*>.<*>.<*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>)
+4.0,E3,Ending <*> initialization.
+5.0,E4,Starting the <*> main loop.
+6.0,E5,<*> service starts successfully.
+7.0,E6,SQM: Initializing online with Windows opt-in: <*>
+8.0,E7,SQM: Cleaning up report files older than <*> days.
+9.0,E8,SQM: Requesting upload of all unsent reports.
+10.0,E9,"SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\<*>_std.sqm, flags: 0x<*> [HRESULT = 0x<*> - E_FAIL]"
+11.0,E10,SQM: Failed to start standard sample upload. [HRESULT = 0x<*> - E_FAIL]
+12.0,E11,"SQM: Queued <*> file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: <*>"
+13.0,E12,0: SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*> - E_FAIL]
+14.0,E13,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending."
+15.0,E14,N<*>nStart: C<*>cking to ensure startup processing was n<*>t required.
+16.0,E15,"dAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @<*>"
+17.0,E16,"Creating NT transaction (seq <*>), objectname [6]""(null)"""
+18.0,E17,"0000000e Created NT transaction (seq <*>) result 0x00000000, handle @0xb8"
+19.0,E18,0000000f@<*>:20:40:54.786 CSI perf trace:
+20.0,E19,"d: NonStart: Success, startup processing <*> required as expected."
+21.0,E20,<*> processing thread terminated normally
+22.0,E21,0000000a CSI Store <*> (0x000000000105d5b0) initialized
+23.0,E22,Session: <*> initialized by client <*>.
+24.0,E22,Session: <*> initialized by client <*>.
+25.0,E23,d: Warning: Unrecognized packageExtended attribute.
+26.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+27.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+28.0,E23,d: Warning: Unrecognized packageExtended attribute.
+29.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+30.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+31.0,E23,d: Warning: Unrecognized packageExtended attribute.
+32.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+33.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+34.0,E23,d: Warning: Unrecognized packageExtended attribute.
+35.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+36.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+37.0,E23,d: Warning: Unrecognized packageExtended attribute.
+38.0,E23,d: Warning: Unrecognized packageExtended attribute.
+39.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+40.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+41.0,E23,d: Warning: Unrecognized packageExtended attribute.
+42.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+43.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+44.0,E23,d: Warning: Unrecognized packageExtended attribute.
+45.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+46.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+47.0,E23,d: Warning: Unrecognized packageExtended attribute.
+48.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+49.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+50.0,E23,d: Warning: Unrecognized packageExtended attribute.
+51.0,E23,d: Warning: Unrecognized packageExtended attribute.
+52.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+53.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+54.0,E23,d: Warning: Unrecognized packageExtended attribute.
+55.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+56.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+57.0,E23,d: Warning: Unrecognized packageExtended attribute.
+58.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+59.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+60.0,E23,d: Warning: Unrecognized packageExtended attribute.
+61.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+62.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+63.0,E23,d: Warning: Unrecognized packageExtended attribute.
+64.0,E23,d: Warning: Unrecognized packageExtended attribute.
+65.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+66.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+67.0,E23,d: Warning: Unrecognized packageExtended attribute.
+68.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+69.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+70.0,E23,d: Warning: Unrecognized packageExtended attribute.
+71.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+72.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+73.0,E23,d: Warning: Unrecognized packageExtended attribute.
+74.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+75.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+76.0,E23,d: Warning: Unrecognized packageExtended attribute.
+77.0,E23,d: Warning: Unrecognized packageExtended attribute.
+78.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+79.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+80.0,E23,d: Warning: Unrecognized packageExtended attribute.
+81.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+82.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+83.0,E23,d: Warning: Unrecognized packageExtended attribute.
+84.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+85.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+86.0,E23,d: Warning: Unrecognized packageExtended attribute.
+87.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+88.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+89.0,E23,d: Warning: Unrecognized packageExtended attribute.
+90.0,E23,d: Warning: Unrecognized packageExtended attribute.
+91.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+92.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+93.0,E23,d: Warning: Unrecognized packageExtended attribute.
+94.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+95.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+96.0,E23,d: Warning: Unrecognized packageExtended attribute.
+97.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+98.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+99.0,E23,d: Warning: Unrecognized packageExtended attribute.
+100.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+101.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+102.0,E23,d: Warning: Unrecognized packageExtended attribute.
+103.0,E23,d: Warning: Unrecognized packageExtended attribute.
+104.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+105.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+106.0,E23,d: Warning: Unrecognized packageExtended attribute.
+107.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+108.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+109.0,E23,d: Warning: Unrecognized packageExtended attribute.
+110.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+111.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+112.0,E23,d: Warning: Unrecognized packageExtended attribute.
+113.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+114.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+115.0,E23,d: Warning: Unrecognized packageExtended attribute.
+116.0,E23,d: Warning: Unrecognized packageExtended attribute.
+117.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+118.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+119.0,E23,d: Warning: Unrecognized packageExtended attribute.
+120.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+121.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+122.0,E23,d: Warning: Unrecognized packageExtended attribute.
+123.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+124.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+125.0,E23,d: Warning: Unrecognized packageExtended attribute.
+126.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+127.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+128.0,E23,d: Warning: Unrecognized packageExtended attribute.
+129.0,E22,Session: <*> initialized by client <*>.
+130.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+131.0,E22,Session: <*> initialized by client <*>.
+132.0,E22,Session: <*> initialized by client <*>.
+133.0,E23,d: Warning: Unrecognized packageExtended attribute.
+134.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+135.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+136.0,E23,d: Warning: Unrecognized packageExtended attribute.
+137.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+138.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+139.0,E23,d: Warning: Unrecognized packageExtended attribute.
+140.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+141.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+142.0,E23,d: Warning: Unrecognized packageExtended attribute.
+143.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+144.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+145.0,E23,d: Warning: Unrecognized packageExtended attribute.
+146.0,E23,d: Warning: Unrecognized packageExtended attribute.
+147.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+148.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+149.0,E23,d: Warning: Unrecognized packageExtended attribute.
+150.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+151.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+152.0,E23,d: Warning: Unrecognized packageExtended attribute.
+153.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+154.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+155.0,E23,d: Warning: Unrecognized packageExtended attribute.
+156.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+157.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+158.0,E23,d: Warning: Unrecognized packageExtended attribute.
+159.0,E23,d: Warning: Unrecognized packageExtended attribute.
+160.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+161.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+162.0,E23,d: Warning: Unrecognized packageExtended attribute.
+163.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+164.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+165.0,E23,d: Warning: Unrecognized packageExtended attribute.
+166.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+167.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+168.0,E23,d: Warning: Unrecognized packageExtended attribute.
+169.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+170.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+171.0,E23,d: Warning: Unrecognized packageExtended attribute.
+172.0,E23,d: Warning: Unrecognized packageExtended attribute.
+173.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+174.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+175.0,E23,d: Warning: Unrecognized packageExtended attribute.
+176.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+177.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+178.0,E23,d: Warning: Unrecognized packageExtended attribute.
+179.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+180.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+181.0,E23,d: Warning: Unrecognized packageExtended attribute.
+182.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+183.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+184.0,E23,d: Warning: Unrecognized packageExtended attribute.
+185.0,E23,d: Warning: Unrecognized packageExtended attribute.
+186.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+187.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+188.0,E23,d: Warning: Unrecognized packageExtended attribute.
+189.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+190.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+191.0,E23,d: Warning: Unrecognized packageExtended attribute.
+192.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+193.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+194.0,E23,d: Warning: Unrecognized packageExtended attribute.
+195.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+196.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+197.0,E23,d: Warning: Unrecognized packageExtended attribute.
+198.0,E23,d: Warning: Unrecognized packageExtended attribute.
+199.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+200.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+201.0,E23,d: Warning: Unrecognized packageExtended attribute.
+202.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+203.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+204.0,E23,d: Warning: Unrecognized packageExtended attribute.
+205.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+206.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+207.0,E23,d: Warning: Unrecognized packageExtended attribute.
+208.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+209.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+210.0,E23,d: Warning: Unrecognized packageExtended attribute.
+211.0,E23,d: Warning: Unrecognized packageExtended attribute.
+212.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+213.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+214.0,E23,d: Warning: Unrecognized packageExtended attribute.
+215.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+216.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+217.0,E23,d: Warning: Unrecognized packageExtended attribute.
+218.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+219.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+220.0,E23,d: Warning: Unrecognized packageExtended attribute.
+221.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+222.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+223.0,E23,d: Warning: Unrecognized packageExtended attribute.
+224.0,E23,d: Warning: Unrecognized packageExtended attribute.
+225.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+226.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+227.0,E23,d: Warning: Unrecognized packageExtended attribute.
+228.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+229.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+230.0,E23,d: Warning: Unrecognized packageExtended attribute.
+231.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+232.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+233.0,E23,d: Warning: Unrecognized packageExtended attribute.
+234.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+235.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+236.0,E23,d: Warning: Unrecognized packageExtended attribute.
+237.0,E22,Session: <*> initialized by client <*>.
+238.0,E23,d: Warning: Unrecognized packageExtended attribute.
+239.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+240.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+241.0,E23,d: Warning: Unrecognized packageExtended attribute.
+242.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+243.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+244.0,E23,d: Warning: Unrecognized packageExtended attribute.
+245.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+246.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+247.0,E23,d: Warning: Unrecognized packageExtended attribute.
+248.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+249.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+250.0,E23,d: Warning: Unrecognized packageExtended attribute.
+251.0,E23,d: Warning: Unrecognized packageExtended attribute.
+252.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+253.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+254.0,E23,d: Warning: Unrecognized packageExtended attribute.
+255.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+256.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+257.0,E23,d: Warning: Unrecognized packageExtended attribute.
+258.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+259.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+260.0,E23,d: Warning: Unrecognized packageExtended attribute.
+261.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+262.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+263.0,E23,d: Warning: Unrecognized packageExtended attribute.
+264.0,E23,d: Warning: Unrecognized packageExtended attribute.
+265.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+266.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+267.0,E23,d: Warning: Unrecognized packageExtended attribute.
+268.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+269.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+270.0,E23,d: Warning: Unrecognized packageExtended attribute.
+271.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+272.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+273.0,E23,d: Warning: Unrecognized packageExtended attribute.
+274.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+275.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+276.0,E23,d: Warning: Unrecognized packageExtended attribute.
+277.0,E23,d: Warning: Unrecognized packageExtended attribute.
+278.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+279.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+280.0,E23,d: Warning: Unrecognized packageExtended attribute.
+281.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+282.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+283.0,E23,d: Warning: Unrecognized packageExtended attribute.
+284.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+285.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+286.0,E23,d: Warning: Unrecognized packageExtended attribute.
+287.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+288.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+289.0,E23,d: Warning: Unrecognized packageExtended attribute.
+290.0,E23,d: Warning: Unrecognized packageExtended attribute.
+291.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+292.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+293.0,E23,d: Warning: Unrecognized packageExtended attribute.
+294.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+295.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+296.0,E23,d: Warning: Unrecognized packageExtended attribute.
+297.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+298.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+299.0,E23,d: Warning: Unrecognized packageExtended attribute.
+300.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+301.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+302.0,E23,d: Warning: Unrecognized packageExtended attribute.
+303.0,E23,d: Warning: Unrecognized packageExtended attribute.
+304.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+305.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+306.0,E23,d: Warning: Unrecognized packageExtended attribute.
+307.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+308.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+309.0,E23,d: Warning: Unrecognized packageExtended attribute.
+310.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+311.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+312.0,E23,d: Warning: Unrecognized packageExtended attribute.
+313.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+314.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+315.0,E23,d: Warning: Unrecognized packageExtended attribute.
+316.0,E23,d: Warning: Unrecognized packageExtended attribute.
+317.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+318.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+319.0,E23,d: Warning: Unrecognized packageExtended attribute.
+320.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+321.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+322.0,E23,d: Warning: Unrecognized packageExtended attribute.
+323.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+324.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+325.0,E23,d: Warning: Unrecognized packageExtended attribute.
+326.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+327.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+328.0,E23,d: Warning: Unrecognized packageExtended attribute.
+329.0,E23,d: Warning: Unrecognized packageExtended attribute.
+330.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+331.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+332.0,E23,d: Warning: Unrecognized packageExtended attribute.
+333.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+334.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+335.0,E23,d: Warning: Unrecognized packageExtended attribute.
+336.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+337.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+338.0,E23,d: Warning: Unrecognized packageExtended attribute.
+339.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+340.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+341.0,E23,d: Warning: Unrecognized packageExtended attribute.
+342.0,E22,Session: <*> initialized by client <*>.
+343.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+344.0,E22,Session: <*> initialized by client <*>.
+345.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+346.0,E22,Session: <*> initialized by client <*>.
+347.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+348.0,E22,Session: <*> initialized by client <*>.
+349.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+350.0,E22,Session: <*> initialized by client <*>.
+351.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+352.0,E22,Session: <*> initialized by client <*>.
+353.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+354.0,E22,Session: <*> initialized by client <*>.
+355.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+356.0,E22,Session: <*> initialized by client <*>.
+357.0,E22,Session: <*> initialized by client <*>.
+358.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+359.0,E22,Session: <*> initialized by client <*>.
+360.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+361.0,E22,Session: <*> initialized by client <*>.
+362.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+363.0,E22,Session: <*> initialized by client <*>.
+364.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+365.0,E22,Session: <*> initialized by client <*>.
+366.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+367.0,E22,Session: <*> initialized by client <*>.
+368.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+369.0,E22,Session: <*> initialized by client <*>.
+370.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+371.0,E22,Session: <*> initialized by client <*>.
+372.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+373.0,E22,Session: <*> initialized by client <*>.
+374.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+375.0,E22,Session: <*> initialized by client <*>.
+376.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+377.0,E22,Session: <*> initialized by client <*>.
+378.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+379.0,E22,Session: <*> initialized by client <*>.
+380.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+381.0,E22,Session: <*> initialized by client <*>.
+382.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+383.0,E22,Session: <*> initialized by client <*>.
+384.0,E22,Session: <*> initialized by client <*>.
+385.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+386.0,E22,Session: <*> initialized by client <*>.
+387.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+388.0,E22,Session: <*> initialized by client <*>.
+389.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+390.0,E22,Session: <*> initialized by client <*>.
+391.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+392.0,E22,Session: <*> initialized by client <*>.
+393.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+394.0,E22,Session: <*> initialized by client <*>.
+395.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+396.0,E22,Session: <*> initialized by client <*>.
+397.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+398.0,E22,Session: <*> initialized by client <*>.
+399.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+400.0,E22,Session: <*> initialized by client <*>.
+401.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+402.0,E22,Session: <*> initialized by client <*>.
+403.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+404.0,E22,Session: <*> initialized by client <*>.
+405.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+406.0,E22,Session: <*> initialized by client <*>.
+407.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+408.0,E22,Session: <*> initialized by client <*>.
+409.0,E22,Session: <*> initialized by client <*>.
+410.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+411.0,E22,Session: <*> initialized by client <*>.
+412.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+413.0,E22,Session: <*> initialized by client <*>.
+414.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+415.0,E22,Session: <*> initialized by client <*>.
+416.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+417.0,E22,Session: <*> initialized by client <*>.
+418.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+419.0,E22,Session: <*> initialized by client <*>.
+420.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+421.0,E22,Session: <*> initialized by client <*>.
+422.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+423.0,E22,Session: <*> initialized by client <*>.
+424.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+425.0,E22,Session: <*> initialized by client <*>.
+426.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+427.0,E22,Session: <*> initialized by client <*>.
+428.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+429.0,E22,Session: <*> initialized by client <*>.
+430.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+431.0,E22,Session: <*> initialized by client <*>.
+432.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+433.0,E22,Session: <*> initialized by client <*>.
+434.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+435.0,E22,Session: <*> initialized by client <*>.
+436.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+437.0,E22,Session: <*> initialized by client <*>.
+438.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+439.0,E22,Session: <*> initialized by client <*>.
+440.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+441.0,E22,Session: <*> initialized by client <*>.
+442.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+443.0,E22,Session: <*> initialized by client <*>.
+444.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+445.0,E22,Session: <*> initialized by client <*>.
+446.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+447.0,E22,Session: <*> initialized by client <*>.
+448.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+449.0,E22,Session: <*> initialized by client <*>.
+450.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+451.0,E22,Session: <*> initialized by client <*>.
+452.0,E28,"Read out cached package applicability for package: Microsoft-Windows-PlatformUpdate-Win7-SRV08R2-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.1.7601.16492, ApplicableState: <*>, CurrentState:<*>"
+453.0,E22,Session: <*> initialized by client <*>.
+454.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+455.0,E22,Session: <*> initialized by client <*>.
+456.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+457.0,E22,Session: <*> initialized by client <*>.
+458.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+459.0,E22,Session: <*> initialized by client <*>.
+460.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+461.0,E22,Session: <*> initialized by client <*>.
+462.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+463.0,E22,Session: <*> initialized by client <*>.
+464.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+465.0,E22,Session: <*> initialized by client <*>.
+466.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+467.0,E22,Session: <*> initialized by client <*>.
+468.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+469.0,E22,Session: <*> initialized by client <*>.
+470.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+471.0,E22,Session: <*> initialized by client <*>.
+472.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+473.0,E22,Session: <*> initialized by client <*>.
+474.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+475.0,E22,Session: <*> initialized by client <*>.
+476.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+477.0,E22,Session: <*> initialized by client <*>.
+478.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+479.0,E22,Session: <*> initialized by client <*>.
+480.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+481.0,E22,Session: <*> initialized by client <*>.
+482.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+483.0,E22,Session: <*> initialized by client <*>.
+484.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+485.0,E22,Session: <*> initialized by client <*>.
+486.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+487.0,E22,Session: <*> initialized by client <*>.
+488.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+489.0,E22,Session: <*> initialized by client <*>.
+490.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+491.0,E22,Session: <*> initialized by client <*>.
+492.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+493.0,E22,Session: <*> initialized by client <*>.
+494.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+495.0,E22,Session: <*> initialized by client <*>.
+496.0,E30,"Read out cached package applicability for package: Microsoft-Windows-RDP-<*>-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.<*>, ApplicableState: <*>, CurrentState:<*>"
+497.0,E22,Session: <*> initialized by client <*>.
+498.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+499.0,E22,Session: <*> initialized by client <*>.
+500.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+501.0,E22,Session: <*> initialized by client <*>.
+502.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+503.0,E22,Session: <*> initialized by client <*>.
+504.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+505.0,E22,Session: <*> initialized by client <*>.
+506.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+507.0,E22,Session: <*> initialized by client <*>.
+508.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+509.0,E22,Session: <*> initialized by client <*>.
+510.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+511.0,E22,Session: <*> initialized by client <*>.
+512.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+513.0,E22,Session: <*> initialized by client <*>.
+514.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+515.0,E22,Session: <*> initialized by client <*>.
+516.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+517.0,E22,Session: <*> initialized by client <*>.
+518.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+519.0,E22,Session: <*> initialized by client <*>.
+520.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+521.0,E22,Session: <*> initialized by client <*>.
+522.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+523.0,E22,Session: <*> initialized by client <*>.
+524.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+525.0,E22,Session: <*> initialized by client <*>.
+526.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+527.0,E22,Session: <*> initialized by client <*>.
+528.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+529.0,E22,Session: <*> initialized by client <*>.
+530.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+531.0,E22,Session: <*> initialized by client <*>.
+532.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+533.0,E22,Session: <*> initialized by client <*>.
+534.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+535.0,E22,Session: <*> initialized by client <*>.
+536.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+537.0,E22,Session: <*> initialized by client <*>.
+538.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+539.0,E22,Session: <*> initialized by client <*>.
+540.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+541.0,E22,Session: <*> initialized by client <*>.
+542.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+543.0,E22,Session: <*> initialized by client <*>.
+544.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+545.0,E22,Session: <*> initialized by client <*>.
+546.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+547.0,E22,Session: <*> initialized by client <*>.
+548.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+549.0,E22,Session: <*> initialized by client <*>.
+550.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+551.0,E22,Session: <*> initialized by client <*>.
+552.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+553.0,E22,Session: <*> initialized by client <*>.
+554.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+555.0,E22,Session: <*> initialized by client <*>.
+556.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+557.0,E22,Session: <*> initialized by client <*>.
+558.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+559.0,E22,Session: <*> initialized by client <*>.
+560.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+561.0,E22,Session: <*> initialized by client <*>.
+562.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+563.0,E22,Session: <*> initialized by client <*>.
+564.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+565.0,E22,Session: <*> initialized by client <*>.
+566.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+567.0,E22,Session: <*> initialized by client <*>.
+568.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+569.0,E22,Session: <*> initialized by client <*>.
+570.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+571.0,E22,Session: <*> initialized by client <*>.
+572.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+573.0,E22,Session: <*> initialized by client <*>.
+574.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+575.0,E22,Session: <*> initialized by client <*>.
+576.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+577.0,E22,Session: <*> initialized by client <*>.
+578.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+579.0,E22,Session: <*> initialized by client <*>.
+580.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+581.0,E22,Session: <*> initialized by client <*>.
+582.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+583.0,E22,Session: <*> initialized by client <*>.
+584.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+585.0,E22,Session: <*> initialized by client <*>.
+586.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+587.0,E22,Session: <*> initialized by client <*>.
+588.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+589.0,E22,Session: <*> initialized by client <*>.
+590.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+591.0,E22,Session: <*> initialized by client <*>.
+592.0,E22,Session: <*> initialized by client <*>.
+593.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+594.0,E22,Session: <*> initialized by client <*>.
+595.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+596.0,E22,Session: <*> initialized by client <*>.
+597.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+598.0,E22,Session: <*> initialized by client <*>.
+599.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+600.0,E22,Session: <*> initialized by client <*>.
+601.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+602.0,E22,Session: <*> initialized by client <*>.
+603.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+604.0,E22,Session: <*> initialized by client <*>.
+605.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+606.0,E22,Session: <*> initialized by client <*>.
+607.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+608.0,E22,Session: <*> initialized by client <*>.
+609.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+610.0,E22,Session: <*> initialized by client <*>.
+611.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+612.0,E22,Session: <*> initialized by client <*>.
+613.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+614.0,E22,Session: <*> initialized by client <*>.
+615.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+616.0,E22,Session: <*> initialized by client <*>.
+617.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+618.0,E22,Session: <*> initialized by client <*>.
+619.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+620.0,E22,Session: <*> initialized by client <*>.
+621.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+622.0,E22,Session: <*> initialized by client <*>.
+623.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+624.0,E22,Session: <*> initialized by client <*>.
+625.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+626.0,E22,Session: <*> initialized by client <*>.
+627.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+628.0,E22,Session: <*> initialized by client <*>.
+629.0,E22,Session: <*> initialized by client <*>.
+630.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+631.0,E22,Session: <*> initialized by client <*>.
+632.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+633.0,E22,Session: <*> initialized by client <*>.
+634.0,E22,Session: <*> initialized by client <*>.
+635.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+636.0,E22,Session: <*> initialized by client <*>.
+637.0,E30,"Read out cached package applicability for package: Microsoft-Windows-RDP-<*>-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.<*>, ApplicableState: <*>, CurrentState:<*>"
+638.0,E22,Session: <*> initialized by client <*>.
+639.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+640.0,E22,Session: <*> initialized by client <*>.
+641.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+642.0,E22,Session: <*> initialized by client <*>.
+643.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+644.0,E22,Session: <*> initialized by client <*>.
+645.0,E22,Session: <*> initialized by client <*>.
+646.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+647.0,E22,Session: <*> initialized by client <*>.
+648.0,E22,Session: <*> initialized by client <*>.
+649.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+650.0,E22,Session: <*> initialized by client <*>.
+651.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+652.0,E22,Session: <*> initialized by client <*>.
+653.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+654.0,E22,Session: <*> initialized by client <*>.
+655.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+656.0,E22,Session: <*> initialized by client <*>.
+657.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+658.0,E22,Session: <*> initialized by client <*>.
+659.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+660.0,E22,Session: <*> initialized by client <*>.
+661.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+662.0,E22,Session: <*> initialized by client <*>.
+663.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+664.0,E22,Session: <*> initialized by client <*>.
+665.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+666.0,E22,Session: <*> initialized by client <*>.
+667.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+668.0,E22,Session: <*> initialized by client <*>.
+669.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+670.0,E22,Session: <*> initialized by client <*>.
+671.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+672.0,E22,Session: <*> initialized by client <*>.
+673.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+674.0,E22,Session: <*> initialized by client <*>.
+675.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+676.0,E22,Session: <*> initialized by client <*>.
+677.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+678.0,E22,Session: <*> initialized by client <*>.
+679.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+680.0,E22,Session: <*> initialized by client <*>.
+681.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+682.0,E22,Session: <*> initialized by client <*>.
+683.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+684.0,E22,Session: <*> initialized by client <*>.
+685.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+686.0,E22,Session: <*> initialized by client <*>.
+687.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+688.0,E22,Session: <*> initialized by client <*>.
+689.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+690.0,E22,Session: <*> initialized by client <*>.
+691.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+692.0,E22,Session: <*> initialized by client <*>.
+693.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+694.0,E22,Session: <*> initialized by client <*>.
+695.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+696.0,E22,Session: <*> initialized by client <*>.
+697.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+698.0,E22,Session: <*> initialized by client <*>.
+699.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+700.0,E22,Session: <*> initialized by client <*>.
+701.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+702.0,E22,Session: <*> initialized by client <*>.
+703.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+704.0,E22,Session: <*> initialized by client <*>.
+705.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+706.0,E22,Session: <*> initialized by client <*>.
+707.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+708.0,E22,Session: <*> initialized by client <*>.
+709.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+710.0,E22,Session: <*> initialized by client <*>.
+711.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+712.0,E22,Session: <*> initialized by client <*>.
+713.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+714.0,E22,Session: <*> initialized by client <*>.
+715.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+716.0,E22,Session: <*> initialized by client <*>.
+717.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+718.0,E22,Session: <*> initialized by client <*>.
+719.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+720.0,E22,Session: <*> initialized by client <*>.
+721.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+722.0,E22,Session: <*> initialized by client <*>.
+723.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+724.0,E22,Session: <*> initialized by client <*>.
+725.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+726.0,E22,Session: <*> initialized by client <*>.
+727.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+728.0,E22,Session: <*> initialized by client <*>.
+729.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+730.0,E22,Session: <*> initialized by client <*>.
+731.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+732.0,E22,Session: <*> initialized by client <*>.
+733.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+734.0,E22,Session: <*> initialized by client <*>.
+735.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+736.0,E22,Session: <*> initialized by client <*>.
+737.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+738.0,E22,Session: <*> initialized by client <*>.
+739.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+740.0,E22,Session: <*> initialized by client <*>.
+741.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+742.0,E22,Session: <*> initialized by client <*>.
+743.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+744.0,E22,Session: <*> initialized by client <*>.
+745.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+746.0,E22,Session: <*> initialized by client <*>.
+747.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+748.0,E22,Session: <*> initialized by client <*>.
+749.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+750.0,E22,Session: <*> initialized by client <*>.
+751.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+752.0,E22,Session: <*> initialized by client <*>.
+753.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+754.0,E22,Session: <*> initialized by client <*>.
+755.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+756.0,E22,Session: <*> initialized by client <*>.
+757.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+758.0,E22,Session: <*> initialized by client <*>.
+759.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+760.0,E22,Session: <*> initialized by client <*>.
+761.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+762.0,E22,Session: <*> initialized by client <*>.
+763.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+764.0,E22,Session: <*> initialized by client <*>.
+765.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+766.0,E22,Session: <*> initialized by client <*>.
+767.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+768.0,E22,Session: <*> initialized by client <*>.
+769.0,E31,"Read out cached package applicability for package: Microsoft-Windows-Embedded-EmbeddedLockdown-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.1.7601.16511, ApplicableState: <*>, CurrentState:<*>"
+770.0,E22,Session: <*> initialized by client <*>.
+771.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+772.0,E22,Session: <*> initialized by client <*>.
+773.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+774.0,E22,Session: <*> initialized by client <*>.
+775.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+776.0,E22,Session: <*> initialized by client <*>.
+777.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+778.0,E22,Session: <*> initialized by client <*>.
+779.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+780.0,E22,Session: <*> initialized by client <*>.
+781.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+782.0,E22,Session: <*> initialized by client <*>.
+783.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+784.0,E22,Session: <*> initialized by client <*>.
+785.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+786.0,E22,Session: <*> initialized by client <*>.
+787.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+788.0,E22,Session: <*> initialized by client <*>.
+789.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+790.0,E22,Session: <*> initialized by client <*>.
+791.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+792.0,E22,Session: <*> initialized by client <*>.
+793.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+794.0,E22,Session: <*> initialized by client <*>.
+795.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+796.0,E22,Session: <*> initialized by client <*>.
+797.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+798.0,E22,Session: <*> initialized by client <*>.
+799.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+800.0,E22,Session: <*> initialized by client <*>.
+801.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+802.0,E22,Session: <*> initialized by client <*>.
+803.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+804.0,E22,Session: <*> initialized by client <*>.
+805.0,E22,Session: <*> initialized by client <*>.
+806.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+807.0,E22,Session: <*> initialized by client <*>.
+808.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+809.0,E22,Session: <*> initialized by client <*>.
+810.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+811.0,E22,Session: <*> initialized by client <*>.
+812.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+813.0,E22,Session: <*> initialized by client <*>.
+814.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+815.0,E22,Session: <*> initialized by client <*>.
+816.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+817.0,E22,Session: <*> initialized by client <*>.
+818.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+819.0,E22,Session: <*> initialized by client <*>.
+820.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+821.0,E22,Session: <*> initialized by client <*>.
+822.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+823.0,E22,Session: <*> initialized by client <*>.
+824.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+825.0,E22,Session: <*> initialized by client <*>.
+826.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+827.0,E22,Session: <*> initialized by client <*>.
+828.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+829.0,E22,Session: <*> initialized by client <*>.
+830.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+831.0,E22,Session: <*> initialized by client <*>.
+832.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+833.0,E22,Session: <*> initialized by client <*>.
+834.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+835.0,E22,Session: <*> initialized by client <*>.
+836.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+837.0,E22,Session: <*> initialized by client <*>.
+838.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+839.0,E22,Session: <*> initialized by client <*>.
+840.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+841.0,E22,Session: <*> initialized by client <*>.
+842.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+843.0,E22,Session: <*> initialized by client <*>.
+844.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+845.0,E22,Session: <*> initialized by client <*>.
+846.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+847.0,E22,Session: <*> initialized by client <*>.
+848.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+849.0,E22,Session: <*> initialized by client <*>.
+850.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+851.0,E22,Session: <*> initialized by client <*>.
+852.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+853.0,E22,Session: <*> initialized by client <*>.
+854.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+855.0,E22,Session: <*> initialized by client <*>.
+856.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+857.0,E22,Session: <*> initialized by client <*>.
+858.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+859.0,E22,Session: <*> initialized by client <*>.
+860.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+861.0,E22,Session: <*> initialized by client <*>.
+862.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+863.0,E22,Session: <*> initialized by client <*>.
+864.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+865.0,E22,Session: <*> initialized by client <*>.
+866.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+867.0,E22,Session: <*> initialized by client <*>.
+868.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+869.0,E22,Session: <*> initialized by client <*>.
+870.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+871.0,E22,Session: <*> initialized by client <*>.
+872.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+873.0,E22,Session: <*> initialized by client <*>.
+874.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+875.0,E22,Session: <*> initialized by client <*>.
+876.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+877.0,E22,Session: <*> initialized by client <*>.
+878.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+879.0,E22,Session: <*> initialized by client <*>.
+880.0,E22,Session: <*> initialized by client <*>.
+881.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+882.0,E22,Session: <*> initialized by client <*>.
+883.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+884.0,E22,Session: <*> initialized by client <*>.
+885.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+886.0,E22,Session: <*> initialized by client <*>.
+887.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+888.0,E22,Session: <*> initialized by client <*>.
+889.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+890.0,E22,Session: <*> initialized by client <*>.
+891.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+892.0,E22,Session: <*> initialized by client <*>.
+893.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+894.0,E22,Session: <*> initialized by client <*>.
+895.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+896.0,E22,Session: <*> initialized by client <*>.
+897.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+898.0,E22,Session: <*> initialized by client <*>.
+899.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+900.0,E22,Session: <*> initialized by client <*>.
+901.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+902.0,E22,Session: <*> initialized by client <*>.
+903.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+904.0,E22,Session: <*> initialized by client <*>.
+905.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+906.0,E22,Session: <*> initialized by client <*>.
+907.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+908.0,E22,Session: <*> initialized by client <*>.
+909.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+910.0,E22,Session: <*> initialized by client <*>.
+911.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+912.0,E22,Session: <*> initialized by client <*>.
+913.0,E22,Session: <*> initialized by client <*>.
+914.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+915.0,E22,Session: <*> initialized by client <*>.
+916.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+917.0,E22,Session: <*> initialized by client <*>.
+918.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+919.0,E22,Session: <*> initialized by client <*>.
+920.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+921.0,E22,Session: <*> initialized by client <*>.
+922.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+923.0,E22,Session: <*> initialized by client <*>.
+924.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+925.0,E22,Session: <*> initialized by client <*>.
+926.0,E32,"Read out cached package applicability for package: Package_for_RollupFix~31bf3856ad364e35~amd64~~7601.23545.1.4, ApplicableState: <*>, CurrentState:<*>"
+927.0,E22,Session: <*> initialized by client <*>.
+928.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+929.0,E22,Session: <*> initialized by client <*>.
+930.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+931.0,E22,Session: <*> initialized by client <*>.
+932.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+933.0,E22,Session: <*> initialized by client <*>.
+934.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+935.0,E33,Failed to create backup log <*>. [HRESULT = 0x<*> - ERROR_INVALID_FUNCTION]
+936.0,E34,Reboot mark refs incremented to: <*>
+937.0,E35,S: S: <*>
+938.0,E36,"d: <*>@<*>:<*>:<*>:<*> CSI Transaction @0x<*> initialized for deployment engine {<*>} with flags <*> and client id [<*>]""TI6.0_0:<*>/"""
+939.0,E37,C: Begin CSI Store
+940.0,E38,0000000<*> Performing <*> operations; <*> are not lock/unlock and follow:
+941.0,E39,"0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge."
+942.0,E40,dddddddc ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7
+943.0,E16,"Creating NT transaction (seq <*>), objectname [6]""(null)"""
+944.0,E17,"0000000e Created NT transaction (seq <*>) result 0x00000000, handle @0xb8"
+945.0,E18,0000000f@<*>:20:40:54.786 CSI perf trace:
+946.0,E41,"Scavenge: Completed, disposition: <*>"
+947.0,E42,00000010@<*>:20:40:54.787 CSI Transaction @0x47e9e0 destroyed
+948.0,E43,Reboot mark refs: <*>
+949.0,E20,<*> processing thread terminated normally
+950.0,E44,Ending the <*> main loop.
+951.0,E45,Starting <*> finalization.
+952.0,E46,Ending <*> finalization.
+953.0,E47,Starting <*> initialization.
+954.0,E1,Loaded Servicing Stack v<*> with Core: C:\Windows\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_<*>_none_<*>\cbscore.dll
+955.0,E2,0: <*>@<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>.<*>.<*>.<*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>)
+956.0,E2,0: <*>@<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>.<*>.<*>.<*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>)
+957.0,E2,0: <*>@<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>.<*>.<*>.<*>) called (stack @<*> @<*> @<*> @<*> @<*> @<*> @<*>)
+958.0,E3,Ending <*> initialization.
+959.0,E4,Starting the <*> main loop.
+960.0,E5,<*> service starts successfully.
+961.0,E6,SQM: Initializing online with Windows opt-in: <*>
+962.0,E7,SQM: Cleaning up report files older than <*> days.
+963.0,E8,SQM: Requesting upload of all unsent reports.
+964.0,E9,"SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\<*>_std.sqm, flags: 0x<*> [HRESULT = 0x<*> - E_FAIL]"
+965.0,E10,SQM: Failed to start standard sample upload. [HRESULT = 0x<*> - E_FAIL]
+966.0,E11,"SQM: Queued <*> file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: <*>"
+967.0,E12,0: SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*> - E_FAIL]
+968.0,E13,"No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending."
+969.0,E14,N<*>nStart: C<*>cking to ensure startup processing was n<*>t required.
+970.0,E15,"dAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @<*>"
+971.0,E16,"Creating NT transaction (seq <*>), objectname [6]""(null)"""
+972.0,E17,"0000000e Created NT transaction (seq <*>) result 0x00000000, handle @0xb8"
+973.0,E18,0000000f@<*>:20:40:54.786 CSI perf trace:
+974.0,E19,"d: NonStart: Success, startup processing <*> required as expected."
+975.0,E20,<*> processing thread terminated normally
+976.0,E48,"Loading offline registry hive: <*>SOFTWARE, into registry key '{<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SOFTWARE'."
+977.0,E49,"Loading offline registry hive: SYSTEM, into registry key '{*}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM' from path '\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SYSTEM'."
+978.0,E50,Loading offline registry hive: <*> into registry key '<*>' from path '<*>'.
+979.0,E51,"Loading offline registry hive: <*>SAM, into registry key '<*>GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM'."
+980.0,E52,"Loading offline registry hive: COMPONENTS, into registry key '{<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config/COMPONENTS'."
+981.0,E53,"Loading offline registry hive: DEFAULT, into registry key '{*}GLOBALROOT/Device/HarddiskVolumeShadowCopy*/Windows/System32/config/DEFAULT' from path '\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy*/Windows\System32\config\DEFAULT'."
+982.0,E54,"Loading offline registry hive: ntuser.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuser.dat'."
+983.0,E55,"Loading offline registry hive: schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store/Machine/schema.dat'."
+984.0,E56,d: Offline image is: <*>
+985.0,E57,"Disabling manifest caching, because the image is not writeable."
+986.0,E58,d: <*>@<*>/<*>/<*>:<*>:<*>:<*>.<*> PopulateComponentFamiliesKey - Begin
+987.0,E59,d: <*>@<*>/<*>:<*>:<*>:<*> PopulateComponentFamiliesKey - End
+988.0,E21,0000000a CSI Store <*> (0x000000000105d5b0) initialized
+989.0,E60,d: Session: <*>_<*> initialized by client SPP.
+990.0,E23,d: Warning: Unrecognized packageExtended attribute.
+991.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+992.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+993.0,E23,d: Warning: Unrecognized packageExtended attribute.
+994.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+995.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+996.0,E23,d: Warning: Unrecognized packageExtended attribute.
+997.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+998.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+999.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1000.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1001.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1002.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1003.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1004.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1005.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1006.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1007.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1008.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1009.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1010.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1011.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1012.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1013.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1014.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1015.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1016.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1017.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1018.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1019.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1020.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1021.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1022.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1023.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1024.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1025.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1026.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1027.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1028.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1029.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1030.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1031.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1032.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1033.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1034.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1035.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1036.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1037.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1038.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1039.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1040.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1041.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1042.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1043.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1044.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1045.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1046.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1047.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1048.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1049.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1050.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1051.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1052.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1053.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1054.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1055.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1056.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1057.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1058.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1059.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1060.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1061.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1062.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1063.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1064.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1065.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1066.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1067.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1068.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1069.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1070.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1071.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1072.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1073.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1074.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1075.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1076.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1077.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1078.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1079.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1080.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1081.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1082.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1083.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1084.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1085.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1086.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1087.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1088.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1089.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1090.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1091.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1092.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1093.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1094.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1095.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1096.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1097.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1098.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1099.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1100.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1101.0,E61,Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy<*>/Windows/system32/smi/store/Machine/schema.dat
+1102.0,E33,Failed to create backup log <*>. [HRESULT = 0x<*> - ERROR_INVALID_FUNCTION]
+1103.0,E21,0000000a CSI Store <*> (0x000000000105d5b0) initialized
+1104.0,E22,Session: <*> initialized by client <*>.
+1105.0,E22,Session: <*> initialized by client <*>.
+1106.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1107.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1108.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1109.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1110.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1111.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1112.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1113.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1114.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1115.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1116.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1117.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1118.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1119.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1120.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1121.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1122.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1123.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1124.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1125.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1126.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1127.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1128.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1129.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1130.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1131.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1132.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1133.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1134.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1135.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1136.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1137.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1138.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1139.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1140.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1141.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1142.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1143.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1144.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1145.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1146.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1147.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1148.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1149.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1150.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1151.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1152.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1153.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1154.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1155.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1156.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1157.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1158.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1159.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1160.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1161.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1162.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1163.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1164.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1165.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1166.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1167.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1168.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1169.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1170.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1171.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1172.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1173.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1174.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1175.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1176.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1177.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1178.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1179.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1180.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1181.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1182.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1183.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1184.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1185.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1186.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1187.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1188.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1189.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1190.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1191.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1192.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1193.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1194.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1195.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1196.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1197.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1198.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1199.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1200.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1201.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1202.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1203.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1204.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1205.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1206.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1207.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1208.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1209.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1210.0,E22,Session: <*> initialized by client <*>.
+1211.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1212.0,E22,Session: <*> initialized by client <*>.
+1213.0,E22,Session: <*> initialized by client <*>.
+1214.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1215.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1216.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1217.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1218.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1219.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1220.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1221.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1222.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1223.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1224.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1225.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1226.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1227.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1228.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1229.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1230.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1231.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1232.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1233.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1234.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1235.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1236.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1237.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1238.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1239.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1240.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1241.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1242.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1243.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1244.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1245.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1246.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1247.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1248.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1249.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1250.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1251.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1252.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1253.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1254.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1255.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1256.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1257.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1258.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1259.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1260.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1261.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1262.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1263.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1264.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1265.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1266.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1267.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1268.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1269.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1270.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1271.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1272.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1273.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1274.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1275.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1276.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1277.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1278.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1279.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1280.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1281.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1282.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1283.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1284.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1285.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1286.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1287.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1288.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1289.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1290.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1291.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1292.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1293.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1294.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1295.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1296.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1297.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1298.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1299.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1300.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1301.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1302.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1303.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1304.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1305.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1306.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1307.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1308.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1309.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1310.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1311.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1312.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1313.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1314.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1315.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1316.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1317.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1318.0,E22,Session: <*> initialized by client <*>.
+1319.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1320.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1321.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1322.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1323.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1324.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1325.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1326.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1327.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1328.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1329.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1330.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1331.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1332.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1333.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1334.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1335.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1336.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1337.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1338.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1339.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1340.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1341.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1342.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1343.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1344.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1345.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1346.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1347.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1348.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1349.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1350.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1351.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1352.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1353.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1354.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1355.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1356.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1357.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1358.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1359.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1360.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1361.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1362.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1363.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1364.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1365.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1366.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1367.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1368.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1369.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1370.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1371.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1372.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1373.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1374.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1375.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1376.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1377.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1378.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1379.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1380.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1381.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1382.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1383.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1384.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1385.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1386.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1387.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1388.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1389.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1390.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1391.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1392.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1393.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1394.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1395.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1396.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1397.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1398.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1399.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1400.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1401.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1402.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1403.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1404.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1405.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1406.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1407.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1408.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1409.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1410.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1411.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1412.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1413.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1414.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1415.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1416.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1417.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1418.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1419.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1420.0,E24,Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1421.0,E25,Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]
+1422.0,E23,d: Warning: Unrecognized packageExtended attribute.
+1423.0,E22,Session: <*> initialized by client <*>.
+1424.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1425.0,E22,Session: <*> initialized by client <*>.
+1426.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1427.0,E22,Session: <*> initialized by client <*>.
+1428.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1429.0,E22,Session: <*> initialized by client <*>.
+1430.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1431.0,E22,Session: <*> initialized by client <*>.
+1432.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1433.0,E22,Session: <*> initialized by client <*>.
+1434.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1435.0,E22,Session: <*> initialized by client <*>.
+1436.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1437.0,E22,Session: <*> initialized by client <*>.
+1438.0,E22,Session: <*> initialized by client <*>.
+1439.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1440.0,E22,Session: <*> initialized by client <*>.
+1441.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1442.0,E22,Session: <*> initialized by client <*>.
+1443.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1444.0,E22,Session: <*> initialized by client <*>.
+1445.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1446.0,E22,Session: <*> initialized by client <*>.
+1447.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1448.0,E22,Session: <*> initialized by client <*>.
+1449.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1450.0,E22,Session: <*> initialized by client <*>.
+1451.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1452.0,E22,Session: <*> initialized by client <*>.
+1453.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1454.0,E22,Session: <*> initialized by client <*>.
+1455.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1456.0,E22,Session: <*> initialized by client <*>.
+1457.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1458.0,E22,Session: <*> initialized by client <*>.
+1459.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1460.0,E22,Session: <*> initialized by client <*>.
+1461.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1462.0,E22,Session: <*> initialized by client <*>.
+1463.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1464.0,E22,Session: <*> initialized by client <*>.
+1465.0,E22,Session: <*> initialized by client <*>.
+1466.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1467.0,E22,Session: <*> initialized by client <*>.
+1468.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1469.0,E22,Session: <*> initialized by client <*>.
+1470.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1471.0,E22,Session: <*> initialized by client <*>.
+1472.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1473.0,E22,Session: <*> initialized by client <*>.
+1474.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1475.0,E22,Session: <*> initialized by client <*>.
+1476.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1477.0,E22,Session: <*> initialized by client <*>.
+1478.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1479.0,E22,Session: <*> initialized by client <*>.
+1480.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1481.0,E22,Session: <*> initialized by client <*>.
+1482.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1483.0,E22,Session: <*> initialized by client <*>.
+1484.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1485.0,E22,Session: <*> initialized by client <*>.
+1486.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1487.0,E22,Session: <*> initialized by client <*>.
+1488.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1489.0,E22,Session: <*> initialized by client <*>.
+1490.0,E22,Session: <*> initialized by client <*>.
+1491.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1492.0,E22,Session: <*> initialized by client <*>.
+1493.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1494.0,E22,Session: <*> initialized by client <*>.
+1495.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1496.0,E22,Session: <*> initialized by client <*>.
+1497.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1498.0,E22,Session: <*> initialized by client <*>.
+1499.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1500.0,E22,Session: <*> initialized by client <*>.
+1501.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1502.0,E22,Session: <*> initialized by client <*>.
+1503.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1504.0,E22,Session: <*> initialized by client <*>.
+1505.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1506.0,E22,Session: <*> initialized by client <*>.
+1507.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1508.0,E22,Session: <*> initialized by client <*>.
+1509.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1510.0,E22,Session: <*> initialized by client <*>.
+1511.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1512.0,E22,Session: <*> initialized by client <*>.
+1513.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1514.0,E22,Session: <*> initialized by client <*>.
+1515.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1516.0,E22,Session: <*> initialized by client <*>.
+1517.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1518.0,E22,Session: <*> initialized by client <*>.
+1519.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1520.0,E22,Session: <*> initialized by client <*>.
+1521.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1522.0,E22,Session: <*> initialized by client <*>.
+1523.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1524.0,E22,Session: <*> initialized by client <*>.
+1525.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1526.0,E22,Session: <*> initialized by client <*>.
+1527.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1528.0,E22,Session: <*> initialized by client <*>.
+1529.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1530.0,E22,Session: <*> initialized by client <*>.
+1531.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1532.0,E22,Session: <*> initialized by client <*>.
+1533.0,E28,"Read out cached package applicability for package: Microsoft-Windows-PlatformUpdate-Win7-SRV08R2-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.1.7601.16492, ApplicableState: <*>, CurrentState:<*>"
+1534.0,E22,Session: <*> initialized by client <*>.
+1535.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1536.0,E22,Session: <*> initialized by client <*>.
+1537.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1538.0,E22,Session: <*> initialized by client <*>.
+1539.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1540.0,E22,Session: <*> initialized by client <*>.
+1541.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1542.0,E22,Session: <*> initialized by client <*>.
+1543.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1544.0,E22,Session: <*> initialized by client <*>.
+1545.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1546.0,E22,Session: <*> initialized by client <*>.
+1547.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1548.0,E22,Session: <*> initialized by client <*>.
+1549.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1550.0,E22,Session: <*> initialized by client <*>.
+1551.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1552.0,E22,Session: <*> initialized by client <*>.
+1553.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+1554.0,E22,Session: <*> initialized by client <*>.
+1555.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1556.0,E22,Session: <*> initialized by client <*>.
+1557.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1558.0,E22,Session: <*> initialized by client <*>.
+1559.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1560.0,E22,Session: <*> initialized by client <*>.
+1561.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1562.0,E22,Session: <*> initialized by client <*>.
+1563.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1564.0,E22,Session: <*> initialized by client <*>.
+1565.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1566.0,E22,Session: <*> initialized by client <*>.
+1567.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1568.0,E22,Session: <*> initialized by client <*>.
+1569.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1570.0,E22,Session: <*> initialized by client <*>.
+1571.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1572.0,E22,Session: <*> initialized by client <*>.
+1573.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1574.0,E22,Session: <*> initialized by client <*>.
+1575.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1576.0,E22,Session: <*> initialized by client <*>.
+1577.0,E30,"Read out cached package applicability for package: Microsoft-Windows-RDP-<*>-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.<*>, ApplicableState: <*>, CurrentState:<*>"
+1578.0,E22,Session: <*> initialized by client <*>.
+1579.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1580.0,E22,Session: <*> initialized by client <*>.
+1581.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1582.0,E22,Session: <*> initialized by client <*>.
+1583.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1584.0,E22,Session: <*> initialized by client <*>.
+1585.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1586.0,E22,Session: <*> initialized by client <*>.
+1587.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1588.0,E22,Session: <*> initialized by client <*>.
+1589.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1590.0,E22,Session: <*> initialized by client <*>.
+1591.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1592.0,E22,Session: <*> initialized by client <*>.
+1593.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1594.0,E22,Session: <*> initialized by client <*>.
+1595.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1596.0,E22,Session: <*> initialized by client <*>.
+1597.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1598.0,E22,Session: <*> initialized by client <*>.
+1599.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1600.0,E22,Session: <*> initialized by client <*>.
+1601.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1602.0,E22,Session: <*> initialized by client <*>.
+1603.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1604.0,E22,Session: <*> initialized by client <*>.
+1605.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1606.0,E22,Session: <*> initialized by client <*>.
+1607.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1608.0,E22,Session: <*> initialized by client <*>.
+1609.0,E26,Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]
+1610.0,E22,Session: <*> initialized by client <*>.
+1611.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1612.0,E22,Session: <*> initialized by client <*>.
+1613.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1614.0,E22,Session: <*> initialized by client <*>.
+1615.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1616.0,E22,Session: <*> initialized by client <*>.
+1617.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1618.0,E22,Session: <*> initialized by client <*>.
+1619.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1620.0,E22,Session: <*> initialized by client <*>.
+1621.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1622.0,E22,Session: <*> initialized by client <*>.
+1623.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1624.0,E22,Session: <*> initialized by client <*>.
+1625.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1626.0,E22,Session: <*> initialized by client <*>.
+1627.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1628.0,E22,Session: <*> initialized by client <*>.
+1629.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1630.0,E22,Session: <*> initialized by client <*>.
+1631.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1632.0,E22,Session: <*> initialized by client <*>.
+1633.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1634.0,E22,Session: <*> initialized by client <*>.
+1635.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1636.0,E22,Session: <*> initialized by client <*>.
+1637.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1638.0,E22,Session: <*> initialized by client <*>.
+1639.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1640.0,E22,Session: <*> initialized by client <*>.
+1641.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1642.0,E22,Session: <*> initialized by client <*>.
+1643.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1644.0,E22,Session: <*> initialized by client <*>.
+1645.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1646.0,E22,Session: <*> initialized by client <*>.
+1647.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1648.0,E22,Session: <*> initialized by client <*>.
+1649.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1650.0,E22,Session: <*> initialized by client <*>.
+1651.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1652.0,E22,Session: <*> initialized by client <*>.
+1653.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1654.0,E22,Session: <*> initialized by client <*>.
+1655.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1656.0,E22,Session: <*> initialized by client <*>.
+1657.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1658.0,E22,Session: <*> initialized by client <*>.
+1659.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1660.0,E22,Session: <*> initialized by client <*>.
+1661.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1662.0,E22,Session: <*> initialized by client <*>.
+1663.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1664.0,E22,Session: <*> initialized by client <*>.
+1665.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1666.0,E22,Session: <*> initialized by client <*>.
+1667.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1668.0,E22,Session: <*> initialized by client <*>.
+1669.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1670.0,E22,Session: <*> initialized by client <*>.
+1671.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+1672.0,E22,Session: <*> initialized by client <*>.
+1673.0,E22,Session: <*> initialized by client <*>.
+1674.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1675.0,E22,Session: <*> initialized by client <*>.
+1676.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1677.0,E22,Session: <*> initialized by client <*>.
+1678.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1679.0,E22,Session: <*> initialized by client <*>.
+1680.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1681.0,E22,Session: <*> initialized by client <*>.
+1682.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1683.0,E22,Session: <*> initialized by client <*>.
+1684.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1685.0,E22,Session: <*> initialized by client <*>.
+1686.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1687.0,E22,Session: <*> initialized by client <*>.
+1688.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1689.0,E22,Session: <*> initialized by client <*>.
+1690.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1691.0,E22,Session: <*> initialized by client <*>.
+1692.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1693.0,E22,Session: <*> initialized by client <*>.
+1694.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1695.0,E22,Session: <*> initialized by client <*>.
+1696.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1697.0,E22,Session: <*> initialized by client <*>.
+1698.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1699.0,E22,Session: <*> initialized by client <*>.
+1700.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1701.0,E22,Session: <*> initialized by client <*>.
+1702.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1703.0,E22,Session: <*> initialized by client <*>.
+1704.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1705.0,E22,Session: <*> initialized by client <*>.
+1706.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1707.0,E22,Session: <*> initialized by client <*>.
+1708.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1709.0,E22,Session: <*> initialized by client <*>.
+1710.0,E22,Session: <*> initialized by client <*>.
+1711.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1712.0,E22,Session: <*> initialized by client <*>.
+1713.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1714.0,E22,Session: <*> initialized by client <*>.
+1715.0,E22,Session: <*> initialized by client <*>.
+1716.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1717.0,E22,Session: <*> initialized by client <*>.
+1718.0,E30,"Read out cached package applicability for package: Microsoft-Windows-RDP-<*>-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.<*>, ApplicableState: <*>, CurrentState:<*>"
+1719.0,E22,Session: <*> initialized by client <*>.
+1720.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1721.0,E22,Session: <*> initialized by client <*>.
+1722.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1723.0,E22,Session: <*> initialized by client <*>.
+1724.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1725.0,E22,Session: <*> initialized by client <*>.
+1726.0,E22,Session: <*> initialized by client <*>.
+1727.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1728.0,E22,Session: <*> initialized by client <*>.
+1729.0,E22,Session: <*> initialized by client <*>.
+1730.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1731.0,E22,Session: <*> initialized by client <*>.
+1732.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1733.0,E22,Session: <*> initialized by client <*>.
+1734.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1735.0,E22,Session: <*> initialized by client <*>.
+1736.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1737.0,E22,Session: <*> initialized by client <*>.
+1738.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1739.0,E22,Session: <*> initialized by client <*>.
+1740.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1741.0,E22,Session: <*> initialized by client <*>.
+1742.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1743.0,E22,Session: <*> initialized by client <*>.
+1744.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1745.0,E22,Session: <*> initialized by client <*>.
+1746.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1747.0,E22,Session: <*> initialized by client <*>.
+1748.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+1749.0,E22,Session: <*> initialized by client <*>.
+1750.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1751.0,E22,Session: <*> initialized by client <*>.
+1752.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1753.0,E22,Session: <*> initialized by client <*>.
+1754.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1755.0,E22,Session: <*> initialized by client <*>.
+1756.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1757.0,E22,Session: <*> initialized by client <*>.
+1758.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1759.0,E22,Session: <*> initialized by client <*>.
+1760.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1761.0,E22,Session: <*> initialized by client <*>.
+1762.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1763.0,E22,Session: <*> initialized by client <*>.
+1764.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1765.0,E22,Session: <*> initialized by client <*>.
+1766.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1767.0,E22,Session: <*> initialized by client <*>.
+1768.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1769.0,E22,Session: <*> initialized by client <*>.
+1770.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1771.0,E22,Session: <*> initialized by client <*>.
+1772.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1773.0,E22,Session: <*> initialized by client <*>.
+1774.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1775.0,E22,Session: <*> initialized by client <*>.
+1776.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1777.0,E22,Session: <*> initialized by client <*>.
+1778.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1779.0,E22,Session: <*> initialized by client <*>.
+1780.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1781.0,E22,Session: <*> initialized by client <*>.
+1782.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1783.0,E22,Session: <*> initialized by client <*>.
+1784.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1785.0,E22,Session: <*> initialized by client <*>.
+1786.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1787.0,E22,Session: <*> initialized by client <*>.
+1788.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1789.0,E22,Session: <*> initialized by client <*>.
+1790.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1791.0,E22,Session: <*> initialized by client <*>.
+1792.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1793.0,E22,Session: <*> initialized by client <*>.
+1794.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1795.0,E22,Session: <*> initialized by client <*>.
+1796.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1797.0,E22,Session: <*> initialized by client <*>.
+1798.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1799.0,E22,Session: <*> initialized by client <*>.
+1800.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1801.0,E22,Session: <*> initialized by client <*>.
+1802.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1803.0,E22,Session: <*> initialized by client <*>.
+1804.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1805.0,E22,Session: <*> initialized by client <*>.
+1806.0,E29,"Read out cached package applicability for package: <*>~31bf3856ad364e35~amd64~~6.3.9600.17903, ApplicableState: <var>, CurrentState:<var>"
+1807.0,E22,Session: <*> initialized by client <*>.
+1808.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1809.0,E22,Session: <*> initialized by client <*>.
+1810.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1811.0,E22,Session: <*> initialized by client <*>.
+1812.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1813.0,E22,Session: <*> initialized by client <*>.
+1814.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1815.0,E22,Session: <*> initialized by client <*>.
+1816.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1817.0,E22,Session: <*> initialized by client <*>.
+1818.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1819.0,E22,Session: <*> initialized by client <*>.
+1820.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1821.0,E22,Session: <*> initialized by client <*>.
+1822.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1823.0,E22,Session: <*> initialized by client <*>.
+1824.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1825.0,E22,Session: <*> initialized by client <*>.
+1826.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1827.0,E22,Session: <*> initialized by client <*>.
+1828.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1829.0,E22,Session: <*> initialized by client <*>.
+1830.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1831.0,E22,Session: <*> initialized by client <*>.
+1832.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1833.0,E22,Session: <*> initialized by client <*>.
+1834.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1835.0,E22,Session: <*> initialized by client <*>.
+1836.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1837.0,E22,Session: <*> initialized by client <*>.
+1838.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1839.0,E22,Session: <*> initialized by client <*>.
+1840.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1841.0,E22,Session: <*> initialized by client <*>.
+1842.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1843.0,E22,Session: <*> initialized by client <*>.
+1844.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1845.0,E22,Session: <*> initialized by client <*>.
+1846.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1847.0,E22,Session: <*> initialized by client <*>.
+1848.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1849.0,E22,Session: <*> initialized by client <*>.
+1850.0,E31,"Read out cached package applicability for package: Microsoft-Windows-Embedded-EmbeddedLockdown-Package-TopLevel~31bf3856ad364e35~amd64~~<*>.1.7601.16511, ApplicableState: <*>, CurrentState:<*>"
+1851.0,E22,Session: <*> initialized by client <*>.
+1852.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1853.0,E22,Session: <*> initialized by client <*>.
+1854.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1855.0,E22,Session: <*> initialized by client <*>.
+1856.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1857.0,E22,Session: <*> initialized by client <*>.
+1858.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1859.0,E22,Session: <*> initialized by client <*>.
+1860.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1861.0,E22,Session: <*> initialized by client <*>.
+1862.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1863.0,E22,Session: <*> initialized by client <*>.
+1864.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1865.0,E22,Session: <*> initialized by client <*>.
+1866.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1867.0,E22,Session: <*> initialized by client <*>.
+1868.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1869.0,E22,Session: <*> initialized by client <*>.
+1870.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1871.0,E22,Session: <*> initialized by client <*>.
+1872.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1873.0,E22,Session: <*> initialized by client <*>.
+1874.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1875.0,E22,Session: <*> initialized by client <*>.
+1876.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1877.0,E22,Session: <*> initialized by client <*>.
+1878.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1879.0,E22,Session: <*> initialized by client <*>.
+1880.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1881.0,E22,Session: <*> initialized by client <*>.
+1882.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1883.0,E22,Session: <*> initialized by client <*>.
+1884.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1885.0,E22,Session: <*> initialized by client <*>.
+1886.0,E22,Session: <*> initialized by client <*>.
+1887.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1888.0,E22,Session: <*> initialized by client <*>.
+1889.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1890.0,E22,Session: <*> initialized by client <*>.
+1891.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1892.0,E22,Session: <*> initialized by client <*>.
+1893.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1894.0,E22,Session: <*> initialized by client <*>.
+1895.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1896.0,E22,Session: <*> initialized by client <*>.
+1897.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1898.0,E22,Session: <*> initialized by client <*>.
+1899.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1900.0,E22,Session: <*> initialized by client <*>.
+1901.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1902.0,E22,Session: <*> initialized by client <*>.
+1903.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1904.0,E22,Session: <*> initialized by client <*>.
+1905.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1906.0,E22,Session: <*> initialized by client <*>.
+1907.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1908.0,E22,Session: <*> initialized by client <*>.
+1909.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1910.0,E22,Session: <*> initialized by client <*>.
+1911.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1912.0,E22,Session: <*> initialized by client <*>.
+1913.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1914.0,E22,Session: <*> initialized by client <*>.
+1915.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1916.0,E22,Session: <*> initialized by client <*>.
+1917.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1918.0,E22,Session: <*> initialized by client <*>.
+1919.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1920.0,E22,Session: <*> initialized by client <*>.
+1921.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1922.0,E22,Session: <*> initialized by client <*>.
+1923.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1924.0,E22,Session: <*> initialized by client <*>.
+1925.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1926.0,E22,Session: <*> initialized by client <*>.
+1927.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1928.0,E22,Session: <*> initialized by client <*>.
+1929.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1930.0,E22,Session: <*> initialized by client <*>.
+1931.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1932.0,E22,Session: <*> initialized by client <*>.
+1933.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1934.0,E22,Session: <*> initialized by client <*>.
+1935.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1936.0,E22,Session: <*> initialized by client <*>.
+1937.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1938.0,E22,Session: <*> initialized by client <*>.
+1939.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1940.0,E22,Session: <*> initialized by client <*>.
+1941.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1942.0,E22,Session: <*> initialized by client <*>.
+1943.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1944.0,E22,Session: <*> initialized by client <*>.
+1945.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1946.0,E22,Session: <*> initialized by client <*>.
+1947.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1948.0,E22,Session: <*> initialized by client <*>.
+1949.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1950.0,E22,Session: <*> initialized by client <*>.
+1951.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1952.0,E22,Session: <*> initialized by client <*>.
+1953.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1954.0,E22,Session: <*> initialized by client <*>.
+1955.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1956.0,E22,Session: <*> initialized by client <*>.
+1957.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1958.0,E22,Session: <*> initialized by client <*>.
+1959.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1960.0,E22,Session: <*> initialized by client <*>.
+1961.0,E22,Session: <*> initialized by client <*>.
+1962.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1963.0,E22,Session: <*> initialized by client <*>.
+1964.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1965.0,E22,Session: <*> initialized by client <*>.
+1966.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1967.0,E22,Session: <*> initialized by client <*>.
+1968.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1969.0,E22,Session: <*> initialized by client <*>.
+1970.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1971.0,E22,Session: <*> initialized by client <*>.
+1972.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1973.0,E22,Session: <*> initialized by client <*>.
+1974.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1975.0,E22,Session: <*> initialized by client <*>.
+1976.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1977.0,E22,Session: <*> initialized by client <*>.
+1978.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1979.0,E22,Session: <*> initialized by client <*>.
+1980.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1981.0,E22,Session: <*> initialized by client <*>.
+1982.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1983.0,E22,Session: <*> initialized by client <*>.
+1984.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1985.0,E22,Session: <*> initialized by client <*>.
+1986.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1987.0,E22,Session: <*> initialized by client <*>.
+1988.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1989.0,E22,Session: <*> initialized by client <*>.
+1990.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1991.0,E22,Session: <*> initialized by client <*>.
+1992.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1993.0,E22,Session: <*> initialized by client <*>.
+1994.0,E22,Session: <*> initialized by client <*>.
+1995.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1996.0,E22,Session: <*> initialized by client <*>.
+1997.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
+1998.0,E22,Session: <*> initialized by client <*>.
+1999.0,E27,"Read out cached package applicability for package: Package_for_KB<*>~31bf3856ad364e35~amd64~~11.2.1.0, ApplicableState: <*>, CurrentState:<*>"
