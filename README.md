@@ -1,5 +1,5 @@
 # LLMs_for_log_parsing
-This is the replication repository for the paper **[SoK: LLM-based Log Parsing](https://arxiv.org/abs/2504.04877)** (arXiv). For this systemization of knowledge (SoK), 30 papers, concerning LLM-based log parsing, were reviewed. The extracted features of each work can be found in the excel sheet [categories.xlsx](./documentation/categories.xlsx). The general process of LLM-based log parsing, derived from the reviewed papers, can be depicted as follows:
+This is the replication repository for **https://arxiv.org/abs/2504.04877** (arXiv). 29 papers concerning LLM-based log parsing were reviewed, seven of them were used for the benchmark. The systematic overview can be found in the excel sheet [categories_clean.xlsx](./documentation/categories.xlsx).
 
 <img src="./documentation/LLM-based log parsing.png" width="700">
 
@@ -70,4 +70,12 @@ To evaluate everything and produce the result files and the plots you can also r
 
 ```
 python3 run_evaluation.py
+```
+
+## Other
+
+To find the right hyperparameters for the Audit dataset we simply run GridSearch over a selection of parameters. Since this is the baseline we let it run over the entire dataset to get the maximum possible performance:
+
+```
+python3 parser_run-no-LLM-GridSearch.py
 ```

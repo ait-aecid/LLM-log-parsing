@@ -30,53 +30,19 @@ def evaluatePA(groundtruth, result):
         raise ValueError(f"{result["Content"][i]} not found in groundtruth!")
     return correct/length
 
-# correctly identified templates over total num of identified template
-def evaluatePTA(groundtruth, result):
-    # generate a "template: log indexes list" mapping for groundtruth
-    oracle_tem_dict = {}
-    for idx in range(len(result["EventTemplate"])):
-        if groundtruth['EventTemplate'][idx] not in oracle_tem_dict:
-          oracle_tem_dict[groundtruth['EventTemplate'][idx]] = [groundtruth['Content'][idx]]
-        else: oracle_tem_dict[groundtruth['EventTemplate'][idx]].append(groundtruth['Content'][idx])
-
-    # generate mapping for identified template
-    result_tem_dict = {}
-    for idx in range(len(result["EventTemplate"])):
-        if result["EventTemplate"][idx] not in result_tem_dict:
-          result_tem_dict[result["EventTemplate"][idx]] = [result["Content"][idx]]
-        else: result_tem_dict[result["EventTemplate"][idx]].append(result["Content"][idx])
-
-    correct_num = 0
-    for key in result_tem_dict.keys():
-        if key not in oracle_tem_dict: continue
-        else:
-          if Counter(oracle_tem_dict[key]) == Counter(result_tem_dict[key]): correct_num += 1
-    
-    return correct_num/len(result_tem_dict)
-
-# correctly identified templates over total num of oracle template
-def evaluateRTA(groundtruth, result):
-    # generate a "template: log indexes list" mapping for groundtruth
-    oracle_tem_dict = {}
-    for idx in range(len(result["EventTemplate"])):
-        if groundtruth['EventTemplate'][idx] not in oracle_tem_dict:
-          oracle_tem_dict[groundtruth['EventTemplate'][idx]] = [groundtruth['Content'][idx]]
-        else: oracle_tem_dict[groundtruth['EventTemplate'][idx]].append(groundtruth['Content'][idx])
-
-    # generate mapping for identified template
-    result_tem_dict = {}
-    for idx in range(len(result["EventTemplate"])):
-        if result["EventTemplate"][idx] not in result_tem_dict:
-          result_tem_dict[result["EventTemplate"][idx]] = [result["Content"][idx]]
-        else: result_tem_dict[result["EventTemplate"][idx]].append(result["Content"][idx])
-
-    correct_num = 0
-    for key in oracle_tem_dict.keys():
-        if key not in result_tem_dict: continue
-        else:
-          if Counter(oracle_tem_dict[key]) == Counter(result_tem_dict[key]): correct_num += 1
-    
-    return correct_num/len(oracle_tem_dict)
+# calculate parsing accuracy
+def evaluatePA_no_whitespace(groundtruth, result):
+    # len(predicted_list) may smaller than len(groundtruth)
+    length = len(result['EventTemplate'])
+    if length == 0: return 0
+    correct = 0
+    try:
+        for i in range(length):
+            if result['EventTemplate'][i].replace(" ", "") == groundtruth.loc[groundtruth['Content'] == result['Content'][i]]['EventTemplate'].values[0].replace(" ", ""):
+                correct += 1
+    except:
+        raise ValueError(f"{result["Content"][i]} not found in groundtruth!")
+    return correct/length
 
 # calculate GA
 def evaluateGA(groundtruth, result):
@@ -133,7 +99,43 @@ def evaluateGA(groundtruth, result):
 
     return count / 2000
 
+def evaluate_template_level(df_groundtruth, df_parsedresult, filter_templates=None, no_whitespace=False):
+    correct_parsing_templates = 0
+    if filter_templates is not None:
+        filter_identify_templates = set()
+    null_logids = df_groundtruth[~df_groundtruth['EventTemplate'].isnull()].index
+    df_groundtruth = df_groundtruth.loc[null_logids]
+    df_parsedresult = df_parsedresult.loc[null_logids]
+    series_groundtruth = df_groundtruth['EventTemplate']
+    series_parsedlog = df_parsedresult['EventTemplate']
+    series_groundtruth_valuecounts = series_groundtruth.value_counts()
 
+    df_combined = pd.concat([series_groundtruth, series_parsedlog], axis=1, keys=['groundtruth', 'parsedlog'])
+    grouped_df = df_combined.groupby('parsedlog')
+    
+    for identified_template, group in grouped_df:
+        corr_oracle_templates = set(list(group['groundtruth']))
+        if filter_templates is not None and len(corr_oracle_templates.intersection(set(filter_templates))) > 0:
+            filter_identify_templates.add(identified_template)
+
+        if no_whitespace:
+            corr_oracle_templates = set([gt_template.replace(" ", "") for gt_template in corr_oracle_templates])
+            identified_template = identified_template.replace(" ", "")
+ 
+        if corr_oracle_templates == {identified_template}:
+            if (filter_templates is None) or (identified_template in filter_templates):
+                correct_parsing_templates += 1
+
+    if filter_templates is not None:
+        PTA = correct_parsing_templates / len(filter_identify_templates)
+        RTA = correct_parsing_templates / len(filter_templates)
+    else:
+        PTA = correct_parsing_templates / len(grouped_df)
+        RTA = correct_parsing_templates / len(series_groundtruth_valuecounts)
+    FTA = 0.0
+    if PTA != 0 or RTA != 0:
+        FTA = 2 * (PTA * RTA) / (PTA + RTA)
+    return FTA, PTA, RTA
 
 def calculate_edit_distance(groundtruth, parsedresult):
     edit_distance_result, normalized_ed_result, cache_dict = [], [] , {}
@@ -159,7 +161,7 @@ def calculate_edit_distance(groundtruth, parsedresult):
     accuracy_NED = (sum(normalized_ed_result) + length_logs - len(normalized_ed_result)) / length_logs
     return accuracy_ED, accuracy_NED
 
-def evaluate_metrics(dataset_name, groundtruth_path, result_path, limit=2000):
+def evaluate_metrics(dataset_name, groundtruth_path, result_path, limit=2000, no_whitespace=False):
     """
     Evaluate various metrics for log parsing results.
     
@@ -180,10 +182,11 @@ def evaluate_metrics(dataset_name, groundtruth_path, result_path, limit=2000):
     if not os.path.exists(result_path):
         return None
     df_parsedlog = pd.read_csv(result_path).iloc[:limit]
-    PA = evaluatePA(df_groundtruth, df_parsedlog)
-    PTA = evaluatePTA(df_groundtruth, df_parsedlog)
-    RTA = evaluateRTA(df_groundtruth, df_parsedlog)
-    FTA = 2 * PTA * RTA / (PTA + RTA) if (PTA + RTA) != 0 else 0
+    if no_whitespace:
+        PA = evaluatePA_no_whitespace(df_groundtruth, df_parsedlog)
+    else:
+        PA = evaluatePA(df_groundtruth, df_parsedlog)
+    FTA, PTA, RTA = evaluate_template_level(df_groundtruth, df_parsedlog, no_whitespace=no_whitespace)
     GA = evaluateGA(df_groundtruth, df_parsedlog)
     ED, NED = calculate_edit_distance(df_groundtruth, df_parsedlog)
     if dataset_name not in df['Dataset'].values:

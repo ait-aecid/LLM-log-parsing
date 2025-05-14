@@ -1,5 +1,5 @@
 
-# drain / default settings
+# drain/default settings
 settings = {
     "HDFS": {
         "log_file": "HDFS/HDFS_2k.log",
@@ -127,89 +127,70 @@ settings = {
         'log_file': 'Audit/Audit_2k.log',
         'log_format': "type=<Type> msg=audit\(<Time>\): <Content>",
         'regex': [],
-        'st': 0.5,
-        'depth': 10,
+        'st': 0.8,
+        'depth': 7,
+    },
+
+    # specific parser settings
+    "Brain_settings" : {
+        'Proxifier': {'delimiter': ['\\(.*?\\)'], 'theshold': 3},
+        'HDFS': {'delimiter': [''], 'theshold': 2},
+        'Hadoop': {'delimiter': [], 'theshold': 6},
+        'Spark': {'delimiter': [], 'theshold': 4},
+        'Zookeeper': {'delimiter': [], 'theshold': 3},
+        'BGL': {'delimiter': [], 'theshold': 6},
+        'HPC': {'delimiter': [], 'theshold': 5},
+        'Thunderbird': {'delimiter': [], 'theshold': 3},
+        'Windows': {'delimiter': [], 'theshold': 3},
+        'Linux': {'delimiter': [''], 'theshold': 4},
+        'Android': {'delimiter': [''], 'theshold': 5},
+        'HealthApp': {'delimiter': [''], 'theshold': 4},
+        'Apache': {'delimiter': [], 'theshold': 4},
+        'OpenSSH': {'delimiter': [], 'theshold': 6},
+        'OpenStack': {'delimiter': [], 'theshold': 5},
+        'Mac': {'delimiter': [], 'theshold': 5},
+        'Audit': {'delimiter': [], 'theshold': 4}
+    },
+
+    "AEL_settings" : {
+        'HDFS': {'minEventCount': 2, 'merge_percent': 0.5},
+        'Hadoop': {'minEventCount': 2, 'merge_percent': 0.4},
+        'Spark': {'minEventCount': 2, 'merge_percent': 0.4},
+        'Zookeeper': {'minEventCount': 2, 'merge_percent': 0.4},
+        'BGL': {'minEventCount': 2, 'merge_percent': 0.5},
+        'HPC': {'minEventCount': 5, 'merge_percent': 0.4},
+        'Thunderbird': {'minEventCount': 2, 'merge_percent': 0.4},
+        'Windows': {'minEventCount': 2, 'merge_percent': 0.4},
+        'Linux': {'minEventCount': 2, 'merge_percent': 0.6},
+        'Android': {'minEventCount': 2, 'merge_percent': 0.6},
+        'HealthApp': {'minEventCount': 2, 'merge_percent': 0.6},
+        'Apache': {'minEventCount': 2, 'merge_percent': 0.4},
+        'Proxifier': {'minEventCount': 2, 'merge_percent': 0.4},
+        'OpenSSH': {'minEventCount': 10, 'merge_percent': 0.7},
+        'OpenStack': {'minEventCount': 6, 'merge_percent': 0.5},
+        'Mac': {'minEventCount': 2, 'merge_percent': 0.6},
+        "Audit": {'minEventCount': 3, 'merge_percent': 0.2},
+    },
+
+    "SPELL_settings" : {
+        'HDFS': {'tau': 0.7},
+        'Hadoop': {'tau': 0.7},
+        'Spark': {'tau': 0.55},
+        'Zookeeper': {'tau': 0.7},
+        'BGL': {'tau': 0.75},
+        'HPC': {'tau': 0.65},
+        'Thunderbird': {'tau': 0.5},
+        'Windows': {'tau': 0.7},
+        'Linux': {'tau': 0.55},
+        'Android': {'tau': 0.95},
+        'HealthApp': {'tau': 0.5},
+        'Apache': {'tau': 0.6},
+        'Proxifier': {'tau': 0.85},
+        'OpenSSH': {'tau': 0.8},
+        'OpenStack': {'tau': 0.9},
+        'Mac': {'tau': 0.6},
+        "Audit": {'tau': 0.8},
     }
-}
-
-brain_settings = {
-    'Proxifier': {'delimiter': ['\\(.*?\\)'], 'theshold': 3},
-    'HDFS': {'delimiter': [''], 'theshold': 2},
-    'Hadoop': {'delimiter': [], 'theshold': 6},
-    'Spark': {'delimiter': [], 'theshold': 4},
-    'Zookeeper': {'delimiter': [], 'theshold': 3},
-    'BGL': {'delimiter': [], 'theshold': 6},
-    'HPC': {'delimiter': [], 'theshold': 5},
-    'Thunderbird': {'delimiter': [], 'theshold': 3},
-    'Windows': {'delimiter': [], 'theshold': 3},
-    'Linux': {'delimiter': [''], 'theshold': 4},
-    'Android': {'delimiter': [''], 'theshold': 5},
-    'HealthApp': {'delimiter': [''], 'theshold': 4},
-    'Apache': {'delimiter': [], 'theshold': 4},
-    'OpenSSH': {'delimiter': [], 'theshold': 6},
-    'OpenStack': {'delimiter': [], 'theshold': 5},
-    'Mac': {'delimiter': [], 'theshold': 5},
-    'Audit': {'delimiter': [], 'theshold': 4}
-}
-
-logram_settings = {
-    'HDFS': {'doubleThreshold': 15, 'triThreshold': 10},
-    'Hadoop': {'doubleThreshold': 9, 'triThreshold': 10},
-    'Spark': {'doubleThreshold': 15, 'triThreshold': 10},
-    'Zookeeper': {'doubleThreshold': 15, 'triThreshold': 10},
-    'BGL': {'doubleThreshold': 92, 'triThreshold': 4},
-    'HPC': {'doubleThreshold': 15, 'triThreshold': 10},
-    'Thunderbird': {'doubleThreshold': 35, 'triThreshold': 32},
-    'Windows': {'doubleThreshold': 15, 'triThreshold': 10},
-    'Linux': {'doubleThreshold': 120, 'triThreshold': 100},
-    'Android': {'doubleThreshold': 15, 'triThreshold': 10},
-    'HealthApp': {'doubleThreshold': 15, 'triThreshold': 10},
-    'Apache': {'doubleThreshold': 15, 'triThreshold': 10},
-    'Proxifier': {'doubleThreshold': 500, 'triThreshold': 470},
-    'OpenSSH': {'doubleThreshold': 88, 'triThreshold': 81},
-    'OpenStack': {'doubleThreshold': 30, 'triThreshold': 25},
-    'Mac': {'doubleThreshold': 2, 'triThreshold': 2},
-    "Audit": {'doubleThreshold': 15, 'triThreshold': 10},
-}
-
-AEL_settings = {
-    'HDFS': {'minEventCount': 2, 'merge_percent': 0.5},
-    'Hadoop': {'minEventCount': 2, 'merge_percent': 0.4},
-    'Spark': {'minEventCount': 2, 'merge_percent': 0.4},
-    'Zookeeper': {'minEventCount': 2, 'merge_percent': 0.4},
-    'BGL': {'minEventCount': 2, 'merge_percent': 0.5},
-    'HPC': {'minEventCount': 5, 'merge_percent': 0.4},
-    'Thunderbird': {'minEventCount': 2, 'merge_percent': 0.4},
-    'Windows': {'minEventCount': 2, 'merge_percent': 0.4},
-    'Linux': {'minEventCount': 2, 'merge_percent': 0.6},
-    'Android': {'minEventCount': 2, 'merge_percent': 0.6},
-    'HealthApp': {'minEventCount': 2, 'merge_percent': 0.6},
-    'Apache': {'minEventCount': 2, 'merge_percent': 0.4},
-    'Proxifier': {'minEventCount': 2, 'merge_percent': 0.4},
-    'OpenSSH': {'minEventCount': 10, 'merge_percent': 0.7},
-    'OpenStack': {'minEventCount': 6, 'merge_percent': 0.5},
-    'Mac': {'minEventCount': 2, 'merge_percent': 0.6},
-    "Audit": {'minEventCount': 2, 'merge_percent': 0.4},
-}
-
-SPELL_settings = {
-    'HDFS': {'tau': 0.7},
-    'Hadoop': {'tau': 0.7},
-    'Spark': {'tau': 0.55},
-    'Zookeeper': {'tau': 0.7},
-    'BGL': {'tau': 0.75},
-    'HPC': {'tau': 0.65},
-    'Thunderbird': {'tau': 0.5},
-    'Windows': {'tau': 0.7},
-    'Linux': {'tau': 0.55},
-    'Android': {'tau': 0.95},
-    'HealthApp': {'tau': 0.5},
-    'Apache': {'tau': 0.6},
-    'Proxifier': {'tau': 0.85},
-    'OpenSSH': {'tau': 0.8},
-    'OpenStack': {'tau': 0.9},
-    'Mac': {'tau': 0.6},
-    "Audit": {'tau': 0.7},
 }
 
 # for key, value in logram_settings.items():

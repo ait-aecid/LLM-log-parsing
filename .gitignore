@@ -5,8 +5,7 @@ __pycache__/
 ssh_info.txt
 data/full/*
 aminer_templates/templates.ipynb
+aminer_templates/logs_to_df.ipynb
 output/*
 output-full/*
 old/*
-!output/README.md
-!output-full/README.md

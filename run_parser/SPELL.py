@@ -1,5 +1,4 @@
 from utils.parser_utils import *
-from utils.settings import SPELL_settings
 
 def parse(in_dir, out_dir, settings, dataset="Audit", dataset_type="2k", model="gpt-3.5-turbo", log_format=True, n_candidates=4, run=None, corrected_LH=None):
     if log_format:
@@ -13,7 +12,7 @@ def parse(in_dir, out_dir, settings, dataset="Audit", dataset_type="2k", model="
 
     setting = settings[dataset]
     log_format = dataset_format
-    tau = SPELL_settings[dataset]["tau"]
+    tau = settings["SPELL_settings"][dataset]["tau"]
     regex = setting["regex"]
     time_start = time.time()
     parser = LogParser(indir=os.path.join(in_dir, dataset), outdir=out_dir, log_format=log_format, tau=tau, rex=regex)
