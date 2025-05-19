@@ -1,5 +1,5 @@
 # LLMs_for_log_parsing
-This is the replication repository for **https://arxiv.org/abs/2504.04877** (arXiv). 29 papers concerning LLM-based log parsing were reviewed, seven of them were used for the benchmark. The systematic overview can be found in the excel sheet [categories_clean.xlsx](./documentation/categories.xlsx).
+This is the replication repository for **https://arxiv.org/abs/2504.04877** (arXiv). 29 papers concerning LLM-based log parsing were reviewed, seven of them were used for the benchmark. The systematic overview can be found in the excel sheet [categories_clean.xlsx](./documentation/categories_clean.xlsx).
 
 <img src="./documentation/LLM-based log parsing.png" width="700">
 
